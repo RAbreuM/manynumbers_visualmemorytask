@@ -1,0 +1,668 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,DOG,狗,16,0.43
+2023-09-04,Cantonese,produces,DOG,狗,17,0.51
+2023-09-04,Cantonese,produces,DOG,狗,18,0.75
+2023-09-04,Cantonese,produces,DOG,狗,19,0.68
+2023-09-04,Cantonese,produces,DOG,狗,20,0.77
+2023-09-04,Cantonese,produces,DOG,狗,21,0.79
+2023-09-04,Cantonese,produces,DOG,狗,22,0.78
+2023-09-04,Cantonese,produces,DOG,狗,23,0.78
+2023-09-04,Cantonese,produces,DOG,狗,24,0.9
+2023-09-04,Cantonese,produces,DOG,狗,25,0.91
+2023-09-04,Cantonese,produces,DOG,狗,26,0.9
+2023-09-04,Cantonese,produces,DOG,狗,27,0.94
+2023-09-04,Cantonese,produces,DOG,狗,28,0.98
+2023-09-04,Cantonese,produces,DOG,狗,29,0.97
+2023-09-04,Cantonese,produces,DOG,狗,30,0.97
+2023-09-04,Croatian,produces,DOG,pas,8,0
+2023-09-04,Croatian,produces,DOG,pas,9,0
+2023-09-04,Croatian,produces,DOG,pas,10,0.05
+2023-09-04,Croatian,produces,DOG,pas,11,0
+2023-09-04,Croatian,produces,DOG,pas,12,0.06
+2023-09-04,Croatian,produces,DOG,pas,13,0.18
+2023-09-04,Croatian,produces,DOG,pas,14,0.25
+2023-09-04,Croatian,produces,DOG,pas,15,0.25
+2023-09-04,Croatian,produces,DOG,pas,16,0.51
+2023-09-04,Croatian,produces,DOG,pas,17,0.28
+2023-09-04,Croatian,produces,DOG,pas,18,0.45
+2023-09-04,Croatian,produces,DOG,pas,19,0.52
+2023-09-04,Croatian,produces,DOG,pas,20,0.69
+2023-09-04,Croatian,produces,DOG,pas,21,0.66
+2023-09-04,Croatian,produces,DOG,pas,22,0.75
+2023-09-04,Croatian,produces,DOG,pas,23,0.73
+2023-09-04,Croatian,produces,DOG,pas,24,0.9
+2023-09-04,Croatian,produces,DOG,pas,25,0.83
+2023-09-04,Croatian,produces,DOG,pas,26,0.97
+2023-09-04,Croatian,produces,DOG,pas,27,0.96
+2023-09-04,Croatian,produces,DOG,pas,28,0.95
+2023-09-04,Croatian,produces,DOG,pas,29,0.89
+2023-09-04,Croatian,produces,DOG,pas,30,0.96
+2023-09-04,Danish,produces,DOG,hund,8,0
+2023-09-04,Danish,produces,DOG,hund,9,0
+2023-09-04,Danish,produces,DOG,hund,10,0
+2023-09-04,Danish,produces,DOG,hund,11,0
+2023-09-04,Danish,produces,DOG,hund,12,0.03
+2023-09-04,Danish,produces,DOG,hund,13,0.06
+2023-09-04,Danish,produces,DOG,hund,14,0.07
+2023-09-04,Danish,produces,DOG,hund,15,0.12
+2023-09-04,Danish,produces,DOG,hund,16,0.18
+2023-09-04,Danish,produces,DOG,hund,17,0.27
+2023-09-04,Danish,produces,DOG,hund,18,0.34
+2023-09-04,Danish,produces,DOG,hund,19,0.45
+2023-09-04,Danish,produces,DOG,hund,20,0.59
+2023-09-04,Danish,produces,DOG,hund,21,0.64
+2023-09-04,Danish,produces,DOG,hund,22,0.72
+2023-09-04,Danish,produces,DOG,hund,23,0.79
+2023-09-04,Danish,produces,DOG,hund,24,0.88
+2023-09-04,Danish,produces,DOG,hund,25,0.87
+2023-09-04,Danish,produces,DOG,hund,26,0.94
+2023-09-04,Danish,produces,DOG,hund,27,0.96
+2023-09-04,Danish,produces,DOG,hund,28,0.96
+2023-09-04,Danish,produces,DOG,hund,29,0.96
+2023-09-04,Danish,produces,DOG,hund,30,0.98
+2023-09-04,Danish,produces,DOG,hund,31,0.98
+2023-09-04,Danish,produces,DOG,hund,32,1
+2023-09-04,Danish,produces,DOG,hund,33,0.99
+2023-09-04,Danish,produces,DOG,hund,34,0.99
+2023-09-04,Danish,produces,DOG,hund,35,0.99
+2023-09-04,Danish,produces,DOG,hund,36,1
+2023-09-04,English (American),produces,DOG,dog,8,0.04
+2023-09-04,English (American),produces,DOG,dog,9,0.03
+2023-09-04,English (American),produces,DOG,dog,10,0.08
+2023-09-04,English (American),produces,DOG,dog,11,0.15
+2023-09-04,English (American),produces,DOG,dog,12,0.2
+2023-09-04,English (American),produces,DOG,dog,13,0.3
+2023-09-04,English (American),produces,DOG,dog,14,0.35
+2023-09-04,English (American),produces,DOG,dog,15,0.51
+2023-09-04,English (American),produces,DOG,dog,16,0.63
+2023-09-04,English (American),produces,DOG,dog,17,0.61
+2023-09-04,English (American),produces,DOG,dog,18,0.72
+2023-09-04,English (American),produces,DOG,dog,19,0.77
+2023-09-04,English (American),produces,DOG,dog,20,0.81
+2023-09-04,English (American),produces,DOG,dog,21,0.82
+2023-09-04,English (American),produces,DOG,dog,22,0.83
+2023-09-04,English (American),produces,DOG,dog,23,0.85
+2023-09-04,English (American),produces,DOG,dog,24,0.9
+2023-09-04,English (American),produces,DOG,dog,25,0.93
+2023-09-04,English (American),produces,DOG,dog,26,0.93
+2023-09-04,English (American),produces,DOG,dog,27,0.94
+2023-09-04,English (American),produces,DOG,dog,28,0.98
+2023-09-04,English (American),produces,DOG,dog,29,0.95
+2023-09-04,English (American),produces,DOG,dog,30,0.94
+2023-09-04,French (Quebecois),produces,DOG,chien,8,0
+2023-09-04,French (Quebecois),produces,DOG,chien,9,0.02
+2023-09-04,French (Quebecois),produces,DOG,chien,10,0.05
+2023-09-04,French (Quebecois),produces,DOG,chien,11,0.02
+2023-09-04,French (Quebecois),produces,DOG,chien,12,0.04
+2023-09-04,French (Quebecois),produces,DOG,chien,13,0.06
+2023-09-04,French (Quebecois),produces,DOG,chien,14,0.13
+2023-09-04,French (Quebecois),produces,DOG,chien,15,0.22
+2023-09-04,French (Quebecois),produces,DOG,chien,16,0.31
+2023-09-04,French (Quebecois),produces,DOG,chien,17,0.4
+2023-09-04,French (Quebecois),produces,DOG,chien,18,0.52
+2023-09-04,French (Quebecois),produces,DOG,chien,19,0.57
+2023-09-04,French (Quebecois),produces,DOG,chien,20,0.67
+2023-09-04,French (Quebecois),produces,DOG,chien,21,0.78
+2023-09-04,French (Quebecois),produces,DOG,chien,22,0.82
+2023-09-04,French (Quebecois),produces,DOG,chien,23,0.85
+2023-09-04,French (Quebecois),produces,DOG,chien,24,0.88
+2023-09-04,French (Quebecois),produces,DOG,chien,25,0.87
+2023-09-04,French (Quebecois),produces,DOG,chien,26,0.91
+2023-09-04,French (Quebecois),produces,DOG,chien,27,0.98
+2023-09-04,French (Quebecois),produces,DOG,chien,28,1
+2023-09-04,French (Quebecois),produces,DOG,chien,29,0.98
+2023-09-04,French (Quebecois),produces,DOG,chien,30,0.96
+2023-09-04,German,produces,DOG,Hund,18,0.25
+2023-09-04,German,produces,DOG,Hund,19,0.35
+2023-09-04,German,produces,DOG,Hund,20,0.38
+2023-09-04,German,produces,DOG,Hund,21,0.49
+2023-09-04,German,produces,DOG,Hund,22,0.6
+2023-09-04,German,produces,DOG,Hund,23,0.78
+2023-09-04,German,produces,DOG,Hund,24,0.74
+2023-09-04,German,produces,DOG,Hund,25,0.79
+2023-09-04,German,produces,DOG,Hund,26,0.88
+2023-09-04,German,produces,DOG,Hund,27,0.84
+2023-09-04,German,produces,DOG,Hund,28,0.88
+2023-09-04,German,produces,DOG,Hund,29,0.93
+2023-09-04,German,produces,DOG,Hund,30,0.97
+2023-09-04,Hebrew,produces,DOG,כלב,11,0
+2023-09-04,Hebrew,produces,DOG,כלב,12,0
+2023-09-04,Hebrew,produces,DOG,כלב,13,0
+2023-09-04,Hebrew,produces,DOG,כלב,14,0
+2023-09-04,Hebrew,produces,DOG,כלב,15,0
+2023-09-04,Hebrew,produces,DOG,כלב,16,0.33
+2023-09-04,Hebrew,produces,DOG,כלב,17,0
+2023-09-04,Hebrew,produces,DOG,כלב,19,0.75
+2023-09-04,Hebrew,produces,DOG,כלב,20,0.56
+2023-09-04,Hebrew,produces,DOG,כלב,21,1
+2023-09-04,Hebrew,produces,DOG,כלב,22,1
+2023-09-04,Hebrew,produces,DOG,כלב,23,0.71
+2023-09-04,Hebrew,produces,DOG,כלב,24,0.91
+2023-09-04,Hebrew,produces,DOG,כלב,25,0.94
+2023-09-04,Hebrew,produces,DOG,כלב,26,0.99
+2023-09-04,Hebrew,produces,DOG,כלב,27,0.87
+2023-09-04,Hebrew,produces,DOG,כלב,28,0.95
+2023-09-04,Hebrew,produces,DOG,כלב,29,0.98
+2023-09-04,Hebrew,produces,DOG,כלב,30,0.89
+2023-09-04,Hebrew,produces,DOG,כלב,31,0.94
+2023-09-04,Hebrew,produces,DOG,כלב,32,1
+2023-09-04,Hebrew,produces,DOG,כלב,33,0.9
+2023-09-04,Hebrew,produces,DOG,כלב,34,1
+2023-09-04,Hebrew,produces,DOG,כלב,35,0.89
+2023-09-04,Hebrew,produces,DOG,כלב,36,1
+2023-09-04,Italian,produces,DOG,cane,7,0
+2023-09-04,Italian,produces,DOG,cane,8,0
+2023-09-04,Italian,produces,DOG,cane,9,0.03
+2023-09-04,Italian,produces,DOG,cane,10,0.04
+2023-09-04,Italian,produces,DOG,cane,11,0.07
+2023-09-04,Italian,produces,DOG,cane,12,0.07
+2023-09-04,Italian,produces,DOG,cane,13,0.1
+2023-09-04,Italian,produces,DOG,cane,14,0.07
+2023-09-04,Italian,produces,DOG,cane,15,0.1
+2023-09-04,Italian,produces,DOG,cane,16,0.07
+2023-09-04,Italian,produces,DOG,cane,17,0.35
+2023-09-04,Italian,produces,DOG,cane,18,0.28
+2023-09-04,Italian,produces,DOG,cane,19,0.36
+2023-09-04,Italian,produces,DOG,cane,20,0.46
+2023-09-04,Italian,produces,DOG,cane,21,0.66
+2023-09-04,Italian,produces,DOG,cane,22,0.7
+2023-09-04,Italian,produces,DOG,cane,23,0.77
+2023-09-04,Italian,produces,DOG,cane,24,0.84
+2023-09-04,Italian,produces,DOG,cane,25,0.9
+2023-09-04,Italian,produces,DOG,cane,26,0.95
+2023-09-04,Italian,produces,DOG,cane,27,0.93
+2023-09-04,Italian,produces,DOG,cane,28,0.95
+2023-09-04,Italian,produces,DOG,cane,29,0.95
+2023-09-04,Italian,produces,DOG,cane,30,0.96
+2023-09-04,Italian,produces,DOG,cane,31,1
+2023-09-04,Italian,produces,DOG,cane,32,1
+2023-09-04,Italian,produces,DOG,cane,33,1
+2023-09-04,Italian,produces,DOG,cane,34,1
+2023-09-04,Italian,produces,DOG,cane,35,1
+2023-09-04,Italian,produces,DOG,cane,36,1
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,12,0.04
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,13,0.16
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,14,0.1
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,15,0.26
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,16,0.33
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,17,0.52
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,18,0.57
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,19,0.62
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,20,0.77
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,21,0.82
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,22,0.9
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,23,0.92
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,24,0.86
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,25,0.93
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,26,0.92
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,27,0.96
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,28,0.96
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,29,0.97
+2023-09-04,Mandarin (Beijing),produces,DOG,狗,30,0.98
+2023-09-04,Norwegian,produces,DOG,hund,8,0.03
+2023-09-04,Norwegian,produces,DOG,hund,9,0.01
+2023-09-04,Norwegian,produces,DOG,hund,10,0.01
+2023-09-04,Norwegian,produces,DOG,hund,11,0.02
+2023-09-04,Norwegian,produces,DOG,hund,12,0.03
+2023-09-04,Norwegian,produces,DOG,hund,13,0.09
+2023-09-04,Norwegian,produces,DOG,hund,14,0.07
+2023-09-04,Norwegian,produces,DOG,hund,15,0.14
+2023-09-04,Norwegian,produces,DOG,hund,16,0.2
+2023-09-04,Norwegian,produces,DOG,hund,17,0.22
+2023-09-04,Norwegian,produces,DOG,hund,18,0.36
+2023-09-04,Norwegian,produces,DOG,hund,19,0.41
+2023-09-04,Norwegian,produces,DOG,hund,20,0.51
+2023-09-04,Norwegian,produces,DOG,hund,21,0.56
+2023-09-04,Norwegian,produces,DOG,hund,22,0.64
+2023-09-04,Norwegian,produces,DOG,hund,23,0.71
+2023-09-04,Norwegian,produces,DOG,hund,24,0.73
+2023-09-04,Norwegian,produces,DOG,hund,25,0.79
+2023-09-04,Norwegian,produces,DOG,hund,26,0.85
+2023-09-04,Norwegian,produces,DOG,hund,27,0.88
+2023-09-04,Norwegian,produces,DOG,hund,28,0.89
+2023-09-04,Norwegian,produces,DOG,hund,29,0.91
+2023-09-04,Norwegian,produces,DOG,hund,30,0.92
+2023-09-04,Norwegian,produces,DOG,hund,31,0.94
+2023-09-04,Norwegian,produces,DOG,hund,32,0.94
+2023-09-04,Norwegian,produces,DOG,hund,33,0.96
+2023-09-04,Norwegian,produces,DOG,hund,34,0.96
+2023-09-04,Norwegian,produces,DOG,hund,35,0.98
+2023-09-04,Norwegian,produces,DOG,hund,36,0.98
+2023-09-04,Russian,produces,DOG,собака,8,0
+2023-09-04,Russian,produces,DOG,собака,9,0.05
+2023-09-04,Russian,produces,DOG,собака,10,0.02
+2023-09-04,Russian,produces,DOG,собака,11,0.04
+2023-09-04,Russian,produces,DOG,собака,12,0.04
+2023-09-04,Russian,produces,DOG,собака,13,0.1
+2023-09-04,Russian,produces,DOG,собака,14,0.13
+2023-09-04,Russian,produces,DOG,собака,15,0.07
+2023-09-04,Russian,produces,DOG,собака,16,0.2
+2023-09-04,Russian,produces,DOG,собака,17,0.25
+2023-09-04,Russian,produces,DOG,собака,18,0.22
+2023-09-04,Russian,produces,DOG,собака,19,0.22
+2023-09-04,Russian,produces,DOG,собака,20,0.36
+2023-09-04,Russian,produces,DOG,собака,21,0.42
+2023-09-04,Russian,produces,DOG,собака,22,0.53
+2023-09-04,Russian,produces,DOG,собака,23,0.59
+2023-09-04,Russian,produces,DOG,собака,24,0.64
+2023-09-04,Russian,produces,DOG,собака,25,0.61
+2023-09-04,Russian,produces,DOG,собака,26,0.71
+2023-09-04,Russian,produces,DOG,собака,27,0.7
+2023-09-04,Russian,produces,DOG,собака,28,0.72
+2023-09-04,Russian,produces,DOG,собака,29,0.79
+2023-09-04,Russian,produces,DOG,собака,30,0.75
+2023-09-04,Russian,produces,DOG,собака,31,0.8
+2023-09-04,Russian,produces,DOG,собака,32,0.84
+2023-09-04,Russian,produces,DOG,собака,33,0.84
+2023-09-04,Russian,produces,DOG,собака,34,0.86
+2023-09-04,Russian,produces,DOG,собака,35,0.85
+2023-09-04,Russian,produces,DOG,собака,36,0.88
+2023-09-04,Slovak,produces,DOG,pes/havo,8,0.04
+2023-09-04,Slovak,produces,DOG,pes/havo,9,0.19
+2023-09-04,Slovak,produces,DOG,pes/havo,10,0.16
+2023-09-04,Slovak,produces,DOG,pes/havo,11,0.34
+2023-09-04,Slovak,produces,DOG,pes/havo,12,0.49
+2023-09-04,Slovak,produces,DOG,pes/havo,13,0.64
+2023-09-04,Slovak,produces,DOG,pes/havo,14,0.64
+2023-09-04,Slovak,produces,DOG,pes/havo,15,0.77
+2023-09-04,Slovak,produces,DOG,pes/havo,16,0.84
+2023-09-04,Slovak,produces,DOG,pes / havo,17,0.76
+2023-09-04,Slovak,produces,DOG,pes / havo,18,0.97
+2023-09-04,Slovak,produces,DOG,pes / havo,19,0.88
+2023-09-04,Slovak,produces,DOG,pes / havo,20,0.95
+2023-09-04,Slovak,produces,DOG,pes / havo,21,0.9
+2023-09-04,Slovak,produces,DOG,pes / havo,22,0.89
+2023-09-04,Slovak,produces,DOG,pes / havo,23,0.9
+2023-09-04,Slovak,produces,DOG,pes / havo,24,0.98
+2023-09-04,Slovak,produces,DOG,pes / havo,25,0.93
+2023-09-04,Slovak,produces,DOG,pes / havo,26,0.92
+2023-09-04,Slovak,produces,DOG,pes / havo,27,0.95
+2023-09-04,Slovak,produces,DOG,pes / havo,28,0.93
+2023-09-04,Slovak,produces,DOG,pes / havo,29,0.95
+2023-09-04,Slovak,produces,DOG,pes / havo,30,0.94
+2023-09-04,Slovak,produces,DOG,pes / havo,31,0.97
+2023-09-04,Slovak,produces,DOG,pes / havo,32,1
+2023-09-04,Slovak,produces,DOG,pes / havo,33,1
+2023-09-04,Slovak,produces,DOG,pes / havo,34,0.93
+2023-09-04,Slovak,produces,DOG,pes / havo,35,0.89
+2023-09-04,Slovak,produces,DOG,pes / havo,36,1
+2023-09-04,Spanish (Mexican),produces,DOG,perro,8,0.05
+2023-09-04,Spanish (Mexican),produces,DOG,perro,9,0.02
+2023-09-04,Spanish (Mexican),produces,DOG,perro,10,0.1
+2023-09-04,Spanish (Mexican),produces,DOG,perro,11,0.1
+2023-09-04,Spanish (Mexican),produces,DOG,perro,12,0.17
+2023-09-04,Spanish (Mexican),produces,DOG,perro,13,0.24
+2023-09-04,Spanish (Mexican),produces,DOG,perro,14,0.26
+2023-09-04,Spanish (Mexican),produces,DOG,perro,15,0.36
+2023-09-04,Spanish (Mexican),produces,DOG,perro,16,0.45
+2023-09-04,Spanish (Mexican),produces,DOG,perro,17,0.53
+2023-09-04,Spanish (Mexican),produces,DOG,perro,18,0.48
+2023-09-04,Spanish (Mexican),produces,DOG,perro,19,0.63
+2023-09-04,Spanish (Mexican),produces,DOG,perro,20,0.69
+2023-09-04,Spanish (Mexican),produces,DOG,perro,21,0.69
+2023-09-04,Spanish (Mexican),produces,DOG,perro,22,0.66
+2023-09-04,Spanish (Mexican),produces,DOG,perro,23,0.69
+2023-09-04,Spanish (Mexican),produces,DOG,perro,24,0.82
+2023-09-04,Spanish (Mexican),produces,DOG,perro,25,0.78
+2023-09-04,Spanish (Mexican),produces,DOG,perro,26,0.77
+2023-09-04,Spanish (Mexican),produces,DOG,perro,27,0.87
+2023-09-04,Spanish (Mexican),produces,DOG,perro,28,0.85
+2023-09-04,Spanish (Mexican),produces,DOG,perro,29,0.83
+2023-09-04,Spanish (Mexican),produces,DOG,perro,30,0.77
+2023-09-04,Swedish,produces,DOG,hund,8,0
+2023-09-04,Swedish,produces,DOG,hund,9,0
+2023-09-04,Swedish,produces,DOG,hund,10,0
+2023-09-04,Swedish,produces,DOG,hund,11,0
+2023-09-04,Swedish,produces,DOG,hund,12,0.09
+2023-09-04,Swedish,produces,DOG,hund,13,0.14
+2023-09-04,Swedish,produces,DOG,hund,14,0.21
+2023-09-04,Swedish,produces,DOG,hund,15,0.38
+2023-09-04,Swedish,produces,DOG,"hund, vovve",16,0.31
+2023-09-04,Swedish,produces,DOG,"hund, vovve",19,0.48
+2023-09-04,Swedish,produces,DOG,"hund, vovve",22,0.69
+2023-09-04,Swedish,produces,DOG,"hund, vovve",25,0.81
+2023-09-04,Swedish,produces,DOG,"hund, vovve",28,0.89
+2023-09-04,Turkish,produces,DOG,Köpek,8,0.01
+2023-09-04,Turkish,produces,DOG,Köpek,9,0
+2023-09-04,Turkish,produces,DOG,Köpek,10,0.01
+2023-09-04,Turkish,produces,DOG,Köpek,11,0.01
+2023-09-04,Turkish,produces,DOG,Köpek,12,0.03
+2023-09-04,Turkish,produces,DOG,Köpek,13,0.08
+2023-09-04,Turkish,produces,DOG,Köpek,14,0.13
+2023-09-04,Turkish,produces,DOG,Köpek,15,0.11
+2023-09-04,Turkish,produces,DOG,Köpek,16,0.18
+2023-09-04,Turkish,produces,DOG,Köpek,17,0.3
+2023-09-04,Turkish,produces,DOG,Köpek,18,0.33
+2023-09-04,Turkish,produces,DOG,Köpek,19,0.41
+2023-09-04,Turkish,produces,DOG,Köpek,20,0.46
+2023-09-04,Turkish,produces,DOG,Köpek,21,0.55
+2023-09-04,Turkish,produces,DOG,Köpek,22,0.52
+2023-09-04,Turkish,produces,DOG,Köpek,23,0.63
+2023-09-04,Turkish,produces,DOG,Köpek,24,0.71
+2023-09-04,Turkish,produces,DOG,Köpek,25,0.7
+2023-09-04,Turkish,produces,DOG,Köpek,26,0.76
+2023-09-04,Turkish,produces,DOG,Köpek,27,0.83
+2023-09-04,Turkish,produces,DOG,Köpek,28,0.86
+2023-09-04,Turkish,produces,DOG,Köpek,29,0.88
+2023-09-04,Turkish,produces,DOG,Köpek,30,0.93
+2023-09-04,Turkish,produces,DOG,Köpek,31,0.87
+2023-09-04,Turkish,produces,DOG,Köpek,32,0.89
+2023-09-04,Turkish,produces,DOG,Köpek,33,0.94
+2023-09-04,Turkish,produces,DOG,Köpek,34,0.88
+2023-09-04,Turkish,produces,DOG,Köpek,35,0.93
+2023-09-04,Turkish,produces,DOG,Köpek,36,0.97
+2023-09-04,English (British),produces,DOG,dog,12,0.22
+2023-09-04,English (British),produces,DOG,dog,13,0.29
+2023-09-04,English (British),produces,DOG,dog,14,0.23
+2023-09-04,English (British),produces,DOG,dog,15,0.28
+2023-09-04,English (British),produces,DOG,dog,16,0.37
+2023-09-04,English (British),produces,DOG,dog,17,0.48
+2023-09-04,English (British),produces,DOG,dog,18,0.52
+2023-09-04,English (British),produces,DOG,dog,19,0.68
+2023-09-04,English (British),produces,DOG,dog,20,0.77
+2023-09-04,English (British),produces,DOG,dog,21,0.83
+2023-09-04,English (British),produces,DOG,dog,22,0.86
+2023-09-04,English (British),produces,DOG,dog,23,0.86
+2023-09-04,English (British),produces,DOG,dog,24,0.87
+2023-09-04,English (British),produces,DOG,dog,25,0.89
+2023-09-04,English (British),produces,DOG,dog,26,0.91
+2023-09-04,English (British),produces,DOG,dog,27,0.85
+2023-09-04,English (British),produces,DOG,dog,28,0.88
+2023-09-04,English (British),produces,DOG,dog,29,0.86
+2023-09-04,English (British),produces,DOG,dog,30,1
+2023-09-04,English (British),produces,DOG,dog,31,1
+2023-09-04,English (British),produces,DOG,dog,32,0.96
+2023-09-04,English (British),produces,DOG,dog,33,0.93
+2023-09-04,English (British),produces,DOG,dog,34,0.8
+2023-09-04,English (British),produces,DOG,dog,35,0.8
+2023-09-04,Kigiriama,produces,DOG,Kuro,8,0
+2023-09-04,Kigiriama,produces,DOG,Kuro,9,0
+2023-09-04,Kigiriama,produces,DOG,Kuro,10,0
+2023-09-04,Kigiriama,produces,DOG,Kuro,11,0
+2023-09-04,Kigiriama,produces,DOG,Kuro,12,0
+2023-09-04,Kigiriama,produces,DOG,Kuro,13,0.06
+2023-09-04,Kigiriama,produces,DOG,Kuro,14,0
+2023-09-04,Kigiriama,produces,DOG,Kuro,15,0.12
+2023-09-04,Kigiriama,produces,DOG,Kuro,16,0
+2023-09-04,Kigiriama,produces,DOG,Kuro,17,0.33
+2023-09-04,Kigiriama,produces,DOG,Kuro,18,0.31
+2023-09-04,Kigiriama,produces,DOG,Kuro,19,0.5
+2023-09-04,Kigiriama,produces,DOG,Kuro,20,0.79
+2023-09-04,Kigiriama,produces,DOG,Kuro,21,0.5
+2023-09-04,Kigiriama,produces,DOG,Kuro,22,0.89
+2023-09-04,Kigiriama,produces,DOG,Kuro,23,0.75
+2023-09-04,Kigiriama,produces,DOG,Kuro,24,0.86
+2023-09-04,Kigiriama,produces,DOG,Kuro,25,1
+2023-09-04,Kigiriama,produces,DOG,Kuro,26,1
+2023-09-04,Kigiriama,produces,DOG,Kuro,27,1
+2023-09-04,Kigiriama,produces,DOG,Kuro,28,0
+2023-09-04,Kigiriama,produces,DOG,Kuro,29,0.8
+2023-09-04,Kigiriama,produces,DOG,Kuro,30,1
+2023-09-04,Czech,produces,DOG,pes,16,0.14
+2023-09-04,Czech,produces,DOG,pes,17,0.31
+2023-09-04,Czech,produces,DOG,pes,18,0.29
+2023-09-04,Czech,produces,DOG,pes,19,0.37
+2023-09-04,Czech,produces,DOG,pes,20,0.62
+2023-09-04,Czech,produces,DOG,pes,21,0.47
+2023-09-04,Czech,produces,DOG,pes,22,0.64
+2023-09-04,Czech,produces,DOG,pes,23,0.59
+2023-09-04,Czech,produces,DOG,pes,24,0.54
+2023-09-04,Czech,produces,DOG,pes,25,0.71
+2023-09-04,Czech,produces,DOG,pes,26,0.86
+2023-09-04,Czech,produces,DOG,pes,27,0.81
+2023-09-04,Czech,produces,DOG,pes,28,1
+2023-09-04,Czech,produces,DOG,pes,29,0.9
+2023-09-04,Czech,produces,DOG,pes,30,0.89
+2023-09-04,English (Australian),produces,DOG,dog,12,0.07
+2023-09-04,English (Australian),produces,DOG,dog,13,0.23
+2023-09-04,English (Australian),produces,DOG,dog,14,0.38
+2023-09-04,English (Australian),produces,DOG,dog,15,0.39
+2023-09-04,English (Australian),produces,DOG,dog,16,0.45
+2023-09-04,English (Australian),produces,DOG,dog,17,0.53
+2023-09-04,English (Australian),produces,DOG,dog,18,0.51
+2023-09-04,English (Australian),produces,DOG,dog,19,0.7
+2023-09-04,English (Australian),produces,DOG,dog,20,0.83
+2023-09-04,English (Australian),produces,DOG,dog,21,0.82
+2023-09-04,English (Australian),produces,DOG,dog,22,0.89
+2023-09-04,English (Australian),produces,DOG,dog,23,0.89
+2023-09-04,English (Australian),produces,DOG,dog,24,0.86
+2023-09-04,English (Australian),produces,DOG,dog,25,0.92
+2023-09-04,English (Australian),produces,DOG,dog,26,0.87
+2023-09-04,English (Australian),produces,DOG,dog,27,0.96
+2023-09-04,English (Australian),produces,DOG,dog,28,0.97
+2023-09-04,English (Australian),produces,DOG,dog,29,0.92
+2023-09-04,English (Australian),produces,DOG,dog,30,0.98
+2023-09-04,Latvian,produces,DOG,suns,8,0
+2023-09-04,Latvian,produces,DOG,suns,9,0
+2023-09-04,Latvian,produces,DOG,suns,10,0.04
+2023-09-04,Latvian,produces,DOG,suns,11,0.13
+2023-09-04,Latvian,produces,DOG,suns,12,0.19
+2023-09-04,Latvian,produces,DOG,suns,13,0.18
+2023-09-04,Latvian,produces,DOG,suns,14,0.44
+2023-09-04,Latvian,produces,DOG,suns,15,0.38
+2023-09-04,Latvian,produces,DOG,suns,16,0.5
+2023-09-04,Latvian,produces,DOG,suns,17,0.41
+2023-09-04,Latvian,produces,DOG,suns,18,0.43
+2023-09-04,Latvian,produces,DOG,suns,19,0.46
+2023-09-04,Latvian,produces,DOG,suns,20,0.71
+2023-09-04,Latvian,produces,DOG,suns,21,0.77
+2023-09-04,Latvian,produces,DOG,suns,22,0.62
+2023-09-04,Latvian,produces,DOG,suns,23,0.68
+2023-09-04,Latvian,produces,DOG,suns,24,0.67
+2023-09-04,Latvian,produces,DOG,suns,25,0.86
+2023-09-04,Latvian,produces,DOG,suns,26,0.86
+2023-09-04,Latvian,produces,DOG,suns,27,0.78
+2023-09-04,Latvian,produces,DOG,suns,28,0.87
+2023-09-04,Latvian,produces,DOG,suns,29,0.96
+2023-09-04,Latvian,produces,DOG,suns,30,0.88
+2023-09-04,Latvian,produces,DOG,suns,31,0.84
+2023-09-04,Latvian,produces,DOG,suns,32,0.8
+2023-09-04,Latvian,produces,DOG,suns,33,0.97
+2023-09-04,Latvian,produces,DOG,suns,34,0.88
+2023-09-04,Latvian,produces,DOG,suns,35,0.86
+2023-09-04,Latvian,produces,DOG,suns,36,0.91
+2023-09-04,Korean,produces,DOG,개/멍멍이,8,0
+2023-09-04,Korean,produces,DOG,개/멍멍이,9,0
+2023-09-04,Korean,produces,DOG,개/멍멍이,10,0.05
+2023-09-04,Korean,produces,DOG,개/멍멍이,11,0.11
+2023-09-04,Korean,produces,DOG,개/멍멍이,12,0.25
+2023-09-04,Korean,produces,DOG,개/멍멍이,13,0.25
+2023-09-04,Korean,produces,DOG,개/멍멍이,14,0.43
+2023-09-04,Korean,produces,DOG,개/멍멍이,15,0.49
+2023-09-04,Korean,produces,DOG,개/멍멍이,16,0.52
+2023-09-04,Korean,produces,DOG,개/멍멍이,17,0.56
+2023-09-04,Korean,produces,DOG,개,18,0.42
+2023-09-04,Korean,produces,DOG,개,19,0.34
+2023-09-04,Korean,produces,DOG,개,20,0.43
+2023-09-04,Korean,produces,DOG,개,21,0.57
+2023-09-04,Korean,produces,DOG,개,22,0.59
+2023-09-04,Korean,produces,DOG,개,23,0.6
+2023-09-04,Korean,produces,DOG,개,24,0.7
+2023-09-04,Korean,produces,DOG,개,25,0.74
+2023-09-04,Korean,produces,DOG,개,26,0.77
+2023-09-04,Korean,produces,DOG,개,27,0.73
+2023-09-04,Korean,produces,DOG,개,28,0.82
+2023-09-04,Korean,produces,DOG,개,29,0.84
+2023-09-04,Korean,produces,DOG,개,30,0.89
+2023-09-04,Korean,produces,DOG,개,31,0.93
+2023-09-04,Korean,produces,DOG,개,32,0.88
+2023-09-04,Korean,produces,DOG,개,33,0.92
+2023-09-04,Korean,produces,DOG,개,34,0.91
+2023-09-04,Korean,produces,DOG,개,35,0.88
+2023-09-04,Korean,produces,DOG,개,36,0.96
+2023-09-04,French (French),produces,DOG,chien,8,0
+2023-09-04,French (French),produces,DOG,chien,9,0
+2023-09-04,French (French),produces,DOG,chien,11,0.04
+2023-09-04,French (French),produces,DOG,chien,12,0.04
+2023-09-04,French (French),produces,DOG,chien,13,0.02
+2023-09-04,French (French),produces,DOG,chien,14,0.04
+2023-09-04,French (French),produces,DOG,chien,15,0
+2023-09-04,French (French),produces,DOG,chien,16,0.17
+2023-09-04,French (French),produces,DOG,chien,17,0.35
+2023-09-04,French (French),produces,DOG,chien,18,0
+2023-09-04,French (French),produces,DOG,chien,19,0.91
+2023-09-04,French (French),produces,DOG,chien,20,0.5
+2023-09-04,French (French),produces,DOG,chien,21,0.71
+2023-09-04,French (French),produces,DOG,chien,22,0.78
+2023-09-04,French (French),produces,DOG,chien,23,0.75
+2023-09-04,French (French),produces,DOG,chien,24,0.8
+2023-09-04,French (French),produces,DOG,chien,25,0.95
+2023-09-04,French (French),produces,DOG,chien,26,0.91
+2023-09-04,French (French),produces,DOG,chien,27,0.88
+2023-09-04,French (French),produces,DOG,chien,28,1
+2023-09-04,French (French),produces,DOG,chien,29,0.97
+2023-09-04,French (French),produces,DOG,chien,30,1
+2023-09-04,Spanish (European),produces,DOG,perro,8,0
+2023-09-04,Spanish (European),produces,DOG,perro,9,0.02
+2023-09-04,Spanish (European),produces,DOG,perro,10,0
+2023-09-04,Spanish (European),produces,DOG,perro,11,0.03
+2023-09-04,Spanish (European),produces,DOG,perro,12,0.06
+2023-09-04,Spanish (European),produces,DOG,perro,13,0.16
+2023-09-04,Spanish (European),produces,DOG,perro,14,0.24
+2023-09-04,Spanish (European),produces,DOG,perro,15,0.34
+2023-09-04,Spanish (European),produces,DOG,perro,16,0.21
+2023-09-04,Spanish (European),produces,DOG,perro,17,0.21
+2023-09-04,Spanish (European),produces,DOG,perro,18,0.38
+2023-09-04,Spanish (European),produces,DOG,perro,19,0.41
+2023-09-04,Spanish (European),produces,DOG,perro,20,0.39
+2023-09-04,Spanish (European),produces,DOG,perro,21,0.63
+2023-09-04,Spanish (European),produces,DOG,perro,22,0.55
+2023-09-04,Spanish (European),produces,DOG,perro,23,0.77
+2023-09-04,Spanish (European),produces,DOG,perro,24,0.76
+2023-09-04,Spanish (European),produces,DOG,perro,25,0.74
+2023-09-04,Spanish (European),produces,DOG,perro,26,0.88
+2023-09-04,Spanish (European),produces,DOG,perro,27,0.97
+2023-09-04,Spanish (European),produces,DOG,perro,28,0.95
+2023-09-04,Spanish (European),produces,DOG,perro,29,0.95
+2023-09-04,Spanish (European),produces,DOG,perro,30,0.95
+2023-09-04,Portuguese (European),produces,DOG,Cão,8,0
+2023-09-04,Portuguese (European),produces,DOG,Cão,9,0
+2023-09-04,Portuguese (European),produces,DOG,Cão,10,0.02
+2023-09-04,Portuguese (European),produces,DOG,Cão,11,0.06
+2023-09-04,Portuguese (European),produces,DOG,Cão,12,0.14
+2023-09-04,Portuguese (European),produces,DOG,Cão,13,0.17
+2023-09-04,Portuguese (European),produces,DOG,Cão,14,0.19
+2023-09-04,Portuguese (European),produces,DOG,Cão,15,0.27
+2023-09-04,Portuguese (European),produces,DOG,Cão,16,0.5
+2023-09-04,Portuguese (European),produces,DOG,Cão,17,0.51
+2023-09-04,Portuguese (European),produces,DOG,Cão,18,0.65
+2023-09-04,Portuguese (European),produces,DOG,Cão,19,0.7
+2023-09-04,Portuguese (European),produces,DOG,Cão,20,0.85
+2023-09-04,Portuguese (European),produces,DOG,Cão,21,0.8
+2023-09-04,Portuguese (European),produces,DOG,Cão,22,0.88
+2023-09-04,Portuguese (European),produces,DOG,Cão,23,0.91
+2023-09-04,Portuguese (European),produces,DOG,Cão,24,0.92
+2023-09-04,Portuguese (European),produces,DOG,Cão,25,0.94
+2023-09-04,Portuguese (European),produces,DOG,Cão,26,0.94
+2023-09-04,Portuguese (European),produces,DOG,Cão,27,0.97
+2023-09-04,Portuguese (European),produces,DOG,Cão,28,0.98
+2023-09-04,Portuguese (European),produces,DOG,Cão,29,0.98
+2023-09-04,Portuguese (European),produces,DOG,Cão,30,0.96
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),8,0
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),9,0
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),10,0.01
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),11,0.09
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),12,0.07
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),13,0.18
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),14,0.37
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),15,0.39
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),16,0.53
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),17,0.68
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),18,0.74
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),19,0.89
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),20,0.89
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),21,0.95
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),22,0.94
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),23,0.93
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),24,0.97
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),25,0.96
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),26,0.98
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),27,0.95
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),28,0.99
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),29,0.98
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),30,0.98
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),31,0.99
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),32,1
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),33,1
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),34,0.99
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),35,1
+2023-09-04,Mandarin (Taiwanese),produces,DOG,小狗(汪汪),36,1
+2023-09-04,Dutch,produces,DOG,hond(je),8,0
+2023-09-04,Dutch,produces,DOG,hond(je),9,0
+2023-09-04,Dutch,produces,DOG,hond(je),10,0.01
+2023-09-04,Dutch,produces,DOG,hond(je),11,0.02
+2023-09-04,Dutch,produces,DOG,hond(je),12,0
+2023-09-04,Dutch,produces,DOG,hond(je),13,0
+2023-09-04,Dutch,produces,DOG,hond(je),14,0.06
+2023-09-04,Dutch,produces,DOG,"hond, hond(je)",15,0.14
+2023-09-04,Dutch,produces,DOG,"hond, hond(je)",16,0.11
+2023-09-04,Dutch,produces,DOG,"hond, hond(je)",17,0.32
+2023-09-04,Dutch,produces,DOG,"hond, hond(je)",18,0.22
+2023-09-04,Dutch,produces,DOG,"hond, hond(je)",19,0.25
+2023-09-04,Dutch,produces,DOG,"hond, hond(je)",20,0.44
+2023-09-04,Dutch,produces,DOG,"hond, hond(je)",21,0.36
+2023-09-04,Dutch,produces,DOG,hond(je),22,0.71
+2023-09-04,Dutch,produces,DOG,hond(je),23,0.94
+2023-09-04,Dutch,produces,DOG,hond(je),24,0.9
+2023-09-04,Dutch,produces,DOG,hond(je),25,0.95
+2023-09-04,Dutch,produces,DOG,hond(je),26,0.57
+2023-09-04,Dutch,produces,DOG,hond(je),27,1
+2023-09-04,Dutch,produces,DOG,hond(je),28,1
+2023-09-04,Dutch,produces,DOG,hond(je),29,1
+2023-09-04,Dutch,produces,DOG,hond(je),30,1
+2023-09-04,Dutch,produces,DOG,hond(je),31,1
+2023-09-04,Hungarian,produces,DOG,kutya,16,0.43
+2023-09-04,Hungarian,produces,DOG,kutya,17,0.5
+2023-09-04,Hungarian,produces,DOG,kutya,18,0.72
+2023-09-04,Hungarian,produces,DOG,kutya,19,0.62
+2023-09-04,Hungarian,produces,DOG,kutya,20,0.61
+2023-09-04,Hungarian,produces,DOG,kutya,21,0.75
+2023-09-04,Hungarian,produces,DOG,kutya,22,0.63
+2023-09-04,Hungarian,produces,DOG,kutya,23,0.83
+2023-09-04,Hungarian,produces,DOG,kutya,24,0.74
+2023-09-04,Hungarian,produces,DOG,kutya,25,0.91
+2023-09-04,Hungarian,produces,DOG,kutya,26,0.74
+2023-09-04,Hungarian,produces,DOG,kutya,27,0.85
+2023-09-04,Hungarian,produces,DOG,kutya,28,0.83
+2023-09-04,Hungarian,produces,DOG,kutya,29,0.83
+2023-09-04,Hungarian,produces,DOG,kutya,30,0.83
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,16,0.38
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,17,0.45
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,18,0.31
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,19,0.57
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,20,0.57
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,21,0.56
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,22,0.63
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,23,0.71
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,24,0.75
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,25,0.79
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,26,0.69
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,27,0.82
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,28,0.71
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,29,0.78
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,30,0.81
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,31,0
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,32,1
+2023-09-04,Spanish (Argentinian),produces,DOG,perro,33,1
+2023-09-04,Persian,produces,DOG,سگ,8,0
+2023-09-04,Persian,produces,DOG,سگ,9,0
+2023-09-04,Persian,produces,DOG,سگ,10,0.06
+2023-09-04,Persian,produces,DOG,سگ,11,0
+2023-09-04,Persian,produces,DOG,سگ,12,0
+2023-09-04,Persian,produces,DOG,سگ,13,0
+2023-09-04,Persian,produces,DOG,سگ,14,0.33
+2023-09-04,Persian,produces,DOG,سگ,15,0.33
+2023-09-04,Persian,produces,DOG,سگ,16,0.5
+2023-09-04,Persian,produces,DOG,سگ,17,0
+2023-09-04,Persian,produces,DOG,سگ,18,0.6
+2023-09-04,Persian,produces,DOG,سگ,20,0.33
+2023-09-04,Persian,produces,DOG,سگ,21,0
+2023-09-04,Persian,produces,DOG,سگ,22,1
+2023-09-04,Persian,produces,DOG,سگ,23,0.67
+2023-09-04,Persian,produces,DOG,سگ,24,0.8
+2023-09-04,Persian,produces,DOG,سگ,25,0.67
+2023-09-04,Persian,produces,DOG,سگ,26,1
+2023-09-04,Persian,produces,DOG,سگ,27,1
+2023-09-04,Persian,produces,DOG,سگ,28,0.78
+2023-09-04,Persian,produces,DOG,سگ,29,1
+2023-09-04,Persian,produces,DOG,سگ,30,1

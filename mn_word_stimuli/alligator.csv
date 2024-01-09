@@ -1,0 +1,98 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,16,0
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,17,0
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,18,0.01
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,19,0.03
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,20,0.04
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,21,0.09
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,22,0.07
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,23,0.04
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,24,0.15
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,25,0.09
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,26,0.12
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,27,0.24
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,28,0.27
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,29,0.38
+2023-09-04,Cantonese,produces,ALLIGATOR,鱷魚,30,0.52
+2023-09-04,English (American),produces,ALLIGATOR,alligator,16,0.02
+2023-09-04,English (American),produces,ALLIGATOR,alligator,17,0.04
+2023-09-04,English (American),produces,ALLIGATOR,alligator,18,0.06
+2023-09-04,English (American),produces,ALLIGATOR,alligator,19,0.13
+2023-09-04,English (American),produces,ALLIGATOR,alligator,20,0.14
+2023-09-04,English (American),produces,ALLIGATOR,alligator,21,0.19
+2023-09-04,English (American),produces,ALLIGATOR,alligator,22,0.22
+2023-09-04,English (American),produces,ALLIGATOR,alligator,23,0.3
+2023-09-04,English (American),produces,ALLIGATOR,alligator,24,0.4
+2023-09-04,English (American),produces,ALLIGATOR,alligator,25,0.47
+2023-09-04,English (American),produces,ALLIGATOR,alligator,26,0.5
+2023-09-04,English (American),produces,ALLIGATOR,alligator,27,0.52
+2023-09-04,English (American),produces,ALLIGATOR,alligator,28,0.74
+2023-09-04,English (American),produces,ALLIGATOR,alligator,29,0.66
+2023-09-04,English (American),produces,ALLIGATOR,alligator,30,0.7
+2023-09-04,Hebrew,produces,ALLIGATOR,תנין,25,0.49
+2023-09-04,Hebrew,produces,ALLIGATOR,תנין,26,0.61
+2023-09-04,Hebrew,produces,ALLIGATOR,תנין,27,0.6
+2023-09-04,Hebrew,produces,ALLIGATOR,תנין,28,0.81
+2023-09-04,Hebrew,produces,ALLIGATOR,תנין,29,0.7
+2023-09-04,Hebrew,produces,ALLIGATOR,תנין,30,0.71
+2023-09-04,Hebrew,produces,ALLIGATOR,תנין,31,0.6
+2023-09-04,Hebrew,produces,ALLIGATOR,תנין,32,0.72
+2023-09-04,Hebrew,produces,ALLIGATOR,תנין,33,0.76
+2023-09-04,Hebrew,produces,ALLIGATOR,תנין,34,0.74
+2023-09-04,Hebrew,produces,ALLIGATOR,תנין,35,0.44
+2023-09-04,Hebrew,produces,ALLIGATOR,תנין,36,0.2
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,16,0.01
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,17,0.04
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,18,0.05
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,19,0.09
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,20,0.21
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,21,0.2
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,22,0.2
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,23,0.38
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,24,0.42
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,25,0.53
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,26,0.45
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,27,0.56
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,28,0.61
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,29,0.58
+2023-09-04,Mandarin (Beijing),produces,ALLIGATOR,鳄鱼,30,0.72
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,18,0.05
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,19,0.1
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,20,0.13
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,21,0.33
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,22,0.35
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,23,0.45
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,24,0.51
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,25,0.58
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,26,0.52
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,27,0.55
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,28,0.77
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,29,0.79
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,30,0.81
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,31,0.85
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,32,0.78
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,33,0.85
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,34,0.86
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,35,0.87
+2023-09-04,Russian,produces,ALLIGATOR,крокодил,36,0.92
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,16,0.01
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,17,0.06
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,18,0.05
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,19,0.05
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,20,0.12
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,21,0.14
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,22,0.2
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,23,0.26
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,24,0.36
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,25,0.37
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,26,0.41
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,27,0.43
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,28,0.58
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,29,0.58
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,30,0.63
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,31,0.67
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,32,0.65
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,33,0.72
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,34,0.71
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,35,0.74
+2023-09-04,Mandarin (Taiwanese),produces,ALLIGATOR,鱷魚,36,0.73

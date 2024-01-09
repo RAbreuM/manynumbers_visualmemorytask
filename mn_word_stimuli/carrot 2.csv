@@ -1,0 +1,537 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,16,0.04
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,17,0.03
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,18,0.06
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,19,0.09
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,20,0.21
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,21,0.24
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,22,0.29
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,23,0.23
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,24,0.29
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,25,0.42
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,26,0.43
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,27,0.48
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,28,0.53
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,29,0.6
+2023-09-04,Cantonese,produces,CARROT,蘿蔔,30,0.76
+2023-09-04,Croatian,produces,CARROT,mrkva,8,0
+2023-09-04,Croatian,produces,CARROT,mrkva,9,0
+2023-09-04,Croatian,produces,CARROT,mrkva,10,0
+2023-09-04,Croatian,produces,CARROT,mrkva,11,0
+2023-09-04,Croatian,produces,CARROT,mrkva,12,0
+2023-09-04,Croatian,produces,CARROT,mrkva,13,0
+2023-09-04,Croatian,produces,CARROT,mrkva,14,0.07
+2023-09-04,Croatian,produces,CARROT,mrkva,15,0
+2023-09-04,Croatian,produces,CARROT,"mrkva, mrkve",16,0.13
+2023-09-04,Croatian,produces,CARROT,mrkve,17,0.08
+2023-09-04,Croatian,produces,CARROT,mrkve,18,0.09
+2023-09-04,Croatian,produces,CARROT,mrkve,19,0.19
+2023-09-04,Croatian,produces,CARROT,mrkve,20,0.38
+2023-09-04,Croatian,produces,CARROT,mrkve,21,0.24
+2023-09-04,Croatian,produces,CARROT,mrkve,22,0.38
+2023-09-04,Croatian,produces,CARROT,mrkve,23,0.46
+2023-09-04,Croatian,produces,CARROT,mrkve,24,0.63
+2023-09-04,Croatian,produces,CARROT,mrkve,25,0.6
+2023-09-04,Croatian,produces,CARROT,mrkve,26,0.66
+2023-09-04,Croatian,produces,CARROT,mrkve,27,0.96
+2023-09-04,Croatian,produces,CARROT,mrkve,28,1
+2023-09-04,Croatian,produces,CARROT,mrkve,29,0.71
+2023-09-04,Croatian,produces,CARROT,mrkve,30,0.89
+2023-09-04,Danish,produces,CARROT,gulerødder,8,0
+2023-09-04,Danish,produces,CARROT,gulerødder,9,0
+2023-09-04,Danish,produces,CARROT,gulerødder,10,0
+2023-09-04,Danish,produces,CARROT,gulerødder,11,0
+2023-09-04,Danish,produces,CARROT,gulerødder,12,0
+2023-09-04,Danish,produces,CARROT,gulerødder,13,0
+2023-09-04,Danish,produces,CARROT,gulerødder,14,0
+2023-09-04,Danish,produces,CARROT,gulerødder,15,0
+2023-09-04,Danish,produces,CARROT,gulerødder,16,0.03
+2023-09-04,Danish,produces,CARROT,gulerødder,17,0.07
+2023-09-04,Danish,produces,CARROT,gulerødder,18,0.11
+2023-09-04,Danish,produces,CARROT,gulerødder,19,0.14
+2023-09-04,Danish,produces,CARROT,gulerødder,20,0.29
+2023-09-04,Danish,produces,CARROT,gulerødder,21,0.33
+2023-09-04,Danish,produces,CARROT,gulerødder,22,0.49
+2023-09-04,Danish,produces,CARROT,gulerødder,23,0.51
+2023-09-04,Danish,produces,CARROT,gulerødder,24,0.6
+2023-09-04,Danish,produces,CARROT,gulerødder,25,0.65
+2023-09-04,Danish,produces,CARROT,gulerødder,26,0.86
+2023-09-04,Danish,produces,CARROT,gulerødder,27,0.81
+2023-09-04,Danish,produces,CARROT,gulerødder,28,0.84
+2023-09-04,Danish,produces,CARROT,gulerødder,29,0.87
+2023-09-04,Danish,produces,CARROT,gulerødder,30,0.92
+2023-09-04,Danish,produces,CARROT,gulerødder,31,0.95
+2023-09-04,Danish,produces,CARROT,gulerødder,32,0.97
+2023-09-04,Danish,produces,CARROT,gulerødder,33,0.98
+2023-09-04,Danish,produces,CARROT,gulerødder,34,0.98
+2023-09-04,Danish,produces,CARROT,gulerødder,35,0.99
+2023-09-04,Danish,produces,CARROT,gulerødder,36,0.99
+2023-09-04,English (American),produces,CARROT,carrots,8,0.01
+2023-09-04,English (American),produces,CARROT,carrots,9,0.01
+2023-09-04,English (American),produces,CARROT,carrots,10,0
+2023-09-04,English (American),produces,CARROT,carrots,11,0.01
+2023-09-04,English (American),produces,CARROT,carrots,12,0.01
+2023-09-04,English (American),produces,CARROT,carrots,13,0.01
+2023-09-04,English (American),produces,CARROT,carrots,14,0.03
+2023-09-04,English (American),produces,CARROT,carrots,15,0.06
+2023-09-04,English (American),produces,CARROT,carrots,16,0.06
+2023-09-04,English (American),produces,CARROT,carrots,17,0.1
+2023-09-04,English (American),produces,CARROT,carrots,18,0.12
+2023-09-04,English (American),produces,CARROT,carrots,19,0.21
+2023-09-04,English (American),produces,CARROT,carrots,20,0.24
+2023-09-04,English (American),produces,CARROT,carrots,21,0.3
+2023-09-04,English (American),produces,CARROT,carrots,22,0.36
+2023-09-04,English (American),produces,CARROT,carrots,23,0.46
+2023-09-04,English (American),produces,CARROT,carrots,24,0.52
+2023-09-04,English (American),produces,CARROT,carrots,25,0.62
+2023-09-04,English (American),produces,CARROT,carrots,26,0.61
+2023-09-04,English (American),produces,CARROT,carrots,27,0.65
+2023-09-04,English (American),produces,CARROT,carrots,28,0.82
+2023-09-04,English (American),produces,CARROT,carrots,29,0.74
+2023-09-04,English (American),produces,CARROT,carrots,30,0.79
+2023-09-04,French (Quebecois),produces,CARROT,carotte,8,0
+2023-09-04,French (Quebecois),produces,CARROT,carotte,9,0
+2023-09-04,French (Quebecois),produces,CARROT,carotte,10,0
+2023-09-04,French (Quebecois),produces,CARROT,carotte,11,0
+2023-09-04,French (Quebecois),produces,CARROT,carotte,12,0
+2023-09-04,French (Quebecois),produces,CARROT,carotte,13,0
+2023-09-04,French (Quebecois),produces,CARROT,carotte,14,0
+2023-09-04,French (Quebecois),produces,CARROT,carotte,15,0.08
+2023-09-04,French (Quebecois),produces,CARROT,carotte,16,0.1
+2023-09-04,French (Quebecois),produces,CARROT,carotte,17,0.17
+2023-09-04,French (Quebecois),produces,CARROT,carotte,18,0.19
+2023-09-04,French (Quebecois),produces,CARROT,carotte,19,0.3
+2023-09-04,French (Quebecois),produces,CARROT,carotte,20,0.44
+2023-09-04,French (Quebecois),produces,CARROT,carotte,21,0.53
+2023-09-04,French (Quebecois),produces,CARROT,carotte,22,0.58
+2023-09-04,French (Quebecois),produces,CARROT,carotte,23,0.7
+2023-09-04,French (Quebecois),produces,CARROT,carotte,24,0.69
+2023-09-04,French (Quebecois),produces,CARROT,carotte,25,0.8
+2023-09-04,French (Quebecois),produces,CARROT,carotte,26,0.83
+2023-09-04,French (Quebecois),produces,CARROT,carotte,27,0.9
+2023-09-04,French (Quebecois),produces,CARROT,carotte,28,0.98
+2023-09-04,French (Quebecois),produces,CARROT,carotte,29,0.95
+2023-09-04,French (Quebecois),produces,CARROT,carotte,30,0.92
+2023-09-04,German,produces,CARROT,Möhre,18,0.11
+2023-09-04,German,produces,CARROT,Möhre,19,0.13
+2023-09-04,German,produces,CARROT,Möhre,20,0.17
+2023-09-04,German,produces,CARROT,Möhre,21,0.3
+2023-09-04,German,produces,CARROT,Möhre,22,0.36
+2023-09-04,German,produces,CARROT,Möhre,23,0.45
+2023-09-04,German,produces,CARROT,Möhre,24,0.45
+2023-09-04,German,produces,CARROT,Möhre,25,0.53
+2023-09-04,German,produces,CARROT,Möhre,26,0.59
+2023-09-04,German,produces,CARROT,Möhre,27,0.55
+2023-09-04,German,produces,CARROT,Möhre,28,0.69
+2023-09-04,German,produces,CARROT,Möhre,29,0.88
+2023-09-04,German,produces,CARROT,Möhre,30,0.83
+2023-09-04,Hebrew,produces,CARROT,גזר,11,0
+2023-09-04,Hebrew,produces,CARROT,גזר,12,0
+2023-09-04,Hebrew,produces,CARROT,גזר,13,0
+2023-09-04,Hebrew,produces,CARROT,גזר,14,0
+2023-09-04,Hebrew,produces,CARROT,גזר,15,0
+2023-09-04,Hebrew,produces,CARROT,גזר,16,0.17
+2023-09-04,Hebrew,produces,CARROT,גזר,17,0
+2023-09-04,Hebrew,produces,CARROT,גזר,19,0.25
+2023-09-04,Hebrew,produces,CARROT,גזר,20,0.33
+2023-09-04,Hebrew,produces,CARROT,גזר,21,0.5
+2023-09-04,Hebrew,produces,CARROT,גזר,22,0.33
+2023-09-04,Hebrew,produces,CARROT,גזר,23,0.57
+2023-09-04,Hebrew,produces,CARROT,גזר,24,0.64
+2023-09-04,Hebrew,produces,CARROT,גזר,25,0.79
+2023-09-04,Hebrew,produces,CARROT,גזר,26,0.84
+2023-09-04,Hebrew,produces,CARROT,גזר,27,0.9
+2023-09-04,Hebrew,produces,CARROT,גזר,28,0.91
+2023-09-04,Hebrew,produces,CARROT,גזר,29,0.91
+2023-09-04,Hebrew,produces,CARROT,גזר,30,0.93
+2023-09-04,Hebrew,produces,CARROT,גזר,31,0.94
+2023-09-04,Hebrew,produces,CARROT,גזר,32,0.94
+2023-09-04,Hebrew,produces,CARROT,גזר,33,0.9
+2023-09-04,Hebrew,produces,CARROT,גזר,34,0.93
+2023-09-04,Hebrew,produces,CARROT,גזר,35,0.83
+2023-09-04,Hebrew,produces,CARROT,גזר,36,0.8
+2023-09-04,Italian,produces,CARROT,carote,7,0
+2023-09-04,Italian,produces,CARROT,carote,8,0
+2023-09-04,Italian,produces,CARROT,carote,9,0
+2023-09-04,Italian,produces,CARROT,carote,10,0
+2023-09-04,Italian,produces,CARROT,carote,11,0
+2023-09-04,Italian,produces,CARROT,carote,12,0
+2023-09-04,Italian,produces,CARROT,carote,13,0.02
+2023-09-04,Italian,produces,CARROT,carote,14,0
+2023-09-04,Italian,produces,CARROT,carote,15,0
+2023-09-04,Italian,produces,CARROT,carote,16,0.05
+2023-09-04,Italian,produces,CARROT,carote,17,0.12
+2023-09-04,Italian,produces,CARROT,carote,18,0.04
+2023-09-04,Italian,produces,CARROT,carote,19,0.14
+2023-09-04,Italian,produces,CARROT,carote,20,0.17
+2023-09-04,Italian,produces,CARROT,carote,21,0.27
+2023-09-04,Italian,produces,CARROT,carote,22,0.42
+2023-09-04,Italian,produces,CARROT,carote,23,0.41
+2023-09-04,Italian,produces,CARROT,carote,24,0.54
+2023-09-04,Italian,produces,CARROT,carote,25,0.62
+2023-09-04,Italian,produces,CARROT,carote,26,0.68
+2023-09-04,Italian,produces,CARROT,carote,27,0.65
+2023-09-04,Italian,produces,CARROT,carote,28,0.66
+2023-09-04,Italian,produces,CARROT,carote,29,0.86
+2023-09-04,Italian,produces,CARROT,carote,30,0.76
+2023-09-04,Italian,produces,CARROT,carote,31,0.84
+2023-09-04,Italian,produces,CARROT,carote,32,0.78
+2023-09-04,Italian,produces,CARROT,carote,33,0.81
+2023-09-04,Italian,produces,CARROT,carote,34,0.95
+2023-09-04,Italian,produces,CARROT,carote,35,0.8
+2023-09-04,Italian,produces,CARROT,carote,36,0.9
+2023-09-04,Mandarin (Beijing),produces,CARROT,萝卜,12,0
+2023-09-04,Mandarin (Beijing),produces,CARROT,萝卜,13,0.02
+2023-09-04,Mandarin (Beijing),produces,CARROT,萝卜,14,0
+2023-09-04,Mandarin (Beijing),produces,CARROT,萝卜,15,0.02
+2023-09-04,Mandarin (Beijing),produces,CARROT,萝卜,16,0.03
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",17,0.14
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",18,0.19
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",19,0.28
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",20,0.37
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",21,0.45
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",22,0.46
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",23,0.64
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",24,0.59
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",25,0.73
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",26,0.71
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",27,0.82
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",28,0.77
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",29,0.86
+2023-09-04,Mandarin (Beijing),produces,CARROT,"胡萝卜, 萝卜",30,0.87
+2023-09-04,Norwegian,produces,CARROT,gulrot,8,0.03
+2023-09-04,Norwegian,produces,CARROT,gulrot,9,0
+2023-09-04,Norwegian,produces,CARROT,gulrot,10,0
+2023-09-04,Norwegian,produces,CARROT,gulrot,11,0
+2023-09-04,Norwegian,produces,CARROT,gulrot,12,0
+2023-09-04,Norwegian,produces,CARROT,gulrot,13,0
+2023-09-04,Norwegian,produces,CARROT,gulrot,14,0
+2023-09-04,Norwegian,produces,CARROT,gulrot,15,0.02
+2023-09-04,Norwegian,produces,CARROT,gulrot,16,0.03
+2023-09-04,Norwegian,produces,CARROT,gulrot,17,0.05
+2023-09-04,Norwegian,produces,CARROT,gulrot,18,0.08
+2023-09-04,Norwegian,produces,CARROT,gulrot,19,0.14
+2023-09-04,Norwegian,produces,CARROT,gulrot,20,0.24
+2023-09-04,Norwegian,produces,CARROT,gulrot,21,0.31
+2023-09-04,Norwegian,produces,CARROT,gulrot,22,0.41
+2023-09-04,Norwegian,produces,CARROT,gulrot,23,0.51
+2023-09-04,Norwegian,produces,CARROT,gulrot,24,0.54
+2023-09-04,Norwegian,produces,CARROT,gulrot,25,0.65
+2023-09-04,Norwegian,produces,CARROT,gulrot,26,0.73
+2023-09-04,Norwegian,produces,CARROT,gulrot,27,0.78
+2023-09-04,Norwegian,produces,CARROT,gulrot,28,0.82
+2023-09-04,Norwegian,produces,CARROT,gulrot,29,0.84
+2023-09-04,Norwegian,produces,CARROT,gulrot,30,0.85
+2023-09-04,Norwegian,produces,CARROT,gulrot,31,0.91
+2023-09-04,Norwegian,produces,CARROT,gulrot,32,0.91
+2023-09-04,Norwegian,produces,CARROT,gulrot,33,0.95
+2023-09-04,Norwegian,produces,CARROT,gulrot,34,0.93
+2023-09-04,Norwegian,produces,CARROT,gulrot,35,0.95
+2023-09-04,Norwegian,produces,CARROT,gulrot,36,0.95
+2023-09-04,Russian,produces,CARROT,морковка,8,0
+2023-09-04,Russian,produces,CARROT,морковка,9,0
+2023-09-04,Russian,produces,CARROT,морковка,10,0
+2023-09-04,Russian,produces,CARROT,морковка,11,0
+2023-09-04,Russian,produces,CARROT,морковка,12,0
+2023-09-04,Russian,produces,CARROT,морковка,13,0
+2023-09-04,Russian,produces,CARROT,морковка,14,0
+2023-09-04,Russian,produces,CARROT,морковка,15,0.02
+2023-09-04,Russian,produces,CARROT,морковка,16,0.02
+2023-09-04,Russian,produces,CARROT,морковка,17,0.07
+2023-09-04,Russian,produces,CARROT,морковка,18,0.08
+2023-09-04,Russian,produces,CARROT,морковка,19,0.12
+2023-09-04,Russian,produces,CARROT,морковка,20,0.18
+2023-09-04,Russian,produces,CARROT,морковка,21,0.33
+2023-09-04,Russian,produces,CARROT,морковка,22,0.37
+2023-09-04,Russian,produces,CARROT,морковка,23,0.5
+2023-09-04,Russian,produces,CARROT,морковка,24,0.62
+2023-09-04,Russian,produces,CARROT,морковка,25,0.55
+2023-09-04,Russian,produces,CARROT,морковка,26,0.58
+2023-09-04,Russian,produces,CARROT,морковка,27,0.65
+2023-09-04,Russian,produces,CARROT,морковка,28,0.82
+2023-09-04,Russian,produces,CARROT,морковка,29,0.81
+2023-09-04,Russian,produces,CARROT,морковка,30,0.75
+2023-09-04,Russian,produces,CARROT,морковка,31,0.8
+2023-09-04,Russian,produces,CARROT,морковка,32,0.89
+2023-09-04,Russian,produces,CARROT,морковка,33,0.84
+2023-09-04,Russian,produces,CARROT,морковка,34,0.83
+2023-09-04,Russian,produces,CARROT,морковка,35,0.87
+2023-09-04,Russian,produces,CARROT,морковка,36,0.92
+2023-09-04,Slovak,produces,CARROT,mrkva,8,0
+2023-09-04,Slovak,produces,CARROT,mrkva,9,0
+2023-09-04,Slovak,produces,CARROT,mrkva,10,0
+2023-09-04,Slovak,produces,CARROT,mrkva,11,0
+2023-09-04,Slovak,produces,CARROT,mrkva,12,0.01
+2023-09-04,Slovak,produces,CARROT,mrkva,13,0.01
+2023-09-04,Slovak,produces,CARROT,mrkva,14,0.04
+2023-09-04,Slovak,produces,CARROT,mrkva,15,0.08
+2023-09-04,Slovak,produces,CARROT,mrkva,16,0.1
+2023-09-04,Slovak,produces,CARROT,mrkva,17,0.17
+2023-09-04,Slovak,produces,CARROT,mrkva,18,0.25
+2023-09-04,Slovak,produces,CARROT,mrkva,19,0.3
+2023-09-04,Slovak,produces,CARROT,mrkva,20,0.39
+2023-09-04,Slovak,produces,CARROT,mrkva,21,0.44
+2023-09-04,Slovak,produces,CARROT,mrkva,22,0.43
+2023-09-04,Slovak,produces,CARROT,mrkva,23,0.54
+2023-09-04,Slovak,produces,CARROT,mrkva,24,0.73
+2023-09-04,Slovak,produces,CARROT,mrkva,25,0.7
+2023-09-04,Slovak,produces,CARROT,mrkva,26,0.83
+2023-09-04,Slovak,produces,CARROT,mrkva,27,0.84
+2023-09-04,Slovak,produces,CARROT,mrkva,28,0.76
+2023-09-04,Slovak,produces,CARROT,mrkva,29,0.79
+2023-09-04,Slovak,produces,CARROT,mrkva,30,0.76
+2023-09-04,Slovak,produces,CARROT,mrkva,31,0.76
+2023-09-04,Slovak,produces,CARROT,mrkva,32,0.92
+2023-09-04,Slovak,produces,CARROT,mrkva,33,0.95
+2023-09-04,Slovak,produces,CARROT,mrkva,34,0.93
+2023-09-04,Slovak,produces,CARROT,mrkva,35,0.89
+2023-09-04,Slovak,produces,CARROT,mrkva,36,0.88
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,16,0.04
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,17,0.05
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,18,0.08
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,19,0.21
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,20,0.19
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,21,0.17
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,22,0.18
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,23,0.2
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,24,0.34
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,25,0.36
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,26,0.41
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,27,0.47
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,28,0.47
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,29,0.53
+2023-09-04,Spanish (Mexican),produces,CARROT,zanahoria,30,0.39
+2023-09-04,English (British),produces,CARROT,carrot,12,0
+2023-09-04,English (British),produces,CARROT,carrot,13,0
+2023-09-04,English (British),produces,CARROT,carrot,14,0.02
+2023-09-04,English (British),produces,CARROT,carrot,15,0
+2023-09-04,English (British),produces,CARROT,carrot,16,0.04
+2023-09-04,English (British),produces,CARROT,carrot,17,0.06
+2023-09-04,English (British),produces,CARROT,carrot,18,0.11
+2023-09-04,English (British),produces,CARROT,carrot,19,0.2
+2023-09-04,English (British),produces,CARROT,carrot,20,0.27
+2023-09-04,English (British),produces,CARROT,carrot,21,0.36
+2023-09-04,English (British),produces,CARROT,carrot,22,0.43
+2023-09-04,English (British),produces,CARROT,carrot,23,0.53
+2023-09-04,English (British),produces,CARROT,carrot,24,0.62
+2023-09-04,English (British),produces,CARROT,carrot,25,0.64
+2023-09-04,Czech,produces,CARROT,mrkev,16,0
+2023-09-04,Czech,produces,CARROT,mrkev,17,0.03
+2023-09-04,Czech,produces,CARROT,mrkev,18,0.02
+2023-09-04,Czech,produces,CARROT,mrkev,19,0.04
+2023-09-04,Czech,produces,CARROT,mrkev,20,0.19
+2023-09-04,Czech,produces,CARROT,mrkev,21,0.18
+2023-09-04,Czech,produces,CARROT,mrkev,22,0.36
+2023-09-04,Czech,produces,CARROT,mrkev,23,0.33
+2023-09-04,Czech,produces,CARROT,mrkev,24,0.4
+2023-09-04,Czech,produces,CARROT,mrkev,25,0.63
+2023-09-04,Czech,produces,CARROT,mrkev,26,0.59
+2023-09-04,Czech,produces,CARROT,mrkev,27,0.51
+2023-09-04,Czech,produces,CARROT,mrkev,28,0.77
+2023-09-04,Czech,produces,CARROT,mrkev,29,0.72
+2023-09-04,Czech,produces,CARROT,mrkev,30,0.78
+2023-09-04,English (Australian),produces,CARROT,carrot,12,0
+2023-09-04,English (Australian),produces,CARROT,carrot,13,0
+2023-09-04,English (Australian),produces,CARROT,carrot,14,0.02
+2023-09-04,English (Australian),produces,CARROT,carrot,15,0.04
+2023-09-04,English (Australian),produces,CARROT,carrot,16,0.07
+2023-09-04,English (Australian),produces,CARROT,carrot,17,0.07
+2023-09-04,English (Australian),produces,CARROT,carrot,18,0.09
+2023-09-04,English (Australian),produces,CARROT,carrot,19,0.17
+2023-09-04,English (Australian),produces,CARROT,carrot,20,0.26
+2023-09-04,English (Australian),produces,CARROT,carrot,21,0.29
+2023-09-04,English (Australian),produces,CARROT,carrot,22,0.45
+2023-09-04,English (Australian),produces,CARROT,carrot,23,0.48
+2023-09-04,English (Australian),produces,CARROT,carrot,24,0.5
+2023-09-04,English (Australian),produces,CARROT,carrot,25,0.62
+2023-09-04,English (Australian),produces,CARROT,carrot,26,0.68
+2023-09-04,English (Australian),produces,CARROT,carrot,27,0.82
+2023-09-04,English (Australian),produces,CARROT,carrot,28,0.73
+2023-09-04,English (Australian),produces,CARROT,carrot,29,0.85
+2023-09-04,English (Australian),produces,CARROT,carrot,30,0.87
+2023-09-04,Latvian,produces,CARROT,burkāns,8,0
+2023-09-04,Latvian,produces,CARROT,burkāns,9,0
+2023-09-04,Latvian,produces,CARROT,burkāns,10,0.04
+2023-09-04,Latvian,produces,CARROT,burkāns,11,0
+2023-09-04,Latvian,produces,CARROT,burkāns,12,0.12
+2023-09-04,Latvian,produces,CARROT,burkāns,13,0.05
+2023-09-04,Latvian,produces,CARROT,burkāns,14,0.12
+2023-09-04,Latvian,produces,CARROT,burkāns,15,0.07
+2023-09-04,Latvian,produces,CARROT,burkāns,16,0.06
+2023-09-04,Latvian,produces,CARROT,burkāns,17,0.15
+2023-09-04,Latvian,produces,CARROT,burkāns,18,0.24
+2023-09-04,Latvian,produces,CARROT,burkāns,19,0.29
+2023-09-04,Latvian,produces,CARROT,burkāns,20,0.32
+2023-09-04,Latvian,produces,CARROT,burkāns,21,0.58
+2023-09-04,Latvian,produces,CARROT,burkāns,22,0.44
+2023-09-04,Latvian,produces,CARROT,burkāns,23,0.52
+2023-09-04,Latvian,produces,CARROT,burkāns,24,0.7
+2023-09-04,Latvian,produces,CARROT,burkāns,25,0.72
+2023-09-04,Latvian,produces,CARROT,burkāns,26,0.77
+2023-09-04,Latvian,produces,CARROT,burkāns,27,0.72
+2023-09-04,Latvian,produces,CARROT,burkāns,28,0.74
+2023-09-04,Latvian,produces,CARROT,burkāns,29,0.83
+2023-09-04,Latvian,produces,CARROT,burkāns,30,0.85
+2023-09-04,Latvian,produces,CARROT,burkāns,31,0.95
+2023-09-04,Latvian,produces,CARROT,burkāns,32,0.76
+2023-09-04,Latvian,produces,CARROT,burkāns,33,0.94
+2023-09-04,Latvian,produces,CARROT,burkāns,34,0.88
+2023-09-04,Latvian,produces,CARROT,burkāns,35,0.9
+2023-09-04,Latvian,produces,CARROT,burkāns,36,0.77
+2023-09-04,Korean,produces,CARROT,당근,18,0.15
+2023-09-04,Korean,produces,CARROT,당근,19,0.06
+2023-09-04,Korean,produces,CARROT,당근,20,0.1
+2023-09-04,Korean,produces,CARROT,당근,21,0.19
+2023-09-04,Korean,produces,CARROT,당근,22,0.29
+2023-09-04,Korean,produces,CARROT,당근,23,0.31
+2023-09-04,Korean,produces,CARROT,당근,24,0.54
+2023-09-04,Korean,produces,CARROT,당근,25,0.64
+2023-09-04,Korean,produces,CARROT,당근,26,0.59
+2023-09-04,Korean,produces,CARROT,당근,27,0.62
+2023-09-04,Korean,produces,CARROT,당근,28,0.68
+2023-09-04,Korean,produces,CARROT,당근,29,0.76
+2023-09-04,Korean,produces,CARROT,당근,30,0.73
+2023-09-04,Korean,produces,CARROT,당근,31,0.73
+2023-09-04,Korean,produces,CARROT,당근,32,0.73
+2023-09-04,Korean,produces,CARROT,당근,33,0.79
+2023-09-04,Korean,produces,CARROT,당근,34,0.91
+2023-09-04,Korean,produces,CARROT,당근,35,0.86
+2023-09-04,Korean,produces,CARROT,당근,36,0.9
+2023-09-04,French (French),produces,CARROT,carotte,8,0
+2023-09-04,French (French),produces,CARROT,carotte,9,0
+2023-09-04,French (French),produces,CARROT,carotte,11,0
+2023-09-04,French (French),produces,CARROT,carotte,12,0
+2023-09-04,French (French),produces,CARROT,carotte,13,0
+2023-09-04,French (French),produces,CARROT,carotte,14,0
+2023-09-04,French (French),produces,CARROT,carotte,15,0
+2023-09-04,French (French),produces,CARROT,"carotte, carottes",16,0.01
+2023-09-04,French (French),produces,CARROT,carottes,17,0
+2023-09-04,French (French),produces,CARROT,carottes,18,0
+2023-09-04,French (French),produces,CARROT,carottes,19,0.18
+2023-09-04,French (French),produces,CARROT,carottes,20,0.28
+2023-09-04,French (French),produces,CARROT,carottes,21,0.38
+2023-09-04,French (French),produces,CARROT,carottes,22,0.37
+2023-09-04,French (French),produces,CARROT,carottes,23,0.38
+2023-09-04,French (French),produces,CARROT,carottes,24,0.45
+2023-09-04,French (French),produces,CARROT,carottes,25,0.62
+2023-09-04,French (French),produces,CARROT,carottes,26,0.56
+2023-09-04,French (French),produces,CARROT,carottes,27,0.65
+2023-09-04,French (French),produces,CARROT,carottes,28,0.74
+2023-09-04,French (French),produces,CARROT,carottes,29,0.86
+2023-09-04,French (French),produces,CARROT,carottes,30,0.86
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,16,0
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,17,0
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,18,0.04
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,19,0
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,20,0.08
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,21,0.02
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,22,0.16
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,23,0.13
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,24,0.29
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,25,0.23
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,26,0.35
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,27,0.59
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,28,0.45
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,29,0.61
+2023-09-04,Spanish (European),produces,CARROT,zanahoria,30,0.51
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,16,0.01
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,17,0.03
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,18,0.05
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,19,0.09
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,20,0.17
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,21,0.17
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,22,0.25
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,23,0.3
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,24,0.38
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,25,0.5
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,26,0.51
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,27,0.61
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,28,0.62
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,29,0.69
+2023-09-04,Portuguese (European),produces,CARROT,Cenoura,30,0.67
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,8,0
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,9,0
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,10,0
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,11,0
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,12,0
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,13,0
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,14,0
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,15,0.03
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,16,0.03
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,17,0.09
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,18,0.18
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,19,0.19
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,20,0.23
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,21,0.38
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,22,0.33
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,23,0.42
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,24,0.53
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,25,0.5
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,26,0.54
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,27,0.55
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,28,0.65
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,29,0.68
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,30,0.73
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,31,0.74
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,32,0.73
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,33,0.87
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,34,0.78
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,35,0.9
+2023-09-04,Mandarin (Taiwanese),produces,CARROT,紅(白)蘿蔔,36,0.88
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),8,0
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),9,0
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),10,0
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),11,0
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),12,0
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),13,0
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),14,0
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),15,0
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),16,0
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),17,0
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),18,0.03
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),19,0.14
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),20,0.29
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),21,0.29
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),22,0.29
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),23,0.55
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),24,0.61
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),25,1
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),26,0.5
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),27,0.6
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),28,1
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),29,0.96
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),30,0.96
+2023-09-04,Dutch,produces,CARROT,wortel(tjes),31,1
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,16,0.05
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,17,0.11
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,18,0.22
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,19,0.46
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,20,0.44
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,21,0.56
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,22,0.56
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,23,0.56
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,24,0.55
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,25,0.74
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,26,0.74
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,27,0.73
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,28,0.8
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,29,0.83
+2023-09-04,Hungarian,produces,CARROT,sárgarépa,30,0.72
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,16,0.04
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,17,0.06
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,18,0.06
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,19,0.09
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,20,0.07
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,21,0.1
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,22,0.16
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,23,0.18
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,24,0.17
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,25,0.35
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,26,0.2
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,27,0.34
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,28,0.26
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,29,0.34
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,30,0.57
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,31,0
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,32,1
+2023-09-04,Spanish (Argentinian),produces,CARROT,zanahoria,33,0.5

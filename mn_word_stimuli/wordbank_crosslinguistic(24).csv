@@ -1,0 +1,622 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",16,0
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",17,0.02
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",18,0.02
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",19,0.03
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",20,0.11
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",21,0.14
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",22,0.14
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",23,0.17
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",24,0.28
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",25,0.34
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",26,0.34
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",27,0.34
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",28,0.39
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",29,0.47
+2023-09-04,Cantonese,produces,TRAIN,"地鐵, 輕鐵, 火車",30,0.53
+2023-09-04,Croatian,produces,TRAIN,vlak,8,0
+2023-09-04,Croatian,produces,TRAIN,vlak,9,0
+2023-09-04,Croatian,produces,TRAIN,vlak,10,0
+2023-09-04,Croatian,produces,TRAIN,vlak,11,0
+2023-09-04,Croatian,produces,TRAIN,vlak,12,0
+2023-09-04,Croatian,produces,TRAIN,vlak,13,0.03
+2023-09-04,Croatian,produces,TRAIN,vlak,14,0.04
+2023-09-04,Croatian,produces,TRAIN,vlak,15,0
+2023-09-04,Croatian,produces,TRAIN,vlak,16,0.17
+2023-09-04,Croatian,produces,TRAIN,vlak,17,0.16
+2023-09-04,Croatian,produces,TRAIN,vlak,18,0.27
+2023-09-04,Croatian,produces,TRAIN,vlak,19,0.29
+2023-09-04,Croatian,produces,TRAIN,vlak,20,0.42
+2023-09-04,Croatian,produces,TRAIN,vlak,21,0.45
+2023-09-04,Croatian,produces,TRAIN,vlak,22,0.46
+2023-09-04,Croatian,produces,TRAIN,vlak,23,0.69
+2023-09-04,Croatian,produces,TRAIN,vlak,24,0.77
+2023-09-04,Croatian,produces,TRAIN,vlak,25,0.8
+2023-09-04,Croatian,produces,TRAIN,vlak,26,0.72
+2023-09-04,Croatian,produces,TRAIN,vlak,27,0.96
+2023-09-04,Croatian,produces,TRAIN,vlak,28,1
+2023-09-04,Croatian,produces,TRAIN,vlak,29,0.79
+2023-09-04,Croatian,produces,TRAIN,vlak,30,0.89
+2023-09-04,Danish,produces,TRAIN,tog,8,0
+2023-09-04,Danish,produces,TRAIN,tog,9,0
+2023-09-04,Danish,produces,TRAIN,tog,10,0
+2023-09-04,Danish,produces,TRAIN,tog,11,0
+2023-09-04,Danish,produces,TRAIN,tog,12,0.01
+2023-09-04,Danish,produces,TRAIN,tog,13,0
+2023-09-04,Danish,produces,TRAIN,tog,14,0
+2023-09-04,Danish,produces,TRAIN,tog,15,0.02
+2023-09-04,Danish,produces,TRAIN,tog,16,0.05
+2023-09-04,Danish,produces,TRAIN,tog,17,0.09
+2023-09-04,Danish,produces,TRAIN,tog,18,0.2
+2023-09-04,Danish,produces,TRAIN,tog,19,0.31
+2023-09-04,Danish,produces,TRAIN,tog,20,0.39
+2023-09-04,Danish,produces,TRAIN,tog,21,0.47
+2023-09-04,Danish,produces,TRAIN,tog,22,0.65
+2023-09-04,Danish,produces,TRAIN,tog,23,0.64
+2023-09-04,Danish,produces,TRAIN,tog,24,0.74
+2023-09-04,Danish,produces,TRAIN,tog,25,0.83
+2023-09-04,Danish,produces,TRAIN,tog,26,0.89
+2023-09-04,Danish,produces,TRAIN,tog,27,0.9
+2023-09-04,Danish,produces,TRAIN,tog,28,0.92
+2023-09-04,Danish,produces,TRAIN,tog,29,0.92
+2023-09-04,Danish,produces,TRAIN,tog,30,0.97
+2023-09-04,Danish,produces,TRAIN,tog,31,0.96
+2023-09-04,Danish,produces,TRAIN,tog,32,0.96
+2023-09-04,Danish,produces,TRAIN,tog,33,0.99
+2023-09-04,Danish,produces,TRAIN,tog,34,0.99
+2023-09-04,Danish,produces,TRAIN,tog,35,0.98
+2023-09-04,Danish,produces,TRAIN,tog,36,1
+2023-09-04,English (American),produces,TRAIN,train,8,0.02
+2023-09-04,English (American),produces,TRAIN,train,9,0.02
+2023-09-04,English (American),produces,TRAIN,train,10,0.02
+2023-09-04,English (American),produces,TRAIN,train,11,0.02
+2023-09-04,English (American),produces,TRAIN,train,12,0.03
+2023-09-04,English (American),produces,TRAIN,train,13,0.04
+2023-09-04,English (American),produces,TRAIN,train,14,0.03
+2023-09-04,English (American),produces,TRAIN,train,15,0.1
+2023-09-04,English (American),produces,TRAIN,train,16,0.12
+2023-09-04,English (American),produces,TRAIN,train,17,0.18
+2023-09-04,English (American),produces,TRAIN,train,18,0.24
+2023-09-04,English (American),produces,TRAIN,train,19,0.36
+2023-09-04,English (American),produces,TRAIN,train,20,0.47
+2023-09-04,English (American),produces,TRAIN,train,21,0.46
+2023-09-04,English (American),produces,TRAIN,train,22,0.55
+2023-09-04,English (American),produces,TRAIN,train,23,0.66
+2023-09-04,English (American),produces,TRAIN,train,24,0.76
+2023-09-04,English (American),produces,TRAIN,train,25,0.79
+2023-09-04,English (American),produces,TRAIN,train,26,0.82
+2023-09-04,English (American),produces,TRAIN,train,27,0.81
+2023-09-04,English (American),produces,TRAIN,train,28,0.93
+2023-09-04,English (American),produces,TRAIN,train,29,0.87
+2023-09-04,English (American),produces,TRAIN,train,30,0.9
+2023-09-04,French (Quebecois),produces,TRAIN,train,8,0
+2023-09-04,French (Quebecois),produces,TRAIN,train,9,0
+2023-09-04,French (Quebecois),produces,TRAIN,train,10,0
+2023-09-04,French (Quebecois),produces,TRAIN,train,11,0
+2023-09-04,French (Quebecois),produces,TRAIN,train,12,0
+2023-09-04,French (Quebecois),produces,TRAIN,train,13,0
+2023-09-04,French (Quebecois),produces,TRAIN,train,14,0
+2023-09-04,French (Quebecois),produces,TRAIN,train,15,0
+2023-09-04,French (Quebecois),produces,TRAIN,train,16,0.05
+2023-09-04,French (Quebecois),produces,TRAIN,train,17,0.1
+2023-09-04,French (Quebecois),produces,TRAIN,train,18,0.15
+2023-09-04,French (Quebecois),produces,TRAIN,train,19,0.3
+2023-09-04,French (Quebecois),produces,TRAIN,train,20,0.36
+2023-09-04,French (Quebecois),produces,TRAIN,train,21,0.56
+2023-09-04,French (Quebecois),produces,TRAIN,train,22,0.58
+2023-09-04,French (Quebecois),produces,TRAIN,train,23,0.73
+2023-09-04,French (Quebecois),produces,TRAIN,train,24,0.71
+2023-09-04,French (Quebecois),produces,TRAIN,train,25,0.79
+2023-09-04,French (Quebecois),produces,TRAIN,train,26,0.79
+2023-09-04,French (Quebecois),produces,TRAIN,train,27,0.9
+2023-09-04,French (Quebecois),produces,TRAIN,train,28,0.93
+2023-09-04,French (Quebecois),produces,TRAIN,train,29,0.97
+2023-09-04,French (Quebecois),produces,TRAIN,train,30,0.91
+2023-09-04,German,produces,TRAIN,Bahn,18,0.15
+2023-09-04,German,produces,TRAIN,Bahn,19,0.28
+2023-09-04,German,produces,TRAIN,Bahn,20,0.3
+2023-09-04,German,produces,TRAIN,Bahn,21,0.38
+2023-09-04,German,produces,TRAIN,Bahn,22,0.41
+2023-09-04,German,produces,TRAIN,Bahn,23,0.66
+2023-09-04,German,produces,TRAIN,Bahn,24,0.65
+2023-09-04,German,produces,TRAIN,Bahn,25,0.74
+2023-09-04,German,produces,TRAIN,Bahn,26,0.77
+2023-09-04,German,produces,TRAIN,Bahn,27,0.76
+2023-09-04,German,produces,TRAIN,Bahn,28,0.85
+2023-09-04,German,produces,TRAIN,Bahn,29,0.9
+2023-09-04,German,produces,TRAIN,Bahn,30,0.9
+2023-09-04,Hebrew,produces,TRAIN,רכבת,11,0
+2023-09-04,Hebrew,produces,TRAIN,רכבת,12,0
+2023-09-04,Hebrew,produces,TRAIN,רכבת,13,0
+2023-09-04,Hebrew,produces,TRAIN,רכבת,14,0
+2023-09-04,Hebrew,produces,TRAIN,רכבת,15,0
+2023-09-04,Hebrew,produces,TRAIN,רכבת,16,0
+2023-09-04,Hebrew,produces,TRAIN,רכבת,17,0
+2023-09-04,Hebrew,produces,TRAIN,רכבת,19,0
+2023-09-04,Hebrew,produces,TRAIN,רכבת,20,0.44
+2023-09-04,Hebrew,produces,TRAIN,רכבת,21,0.5
+2023-09-04,Hebrew,produces,TRAIN,רכבת,22,0.33
+2023-09-04,Hebrew,produces,TRAIN,רכבת,23,0.43
+2023-09-04,Hebrew,produces,TRAIN,רכבת,24,0.73
+2023-09-04,Hebrew,produces,TRAIN,רכבת,25,0.8
+2023-09-04,Hebrew,produces,TRAIN,רכבת,26,0.82
+2023-09-04,Hebrew,produces,TRAIN,רכבת,27,0.87
+2023-09-04,Hebrew,produces,TRAIN,רכבת,28,0.91
+2023-09-04,Hebrew,produces,TRAIN,רכבת,29,0.94
+2023-09-04,Hebrew,produces,TRAIN,רכבת,30,0.89
+2023-09-04,Hebrew,produces,TRAIN,רכבת,31,0.97
+2023-09-04,Hebrew,produces,TRAIN,רכבת,32,0.94
+2023-09-04,Hebrew,produces,TRAIN,רכבת,33,0.9
+2023-09-04,Hebrew,produces,TRAIN,רכבת,34,1
+2023-09-04,Hebrew,produces,TRAIN,רכבת,35,0.83
+2023-09-04,Hebrew,produces,TRAIN,רכבת,36,0.8
+2023-09-04,Italian,produces,TRAIN,treno,7,0
+2023-09-04,Italian,produces,TRAIN,treno,8,0
+2023-09-04,Italian,produces,TRAIN,treno,9,0
+2023-09-04,Italian,produces,TRAIN,treno,10,0
+2023-09-04,Italian,produces,TRAIN,treno,11,0
+2023-09-04,Italian,produces,TRAIN,treno,12,0
+2023-09-04,Italian,produces,TRAIN,treno,13,0
+2023-09-04,Italian,produces,TRAIN,treno,14,0.03
+2023-09-04,Italian,produces,TRAIN,treno,15,0.04
+2023-09-04,Italian,produces,TRAIN,treno,16,0.05
+2023-09-04,Italian,produces,TRAIN,treno,17,0.17
+2023-09-04,Italian,produces,TRAIN,treno,18,0.16
+2023-09-04,Italian,produces,TRAIN,treno,19,0.19
+2023-09-04,Italian,produces,TRAIN,treno,20,0.31
+2023-09-04,Italian,produces,TRAIN,treno,21,0.43
+2023-09-04,Italian,produces,TRAIN,treno,22,0.52
+2023-09-04,Italian,produces,TRAIN,treno,23,0.6
+2023-09-04,Italian,produces,TRAIN,treno,24,0.74
+2023-09-04,Italian,produces,TRAIN,treno,25,0.87
+2023-09-04,Italian,produces,TRAIN,treno,26,0.78
+2023-09-04,Italian,produces,TRAIN,treno,27,0.81
+2023-09-04,Italian,produces,TRAIN,treno,28,0.91
+2023-09-04,Italian,produces,TRAIN,treno,29,0.89
+2023-09-04,Italian,produces,TRAIN,treno,30,0.94
+2023-09-04,Italian,produces,TRAIN,treno,31,1
+2023-09-04,Italian,produces,TRAIN,treno,32,0.87
+2023-09-04,Italian,produces,TRAIN,treno,33,0.94
+2023-09-04,Italian,produces,TRAIN,treno,34,1
+2023-09-04,Italian,produces,TRAIN,treno,35,1
+2023-09-04,Italian,produces,TRAIN,treno,36,0.95
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,12,0.02
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,13,0
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,14,0.04
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,15,0
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,16,0.02
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,17,0.12
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,18,0.21
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,19,0.27
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,20,0.39
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,21,0.49
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,22,0.63
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,23,0.73
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,24,0.73
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,25,0.77
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,26,0.8
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,27,0.89
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,28,0.89
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,29,0.92
+2023-09-04,Mandarin (Beijing),produces,TRAIN,火车,30,0.94
+2023-09-04,Norwegian,produces,TRAIN,tog,8,0.03
+2023-09-04,Norwegian,produces,TRAIN,tog,9,0
+2023-09-04,Norwegian,produces,TRAIN,tog,10,0
+2023-09-04,Norwegian,produces,TRAIN,tog,11,0
+2023-09-04,Norwegian,produces,TRAIN,tog,12,0.01
+2023-09-04,Norwegian,produces,TRAIN,tog,13,0
+2023-09-04,Norwegian,produces,TRAIN,tog,14,0.03
+2023-09-04,Norwegian,produces,TRAIN,tog,15,0.06
+2023-09-04,Norwegian,produces,TRAIN,tog,16,0.08
+2023-09-04,Norwegian,produces,TRAIN,tog,17,0.12
+2023-09-04,Norwegian,produces,TRAIN,tog,18,0.22
+2023-09-04,Norwegian,produces,TRAIN,tog,19,0.31
+2023-09-04,Norwegian,produces,TRAIN,tog,20,0.45
+2023-09-04,Norwegian,produces,TRAIN,tog,21,0.54
+2023-09-04,Norwegian,produces,TRAIN,tog,22,0.63
+2023-09-04,Norwegian,produces,TRAIN,tog,23,0.7
+2023-09-04,Norwegian,produces,TRAIN,tog,24,0.74
+2023-09-04,Norwegian,produces,TRAIN,tog,25,0.83
+2023-09-04,Norwegian,produces,TRAIN,tog,26,0.88
+2023-09-04,Norwegian,produces,TRAIN,tog,27,0.9
+2023-09-04,Norwegian,produces,TRAIN,tog,28,0.91
+2023-09-04,Norwegian,produces,TRAIN,tog,29,0.94
+2023-09-04,Norwegian,produces,TRAIN,tog,30,0.94
+2023-09-04,Norwegian,produces,TRAIN,tog,31,0.97
+2023-09-04,Norwegian,produces,TRAIN,tog,32,0.96
+2023-09-04,Norwegian,produces,TRAIN,tog,33,0.97
+2023-09-04,Norwegian,produces,TRAIN,tog,34,0.98
+2023-09-04,Norwegian,produces,TRAIN,tog,35,0.98
+2023-09-04,Norwegian,produces,TRAIN,tog,36,0.98
+2023-09-04,Russian,produces,TRAIN,поезд,8,0
+2023-09-04,Russian,produces,TRAIN,поезд,9,0
+2023-09-04,Russian,produces,TRAIN,поезд,10,0
+2023-09-04,Russian,produces,TRAIN,поезд,11,0
+2023-09-04,Russian,produces,TRAIN,поезд,12,0
+2023-09-04,Russian,produces,TRAIN,поезд,13,0.03
+2023-09-04,Russian,produces,TRAIN,поезд,14,0.01
+2023-09-04,Russian,produces,TRAIN,поезд,15,0.02
+2023-09-04,Russian,produces,TRAIN,поезд,16,0.04
+2023-09-04,Russian,produces,TRAIN,поезд,17,0.04
+2023-09-04,Russian,produces,TRAIN,поезд,18,0.09
+2023-09-04,Russian,produces,TRAIN,поезд,19,0.02
+2023-09-04,Russian,produces,TRAIN,поезд,20,0.16
+2023-09-04,Russian,produces,TRAIN,поезд,21,0.37
+2023-09-04,Russian,produces,TRAIN,поезд,22,0.33
+2023-09-04,Russian,produces,TRAIN,поезд,23,0.39
+2023-09-04,Russian,produces,TRAIN,поезд,24,0.39
+2023-09-04,Russian,produces,TRAIN,поезд,25,0.59
+2023-09-04,Russian,produces,TRAIN,поезд,26,0.56
+2023-09-04,Russian,produces,TRAIN,поезд,27,0.52
+2023-09-04,Russian,produces,TRAIN,поезд,28,0.63
+2023-09-04,Russian,produces,TRAIN,поезд,29,0.78
+2023-09-04,Russian,produces,TRAIN,поезд,30,0.7
+2023-09-04,Russian,produces,TRAIN,поезд,31,0.82
+2023-09-04,Russian,produces,TRAIN,поезд,32,0.71
+2023-09-04,Russian,produces,TRAIN,поезд,33,0.76
+2023-09-04,Russian,produces,TRAIN,поезд,34,0.91
+2023-09-04,Russian,produces,TRAIN,поезд,35,0.89
+2023-09-04,Russian,produces,TRAIN,поезд,36,0.82
+2023-09-04,Slovak,produces,TRAIN,vlak,8,0
+2023-09-04,Slovak,produces,TRAIN,vlak,9,0
+2023-09-04,Slovak,produces,TRAIN,vlak,10,0.04
+2023-09-04,Slovak,produces,TRAIN,vlak,11,0.03
+2023-09-04,Slovak,produces,TRAIN,vlak,12,0.13
+2023-09-04,Slovak,produces,TRAIN,vlak,13,0.11
+2023-09-04,Slovak,produces,TRAIN,vlak,14,0.18
+2023-09-04,Slovak,produces,TRAIN,vlak,15,0.24
+2023-09-04,Slovak,produces,TRAIN,vlak,16,0.25
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",17,0.19
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",18,0.25
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",19,0.29
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",20,0.42
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",21,0.39
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",22,0.43
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",23,0.47
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",24,0.59
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",25,0.56
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",26,0.64
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",27,0.69
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",28,0.63
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",29,0.67
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",30,0.68
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",31,0.72
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",32,0.76
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",33,0.77
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",34,0.63
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",35,0.78
+2023-09-04,Slovak,produces,TRAIN,"vlak, vlečka",36,0.69
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,8,0.03
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,9,0.02
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,10,0.01
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,11,0
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,12,0.02
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,13,0.04
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,14,0.03
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,15,0.03
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,16,0.2
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,17,0.24
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,18,0.28
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,19,0.39
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,20,0.47
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,21,0.35
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,22,0.51
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,23,0.52
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,24,0.66
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,25,0.65
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,26,0.66
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,27,0.75
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,28,0.72
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,29,0.78
+2023-09-04,Spanish (Mexican),produces,TRAIN,tren,30,0.72
+2023-09-04,Turkish,produces,TRAIN,Tren,8,0
+2023-09-04,Turkish,produces,TRAIN,Tren,9,0
+2023-09-04,Turkish,produces,TRAIN,Tren,10,0.01
+2023-09-04,Turkish,produces,TRAIN,Tren,11,0.02
+2023-09-04,Turkish,produces,TRAIN,Tren,12,0.01
+2023-09-04,Turkish,produces,TRAIN,Tren,13,0.01
+2023-09-04,Turkish,produces,TRAIN,Tren,14,0.01
+2023-09-04,Turkish,produces,TRAIN,Tren,15,0.02
+2023-09-04,Turkish,produces,TRAIN,Tren,16,0.04
+2023-09-04,Turkish,produces,TRAIN,Tren,17,0.07
+2023-09-04,Turkish,produces,TRAIN,Tren,18,0.05
+2023-09-04,Turkish,produces,TRAIN,Tren,19,0.13
+2023-09-04,Turkish,produces,TRAIN,Tren,20,0.21
+2023-09-04,Turkish,produces,TRAIN,Tren,21,0.26
+2023-09-04,Turkish,produces,TRAIN,Tren,22,0.25
+2023-09-04,Turkish,produces,TRAIN,Tren,23,0.34
+2023-09-04,Turkish,produces,TRAIN,Tren,24,0.42
+2023-09-04,Turkish,produces,TRAIN,Tren,25,0.42
+2023-09-04,Turkish,produces,TRAIN,Tren,26,0.53
+2023-09-04,Turkish,produces,TRAIN,Tren,27,0.5
+2023-09-04,Turkish,produces,TRAIN,Tren,28,0.63
+2023-09-04,Turkish,produces,TRAIN,Tren,29,0.66
+2023-09-04,Turkish,produces,TRAIN,Tren,30,0.72
+2023-09-04,Turkish,produces,TRAIN,Tren,31,0.68
+2023-09-04,Turkish,produces,TRAIN,Tren,32,0.77
+2023-09-04,Turkish,produces,TRAIN,Tren,33,0.76
+2023-09-04,Turkish,produces,TRAIN,Tren,34,0.82
+2023-09-04,Turkish,produces,TRAIN,Tren,35,0.85
+2023-09-04,Turkish,produces,TRAIN,Tren,36,0.88
+2023-09-04,English (British),produces,TRAIN,train,12,0
+2023-09-04,English (British),produces,TRAIN,train,13,0
+2023-09-04,English (British),produces,TRAIN,train,14,0.03
+2023-09-04,English (British),produces,TRAIN,train,15,0.01
+2023-09-04,English (British),produces,TRAIN,train,16,0.08
+2023-09-04,English (British),produces,TRAIN,train,17,0.11
+2023-09-04,English (British),produces,TRAIN,train,18,0.15
+2023-09-04,English (British),produces,TRAIN,train,19,0.33
+2023-09-04,English (British),produces,TRAIN,train,20,0.43
+2023-09-04,English (British),produces,TRAIN,train,21,0.61
+2023-09-04,English (British),produces,TRAIN,train,22,0.54
+2023-09-04,English (British),produces,TRAIN,train,23,0.69
+2023-09-04,English (British),produces,TRAIN,train,24,0.83
+2023-09-04,English (British),produces,TRAIN,train,25,0.75
+2023-09-04,Czech,produces,TRAIN,vlak,16,0.03
+2023-09-04,Czech,produces,TRAIN,vlak,17,0.1
+2023-09-04,Czech,produces,TRAIN,vlak,18,0.22
+2023-09-04,Czech,produces,TRAIN,vlak,19,0.11
+2023-09-04,Czech,produces,TRAIN,vlak,20,0.35
+2023-09-04,Czech,produces,TRAIN,vlak,21,0.41
+2023-09-04,Czech,produces,TRAIN,vlak,22,0.44
+2023-09-04,Czech,produces,TRAIN,vlak,23,0.5
+2023-09-04,Czech,produces,TRAIN,vlak,24,0.51
+2023-09-04,Czech,produces,TRAIN,vlak,25,0.6
+2023-09-04,Czech,produces,TRAIN,vlak,26,0.59
+2023-09-04,Czech,produces,TRAIN,vlak,27,0.65
+2023-09-04,Czech,produces,TRAIN,vlak,28,0.85
+2023-09-04,Czech,produces,TRAIN,vlak,29,0.85
+2023-09-04,Czech,produces,TRAIN,vlak,30,0.89
+2023-09-04,English (Australian),produces,TRAIN,train,12,0
+2023-09-04,English (Australian),produces,TRAIN,train,13,0
+2023-09-04,English (Australian),produces,TRAIN,train,14,0.05
+2023-09-04,English (Australian),produces,TRAIN,train,15,0.04
+2023-09-04,English (Australian),produces,TRAIN,train,16,0.1
+2023-09-04,English (Australian),produces,TRAIN,train,17,0.13
+2023-09-04,English (Australian),produces,TRAIN,train,18,0.28
+2023-09-04,English (Australian),produces,TRAIN,train,19,0.45
+2023-09-04,English (Australian),produces,TRAIN,train,20,0.53
+2023-09-04,English (Australian),produces,TRAIN,train,21,0.5
+2023-09-04,English (Australian),produces,TRAIN,train,22,0.75
+2023-09-04,English (Australian),produces,TRAIN,train,23,0.77
+2023-09-04,English (Australian),produces,TRAIN,train,24,0.78
+2023-09-04,English (Australian),produces,TRAIN,train,25,0.8
+2023-09-04,English (Australian),produces,TRAIN,train,26,0.9
+2023-09-04,English (Australian),produces,TRAIN,train,27,0.96
+2023-09-04,English (Australian),produces,TRAIN,train,28,0.87
+2023-09-04,English (Australian),produces,TRAIN,train,29,0.94
+2023-09-04,English (Australian),produces,TRAIN,train,30,0.92
+2023-09-04,Latvian,produces,TRAIN,vilciens,8,0
+2023-09-04,Latvian,produces,TRAIN,vilciens,9,0
+2023-09-04,Latvian,produces,TRAIN,vilciens,10,0
+2023-09-04,Latvian,produces,TRAIN,vilciens,11,0
+2023-09-04,Latvian,produces,TRAIN,vilciens,12,0
+2023-09-04,Latvian,produces,TRAIN,vilciens,13,0
+2023-09-04,Latvian,produces,TRAIN,vilciens,14,0.04
+2023-09-04,Latvian,produces,TRAIN,vilciens,15,0.07
+2023-09-04,Latvian,produces,TRAIN,vilciens,16,0.12
+2023-09-04,Latvian,produces,TRAIN,vilciens,17,0.07
+2023-09-04,Latvian,produces,TRAIN,vilciens,18,0.14
+2023-09-04,Latvian,produces,TRAIN,vilciens,19,0.04
+2023-09-04,Latvian,produces,TRAIN,vilciens,20,0.21
+2023-09-04,Latvian,produces,TRAIN,vilciens,21,0.27
+2023-09-04,Latvian,produces,TRAIN,vilciens,22,0.12
+2023-09-04,Latvian,produces,TRAIN,vilciens,23,0.48
+2023-09-04,Latvian,produces,TRAIN,vilciens,24,0.73
+2023-09-04,Latvian,produces,TRAIN,vilciens,25,0.52
+2023-09-04,Latvian,produces,TRAIN,vilciens,26,0.68
+2023-09-04,Latvian,produces,TRAIN,vilciens,27,0.67
+2023-09-04,Latvian,produces,TRAIN,vilciens,28,0.74
+2023-09-04,Latvian,produces,TRAIN,vilciens,29,0.79
+2023-09-04,Latvian,produces,TRAIN,vilciens,30,0.81
+2023-09-04,Latvian,produces,TRAIN,vilciens,31,0.84
+2023-09-04,Latvian,produces,TRAIN,vilciens,32,0.8
+2023-09-04,Latvian,produces,TRAIN,vilciens,33,0.81
+2023-09-04,Latvian,produces,TRAIN,vilciens,34,0.82
+2023-09-04,Latvian,produces,TRAIN,vilciens,35,0.86
+2023-09-04,Latvian,produces,TRAIN,vilciens,36,0.82
+2023-09-04,Korean,produces,TRAIN,기차,8,0
+2023-09-04,Korean,produces,TRAIN,기차,9,0
+2023-09-04,Korean,produces,TRAIN,기차,10,0
+2023-09-04,Korean,produces,TRAIN,기차,11,0
+2023-09-04,Korean,produces,TRAIN,기차,12,0.02
+2023-09-04,Korean,produces,TRAIN,기차,13,0.03
+2023-09-04,Korean,produces,TRAIN,기차,14,0.05
+2023-09-04,Korean,produces,TRAIN,기차,15,0.08
+2023-09-04,Korean,produces,TRAIN,기차,16,0.11
+2023-09-04,Korean,produces,TRAIN,기차,17,0.13
+2023-09-04,Korean,produces,TRAIN,기차,18,0.29
+2023-09-04,Korean,produces,TRAIN,기차,19,0.23
+2023-09-04,Korean,produces,TRAIN,기차,20,0.31
+2023-09-04,Korean,produces,TRAIN,기차,21,0.37
+2023-09-04,Korean,produces,TRAIN,기차,22,0.49
+2023-09-04,Korean,produces,TRAIN,기차,23,0.51
+2023-09-04,Korean,produces,TRAIN,기차,24,0.75
+2023-09-04,Korean,produces,TRAIN,기차,25,0.74
+2023-09-04,Korean,produces,TRAIN,기차,26,0.77
+2023-09-04,Korean,produces,TRAIN,기차,27,0.82
+2023-09-04,Korean,produces,TRAIN,기차,28,0.81
+2023-09-04,Korean,produces,TRAIN,기차,29,0.88
+2023-09-04,Korean,produces,TRAIN,기차,30,0.9
+2023-09-04,Korean,produces,TRAIN,기차,31,0.93
+2023-09-04,Korean,produces,TRAIN,기차,32,0.93
+2023-09-04,Korean,produces,TRAIN,기차,33,0.92
+2023-09-04,Korean,produces,TRAIN,기차,34,0.96
+2023-09-04,Korean,produces,TRAIN,기차,35,0.9
+2023-09-04,Korean,produces,TRAIN,기차,36,0.97
+2023-09-04,French (French),produces,TRAIN,train,8,0.02
+2023-09-04,French (French),produces,TRAIN,train,9,0
+2023-09-04,French (French),produces,TRAIN,train,11,0
+2023-09-04,French (French),produces,TRAIN,train,12,0
+2023-09-04,French (French),produces,TRAIN,train,13,0
+2023-09-04,French (French),produces,TRAIN,train,14,0
+2023-09-04,French (French),produces,TRAIN,train,15,0
+2023-09-04,French (French),produces,TRAIN,train,16,0.06
+2023-09-04,French (French),produces,TRAIN,train,17,0.04
+2023-09-04,French (French),produces,TRAIN,train,18,0
+2023-09-04,French (French),produces,TRAIN,train,19,0.36
+2023-09-04,French (French),produces,TRAIN,train,20,0.32
+2023-09-04,French (French),produces,TRAIN,train,21,0.27
+2023-09-04,French (French),produces,TRAIN,train,22,0.49
+2023-09-04,French (French),produces,TRAIN,train,23,0.52
+2023-09-04,French (French),produces,TRAIN,train,24,0.55
+2023-09-04,French (French),produces,TRAIN,train,25,0.67
+2023-09-04,French (French),produces,TRAIN,train,26,0.66
+2023-09-04,French (French),produces,TRAIN,train,27,0.69
+2023-09-04,French (French),produces,TRAIN,train,28,0.68
+2023-09-04,French (French),produces,TRAIN,train,29,0.94
+2023-09-04,French (French),produces,TRAIN,train,30,0.79
+2023-09-04,Spanish (European),produces,TRAIN,tren,8,0
+2023-09-04,Spanish (European),produces,TRAIN,tren,9,0
+2023-09-04,Spanish (European),produces,TRAIN,tren,10,0
+2023-09-04,Spanish (European),produces,TRAIN,tren,11,0.03
+2023-09-04,Spanish (European),produces,TRAIN,tren,12,0.06
+2023-09-04,Spanish (European),produces,TRAIN,tren,13,0.02
+2023-09-04,Spanish (European),produces,TRAIN,tren,14,0.04
+2023-09-04,Spanish (European),produces,TRAIN,tren,15,0.12
+2023-09-04,Spanish (European),produces,TRAIN,tren,16,0.1
+2023-09-04,Spanish (European),produces,TRAIN,tren,17,0.08
+2023-09-04,Spanish (European),produces,TRAIN,tren,18,0.24
+2023-09-04,Spanish (European),produces,TRAIN,tren,19,0.33
+2023-09-04,Spanish (European),produces,TRAIN,tren,20,0.42
+2023-09-04,Spanish (European),produces,TRAIN,tren,21,0.34
+2023-09-04,Spanish (European),produces,TRAIN,tren,22,0.53
+2023-09-04,Spanish (European),produces,TRAIN,tren,23,0.67
+2023-09-04,Spanish (European),produces,TRAIN,tren,24,0.78
+2023-09-04,Spanish (European),produces,TRAIN,tren,25,0.77
+2023-09-04,Spanish (European),produces,TRAIN,tren,26,0.8
+2023-09-04,Spanish (European),produces,TRAIN,tren,27,0.91
+2023-09-04,Spanish (European),produces,TRAIN,tren,28,0.87
+2023-09-04,Spanish (European),produces,TRAIN,tren,29,0.95
+2023-09-04,Spanish (European),produces,TRAIN,tren,30,0.88
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,8,0
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,9,0
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,10,0.01
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,11,0
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,12,0
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,13,0.01
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,14,0
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,15,0.01
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,16,0.02
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,17,0.01
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,18,0.05
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,19,0.09
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,20,0.14
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,21,0.23
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,22,0.26
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,23,0.37
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,24,0.39
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,25,0.53
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,26,0.59
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,27,0.67
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,28,0.68
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,29,0.73
+2023-09-04,Portuguese (European),produces,TRAIN,Comboio,30,0.78
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,8,0
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,9,0
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,10,0
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,11,0
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,12,0
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,13,0
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,14,0.02
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,15,0.05
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,16,0.04
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,17,0.18
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,18,0.17
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,19,0.23
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,20,0.23
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,21,0.34
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,22,0.44
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,23,0.59
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,24,0.6
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,25,0.69
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,26,0.78
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,27,0.84
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,28,0.84
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,29,0.88
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,30,0.9
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,31,0.88
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,32,0.88
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,33,0.94
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,34,0.91
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,35,0.96
+2023-09-04,Mandarin (Taiwanese),produces,TRAIN,火車,36,0.91
+2023-09-04,Dutch,produces,TRAIN,trein,8,0
+2023-09-04,Dutch,produces,TRAIN,trein,9,0
+2023-09-04,Dutch,produces,TRAIN,trein,10,0
+2023-09-04,Dutch,produces,TRAIN,trein,11,0
+2023-09-04,Dutch,produces,TRAIN,trein,12,0
+2023-09-04,Dutch,produces,TRAIN,trein,13,0
+2023-09-04,Dutch,produces,TRAIN,trein,14,0
+2023-09-04,Dutch,produces,TRAIN,trein,15,0
+2023-09-04,Dutch,produces,TRAIN,trein,16,0
+2023-09-04,Dutch,produces,TRAIN,trein,17,0.21
+2023-09-04,Dutch,produces,TRAIN,trein,18,0.2
+2023-09-04,Dutch,produces,TRAIN,trein,19,0.19
+2023-09-04,Dutch,produces,TRAIN,trein,20,0.39
+2023-09-04,Dutch,produces,TRAIN,trein,21,0.38
+2023-09-04,Dutch,produces,TRAIN,trein,22,0.57
+2023-09-04,Dutch,produces,TRAIN,trein,23,0.85
+2023-09-04,Dutch,produces,TRAIN,trein,24,0.85
+2023-09-04,Dutch,produces,TRAIN,trein,25,0.82
+2023-09-04,Dutch,produces,TRAIN,trein,26,0.67
+2023-09-04,Dutch,produces,TRAIN,trein,27,0.8
+2023-09-04,Dutch,produces,TRAIN,trein,28,1
+2023-09-04,Dutch,produces,TRAIN,trein,29,0.96
+2023-09-04,Dutch,produces,TRAIN,trein,30,0.96
+2023-09-04,Dutch,produces,TRAIN,trein,31,1
+2023-09-04,Hungarian,produces,TRAIN,vonat,16,0.1
+2023-09-04,Hungarian,produces,TRAIN,vonat,17,0.28
+2023-09-04,Hungarian,produces,TRAIN,vonat,18,0.28
+2023-09-04,Hungarian,produces,TRAIN,vonat,19,0.38
+2023-09-04,Hungarian,produces,TRAIN,vonat,20,0.39
+2023-09-04,Hungarian,produces,TRAIN,vonat,21,0.5
+2023-09-04,Hungarian,produces,TRAIN,vonat,22,0.44
+2023-09-04,Hungarian,produces,TRAIN,vonat,23,0.72
+2023-09-04,Hungarian,produces,TRAIN,vonat,24,0.61
+2023-09-04,Hungarian,produces,TRAIN,vonat,25,0.84
+2023-09-04,Hungarian,produces,TRAIN,vonat,26,0.78
+2023-09-04,Hungarian,produces,TRAIN,vonat,27,0.88
+2023-09-04,Hungarian,produces,TRAIN,vonat,28,0.83
+2023-09-04,Hungarian,produces,TRAIN,vonat,29,0.83
+2023-09-04,Hungarian,produces,TRAIN,vonat,30,0.78
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,16,0.23
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,17,0.16
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,18,0.23
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,19,0.18
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,20,0.33
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,21,0.51
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,22,0.42
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,23,0.49
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,24,0.49
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,25,0.63
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,26,0.64
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,27,0.73
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,28,0.62
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,29,0.66
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,30,0.81
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,31,0
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,32,1
+2023-09-04,Spanish (Argentinian),produces,TRAIN,tren,33,0
+2023-09-04,Persian,produces,TRAIN,قطار,8,0
+2023-09-04,Persian,produces,TRAIN,قطار,9,0
+2023-09-04,Persian,produces,TRAIN,قطار,10,0
+2023-09-04,Persian,produces,TRAIN,قطار,11,0
+2023-09-04,Persian,produces,TRAIN,قطار,12,0
+2023-09-04,Persian,produces,TRAIN,قطار,13,0
+2023-09-04,Persian,produces,TRAIN,قطار,14,0.07
+2023-09-04,Persian,produces,TRAIN,قطار,15,0.17
+2023-09-04,Persian,produces,TRAIN,قطار,16,0.25
+2023-09-04,Persian,produces,TRAIN,قطار,17,0
+2023-09-04,Persian,produces,TRAIN,قطار,18,0
+2023-09-04,Persian,produces,TRAIN,قطار,20,0
+2023-09-04,Persian,produces,TRAIN,قطار,21,0
+2023-09-04,Persian,produces,TRAIN,قطار,22,0
+2023-09-04,Persian,produces,TRAIN,قطار,23,0.67
+2023-09-04,Persian,produces,TRAIN,قطار,24,0.5
+2023-09-04,Persian,produces,TRAIN,قطار,25,0
+2023-09-04,Persian,produces,TRAIN,قطار,26,0.5
+2023-09-04,Persian,produces,TRAIN,قطار,27,0.6
+2023-09-04,Persian,produces,TRAIN,قطار,28,0.56
+2023-09-04,Persian,produces,TRAIN,قطار,29,0
+2023-09-04,Persian,produces,TRAIN,قطار,30,1

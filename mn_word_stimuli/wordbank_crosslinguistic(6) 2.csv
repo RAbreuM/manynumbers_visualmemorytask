@@ -1,0 +1,559 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,HAT,帽,16,0.09
+2023-09-04,Cantonese,produces,HAT,帽,17,0.15
+2023-09-04,Cantonese,produces,HAT,帽,18,0.21
+2023-09-04,Cantonese,produces,HAT,帽,19,0.2
+2023-09-04,Cantonese,produces,HAT,帽,20,0.41
+2023-09-04,Cantonese,produces,HAT,帽,21,0.44
+2023-09-04,Cantonese,produces,HAT,帽,22,0.5
+2023-09-04,Cantonese,produces,HAT,帽,23,0.58
+2023-09-04,Cantonese,produces,HAT,帽,24,0.63
+2023-09-04,Cantonese,produces,HAT,帽,25,0.74
+2023-09-04,Cantonese,produces,HAT,帽,26,0.69
+2023-09-04,Cantonese,produces,HAT,帽,27,0.95
+2023-09-04,Cantonese,produces,HAT,帽,28,0.85
+2023-09-04,Cantonese,produces,HAT,帽,29,0.89
+2023-09-04,Cantonese,produces,HAT,帽,30,0.93
+2023-09-04,Danish,produces,HAT,hue,8,0
+2023-09-04,Danish,produces,HAT,hue,9,0
+2023-09-04,Danish,produces,HAT,hue,10,0
+2023-09-04,Danish,produces,HAT,hue,11,0
+2023-09-04,Danish,produces,HAT,hue,12,0.01
+2023-09-04,Danish,produces,HAT,hue,13,0
+2023-09-04,Danish,produces,HAT,hue,14,0.01
+2023-09-04,Danish,produces,HAT,hue,15,0.02
+2023-09-04,Danish,produces,HAT,hue,16,0.05
+2023-09-04,Danish,produces,HAT,hue,17,0.09
+2023-09-04,Danish,produces,HAT,hue,18,0.22
+2023-09-04,Danish,produces,HAT,hue,19,0.28
+2023-09-04,Danish,produces,HAT,hue,20,0.42
+2023-09-04,Danish,produces,HAT,hue,21,0.46
+2023-09-04,Danish,produces,HAT,hue,22,0.65
+2023-09-04,Danish,produces,HAT,hue,23,0.66
+2023-09-04,Danish,produces,HAT,hue,24,0.71
+2023-09-04,Danish,produces,HAT,hue,25,0.78
+2023-09-04,Danish,produces,HAT,hue,26,0.82
+2023-09-04,Danish,produces,HAT,hue,27,0.82
+2023-09-04,Danish,produces,HAT,hue,28,0.84
+2023-09-04,Danish,produces,HAT,hue,29,0.82
+2023-09-04,Danish,produces,HAT,hue,30,0.9
+2023-09-04,Danish,produces,HAT,hue,31,0.92
+2023-09-04,Danish,produces,HAT,hue,32,0.94
+2023-09-04,Danish,produces,HAT,hue,33,0.93
+2023-09-04,Danish,produces,HAT,hue,34,0.98
+2023-09-04,Danish,produces,HAT,hue,35,0.92
+2023-09-04,Danish,produces,HAT,hue,36,0.98
+2023-09-04,English (American),produces,HAT,hat,8,0.02
+2023-09-04,English (American),produces,HAT,hat,9,0.01
+2023-09-04,English (American),produces,HAT,hat,10,0.01
+2023-09-04,English (American),produces,HAT,hat,11,0.03
+2023-09-04,English (American),produces,HAT,hat,12,0.05
+2023-09-04,English (American),produces,HAT,hat,13,0.05
+2023-09-04,English (American),produces,HAT,hat,14,0.12
+2023-09-04,English (American),produces,HAT,hat,15,0.21
+2023-09-04,English (American),produces,HAT,hat,16,0.3
+2023-09-04,English (American),produces,HAT,hat,17,0.34
+2023-09-04,English (American),produces,HAT,hat,18,0.46
+2023-09-04,English (American),produces,HAT,hat,19,0.57
+2023-09-04,English (American),produces,HAT,hat,20,0.62
+2023-09-04,English (American),produces,HAT,hat,21,0.66
+2023-09-04,English (American),produces,HAT,hat,22,0.7
+2023-09-04,English (American),produces,HAT,hat,23,0.78
+2023-09-04,English (American),produces,HAT,hat,24,0.8
+2023-09-04,English (American),produces,HAT,hat,25,0.85
+2023-09-04,English (American),produces,HAT,hat,26,0.85
+2023-09-04,English (American),produces,HAT,hat,27,0.84
+2023-09-04,English (American),produces,HAT,hat,28,0.93
+2023-09-04,English (American),produces,HAT,hat,29,0.87
+2023-09-04,English (American),produces,HAT,hat,30,0.88
+2023-09-04,French (Quebecois),produces,HAT,chapeau,8,0
+2023-09-04,French (Quebecois),produces,HAT,chapeau,9,0
+2023-09-04,French (Quebecois),produces,HAT,chapeau,10,0.04
+2023-09-04,French (Quebecois),produces,HAT,chapeau,11,0.02
+2023-09-04,French (Quebecois),produces,HAT,chapeau,12,0.01
+2023-09-04,French (Quebecois),produces,HAT,chapeau,13,0.13
+2023-09-04,French (Quebecois),produces,HAT,chapeau,14,0.09
+2023-09-04,French (Quebecois),produces,HAT,chapeau,15,0.31
+2023-09-04,French (Quebecois),produces,HAT,chapeau,16,0.4
+2023-09-04,French (Quebecois),produces,HAT,chapeau,17,0.65
+2023-09-04,French (Quebecois),produces,HAT,chapeau,18,0.59
+2023-09-04,French (Quebecois),produces,HAT,chapeau,19,0.8
+2023-09-04,French (Quebecois),produces,HAT,chapeau,20,0.78
+2023-09-04,French (Quebecois),produces,HAT,chapeau,21,0.84
+2023-09-04,French (Quebecois),produces,HAT,chapeau,22,0.85
+2023-09-04,French (Quebecois),produces,HAT,chapeau,23,0.93
+2023-09-04,French (Quebecois),produces,HAT,chapeau,24,0.87
+2023-09-04,French (Quebecois),produces,HAT,chapeau,25,0.93
+2023-09-04,French (Quebecois),produces,HAT,chapeau,26,0.98
+2023-09-04,French (Quebecois),produces,HAT,chapeau,27,0.98
+2023-09-04,French (Quebecois),produces,HAT,chapeau,28,0.97
+2023-09-04,French (Quebecois),produces,HAT,chapeau,29,0.98
+2023-09-04,French (Quebecois),produces,HAT,chapeau,30,0.95
+2023-09-04,German,produces,HAT,Mütze,18,0.22
+2023-09-04,German,produces,HAT,Mütze,19,0.38
+2023-09-04,German,produces,HAT,Mütze,20,0.33
+2023-09-04,German,produces,HAT,Mütze,21,0.48
+2023-09-04,German,produces,HAT,Mütze,22,0.64
+2023-09-04,German,produces,HAT,Mütze,23,0.76
+2023-09-04,German,produces,HAT,Mütze,24,0.68
+2023-09-04,German,produces,HAT,Mütze,25,0.79
+2023-09-04,German,produces,HAT,Mütze,26,0.78
+2023-09-04,German,produces,HAT,Mütze,27,0.73
+2023-09-04,German,produces,HAT,Mütze,28,0.86
+2023-09-04,German,produces,HAT,Mütze,29,0.89
+2023-09-04,German,produces,HAT,Mütze,30,0.97
+2023-09-04,Hebrew,produces,HAT,כובע,11,0
+2023-09-04,Hebrew,produces,HAT,כובע,12,0
+2023-09-04,Hebrew,produces,HAT,כובע,13,0
+2023-09-04,Hebrew,produces,HAT,כובע,14,0
+2023-09-04,Hebrew,produces,HAT,כובע,15,0
+2023-09-04,Hebrew,produces,HAT,כובע,16,0.17
+2023-09-04,Hebrew,produces,HAT,כובע,17,0.33
+2023-09-04,Hebrew,produces,HAT,כובע,19,0.5
+2023-09-04,Hebrew,produces,HAT,כובע,20,0.44
+2023-09-04,Hebrew,produces,HAT,כובע,21,0.75
+2023-09-04,Hebrew,produces,HAT,כובע,22,1
+2023-09-04,Hebrew,produces,HAT,כובע,23,0.86
+2023-09-04,Hebrew,produces,HAT,כובע,24,0.82
+2023-09-04,Hebrew,produces,HAT,כובע,25,0.87
+2023-09-04,Hebrew,produces,HAT,כובע,26,0.86
+2023-09-04,Hebrew,produces,HAT,כובע,27,0.91
+2023-09-04,Hebrew,produces,HAT,כובע,28,0.89
+2023-09-04,Hebrew,produces,HAT,כובע,29,0.96
+2023-09-04,Hebrew,produces,HAT,כובע,30,1
+2023-09-04,Hebrew,produces,HAT,כובע,31,0.97
+2023-09-04,Hebrew,produces,HAT,כובע,32,0.92
+2023-09-04,Hebrew,produces,HAT,כובע,33,0.9
+2023-09-04,Hebrew,produces,HAT,כובע,34,1
+2023-09-04,Hebrew,produces,HAT,כובע,35,0.83
+2023-09-04,Hebrew,produces,HAT,כובע,36,1
+2023-09-04,Italian,produces,HAT,cappello,7,0
+2023-09-04,Italian,produces,HAT,cappello,8,0
+2023-09-04,Italian,produces,HAT,cappello,9,0
+2023-09-04,Italian,produces,HAT,cappello,10,0
+2023-09-04,Italian,produces,HAT,cappello,11,0
+2023-09-04,Italian,produces,HAT,cappello,12,0.01
+2023-09-04,Italian,produces,HAT,cappello,13,0
+2023-09-04,Italian,produces,HAT,cappello,14,0.03
+2023-09-04,Italian,produces,HAT,cappello,15,0.06
+2023-09-04,Italian,produces,HAT,cappello,16,0.05
+2023-09-04,Italian,produces,HAT,cappello,17,0.15
+2023-09-04,Italian,produces,HAT,cappello,18,0.25
+2023-09-04,Italian,produces,HAT,cappello,19,0.31
+2023-09-04,Italian,produces,HAT,cappello,20,0.3
+2023-09-04,Italian,produces,HAT,cappello,21,0.46
+2023-09-04,Italian,produces,HAT,cappello,22,0.51
+2023-09-04,Italian,produces,HAT,cappello,23,0.66
+2023-09-04,Italian,produces,HAT,cappello,24,0.76
+2023-09-04,Italian,produces,HAT,cappello,25,0.79
+2023-09-04,Italian,produces,HAT,cappello,26,0.83
+2023-09-04,Italian,produces,HAT,cappello,27,0.95
+2023-09-04,Italian,produces,HAT,cappello,28,0.95
+2023-09-04,Italian,produces,HAT,cappello,29,0.92
+2023-09-04,Italian,produces,HAT,cappello,30,0.94
+2023-09-04,Italian,produces,HAT,cappello,31,0.95
+2023-09-04,Italian,produces,HAT,cappello,32,0.96
+2023-09-04,Italian,produces,HAT,cappello,33,1
+2023-09-04,Italian,produces,HAT,cappello,34,1
+2023-09-04,Italian,produces,HAT,cappello,35,0.93
+2023-09-04,Italian,produces,HAT,cappello,36,0.95
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,12,0.02
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,13,0.04
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,14,0.02
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,15,0.09
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,16,0.37
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,17,0.54
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,18,0.53
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,19,0.61
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,20,0.66
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,21,0.75
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,22,0.75
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,23,0.86
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,24,0.85
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,25,0.88
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,26,0.88
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,27,0.89
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,28,0.93
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,29,0.94
+2023-09-04,Mandarin (Beijing),produces,HAT,帽子,30,0.95
+2023-09-04,Norwegian,produces,HAT,lue,8,0.03
+2023-09-04,Norwegian,produces,HAT,lue,9,0
+2023-09-04,Norwegian,produces,HAT,lue,10,0
+2023-09-04,Norwegian,produces,HAT,lue,11,0
+2023-09-04,Norwegian,produces,HAT,lue,12,0
+2023-09-04,Norwegian,produces,HAT,lue,13,0
+2023-09-04,Norwegian,produces,HAT,lue,14,0.03
+2023-09-04,Norwegian,produces,HAT,lue,15,0.06
+2023-09-04,Norwegian,produces,HAT,lue,16,0.12
+2023-09-04,Norwegian,produces,HAT,lue,17,0.21
+2023-09-04,Norwegian,produces,HAT,lue,18,0.35
+2023-09-04,Norwegian,produces,HAT,lue,19,0.45
+2023-09-04,Norwegian,produces,HAT,lue,20,0.6
+2023-09-04,Norwegian,produces,HAT,lue,21,0.68
+2023-09-04,Norwegian,produces,HAT,lue,22,0.71
+2023-09-04,Norwegian,produces,HAT,lue,23,0.77
+2023-09-04,Norwegian,produces,HAT,lue,24,0.85
+2023-09-04,Norwegian,produces,HAT,lue,25,0.87
+2023-09-04,Norwegian,produces,HAT,lue,26,0.91
+2023-09-04,Norwegian,produces,HAT,lue,27,0.91
+2023-09-04,Norwegian,produces,HAT,lue,28,0.95
+2023-09-04,Norwegian,produces,HAT,lue,29,0.94
+2023-09-04,Norwegian,produces,HAT,lue,30,0.94
+2023-09-04,Norwegian,produces,HAT,lue,31,0.96
+2023-09-04,Norwegian,produces,HAT,lue,32,0.96
+2023-09-04,Norwegian,produces,HAT,lue,33,0.97
+2023-09-04,Norwegian,produces,HAT,lue,34,0.96
+2023-09-04,Norwegian,produces,HAT,lue,35,0.99
+2023-09-04,Norwegian,produces,HAT,lue,36,0.98
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",8,0
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",9,0
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",10,0.01
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",11,0.01
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",12,0.01
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",13,0.05
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",14,0.06
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",15,0.09
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",16,0.12
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",17,0.19
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",18,0.22
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",19,0.28
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",20,0.43
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",21,0.43
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",22,0.44
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",23,0.52
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",24,0.68
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",25,0.68
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",26,0.81
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",27,0.77
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",28,0.74
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",29,0.76
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",30,0.76
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",31,0.72
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",32,0.88
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",33,0.89
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",34,0.78
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",35,0.74
+2023-09-04,Slovak,produces,HAT,"čiapka, klobúk",36,0.81
+2023-09-04,Spanish (Mexican),produces,HAT,sombrero,8,0
+2023-09-04,Spanish (Mexican),produces,HAT,sombrero,9,0
+2023-09-04,Spanish (Mexican),produces,HAT,sombrero,10,0.01
+2023-09-04,Spanish (Mexican),produces,HAT,sombrero,11,0
+2023-09-04,Spanish (Mexican),produces,HAT,sombrero,12,0
+2023-09-04,Spanish (Mexican),produces,HAT,sombrero,13,0.02
+2023-09-04,Spanish (Mexican),produces,HAT,sombrero,14,0.01
+2023-09-04,Spanish (Mexican),produces,HAT,sombrero,15,0.05
+2023-09-04,Spanish (Mexican),produces,HAT,"sombrero, gorra",16,0.12
+2023-09-04,Spanish (Mexican),produces,HAT,"sombrero, gorra",17,0.13
+2023-09-04,Spanish (Mexican),produces,HAT,"sombrero, gorra",18,0.18
+2023-09-04,Spanish (Mexican),produces,HAT,"gorra, sombrero",19,0.26
+2023-09-04,Spanish (Mexican),produces,HAT,"gorra, sombrero",20,0.28
+2023-09-04,Spanish (Mexican),produces,HAT,"gorra, sombrero",21,0.28
+2023-09-04,Spanish (Mexican),produces,HAT,"gorra, sombrero",22,0.29
+2023-09-04,Spanish (Mexican),produces,HAT,"gorra, sombrero",23,0.27
+2023-09-04,Spanish (Mexican),produces,HAT,"gorra, sombrero",24,0.41
+2023-09-04,Spanish (Mexican),produces,HAT,"gorra, sombrero",25,0.44
+2023-09-04,Spanish (Mexican),produces,HAT,"gorra, sombrero",26,0.49
+2023-09-04,Spanish (Mexican),produces,HAT,"gorra, sombrero",27,0.59
+2023-09-04,Spanish (Mexican),produces,HAT,"gorra, sombrero",28,0.54
+2023-09-04,Spanish (Mexican),produces,HAT,"gorra, sombrero",29,0.6
+2023-09-04,Spanish (Mexican),produces,HAT,"gorra, sombrero",30,0.41
+2023-09-04,Turkish,produces,HAT,Şapka,8,0
+2023-09-04,Turkish,produces,HAT,Şapka,9,0
+2023-09-04,Turkish,produces,HAT,Şapka,10,0
+2023-09-04,Turkish,produces,HAT,Şapka,11,0.01
+2023-09-04,Turkish,produces,HAT,Şapka,12,0.01
+2023-09-04,Turkish,produces,HAT,Şapka,13,0.01
+2023-09-04,Turkish,produces,HAT,Şapka,14,0.04
+2023-09-04,Turkish,produces,HAT,Şapka,15,0.04
+2023-09-04,Turkish,produces,HAT,Şapka,16,0.11
+2023-09-04,Turkish,produces,HAT,Şapka,17,0.24
+2023-09-04,Turkish,produces,HAT,Şapka,18,0.22
+2023-09-04,Turkish,produces,HAT,Şapka,19,0.29
+2023-09-04,Turkish,produces,HAT,Şapka,20,0.39
+2023-09-04,Turkish,produces,HAT,Şapka,21,0.41
+2023-09-04,Turkish,produces,HAT,Şapka,22,0.43
+2023-09-04,Turkish,produces,HAT,Şapka,23,0.57
+2023-09-04,Turkish,produces,HAT,Şapka,24,0.58
+2023-09-04,Turkish,produces,HAT,Şapka,25,0.67
+2023-09-04,Turkish,produces,HAT,Şapka,26,0.71
+2023-09-04,Turkish,produces,HAT,Şapka,27,0.72
+2023-09-04,Turkish,produces,HAT,Şapka,28,0.79
+2023-09-04,Turkish,produces,HAT,Şapka,29,0.82
+2023-09-04,Turkish,produces,HAT,Şapka,30,0.86
+2023-09-04,Turkish,produces,HAT,Şapka,31,0.82
+2023-09-04,Turkish,produces,HAT,Şapka,32,0.85
+2023-09-04,Turkish,produces,HAT,Şapka,33,0.94
+2023-09-04,Turkish,produces,HAT,Şapka,34,0.88
+2023-09-04,Turkish,produces,HAT,Şapka,35,0.9
+2023-09-04,Turkish,produces,HAT,Şapka,36,0.96
+2023-09-04,English (British),produces,HAT,hat,12,0
+2023-09-04,English (British),produces,HAT,hat,13,0
+2023-09-04,English (British),produces,HAT,hat,14,0.09
+2023-09-04,English (British),produces,HAT,hat,15,0.11
+2023-09-04,English (British),produces,HAT,hat,16,0.14
+2023-09-04,English (British),produces,HAT,hat,17,0.25
+2023-09-04,English (British),produces,HAT,hat,18,0.38
+2023-09-04,English (British),produces,HAT,hat,19,0.5
+2023-09-04,English (British),produces,HAT,hat,20,0.62
+2023-09-04,English (British),produces,HAT,hat,21,0.71
+2023-09-04,English (British),produces,HAT,hat,22,0.76
+2023-09-04,English (British),produces,HAT,hat,23,0.76
+2023-09-04,English (British),produces,HAT,hat,24,0.8
+2023-09-04,English (British),produces,HAT,hat,25,0.82
+2023-09-04,English (British),produces,HAT,hat,26,0.82
+2023-09-04,English (British),produces,HAT,hat,27,0.85
+2023-09-04,English (British),produces,HAT,hat,28,0.81
+2023-09-04,English (British),produces,HAT,hat,29,0.84
+2023-09-04,English (British),produces,HAT,hat,30,1
+2023-09-04,English (British),produces,HAT,hat,31,1
+2023-09-04,English (British),produces,HAT,hat,32,0.89
+2023-09-04,English (British),produces,HAT,hat,33,0.93
+2023-09-04,English (British),produces,HAT,hat,34,0.8
+2023-09-04,English (British),produces,HAT,hat,35,0.8
+2023-09-04,Kigiriama,produces,HAT,Kofia/Chepeo,8,0
+2023-09-04,Kigiriama,produces,HAT,Kofia/Chepeo,9,0
+2023-09-04,Kigiriama,produces,HAT,Kofia/Chepeo,10,0
+2023-09-04,Kigiriama,produces,HAT,Kofia/Chepeo,11,0.14
+2023-09-04,Kigiriama,produces,HAT,Kofia/Chepeo,12,0
+2023-09-04,Kigiriama,produces,HAT,Kofia/Chepeo,13,0.06
+2023-09-04,Kigiriama,produces,HAT,Kofia/Chepeo,14,0
+2023-09-04,Kigiriama,produces,HAT,Kofia/Chepeo,15,0
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",16,0.5
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",17,0
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",18,0.04
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",19,0.19
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",20,0.11
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",21,0.17
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",22,0.33
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",23,0.12
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",24,0.29
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",25,0.5
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",26,0.25
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",27,0.62
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",28,0.5
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",29,0.3
+2023-09-04,Kigiriama,produces,HAT,"Chepeo, Kofia/",30,0.5
+2023-09-04,English (Australian),produces,HAT,hat,12,0.01
+2023-09-04,English (Australian),produces,HAT,hat,13,0.03
+2023-09-04,English (Australian),produces,HAT,hat,14,0.13
+2023-09-04,English (Australian),produces,HAT,hat,15,0.14
+2023-09-04,English (Australian),produces,HAT,hat,16,0.27
+2023-09-04,English (Australian),produces,HAT,hat,17,0.3
+2023-09-04,English (Australian),produces,HAT,hat,18,0.48
+2023-09-04,English (Australian),produces,HAT,hat,19,0.65
+2023-09-04,English (Australian),produces,HAT,hat,20,0.73
+2023-09-04,English (Australian),produces,HAT,hat,21,0.62
+2023-09-04,English (Australian),produces,HAT,hat,22,0.86
+2023-09-04,English (Australian),produces,HAT,hat,23,0.85
+2023-09-04,English (Australian),produces,HAT,hat,24,0.79
+2023-09-04,English (Australian),produces,HAT,hat,25,0.88
+2023-09-04,English (Australian),produces,HAT,hat,26,0.91
+2023-09-04,English (Australian),produces,HAT,hat,27,0.94
+2023-09-04,English (Australian),produces,HAT,hat,28,0.94
+2023-09-04,English (Australian),produces,HAT,hat,29,0.95
+2023-09-04,English (Australian),produces,HAT,hat,30,1
+2023-09-04,Korean,produces,HAT,모자,8,0
+2023-09-04,Korean,produces,HAT,모자,9,0
+2023-09-04,Korean,produces,HAT,모자,10,0.02
+2023-09-04,Korean,produces,HAT,모자,11,0.03
+2023-09-04,Korean,produces,HAT,모자,12,0.02
+2023-09-04,Korean,produces,HAT,모자,13,0.11
+2023-09-04,Korean,produces,HAT,모자,14,0.13
+2023-09-04,Korean,produces,HAT,모자,15,0.1
+2023-09-04,Korean,produces,HAT,모자,16,0.2
+2023-09-04,Korean,produces,HAT,모자,17,0.27
+2023-09-04,Korean,produces,HAT,모자,18,0.37
+2023-09-04,Korean,produces,HAT,모자,19,0.34
+2023-09-04,Korean,produces,HAT,모자,20,0.42
+2023-09-04,Korean,produces,HAT,모자,21,0.4
+2023-09-04,Korean,produces,HAT,모자,22,0.53
+2023-09-04,Korean,produces,HAT,모자,23,0.6
+2023-09-04,Korean,produces,HAT,모자,24,0.78
+2023-09-04,Korean,produces,HAT,모자,25,0.85
+2023-09-04,Korean,produces,HAT,모자,26,0.89
+2023-09-04,Korean,produces,HAT,모자,27,0.83
+2023-09-04,Korean,produces,HAT,모자,28,0.87
+2023-09-04,Korean,produces,HAT,모자,29,0.88
+2023-09-04,Korean,produces,HAT,모자,30,0.86
+2023-09-04,Korean,produces,HAT,모자,31,0.96
+2023-09-04,Korean,produces,HAT,모자,32,0.94
+2023-09-04,Korean,produces,HAT,모자,33,0.96
+2023-09-04,Korean,produces,HAT,모자,34,0.95
+2023-09-04,Korean,produces,HAT,모자,35,0.96
+2023-09-04,Korean,produces,HAT,모자,36,0.99
+2023-09-04,French (French),produces,HAT,chapeau,8,0
+2023-09-04,French (French),produces,HAT,chapeau,9,0
+2023-09-04,French (French),produces,HAT,chapeau,11,0
+2023-09-04,French (French),produces,HAT,chapeau,12,0
+2023-09-04,French (French),produces,HAT,chapeau,13,0
+2023-09-04,French (French),produces,HAT,chapeau,14,0
+2023-09-04,French (French),produces,HAT,chapeau,15,0
+2023-09-04,French (French),produces,HAT,chapeau,16,0.14
+2023-09-04,French (French),produces,HAT,chapeau,17,0.19
+2023-09-04,French (French),produces,HAT,chapeau,18,0
+2023-09-04,French (French),produces,HAT,chapeau,19,0.82
+2023-09-04,French (French),produces,HAT,chapeau,20,0.48
+2023-09-04,French (French),produces,HAT,chapeau,21,0.57
+2023-09-04,French (French),produces,HAT,chapeau,22,0.68
+2023-09-04,French (French),produces,HAT,chapeau,23,0.68
+2023-09-04,French (French),produces,HAT,chapeau,24,0.75
+2023-09-04,French (French),produces,HAT,chapeau,25,0.93
+2023-09-04,French (French),produces,HAT,chapeau,26,0.72
+2023-09-04,French (French),produces,HAT,chapeau,27,0.85
+2023-09-04,French (French),produces,HAT,chapeau,28,0.82
+2023-09-04,French (French),produces,HAT,chapeau,29,0.83
+2023-09-04,French (French),produces,HAT,chapeau,30,0.97
+2023-09-04,Spanish (European),produces,HAT,gorro,8,0
+2023-09-04,Spanish (European),produces,HAT,gorro,9,0
+2023-09-04,Spanish (European),produces,HAT,gorro,10,0
+2023-09-04,Spanish (European),produces,HAT,gorro,11,0
+2023-09-04,Spanish (European),produces,HAT,gorro,12,0
+2023-09-04,Spanish (European),produces,HAT,gorro,13,0.02
+2023-09-04,Spanish (European),produces,HAT,gorro,14,0.02
+2023-09-04,Spanish (European),produces,HAT,gorro,15,0.08
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",16,0.05
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",17,0.05
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",18,0.09
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",19,0.11
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",20,0.22
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",21,0.28
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",22,0.37
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",23,0.38
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",24,0.43
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",25,0.4
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",26,0.57
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",27,0.65
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",28,0.62
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",29,0.72
+2023-09-04,Spanish (European),produces,HAT,"gorro, sombrero",30,0.73
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu",8,0
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu",9,0
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu",10,0
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu",11,0
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu",12,0
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu",13,0.03
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu",14,0.01
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu",15,0.02
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",16,0.04
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",17,0.07
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",18,0.13
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",19,0.15
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",20,0.25
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",21,0.28
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",22,0.32
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",23,0.38
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",24,0.44
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",25,0.53
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",26,0.52
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",27,0.58
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",28,0.61
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",29,0.61
+2023-09-04,Portuguese (European),produces,HAT,"Boné, Chapéu, Gorro",30,0.65
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,8,0
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,9,0
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,10,0
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,11,0
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,12,0.03
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,13,0.04
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,14,0.09
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,15,0.12
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,16,0.14
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,17,0.24
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,18,0.37
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,19,0.49
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,20,0.54
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,21,0.57
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,22,0.7
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,23,0.64
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,24,0.88
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,25,0.86
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,26,0.84
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,27,0.85
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,28,0.92
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,29,0.94
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,30,0.95
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,31,0.94
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,32,0.91
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,33,0.98
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,34,0.92
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,35,0.99
+2023-09-04,Mandarin (Taiwanese),produces,HAT,帽子,36,0.99
+2023-09-04,Dutch,produces,HAT,"hoed, muts",8,0
+2023-09-04,Dutch,produces,HAT,"hoed, muts",9,0
+2023-09-04,Dutch,produces,HAT,"hoed, muts",10,0
+2023-09-04,Dutch,produces,HAT,"hoed, muts",11,0
+2023-09-04,Dutch,produces,HAT,"hoed, muts",12,0
+2023-09-04,Dutch,produces,HAT,"hoed, muts",13,0
+2023-09-04,Dutch,produces,HAT,"hoed, muts",14,0
+2023-09-04,Dutch,produces,HAT,"hoed, muts",15,0.06
+2023-09-04,Dutch,produces,HAT,"hoed, muts",16,0.03
+2023-09-04,Dutch,produces,HAT,"hoed, muts",17,0.06
+2023-09-04,Dutch,produces,HAT,"hoed, muts",18,0.07
+2023-09-04,Dutch,produces,HAT,"hoed, muts",19,0.09
+2023-09-04,Dutch,produces,HAT,"hoed, muts",20,0.22
+2023-09-04,Dutch,produces,HAT,"hoed, muts",21,0.33
+2023-09-04,Dutch,produces,HAT,"hoed, muts",22,0.43
+2023-09-04,Dutch,produces,HAT,"hoed, muts",23,0.63
+2023-09-04,Dutch,produces,HAT,"hoed, muts",24,0.7
+2023-09-04,Dutch,produces,HAT,"hoed, muts",25,0.81
+2023-09-04,Dutch,produces,HAT,"hoed, muts",26,0.54
+2023-09-04,Dutch,produces,HAT,"hoed, muts",27,0.7
+2023-09-04,Dutch,produces,HAT,"hoed, muts",28,0.9
+2023-09-04,Dutch,produces,HAT,"hoed, muts",29,0.92
+2023-09-04,Dutch,produces,HAT,"hoed, muts",30,0.9
+2023-09-04,Dutch,produces,HAT,"hoed, muts",31,0.78
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",16,0.07
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",17,0.22
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",18,0.14
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",19,0.44
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",20,0.28
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",21,0.47
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",22,0.43
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",23,0.5
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",24,0.42
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",25,0.65
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",26,0.61
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",27,0.58
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",28,0.55
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",29,0.71
+2023-09-04,Hungarian,produces,HAT,"kalap, sapka",30,0.58
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",16,0.04
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",17,0.06
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",18,0.02
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",19,0.06
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",20,0.11
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",21,0.12
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",22,0.15
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",23,0.24
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",24,0.27
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",25,0.35
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",26,0.22
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",27,0.3
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",28,0.37
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",29,0.44
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",30,0.57
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",31,0
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",32,1
+2023-09-04,Spanish (Argentinian),produces,HAT,"gorra_gorro, sombrero",33,0.5
+2023-09-04,Persian,produces,HAT,کلاه,8,0
+2023-09-04,Persian,produces,HAT,کلاه,9,0
+2023-09-04,Persian,produces,HAT,کلاه,10,0.06
+2023-09-04,Persian,produces,HAT,کلاه,11,0
+2023-09-04,Persian,produces,HAT,کلاه,12,0
+2023-09-04,Persian,produces,HAT,کلاه,13,0
+2023-09-04,Persian,produces,HAT,کلاه,14,0.07
+2023-09-04,Persian,produces,HAT,کلاه,15,0.08
+2023-09-04,Persian,produces,HAT,کلاه,16,0
+2023-09-04,Persian,produces,HAT,کلاه,17,0
+2023-09-04,Persian,produces,HAT,کلاه,18,0.4
+2023-09-04,Persian,produces,HAT,کلاه,20,0.33
+2023-09-04,Persian,produces,HAT,کلاه,21,1
+2023-09-04,Persian,produces,HAT,کلاه,22,0
+2023-09-04,Persian,produces,HAT,کلاه,23,1
+2023-09-04,Persian,produces,HAT,کلاه,24,0.9
+2023-09-04,Persian,produces,HAT,کلاه,25,1
+2023-09-04,Persian,produces,HAT,کلاه,26,1
+2023-09-04,Persian,produces,HAT,کلاه,27,1
+2023-09-04,Persian,produces,HAT,کلاه,28,1
+2023-09-04,Persian,produces,HAT,کلاه,29,1
+2023-09-04,Persian,produces,HAT,کلاه,30,1

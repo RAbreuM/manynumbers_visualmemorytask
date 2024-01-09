@@ -1,0 +1,583 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,STAIRS,樓梯,16,0
+2023-09-04,Cantonese,produces,STAIRS,樓梯,17,0
+2023-09-04,Cantonese,produces,STAIRS,樓梯,18,0.06
+2023-09-04,Cantonese,produces,STAIRS,樓梯,19,0.11
+2023-09-04,Cantonese,produces,STAIRS,樓梯,20,0.13
+2023-09-04,Cantonese,produces,STAIRS,樓梯,21,0.21
+2023-09-04,Cantonese,produces,STAIRS,樓梯,22,0.25
+2023-09-04,Cantonese,produces,STAIRS,樓梯,23,0.32
+2023-09-04,Cantonese,produces,STAIRS,樓梯,24,0.41
+2023-09-04,Cantonese,produces,STAIRS,樓梯,25,0.55
+2023-09-04,Cantonese,produces,STAIRS,樓梯,26,0.57
+2023-09-04,Cantonese,produces,STAIRS,樓梯,27,0.65
+2023-09-04,Cantonese,produces,STAIRS,樓梯,28,0.73
+2023-09-04,Cantonese,produces,STAIRS,樓梯,29,0.82
+2023-09-04,Cantonese,produces,STAIRS,樓梯,30,0.81
+2023-09-04,Croatian,produces,STAIRS,stepenice,8,0
+2023-09-04,Croatian,produces,STAIRS,stepenice,9,0
+2023-09-04,Croatian,produces,STAIRS,stepenice,10,0
+2023-09-04,Croatian,produces,STAIRS,stepenice,11,0
+2023-09-04,Croatian,produces,STAIRS,stepenice,12,0
+2023-09-04,Croatian,produces,STAIRS,stepenice,13,0
+2023-09-04,Croatian,produces,STAIRS,stepenice,14,0
+2023-09-04,Croatian,produces,STAIRS,stepenice,15,0
+2023-09-04,Croatian,produces,STAIRS,stepenice,16,0.06
+2023-09-04,Croatian,produces,STAIRS,stepenice,17,0.04
+2023-09-04,Croatian,produces,STAIRS,stepenice,18,0
+2023-09-04,Croatian,produces,STAIRS,stepenice,19,0
+2023-09-04,Croatian,produces,STAIRS,stepenice,20,0.12
+2023-09-04,Croatian,produces,STAIRS,stepenice,21,0
+2023-09-04,Croatian,produces,STAIRS,stepenice,22,0.04
+2023-09-04,Croatian,produces,STAIRS,stepenice,23,0.19
+2023-09-04,Croatian,produces,STAIRS,stepenice,24,0.07
+2023-09-04,Croatian,produces,STAIRS,stepenice,25,0.2
+2023-09-04,Croatian,produces,STAIRS,stepenice,26,0.28
+2023-09-04,Croatian,produces,STAIRS,stepenice,27,0.08
+2023-09-04,Croatian,produces,STAIRS,stepenice,28,0.33
+2023-09-04,Croatian,produces,STAIRS,stepenice,29,0.29
+2023-09-04,Croatian,produces,STAIRS,stepenice,30,0.36
+2023-09-04,Danish,produces,STAIRS,trapper,8,0
+2023-09-04,Danish,produces,STAIRS,trapper,9,0
+2023-09-04,Danish,produces,STAIRS,trapper,10,0
+2023-09-04,Danish,produces,STAIRS,trapper,11,0
+2023-09-04,Danish,produces,STAIRS,trapper,12,0.01
+2023-09-04,Danish,produces,STAIRS,trapper,13,0
+2023-09-04,Danish,produces,STAIRS,trapper,14,0.01
+2023-09-04,Danish,produces,STAIRS,trapper,15,0
+2023-09-04,Danish,produces,STAIRS,trapper,16,0.02
+2023-09-04,Danish,produces,STAIRS,trapper,17,0.02
+2023-09-04,Danish,produces,STAIRS,trapper,18,0.05
+2023-09-04,Danish,produces,STAIRS,trapper,19,0.08
+2023-09-04,Danish,produces,STAIRS,trapper,20,0.2
+2023-09-04,Danish,produces,STAIRS,trapper,21,0.2
+2023-09-04,Danish,produces,STAIRS,trapper,22,0.37
+2023-09-04,Danish,produces,STAIRS,trapper,23,0.38
+2023-09-04,Danish,produces,STAIRS,trapper,24,0.46
+2023-09-04,Danish,produces,STAIRS,trapper,25,0.54
+2023-09-04,Danish,produces,STAIRS,trapper,26,0.69
+2023-09-04,Danish,produces,STAIRS,trapper,27,0.76
+2023-09-04,Danish,produces,STAIRS,trapper,28,0.73
+2023-09-04,Danish,produces,STAIRS,trapper,29,0.76
+2023-09-04,Danish,produces,STAIRS,trapper,30,0.86
+2023-09-04,Danish,produces,STAIRS,trapper,31,0.85
+2023-09-04,Danish,produces,STAIRS,trapper,32,0.91
+2023-09-04,Danish,produces,STAIRS,trapper,33,0.89
+2023-09-04,Danish,produces,STAIRS,trapper,34,0.93
+2023-09-04,Danish,produces,STAIRS,trapper,35,0.92
+2023-09-04,Danish,produces,STAIRS,trapper,36,0.95
+2023-09-04,English (American),produces,STAIRS,stairs,8,0.01
+2023-09-04,English (American),produces,STAIRS,stairs,9,0.01
+2023-09-04,English (American),produces,STAIRS,stairs,10,0
+2023-09-04,English (American),produces,STAIRS,stairs,11,0.01
+2023-09-04,English (American),produces,STAIRS,stairs,12,0.01
+2023-09-04,English (American),produces,STAIRS,stairs,13,0.02
+2023-09-04,English (American),produces,STAIRS,stairs,14,0.03
+2023-09-04,English (American),produces,STAIRS,stairs,15,0.05
+2023-09-04,English (American),produces,STAIRS,stairs,16,0.05
+2023-09-04,English (American),produces,STAIRS,stairs,17,0.08
+2023-09-04,English (American),produces,STAIRS,stairs,18,0.11
+2023-09-04,English (American),produces,STAIRS,stairs,19,0.17
+2023-09-04,English (American),produces,STAIRS,stairs,20,0.18
+2023-09-04,English (American),produces,STAIRS,stairs,21,0.24
+2023-09-04,English (American),produces,STAIRS,stairs,22,0.33
+2023-09-04,English (American),produces,STAIRS,stairs,23,0.42
+2023-09-04,English (American),produces,STAIRS,stairs,24,0.45
+2023-09-04,English (American),produces,STAIRS,stairs,25,0.54
+2023-09-04,English (American),produces,STAIRS,stairs,26,0.58
+2023-09-04,English (American),produces,STAIRS,stairs,27,0.61
+2023-09-04,English (American),produces,STAIRS,stairs,28,0.81
+2023-09-04,English (American),produces,STAIRS,stairs,29,0.66
+2023-09-04,English (American),produces,STAIRS,stairs,30,0.72
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,8,0
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,9,0
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,10,0
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,11,0
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,12,0
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,13,0
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,14,0
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,15,0.05
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,16,0.01
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,17,0.04
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,18,0.07
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,19,0.17
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,20,0.17
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,21,0.36
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,22,0.29
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,23,0.42
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,24,0.55
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,25,0.54
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,26,0.76
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,27,0.69
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,28,0.78
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,29,0.9
+2023-09-04,French (Quebecois),produces,STAIRS,escalier,30,0.8
+2023-09-04,German,produces,STAIRS,Treppe,18,0.11
+2023-09-04,German,produces,STAIRS,Treppe,19,0.19
+2023-09-04,German,produces,STAIRS,Treppe,20,0.19
+2023-09-04,German,produces,STAIRS,Treppe,21,0.34
+2023-09-04,German,produces,STAIRS,Treppe,22,0.36
+2023-09-04,German,produces,STAIRS,Treppe,23,0.52
+2023-09-04,German,produces,STAIRS,Treppe,24,0.49
+2023-09-04,German,produces,STAIRS,Treppe,25,0.63
+2023-09-04,German,produces,STAIRS,Treppe,26,0.79
+2023-09-04,German,produces,STAIRS,Treppe,27,0.7
+2023-09-04,German,produces,STAIRS,Treppe,28,0.78
+2023-09-04,German,produces,STAIRS,Treppe,29,0.88
+2023-09-04,German,produces,STAIRS,Treppe,30,0.92
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,11,0
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,12,0
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,13,0
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,14,0
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,15,0
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,16,0.17
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,17,0
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,19,0
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,20,0.33
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,21,0.5
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,22,0.33
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,23,0.43
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,24,0.82
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,25,0.67
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,26,0.8
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,27,0.76
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,28,0.82
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,29,0.91
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,30,0.79
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,31,0.94
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,32,0.83
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,33,0.86
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,34,0.93
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,35,0.72
+2023-09-04,Hebrew,produces,STAIRS,מדרגות,36,0.6
+2023-09-04,Italian,produces,STAIRS,scala,7,0
+2023-09-04,Italian,produces,STAIRS,scala,8,0
+2023-09-04,Italian,produces,STAIRS,scala,9,0
+2023-09-04,Italian,produces,STAIRS,scala,10,0
+2023-09-04,Italian,produces,STAIRS,scala,11,0
+2023-09-04,Italian,produces,STAIRS,scala,12,0
+2023-09-04,Italian,produces,STAIRS,scala,13,0.02
+2023-09-04,Italian,produces,STAIRS,scala,14,0.03
+2023-09-04,Italian,produces,STAIRS,scala,15,0.01
+2023-09-04,Italian,produces,STAIRS,scala,16,0.02
+2023-09-04,Italian,produces,STAIRS,scala,17,0.1
+2023-09-04,Italian,produces,STAIRS,scala,18,0.08
+2023-09-04,Italian,produces,STAIRS,scala,19,0.17
+2023-09-04,Italian,produces,STAIRS,scala,20,0.19
+2023-09-04,Italian,produces,STAIRS,scala,21,0.31
+2023-09-04,Italian,produces,STAIRS,scala,22,0.4
+2023-09-04,Italian,produces,STAIRS,scala,23,0.43
+2023-09-04,Italian,produces,STAIRS,scala,24,0.51
+2023-09-04,Italian,produces,STAIRS,scala,25,0.69
+2023-09-04,Italian,produces,STAIRS,scala,26,0.54
+2023-09-04,Italian,produces,STAIRS,scala,27,0.74
+2023-09-04,Italian,produces,STAIRS,scala,28,0.8
+2023-09-04,Italian,produces,STAIRS,scala,29,0.81
+2023-09-04,Italian,produces,STAIRS,scala,30,0.88
+2023-09-04,Italian,produces,STAIRS,scala,31,0.95
+2023-09-04,Italian,produces,STAIRS,scala,32,0.78
+2023-09-04,Italian,produces,STAIRS,scala,33,0.75
+2023-09-04,Italian,produces,STAIRS,scala,34,0.95
+2023-09-04,Italian,produces,STAIRS,scala,35,0.87
+2023-09-04,Italian,produces,STAIRS,scala,36,0.9
+2023-09-04,Mandarin (Beijing),produces,STAIRS,楼梯,12,0
+2023-09-04,Mandarin (Beijing),produces,STAIRS,楼梯,13,0.02
+2023-09-04,Mandarin (Beijing),produces,STAIRS,楼梯,14,0
+2023-09-04,Mandarin (Beijing),produces,STAIRS,楼梯,15,0
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",16,0.02
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",17,0.07
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",18,0.09
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",19,0.2
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",20,0.21
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",21,0.3
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",22,0.37
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",23,0.56
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",24,0.54
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",25,0.57
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",26,0.61
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",27,0.63
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",28,0.67
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",29,0.75
+2023-09-04,Mandarin (Beijing),produces,STAIRS,"楼梯, 茶几",30,0.81
+2023-09-04,Norwegian,produces,STAIRS,trapp,8,0.03
+2023-09-04,Norwegian,produces,STAIRS,trapp,9,0
+2023-09-04,Norwegian,produces,STAIRS,trapp,10,0
+2023-09-04,Norwegian,produces,STAIRS,trapp,11,0
+2023-09-04,Norwegian,produces,STAIRS,trapp,12,0
+2023-09-04,Norwegian,produces,STAIRS,trapp,13,0
+2023-09-04,Norwegian,produces,STAIRS,trapp,14,0.01
+2023-09-04,Norwegian,produces,STAIRS,trapp,15,0.03
+2023-09-04,Norwegian,produces,STAIRS,trapp,16,0.03
+2023-09-04,Norwegian,produces,STAIRS,trapp,17,0.06
+2023-09-04,Norwegian,produces,STAIRS,trapp,18,0.1
+2023-09-04,Norwegian,produces,STAIRS,trapp,19,0.15
+2023-09-04,Norwegian,produces,STAIRS,trapp,20,0.24
+2023-09-04,Norwegian,produces,STAIRS,trapp,21,0.3
+2023-09-04,Norwegian,produces,STAIRS,trapp,22,0.4
+2023-09-04,Norwegian,produces,STAIRS,trapp,23,0.52
+2023-09-04,Norwegian,produces,STAIRS,trapp,24,0.56
+2023-09-04,Norwegian,produces,STAIRS,trapp,25,0.63
+2023-09-04,Norwegian,produces,STAIRS,trapp,26,0.73
+2023-09-04,Norwegian,produces,STAIRS,trapp,27,0.79
+2023-09-04,Norwegian,produces,STAIRS,trapp,28,0.8
+2023-09-04,Norwegian,produces,STAIRS,trapp,29,0.84
+2023-09-04,Norwegian,produces,STAIRS,trapp,30,0.87
+2023-09-04,Norwegian,produces,STAIRS,trapp,31,0.9
+2023-09-04,Norwegian,produces,STAIRS,trapp,32,0.92
+2023-09-04,Norwegian,produces,STAIRS,trapp,33,0.94
+2023-09-04,Norwegian,produces,STAIRS,trapp,34,0.92
+2023-09-04,Norwegian,produces,STAIRS,trapp,35,0.96
+2023-09-04,Norwegian,produces,STAIRS,trapp,36,0.96
+2023-09-04,Russian,produces,STAIRS,ступеньки,8,0
+2023-09-04,Russian,produces,STAIRS,ступеньки,9,0
+2023-09-04,Russian,produces,STAIRS,ступеньки,10,0
+2023-09-04,Russian,produces,STAIRS,ступеньки,11,0
+2023-09-04,Russian,produces,STAIRS,ступеньки,12,0
+2023-09-04,Russian,produces,STAIRS,ступеньки,13,0
+2023-09-04,Russian,produces,STAIRS,ступеньки,14,0
+2023-09-04,Russian,produces,STAIRS,ступеньки,15,0.01
+2023-09-04,Russian,produces,STAIRS,ступеньки,16,0.02
+2023-09-04,Russian,produces,STAIRS,ступеньки,17,0.01
+2023-09-04,Russian,produces,STAIRS,ступеньки,18,0.03
+2023-09-04,Russian,produces,STAIRS,ступеньки,19,0.07
+2023-09-04,Russian,produces,STAIRS,ступеньки,20,0.18
+2023-09-04,Russian,produces,STAIRS,ступеньки,21,0.37
+2023-09-04,Russian,produces,STAIRS,ступеньки,22,0.22
+2023-09-04,Russian,produces,STAIRS,ступеньки,23,0.41
+2023-09-04,Russian,produces,STAIRS,ступеньки,24,0.31
+2023-09-04,Russian,produces,STAIRS,ступеньки,25,0.48
+2023-09-04,Russian,produces,STAIRS,ступеньки,26,0.33
+2023-09-04,Russian,produces,STAIRS,ступеньки,27,0.57
+2023-09-04,Russian,produces,STAIRS,ступеньки,28,0.62
+2023-09-04,Russian,produces,STAIRS,ступеньки,29,0.72
+2023-09-04,Russian,produces,STAIRS,ступеньки,30,0.71
+2023-09-04,Russian,produces,STAIRS,ступеньки,31,0.77
+2023-09-04,Russian,produces,STAIRS,ступеньки,32,0.82
+2023-09-04,Russian,produces,STAIRS,ступеньки,33,0.76
+2023-09-04,Russian,produces,STAIRS,ступеньки,34,0.83
+2023-09-04,Russian,produces,STAIRS,ступеньки,35,0.81
+2023-09-04,Russian,produces,STAIRS,ступеньки,36,0.78
+2023-09-04,Slovak,produces,STAIRS,schody,17,0.07
+2023-09-04,Slovak,produces,STAIRS,schody,18,0.11
+2023-09-04,Slovak,produces,STAIRS,schody,19,0.18
+2023-09-04,Slovak,produces,STAIRS,schody,20,0.29
+2023-09-04,Slovak,produces,STAIRS,schody,21,0.37
+2023-09-04,Slovak,produces,STAIRS,schody,22,0.34
+2023-09-04,Slovak,produces,STAIRS,schody,23,0.44
+2023-09-04,Slovak,produces,STAIRS,schody,24,0.64
+2023-09-04,Slovak,produces,STAIRS,schody,25,0.54
+2023-09-04,Slovak,produces,STAIRS,schody,26,0.77
+2023-09-04,Slovak,produces,STAIRS,schody,27,0.82
+2023-09-04,Slovak,produces,STAIRS,schody,28,0.66
+2023-09-04,Slovak,produces,STAIRS,schody,29,0.8
+2023-09-04,Slovak,produces,STAIRS,schody,30,0.8
+2023-09-04,Slovak,produces,STAIRS,schody,31,0.72
+2023-09-04,Slovak,produces,STAIRS,schody,32,0.88
+2023-09-04,Slovak,produces,STAIRS,schody,33,0.95
+2023-09-04,Slovak,produces,STAIRS,schody,34,0.89
+2023-09-04,Slovak,produces,STAIRS,schody,35,0.78
+2023-09-04,Slovak,produces,STAIRS,schody,36,0.88
+2023-09-04,Spanish (Mexican),produces,STAIRS,escalera,8,0
+2023-09-04,Spanish (Mexican),produces,STAIRS,escalera,9,0
+2023-09-04,Spanish (Mexican),produces,STAIRS,escalera,10,0
+2023-09-04,Spanish (Mexican),produces,STAIRS,escalera,11,0
+2023-09-04,Spanish (Mexican),produces,STAIRS,escalera,12,0
+2023-09-04,Spanish (Mexican),produces,STAIRS,escalera,13,0
+2023-09-04,Spanish (Mexican),produces,STAIRS,escalera,14,0.01
+2023-09-04,Spanish (Mexican),produces,STAIRS,escalera,15,0
+2023-09-04,Spanish (Mexican),produces,STAIRS,"escalera, escaleras",16,0.07
+2023-09-04,Spanish (Mexican),produces,STAIRS,"escalera, escaleras",17,0.13
+2023-09-04,Spanish (Mexican),produces,STAIRS,"escalera, escaleras",18,0.11
+2023-09-04,Spanish (Mexican),produces,STAIRS,escaleras,19,0.23
+2023-09-04,Spanish (Mexican),produces,STAIRS,escaleras,20,0.32
+2023-09-04,Spanish (Mexican),produces,STAIRS,escaleras,21,0.3
+2023-09-04,Spanish (Mexican),produces,STAIRS,escaleras,22,0.31
+2023-09-04,Spanish (Mexican),produces,STAIRS,escaleras,23,0.26
+2023-09-04,Spanish (Mexican),produces,STAIRS,escaleras,24,0.38
+2023-09-04,Spanish (Mexican),produces,STAIRS,escaleras,25,0.5
+2023-09-04,Spanish (Mexican),produces,STAIRS,escaleras,26,0.48
+2023-09-04,Spanish (Mexican),produces,STAIRS,escaleras,27,0.61
+2023-09-04,Spanish (Mexican),produces,STAIRS,escaleras,28,0.54
+2023-09-04,Spanish (Mexican),produces,STAIRS,escaleras,29,0.64
+2023-09-04,Spanish (Mexican),produces,STAIRS,escaleras,30,0.41
+2023-09-04,Turkish,produces,STAIRS,Merdiven,8,0
+2023-09-04,Turkish,produces,STAIRS,Merdiven,9,0
+2023-09-04,Turkish,produces,STAIRS,Merdiven,10,0
+2023-09-04,Turkish,produces,STAIRS,Merdiven,11,0
+2023-09-04,Turkish,produces,STAIRS,Merdiven,12,0
+2023-09-04,Turkish,produces,STAIRS,Merdiven,13,0
+2023-09-04,Turkish,produces,STAIRS,Merdiven,14,0
+2023-09-04,Turkish,produces,STAIRS,Merdiven,15,0.01
+2023-09-04,Turkish,produces,STAIRS,Merdiven,16,0.02
+2023-09-04,Turkish,produces,STAIRS,Merdiven,17,0.04
+2023-09-04,Turkish,produces,STAIRS,Merdiven,18,0.05
+2023-09-04,Turkish,produces,STAIRS,Merdiven,19,0.06
+2023-09-04,Turkish,produces,STAIRS,Merdiven,20,0.17
+2023-09-04,Turkish,produces,STAIRS,Merdiven,21,0.19
+2023-09-04,Turkish,produces,STAIRS,Merdiven,22,0.21
+2023-09-04,Turkish,produces,STAIRS,Merdiven,23,0.31
+2023-09-04,Turkish,produces,STAIRS,Merdiven,24,0.38
+2023-09-04,Turkish,produces,STAIRS,Merdiven,25,0.46
+2023-09-04,Turkish,produces,STAIRS,Merdiven,26,0.51
+2023-09-04,Turkish,produces,STAIRS,Merdiven,27,0.54
+2023-09-04,Turkish,produces,STAIRS,Merdiven,28,0.58
+2023-09-04,Turkish,produces,STAIRS,Merdiven,29,0.67
+2023-09-04,Turkish,produces,STAIRS,Merdiven,30,0.72
+2023-09-04,Turkish,produces,STAIRS,Merdiven,31,0.72
+2023-09-04,Turkish,produces,STAIRS,Merdiven,32,0.78
+2023-09-04,Turkish,produces,STAIRS,Merdiven,33,0.85
+2023-09-04,Turkish,produces,STAIRS,Merdiven,34,0.85
+2023-09-04,Turkish,produces,STAIRS,Merdiven,35,0.87
+2023-09-04,Turkish,produces,STAIRS,Merdiven,36,0.91
+2023-09-04,English (British),produces,STAIRS,stairs,12,0
+2023-09-04,English (British),produces,STAIRS,stairs,13,0
+2023-09-04,English (British),produces,STAIRS,stairs,14,0.03
+2023-09-04,English (British),produces,STAIRS,stairs,15,0.03
+2023-09-04,English (British),produces,STAIRS,stairs,16,0.09
+2023-09-04,English (British),produces,STAIRS,stairs,17,0.12
+2023-09-04,English (British),produces,STAIRS,stairs,18,0.17
+2023-09-04,English (British),produces,STAIRS,stairs,19,0.28
+2023-09-04,English (British),produces,STAIRS,stairs,20,0.45
+2023-09-04,English (British),produces,STAIRS,stairs,21,0.45
+2023-09-04,English (British),produces,STAIRS,stairs,22,0.61
+2023-09-04,English (British),produces,STAIRS,stairs,23,0.62
+2023-09-04,English (British),produces,STAIRS,stairs,24,0.66
+2023-09-04,English (British),produces,STAIRS,stairs,25,0.7
+2023-09-04,English (British),produces,STAIRS,stairs,26,0.78
+2023-09-04,English (British),produces,STAIRS,stairs,27,0.78
+2023-09-04,English (British),produces,STAIRS,stairs,28,0.76
+2023-09-04,English (British),produces,STAIRS,stairs,29,0.82
+2023-09-04,English (British),produces,STAIRS,stairs,30,1
+2023-09-04,English (British),produces,STAIRS,stairs,31,0.94
+2023-09-04,English (British),produces,STAIRS,stairs,32,0.81
+2023-09-04,English (British),produces,STAIRS,stairs,33,0.93
+2023-09-04,English (British),produces,STAIRS,stairs,34,0.8
+2023-09-04,English (British),produces,STAIRS,stairs,35,0.8
+2023-09-04,Czech,produces,STAIRS,schody,16,0
+2023-09-04,Czech,produces,STAIRS,schody,17,0
+2023-09-04,Czech,produces,STAIRS,schody,18,0
+2023-09-04,Czech,produces,STAIRS,schody,19,0
+2023-09-04,Czech,produces,STAIRS,schody,20,0.08
+2023-09-04,Czech,produces,STAIRS,schody,21,0.06
+2023-09-04,Czech,produces,STAIRS,schody,22,0.19
+2023-09-04,Czech,produces,STAIRS,schody,23,0.22
+2023-09-04,Czech,produces,STAIRS,schody,24,0.43
+2023-09-04,Czech,produces,STAIRS,schody,25,0.37
+2023-09-04,Czech,produces,STAIRS,schody,26,0.55
+2023-09-04,Czech,produces,STAIRS,schody,27,0.54
+2023-09-04,Czech,produces,STAIRS,schody,28,0.73
+2023-09-04,Czech,produces,STAIRS,schody,29,0.67
+2023-09-04,Czech,produces,STAIRS,schody,30,0.67
+2023-09-04,English (Australian),produces,STAIRS,stairs,12,0
+2023-09-04,English (Australian),produces,STAIRS,stairs,13,0
+2023-09-04,English (Australian),produces,STAIRS,stairs,14,0.05
+2023-09-04,English (Australian),produces,STAIRS,stairs,15,0.06
+2023-09-04,English (Australian),produces,STAIRS,stairs,16,0.02
+2023-09-04,English (Australian),produces,STAIRS,stairs,17,0.07
+2023-09-04,English (Australian),produces,STAIRS,stairs,18,0.1
+2023-09-04,English (Australian),produces,STAIRS,stairs,19,0.24
+2023-09-04,English (Australian),produces,STAIRS,stairs,20,0.33
+2023-09-04,English (Australian),produces,STAIRS,stairs,21,0.31
+2023-09-04,English (Australian),produces,STAIRS,stairs,22,0.44
+2023-09-04,English (Australian),produces,STAIRS,stairs,23,0.59
+2023-09-04,English (Australian),produces,STAIRS,stairs,24,0.51
+2023-09-04,English (Australian),produces,STAIRS,stairs,25,0.64
+2023-09-04,English (Australian),produces,STAIRS,stairs,26,0.68
+2023-09-04,English (Australian),produces,STAIRS,stairs,27,0.74
+2023-09-04,English (Australian),produces,STAIRS,stairs,28,0.67
+2023-09-04,English (Australian),produces,STAIRS,stairs,29,0.77
+2023-09-04,English (Australian),produces,STAIRS,stairs,30,0.85
+2023-09-04,Latvian,produces,STAIRS,kāpnes,8,0
+2023-09-04,Latvian,produces,STAIRS,kāpnes,9,0
+2023-09-04,Latvian,produces,STAIRS,kāpnes,10,0
+2023-09-04,Latvian,produces,STAIRS,kāpnes,11,0
+2023-09-04,Latvian,produces,STAIRS,kāpnes,12,0.06
+2023-09-04,Latvian,produces,STAIRS,kāpnes,13,0.05
+2023-09-04,Latvian,produces,STAIRS,kāpnes,14,0.04
+2023-09-04,Latvian,produces,STAIRS,kāpnes,15,0.03
+2023-09-04,Latvian,produces,STAIRS,kāpnes,16,0
+2023-09-04,Latvian,produces,STAIRS,kāpnes,17,0.19
+2023-09-04,Latvian,produces,STAIRS,kāpnes,18,0.05
+2023-09-04,Latvian,produces,STAIRS,kāpnes,19,0.18
+2023-09-04,Latvian,produces,STAIRS,kāpnes,20,0.18
+2023-09-04,Latvian,produces,STAIRS,kāpnes,21,0.23
+2023-09-04,Latvian,produces,STAIRS,kāpnes,22,0.22
+2023-09-04,Latvian,produces,STAIRS,kāpnes,23,0.36
+2023-09-04,Latvian,produces,STAIRS,kāpnes,24,0.4
+2023-09-04,Latvian,produces,STAIRS,kāpnes,25,0.38
+2023-09-04,Latvian,produces,STAIRS,kāpnes,26,0.5
+2023-09-04,Latvian,produces,STAIRS,kāpnes,27,0.39
+2023-09-04,Latvian,produces,STAIRS,kāpnes,28,0.39
+2023-09-04,Latvian,produces,STAIRS,kāpnes,29,0.38
+2023-09-04,Latvian,produces,STAIRS,kāpnes,30,0.65
+2023-09-04,Latvian,produces,STAIRS,kāpnes,31,0.53
+2023-09-04,Latvian,produces,STAIRS,kāpnes,32,0.6
+2023-09-04,Latvian,produces,STAIRS,kāpnes,33,0.61
+2023-09-04,Latvian,produces,STAIRS,kāpnes,34,0.71
+2023-09-04,Latvian,produces,STAIRS,kāpnes,35,0.76
+2023-09-04,Latvian,produces,STAIRS,kāpnes,36,0.64
+2023-09-04,Korean,produces,STAIRS,계단,18,0.14
+2023-09-04,Korean,produces,STAIRS,계단,19,0.11
+2023-09-04,Korean,produces,STAIRS,계단,20,0.13
+2023-09-04,Korean,produces,STAIRS,계단,21,0.13
+2023-09-04,Korean,produces,STAIRS,계단,22,0.29
+2023-09-04,Korean,produces,STAIRS,계단,23,0.24
+2023-09-04,Korean,produces,STAIRS,계단,24,0.4
+2023-09-04,Korean,produces,STAIRS,계단,25,0.53
+2023-09-04,Korean,produces,STAIRS,계단,26,0.56
+2023-09-04,Korean,produces,STAIRS,계단,27,0.55
+2023-09-04,Korean,produces,STAIRS,계단,28,0.67
+2023-09-04,Korean,produces,STAIRS,계단,29,0.75
+2023-09-04,Korean,produces,STAIRS,계단,30,0.73
+2023-09-04,Korean,produces,STAIRS,계단,31,0.77
+2023-09-04,Korean,produces,STAIRS,계단,32,0.79
+2023-09-04,Korean,produces,STAIRS,계단,33,0.85
+2023-09-04,Korean,produces,STAIRS,계단,34,0.89
+2023-09-04,Korean,produces,STAIRS,계단,35,0.88
+2023-09-04,Korean,produces,STAIRS,계단,36,0.93
+2023-09-04,French (French),produces,STAIRS,escalier,8,0
+2023-09-04,French (French),produces,STAIRS,escalier,9,0
+2023-09-04,French (French),produces,STAIRS,escalier,11,0
+2023-09-04,French (French),produces,STAIRS,escalier,12,0
+2023-09-04,French (French),produces,STAIRS,escalier,13,0.02
+2023-09-04,French (French),produces,STAIRS,escalier,14,0.04
+2023-09-04,French (French),produces,STAIRS,escalier,15,0
+2023-09-04,French (French),produces,STAIRS,escalier,16,0.04
+2023-09-04,French (French),produces,STAIRS,escalier,17,0.04
+2023-09-04,French (French),produces,STAIRS,escalier,18,0
+2023-09-04,French (French),produces,STAIRS,escalier,19,0.09
+2023-09-04,French (French),produces,STAIRS,escalier,20,0.12
+2023-09-04,French (French),produces,STAIRS,escalier,21,0.12
+2023-09-04,French (French),produces,STAIRS,escalier,22,0.37
+2023-09-04,French (French),produces,STAIRS,escalier,23,0.3
+2023-09-04,French (French),produces,STAIRS,escalier,24,0.38
+2023-09-04,French (French),produces,STAIRS,escalier,25,0.67
+2023-09-04,French (French),produces,STAIRS,escalier,26,0.5
+2023-09-04,French (French),produces,STAIRS,escalier,27,0.54
+2023-09-04,French (French),produces,STAIRS,escalier,28,0.68
+2023-09-04,French (French),produces,STAIRS,escalier,29,0.86
+2023-09-04,French (French),produces,STAIRS,escalier,30,0.76
+2023-09-04,Spanish (European),produces,STAIRS,escalera,8,0
+2023-09-04,Spanish (European),produces,STAIRS,escalera,9,0
+2023-09-04,Spanish (European),produces,STAIRS,escalera,10,0
+2023-09-04,Spanish (European),produces,STAIRS,escalera,11,0
+2023-09-04,Spanish (European),produces,STAIRS,escalera,12,0
+2023-09-04,Spanish (European),produces,STAIRS,escalera,13,0
+2023-09-04,Spanish (European),produces,STAIRS,escalera,14,0.02
+2023-09-04,Spanish (European),produces,STAIRS,escalera,15,0.03
+2023-09-04,Spanish (European),produces,STAIRS,escalera,16,0
+2023-09-04,Spanish (European),produces,STAIRS,escalera,17,0
+2023-09-04,Spanish (European),produces,STAIRS,escalera,18,0.06
+2023-09-04,Spanish (European),produces,STAIRS,escalera,19,0.04
+2023-09-04,Spanish (European),produces,STAIRS,escalera,20,0.19
+2023-09-04,Spanish (European),produces,STAIRS,escalera,21,0.24
+2023-09-04,Spanish (European),produces,STAIRS,escalera,22,0.26
+2023-09-04,Spanish (European),produces,STAIRS,escalera,23,0.5
+2023-09-04,Spanish (European),produces,STAIRS,escalera,24,0.42
+2023-09-04,Spanish (European),produces,STAIRS,escalera,25,0.4
+2023-09-04,Spanish (European),produces,STAIRS,escalera,26,0.67
+2023-09-04,Spanish (European),produces,STAIRS,escalera,27,0.74
+2023-09-04,Spanish (European),produces,STAIRS,escalera,28,0.76
+2023-09-04,Spanish (European),produces,STAIRS,escalera,29,0.8
+2023-09-04,Spanish (European),produces,STAIRS,escalera,30,0.76
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,8,0
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,9,0
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,10,0
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,11,0
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,12,0
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,13,0
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,14,0.01
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,15,0
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,16,0
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,17,0.01
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,18,0.04
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,19,0.06
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,20,0.1
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,21,0.09
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,22,0.21
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,23,0.22
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,24,0.33
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,25,0.44
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,26,0.49
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,27,0.56
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,28,0.6
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,29,0.63
+2023-09-04,Portuguese (European),produces,STAIRS,Escadas,30,0.68
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,16,0.01
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,17,0.06
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,18,0.02
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,19,0.15
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,20,0.18
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,21,0.24
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,22,0.34
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,23,0.42
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,24,0.51
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,25,0.59
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,26,0.63
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,27,0.64
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,28,0.84
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,29,0.8
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,30,0.88
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,31,0.82
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,32,0.83
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,33,0.94
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,34,0.84
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,35,0.95
+2023-09-04,Mandarin (Taiwanese),produces,STAIRS,樓梯,36,0.98
+2023-09-04,Dutch,produces,STAIRS,trap(pen),8,0
+2023-09-04,Dutch,produces,STAIRS,trap(pen),9,0
+2023-09-04,Dutch,produces,STAIRS,trap(pen),10,0
+2023-09-04,Dutch,produces,STAIRS,trap(pen),11,0
+2023-09-04,Dutch,produces,STAIRS,trap(pen),12,0
+2023-09-04,Dutch,produces,STAIRS,trap(pen),13,0
+2023-09-04,Dutch,produces,STAIRS,trap(pen),14,0
+2023-09-04,Dutch,produces,STAIRS,"trap, trap(pen)",15,0
+2023-09-04,Dutch,produces,STAIRS,"trap, trap(pen)",16,0
+2023-09-04,Dutch,produces,STAIRS,"trap, trap(pen)",17,0.02
+2023-09-04,Dutch,produces,STAIRS,"trap, trap(pen)",18,0.11
+2023-09-04,Dutch,produces,STAIRS,"trap, trap(pen)",19,0.22
+2023-09-04,Dutch,produces,STAIRS,"trap, trap(pen)",20,0.3
+2023-09-04,Dutch,produces,STAIRS,"trap, trap(pen)",21,0.46
+2023-09-04,Dutch,produces,STAIRS,trap(pen),22,0.57
+2023-09-04,Dutch,produces,STAIRS,trap(pen),23,0.57
+2023-09-04,Dutch,produces,STAIRS,trap(pen),24,0.55
+2023-09-04,Dutch,produces,STAIRS,trap(pen),25,0.83
+2023-09-04,Dutch,produces,STAIRS,trap(pen),26,0.67
+2023-09-04,Dutch,produces,STAIRS,trap(pen),27,0.8
+2023-09-04,Dutch,produces,STAIRS,trap(pen),28,1
+2023-09-04,Dutch,produces,STAIRS,trap(pen),29,0.87
+2023-09-04,Dutch,produces,STAIRS,trap(pen),30,0.79
+2023-09-04,Dutch,produces,STAIRS,trap(pen),31,1
+2023-09-04,Hungarian,produces,STAIRS,lépcső,16,0.1
+2023-09-04,Hungarian,produces,STAIRS,lépcső,17,0.11
+2023-09-04,Hungarian,produces,STAIRS,lépcső,18,0.22
+2023-09-04,Hungarian,produces,STAIRS,lépcső,19,0.35
+2023-09-04,Hungarian,produces,STAIRS,lépcső,20,0.39
+2023-09-04,Hungarian,produces,STAIRS,lépcső,21,0.47
+2023-09-04,Hungarian,produces,STAIRS,lépcső,22,0.33
+2023-09-04,Hungarian,produces,STAIRS,lépcső,23,0.39
+2023-09-04,Hungarian,produces,STAIRS,lépcső,24,0.53
+2023-09-04,Hungarian,produces,STAIRS,lépcső,25,0.74
+2023-09-04,Hungarian,produces,STAIRS,lépcső,26,0.65
+2023-09-04,Hungarian,produces,STAIRS,lépcső,27,0.69
+2023-09-04,Hungarian,produces,STAIRS,lépcső,28,0.7
+2023-09-04,Hungarian,produces,STAIRS,lépcső,29,0.75
+2023-09-04,Hungarian,produces,STAIRS,lépcső,30,0.83
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,16,0.06
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,17,0.02
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,18,0.05
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,19,0.07
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,20,0.07
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,21,0.17
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,22,0.18
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,23,0.18
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,24,0.25
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,25,0.28
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,26,0.29
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,27,0.32
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,28,0.43
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,29,0.49
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,30,0.64
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,31,0
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,32,1
+2023-09-04,Spanish (Argentinian),produces,STAIRS,escaleras,33,0

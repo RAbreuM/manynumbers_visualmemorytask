@@ -1,0 +1,551 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,COUCH,梳化,16,0
+2023-09-04,Cantonese,produces,COUCH,梳化,17,0.03
+2023-09-04,Cantonese,produces,COUCH,梳化,18,0.04
+2023-09-04,Cantonese,produces,COUCH,梳化,19,0.03
+2023-09-04,Cantonese,produces,COUCH,梳化,20,0.17
+2023-09-04,Cantonese,produces,COUCH,梳化,21,0.22
+2023-09-04,Cantonese,produces,COUCH,梳化,22,0.21
+2023-09-04,Cantonese,produces,COUCH,梳化,23,0.31
+2023-09-04,Cantonese,produces,COUCH,梳化,24,0.49
+2023-09-04,Cantonese,produces,COUCH,梳化,25,0.42
+2023-09-04,Cantonese,produces,COUCH,梳化,26,0.57
+2023-09-04,Cantonese,produces,COUCH,梳化,27,0.68
+2023-09-04,Cantonese,produces,COUCH,梳化,28,0.64
+2023-09-04,Cantonese,produces,COUCH,梳化,29,0.74
+2023-09-04,Cantonese,produces,COUCH,梳化,30,0.8
+2023-09-04,Croatian,produces,COUCH,kauč,8,0
+2023-09-04,Croatian,produces,COUCH,kauč,9,0
+2023-09-04,Croatian,produces,COUCH,kauč,10,0
+2023-09-04,Croatian,produces,COUCH,kauč,11,0
+2023-09-04,Croatian,produces,COUCH,kauč,12,0
+2023-09-04,Croatian,produces,COUCH,kauč,13,0.03
+2023-09-04,Croatian,produces,COUCH,kauč,14,0
+2023-09-04,Croatian,produces,COUCH,kauč,15,0
+2023-09-04,Croatian,produces,COUCH,kauč,16,0.04
+2023-09-04,Croatian,produces,COUCH,kauč,17,0.04
+2023-09-04,Croatian,produces,COUCH,kauč,18,0.14
+2023-09-04,Croatian,produces,COUCH,kauč,19,0.05
+2023-09-04,Croatian,produces,COUCH,kauč,20,0.19
+2023-09-04,Croatian,produces,COUCH,kauč,21,0.17
+2023-09-04,Croatian,produces,COUCH,kauč,22,0.33
+2023-09-04,Croatian,produces,COUCH,kauč,23,0.31
+2023-09-04,Croatian,produces,COUCH,kauč,24,0.43
+2023-09-04,Croatian,produces,COUCH,kauč,25,0.43
+2023-09-04,Croatian,produces,COUCH,kauč,26,0.41
+2023-09-04,Croatian,produces,COUCH,kauč,27,0.56
+2023-09-04,Croatian,produces,COUCH,kauč,28,0.62
+2023-09-04,Croatian,produces,COUCH,kauč,29,0.54
+2023-09-04,Croatian,produces,COUCH,kauč,30,0.57
+2023-09-04,Danish,produces,COUCH,sofa,8,0
+2023-09-04,Danish,produces,COUCH,sofa,9,0
+2023-09-04,Danish,produces,COUCH,sofa,10,0
+2023-09-04,Danish,produces,COUCH,sofa,11,0
+2023-09-04,Danish,produces,COUCH,sofa,12,0
+2023-09-04,Danish,produces,COUCH,sofa,13,0
+2023-09-04,Danish,produces,COUCH,sofa,14,0
+2023-09-04,Danish,produces,COUCH,sofa,15,0
+2023-09-04,Danish,produces,COUCH,sofa,16,0.02
+2023-09-04,Danish,produces,COUCH,sofa,17,0.02
+2023-09-04,Danish,produces,COUCH,sofa,18,0.06
+2023-09-04,Danish,produces,COUCH,sofa,19,0.05
+2023-09-04,Danish,produces,COUCH,sofa,20,0.18
+2023-09-04,Danish,produces,COUCH,sofa,21,0.17
+2023-09-04,Danish,produces,COUCH,sofa,22,0.31
+2023-09-04,Danish,produces,COUCH,sofa,23,0.35
+2023-09-04,Danish,produces,COUCH,sofa,24,0.46
+2023-09-04,Danish,produces,COUCH,sofa,25,0.56
+2023-09-04,Danish,produces,COUCH,sofa,26,0.69
+2023-09-04,Danish,produces,COUCH,sofa,27,0.71
+2023-09-04,Danish,produces,COUCH,sofa,28,0.81
+2023-09-04,Danish,produces,COUCH,sofa,29,0.79
+2023-09-04,Danish,produces,COUCH,sofa,30,0.86
+2023-09-04,Danish,produces,COUCH,sofa,31,0.88
+2023-09-04,Danish,produces,COUCH,sofa,32,0.94
+2023-09-04,Danish,produces,COUCH,sofa,33,0.91
+2023-09-04,Danish,produces,COUCH,sofa,34,0.94
+2023-09-04,Danish,produces,COUCH,sofa,35,0.96
+2023-09-04,Danish,produces,COUCH,sofa,36,0.96
+2023-09-04,English (American),produces,COUCH,couch,8,0.01
+2023-09-04,English (American),produces,COUCH,couch,9,0.01
+2023-09-04,English (American),produces,COUCH,couch,10,0
+2023-09-04,English (American),produces,COUCH,couch,11,0.02
+2023-09-04,English (American),produces,COUCH,couch,12,0.01
+2023-09-04,English (American),produces,COUCH,couch,13,0.01
+2023-09-04,English (American),produces,COUCH,couch,14,0.02
+2023-09-04,English (American),produces,COUCH,couch,15,0.05
+2023-09-04,English (American),produces,COUCH,"couch, sofa",16,0.02
+2023-09-04,English (American),produces,COUCH,"couch, sofa",17,0.05
+2023-09-04,English (American),produces,COUCH,"couch, sofa",18,0.09
+2023-09-04,English (American),produces,COUCH,"couch, sofa",19,0.13
+2023-09-04,English (American),produces,COUCH,"couch, sofa",20,0.14
+2023-09-04,English (American),produces,COUCH,"couch, sofa",21,0.18
+2023-09-04,English (American),produces,COUCH,"couch, sofa",22,0.22
+2023-09-04,English (American),produces,COUCH,"couch, sofa",23,0.31
+2023-09-04,English (American),produces,COUCH,"couch, sofa",24,0.35
+2023-09-04,English (American),produces,COUCH,"couch, sofa",25,0.41
+2023-09-04,English (American),produces,COUCH,"couch, sofa",26,0.43
+2023-09-04,English (American),produces,COUCH,"couch, sofa",27,0.47
+2023-09-04,English (American),produces,COUCH,"couch, sofa",28,0.61
+2023-09-04,English (American),produces,COUCH,"couch, sofa",29,0.54
+2023-09-04,English (American),produces,COUCH,"couch, sofa",30,0.59
+2023-09-04,French (Quebecois),produces,COUCH,divan,8,0
+2023-09-04,French (Quebecois),produces,COUCH,divan,9,0
+2023-09-04,French (Quebecois),produces,COUCH,divan,10,0
+2023-09-04,French (Quebecois),produces,COUCH,divan,11,0
+2023-09-04,French (Quebecois),produces,COUCH,divan,12,0
+2023-09-04,French (Quebecois),produces,COUCH,divan,13,0
+2023-09-04,French (Quebecois),produces,COUCH,divan,14,0
+2023-09-04,French (Quebecois),produces,COUCH,divan,15,0
+2023-09-04,French (Quebecois),produces,COUCH,"divan, divan/sofa",16,0.01
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,17,0.06
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,18,0.11
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,19,0.11
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,20,0.09
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,21,0.3
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,22,0.3
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,23,0.36
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,24,0.39
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,25,0.51
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,26,0.52
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,27,0.69
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,28,0.76
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,29,0.8
+2023-09-04,French (Quebecois),produces,COUCH,divan/sofa,30,0.76
+2023-09-04,German,produces,COUCH,Sofa,18,0.08
+2023-09-04,German,produces,COUCH,Sofa,19,0.09
+2023-09-04,German,produces,COUCH,Sofa,20,0.14
+2023-09-04,German,produces,COUCH,Sofa,21,0.26
+2023-09-04,German,produces,COUCH,Sofa,22,0.27
+2023-09-04,German,produces,COUCH,Sofa,23,0.46
+2023-09-04,German,produces,COUCH,Sofa,24,0.46
+2023-09-04,German,produces,COUCH,Sofa,25,0.56
+2023-09-04,German,produces,COUCH,Sofa,26,0.7
+2023-09-04,German,produces,COUCH,Sofa,27,0.63
+2023-09-04,German,produces,COUCH,Sofa,28,0.75
+2023-09-04,German,produces,COUCH,Sofa,29,0.84
+2023-09-04,German,produces,COUCH,Sofa,30,0.85
+2023-09-04,Hebrew,produces,COUCH,ספה,25,0.72
+2023-09-04,Hebrew,produces,COUCH,ספה,26,0.76
+2023-09-04,Hebrew,produces,COUCH,ספה,27,0.79
+2023-09-04,Hebrew,produces,COUCH,ספה,28,0.89
+2023-09-04,Hebrew,produces,COUCH,ספה,29,0.91
+2023-09-04,Hebrew,produces,COUCH,ספה,30,0.79
+2023-09-04,Hebrew,produces,COUCH,ספה,31,0.91
+2023-09-04,Hebrew,produces,COUCH,ספה,32,0.81
+2023-09-04,Hebrew,produces,COUCH,ספה,33,0.86
+2023-09-04,Hebrew,produces,COUCH,ספה,34,0.89
+2023-09-04,Hebrew,produces,COUCH,ספה,35,0.78
+2023-09-04,Hebrew,produces,COUCH,ספה,36,0.6
+2023-09-04,Italian,produces,COUCH,divano,7,0
+2023-09-04,Italian,produces,COUCH,divano,8,0
+2023-09-04,Italian,produces,COUCH,divano,9,0
+2023-09-04,Italian,produces,COUCH,divano,10,0
+2023-09-04,Italian,produces,COUCH,divano,11,0
+2023-09-04,Italian,produces,COUCH,divano,12,0
+2023-09-04,Italian,produces,COUCH,divano,13,0
+2023-09-04,Italian,produces,COUCH,divano,14,0
+2023-09-04,Italian,produces,COUCH,divano,15,0
+2023-09-04,Italian,produces,COUCH,divano,16,0.02
+2023-09-04,Italian,produces,COUCH,divano,17,0.08
+2023-09-04,Italian,produces,COUCH,divano,18,0.03
+2023-09-04,Italian,produces,COUCH,divano,19,0.16
+2023-09-04,Italian,produces,COUCH,divano,20,0.13
+2023-09-04,Italian,produces,COUCH,divano,21,0.3
+2023-09-04,Italian,produces,COUCH,divano,22,0.39
+2023-09-04,Italian,produces,COUCH,divano,23,0.46
+2023-09-04,Italian,produces,COUCH,divano,24,0.46
+2023-09-04,Italian,produces,COUCH,divano,25,0.64
+2023-09-04,Italian,produces,COUCH,divano,26,0.71
+2023-09-04,Italian,produces,COUCH,divano,27,0.7
+2023-09-04,Italian,produces,COUCH,divano,28,0.91
+2023-09-04,Italian,produces,COUCH,divano,29,0.81
+2023-09-04,Italian,produces,COUCH,divano,30,0.79
+2023-09-04,Italian,produces,COUCH,divano,31,1
+2023-09-04,Italian,produces,COUCH,divano,32,0.87
+2023-09-04,Italian,produces,COUCH,divano,33,0.88
+2023-09-04,Italian,produces,COUCH,divano,34,1
+2023-09-04,Italian,produces,COUCH,divano,35,0.93
+2023-09-04,Italian,produces,COUCH,divano,36,0.86
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,12,0
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,13,0.02
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,14,0.02
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,15,0
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,16,0.04
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,17,0.11
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,18,0.17
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,19,0.25
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,20,0.33
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,21,0.44
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,22,0.53
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,23,0.66
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,24,0.62
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,25,0.75
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,26,0.74
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,27,0.8
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,28,0.84
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,29,0.9
+2023-09-04,Mandarin (Beijing),produces,COUCH,沙发,30,0.88
+2023-09-04,Norwegian,produces,COUCH,sofa,8,0.03
+2023-09-04,Norwegian,produces,COUCH,sofa,9,0
+2023-09-04,Norwegian,produces,COUCH,sofa,10,0
+2023-09-04,Norwegian,produces,COUCH,sofa,11,0
+2023-09-04,Norwegian,produces,COUCH,sofa,12,0
+2023-09-04,Norwegian,produces,COUCH,sofa,13,0
+2023-09-04,Norwegian,produces,COUCH,sofa,14,0
+2023-09-04,Norwegian,produces,COUCH,sofa,15,0.03
+2023-09-04,Norwegian,produces,COUCH,sofa,16,0.01
+2023-09-04,Norwegian,produces,COUCH,sofa,17,0.03
+2023-09-04,Norwegian,produces,COUCH,sofa,18,0.09
+2023-09-04,Norwegian,produces,COUCH,sofa,19,0.11
+2023-09-04,Norwegian,produces,COUCH,sofa,20,0.2
+2023-09-04,Norwegian,produces,COUCH,sofa,21,0.32
+2023-09-04,Norwegian,produces,COUCH,sofa,22,0.4
+2023-09-04,Norwegian,produces,COUCH,sofa,23,0.49
+2023-09-04,Norwegian,produces,COUCH,sofa,24,0.55
+2023-09-04,Norwegian,produces,COUCH,sofa,25,0.62
+2023-09-04,Norwegian,produces,COUCH,sofa,26,0.73
+2023-09-04,Norwegian,produces,COUCH,sofa,27,0.77
+2023-09-04,Norwegian,produces,COUCH,sofa,28,0.8
+2023-09-04,Norwegian,produces,COUCH,sofa,29,0.85
+2023-09-04,Norwegian,produces,COUCH,sofa,30,0.87
+2023-09-04,Norwegian,produces,COUCH,sofa,31,0.91
+2023-09-04,Norwegian,produces,COUCH,sofa,32,0.92
+2023-09-04,Norwegian,produces,COUCH,sofa,33,0.94
+2023-09-04,Norwegian,produces,COUCH,sofa,34,0.94
+2023-09-04,Norwegian,produces,COUCH,sofa,35,0.96
+2023-09-04,Norwegian,produces,COUCH,sofa,36,0.96
+2023-09-04,Russian,produces,COUCH,диван,8,0
+2023-09-04,Russian,produces,COUCH,диван,9,0
+2023-09-04,Russian,produces,COUCH,диван,10,0
+2023-09-04,Russian,produces,COUCH,диван,11,0
+2023-09-04,Russian,produces,COUCH,диван,12,0
+2023-09-04,Russian,produces,COUCH,диван,13,0
+2023-09-04,Russian,produces,COUCH,диван,14,0.01
+2023-09-04,Russian,produces,COUCH,диван,15,0.02
+2023-09-04,Russian,produces,COUCH,диван,16,0.02
+2023-09-04,Russian,produces,COUCH,диван,17,0.05
+2023-09-04,Russian,produces,COUCH,диван,18,0.06
+2023-09-04,Russian,produces,COUCH,диван,19,0.17
+2023-09-04,Russian,produces,COUCH,диван,20,0.22
+2023-09-04,Russian,produces,COUCH,диван,21,0.33
+2023-09-04,Russian,produces,COUCH,диван,22,0.43
+2023-09-04,Russian,produces,COUCH,диван,23,0.39
+2023-09-04,Russian,produces,COUCH,диван,24,0.39
+2023-09-04,Russian,produces,COUCH,диван,25,0.5
+2023-09-04,Russian,produces,COUCH,диван,26,0.5
+2023-09-04,Russian,produces,COUCH,диван,27,0.62
+2023-09-04,Russian,produces,COUCH,диван,28,0.68
+2023-09-04,Russian,produces,COUCH,диван,29,0.76
+2023-09-04,Russian,produces,COUCH,диван,30,0.79
+2023-09-04,Russian,produces,COUCH,диван,31,0.87
+2023-09-04,Russian,produces,COUCH,диван,32,0.78
+2023-09-04,Russian,produces,COUCH,диван,33,0.91
+2023-09-04,Russian,produces,COUCH,диван,34,0.9
+2023-09-04,Russian,produces,COUCH,диван,35,0.87
+2023-09-04,Russian,produces,COUCH,диван,36,0.9
+2023-09-04,Slovak,produces,COUCH,sedačka,17,0.04
+2023-09-04,Slovak,produces,COUCH,sedačka,18,0.06
+2023-09-04,Slovak,produces,COUCH,sedačka,19,0.12
+2023-09-04,Slovak,produces,COUCH,sedačka,20,0.24
+2023-09-04,Slovak,produces,COUCH,sedačka,21,0.27
+2023-09-04,Slovak,produces,COUCH,sedačka,22,0.26
+2023-09-04,Slovak,produces,COUCH,sedačka,23,0.31
+2023-09-04,Slovak,produces,COUCH,sedačka,24,0.51
+2023-09-04,Slovak,produces,COUCH,sedačka,25,0.39
+2023-09-04,Slovak,produces,COUCH,sedačka,26,0.69
+2023-09-04,Slovak,produces,COUCH,sedačka,27,0.71
+2023-09-04,Slovak,produces,COUCH,sedačka,28,0.55
+2023-09-04,Slovak,produces,COUCH,sedačka,29,0.67
+2023-09-04,Slovak,produces,COUCH,sedačka,30,0.69
+2023-09-04,Slovak,produces,COUCH,sedačka,31,0.62
+2023-09-04,Slovak,produces,COUCH,sedačka,32,0.84
+2023-09-04,Slovak,produces,COUCH,sedačka,33,0.86
+2023-09-04,Slovak,produces,COUCH,sedačka,34,0.74
+2023-09-04,Slovak,produces,COUCH,sedačka,35,0.7
+2023-09-04,Slovak,produces,COUCH,sedačka,36,0.88
+2023-09-04,Spanish (Mexican),produces,COUCH,sofá,8,0
+2023-09-04,Spanish (Mexican),produces,COUCH,sofá,9,0
+2023-09-04,Spanish (Mexican),produces,COUCH,sofá,10,0
+2023-09-04,Spanish (Mexican),produces,COUCH,sofá,11,0
+2023-09-04,Spanish (Mexican),produces,COUCH,sofá,12,0
+2023-09-04,Spanish (Mexican),produces,COUCH,sofá,13,0
+2023-09-04,Spanish (Mexican),produces,COUCH,sofá,14,0.01
+2023-09-04,Spanish (Mexican),produces,COUCH,sofá,15,0
+2023-09-04,Spanish (Mexican),produces,COUCH,"sofá, sillón",16,0.05
+2023-09-04,Spanish (Mexican),produces,COUCH,"sofá, sillón",17,0.09
+2023-09-04,Spanish (Mexican),produces,COUCH,"sofá, sillón",18,0.11
+2023-09-04,Spanish (Mexican),produces,COUCH,"sillón, sofá",19,0.18
+2023-09-04,Spanish (Mexican),produces,COUCH,"sillón, sofá",20,0.18
+2023-09-04,Spanish (Mexican),produces,COUCH,"sillón, sofá",21,0.13
+2023-09-04,Spanish (Mexican),produces,COUCH,"sillón, sofá",22,0.18
+2023-09-04,Spanish (Mexican),produces,COUCH,"sillón, sofá",23,0.15
+2023-09-04,Spanish (Mexican),produces,COUCH,"sillón, sofá",24,0.31
+2023-09-04,Spanish (Mexican),produces,COUCH,"sillón, sofá",25,0.36
+2023-09-04,Spanish (Mexican),produces,COUCH,"sillón, sofá",26,0.31
+2023-09-04,Spanish (Mexican),produces,COUCH,"sillón, sofá",27,0.41
+2023-09-04,Spanish (Mexican),produces,COUCH,"sillón, sofá",28,0.41
+2023-09-04,Spanish (Mexican),produces,COUCH,"sillón, sofá",29,0.42
+2023-09-04,Spanish (Mexican),produces,COUCH,"sillón, sofá",30,0.33
+2023-09-04,English (British),produces,COUCH,settee / sofa,12,0
+2023-09-04,English (British),produces,COUCH,settee / sofa,13,0
+2023-09-04,English (British),produces,COUCH,settee / sofa,14,0.02
+2023-09-04,English (British),produces,COUCH,settee / sofa,15,0
+2023-09-04,English (British),produces,COUCH,settee / sofa,16,0.03
+2023-09-04,English (British),produces,COUCH,settee / sofa,17,0.02
+2023-09-04,English (British),produces,COUCH,settee / sofa,18,0.06
+2023-09-04,English (British),produces,COUCH,settee / sofa,19,0.09
+2023-09-04,English (British),produces,COUCH,"settee/sofa, settee / sofa",20,0.15
+2023-09-04,English (British),produces,COUCH,"settee/sofa, settee / sofa",21,0.24
+2023-09-04,English (British),produces,COUCH,"settee/sofa, settee / sofa",22,0.32
+2023-09-04,English (British),produces,COUCH,"settee/sofa, settee / sofa",23,0.31
+2023-09-04,English (British),produces,COUCH,"settee/sofa, settee / sofa",24,0.34
+2023-09-04,English (British),produces,COUCH,"settee/sofa, settee / sofa",25,0.39
+2023-09-04,English (British),produces,COUCH,settee/sofa,26,0.42
+2023-09-04,English (British),produces,COUCH,settee/sofa,27,0.52
+2023-09-04,English (British),produces,COUCH,settee/sofa,28,0.57
+2023-09-04,English (British),produces,COUCH,settee/sofa,29,0.68
+2023-09-04,English (British),produces,COUCH,settee/sofa,30,0.86
+2023-09-04,English (British),produces,COUCH,settee/sofa,31,0.73
+2023-09-04,English (British),produces,COUCH,settee/sofa,32,0.81
+2023-09-04,English (British),produces,COUCH,settee/sofa,33,0.87
+2023-09-04,English (British),produces,COUCH,settee/sofa,34,0.82
+2023-09-04,English (British),produces,COUCH,settee/sofa,35,0.83
+2023-09-04,English (British),produces,COUCH,settee/sofa,36,0.84
+2023-09-04,English (British),produces,COUCH,settee/sofa,37,0.83
+2023-09-04,English (British),produces,COUCH,settee/sofa,38,0.78
+2023-09-04,English (British),produces,COUCH,settee/sofa,39,0.85
+2023-09-04,English (British),produces,COUCH,settee/sofa,40,0.73
+2023-09-04,English (British),produces,COUCH,settee/sofa,41,0.79
+2023-09-04,English (British),produces,COUCH,settee/sofa,42,0.83
+2023-09-04,English (British),produces,COUCH,settee/sofa,43,0.83
+2023-09-04,English (British),produces,COUCH,settee/sofa,44,0.67
+2023-09-04,English (British),produces,COUCH,settee/sofa,45,0.75
+2023-09-04,English (British),produces,COUCH,settee/sofa,46,0.2
+2023-09-04,English (British),produces,COUCH,settee/sofa,47,0.75
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,12,0
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,13,0
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,14,0.02
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,15,0.04
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,16,0.02
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,17,0.02
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,18,0.08
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,19,0.1
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,20,0.22
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,21,0.18
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,22,0.36
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,23,0.42
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,24,0.45
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,25,0.58
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,26,0.55
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,27,0.71
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,28,0.7
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,29,0.77
+2023-09-04,English (Australian),produces,COUCH,couch/lounge/sofa,30,0.75
+2023-09-04,Latvian,produces,COUCH,dīvāns,8,0
+2023-09-04,Latvian,produces,COUCH,dīvāns,9,0
+2023-09-04,Latvian,produces,COUCH,dīvāns,10,0
+2023-09-04,Latvian,produces,COUCH,dīvāns,11,0
+2023-09-04,Latvian,produces,COUCH,dīvāns,12,0.06
+2023-09-04,Latvian,produces,COUCH,dīvāns,13,0
+2023-09-04,Latvian,produces,COUCH,dīvāns,14,0.04
+2023-09-04,Latvian,produces,COUCH,dīvāns,15,0.03
+2023-09-04,Latvian,produces,COUCH,dīvāns,16,0
+2023-09-04,Latvian,produces,COUCH,dīvāns,17,0.19
+2023-09-04,Latvian,produces,COUCH,dīvāns,18,0.1
+2023-09-04,Latvian,produces,COUCH,dīvāns,19,0.07
+2023-09-04,Latvian,produces,COUCH,dīvāns,20,0.24
+2023-09-04,Latvian,produces,COUCH,dīvāns,21,0.19
+2023-09-04,Latvian,produces,COUCH,dīvāns,22,0.28
+2023-09-04,Latvian,produces,COUCH,dīvāns,23,0.32
+2023-09-04,Latvian,produces,COUCH,dīvāns,24,0.57
+2023-09-04,Latvian,produces,COUCH,dīvāns,25,0.45
+2023-09-04,Latvian,produces,COUCH,dīvāns,26,0.68
+2023-09-04,Latvian,produces,COUCH,dīvāns,27,0.67
+2023-09-04,Latvian,produces,COUCH,dīvāns,28,0.57
+2023-09-04,Latvian,produces,COUCH,dīvāns,29,0.62
+2023-09-04,Latvian,produces,COUCH,dīvāns,30,0.58
+2023-09-04,Latvian,produces,COUCH,dīvāns,31,0.63
+2023-09-04,Latvian,produces,COUCH,dīvāns,32,0.6
+2023-09-04,Latvian,produces,COUCH,dīvāns,33,0.77
+2023-09-04,Latvian,produces,COUCH,dīvāns,34,0.76
+2023-09-04,Latvian,produces,COUCH,dīvāns,35,0.81
+2023-09-04,Latvian,produces,COUCH,dīvāns,36,0.68
+2023-09-04,Korean,produces,COUCH,소파,18,0.09
+2023-09-04,Korean,produces,COUCH,소파,19,0.03
+2023-09-04,Korean,produces,COUCH,소파,20,0.16
+2023-09-04,Korean,produces,COUCH,소파,21,0.14
+2023-09-04,Korean,produces,COUCH,소파,22,0.23
+2023-09-04,Korean,produces,COUCH,소파,23,0.19
+2023-09-04,Korean,produces,COUCH,소파,24,0.38
+2023-09-04,Korean,produces,COUCH,소파,25,0.37
+2023-09-04,Korean,produces,COUCH,소파,26,0.49
+2023-09-04,Korean,produces,COUCH,소파,27,0.53
+2023-09-04,Korean,produces,COUCH,소파,28,0.62
+2023-09-04,Korean,produces,COUCH,소파,29,0.64
+2023-09-04,Korean,produces,COUCH,소파,30,0.66
+2023-09-04,Korean,produces,COUCH,소파,31,0.67
+2023-09-04,Korean,produces,COUCH,소파,32,0.7
+2023-09-04,Korean,produces,COUCH,소파,33,0.68
+2023-09-04,Korean,produces,COUCH,소파,34,0.8
+2023-09-04,Korean,produces,COUCH,소파,35,0.75
+2023-09-04,Korean,produces,COUCH,소파,36,0.85
+2023-09-04,French (French),produces,COUCH,canapé,8,0
+2023-09-04,French (French),produces,COUCH,canapé,9,0
+2023-09-04,French (French),produces,COUCH,canapé,11,0
+2023-09-04,French (French),produces,COUCH,canapé,12,0
+2023-09-04,French (French),produces,COUCH,canapé,13,0
+2023-09-04,French (French),produces,COUCH,canapé,14,0
+2023-09-04,French (French),produces,COUCH,canapé,15,0
+2023-09-04,French (French),produces,COUCH,canapé,16,0.03
+2023-09-04,French (French),produces,COUCH,canapé,17,0.04
+2023-09-04,French (French),produces,COUCH,canapé,18,0
+2023-09-04,French (French),produces,COUCH,canapé,19,0.09
+2023-09-04,French (French),produces,COUCH,canapé,20,0.12
+2023-09-04,French (French),produces,COUCH,canapé,21,0.18
+2023-09-04,French (French),produces,COUCH,canapé,22,0.27
+2023-09-04,French (French),produces,COUCH,canapé,23,0.28
+2023-09-04,French (French),produces,COUCH,canapé,24,0.38
+2023-09-04,French (French),produces,COUCH,canapé,25,0.5
+2023-09-04,French (French),produces,COUCH,canapé,26,0.31
+2023-09-04,French (French),produces,COUCH,canapé,27,0.46
+2023-09-04,French (French),produces,COUCH,canapé,28,0.68
+2023-09-04,French (French),produces,COUCH,canapé,29,0.8
+2023-09-04,French (French),produces,COUCH,canapé,30,0.62
+2023-09-04,Spanish (European),produces,COUCH,sofá,8,0
+2023-09-04,Spanish (European),produces,COUCH,sofá,9,0
+2023-09-04,Spanish (European),produces,COUCH,sofá,10,0
+2023-09-04,Spanish (European),produces,COUCH,sofá,11,0
+2023-09-04,Spanish (European),produces,COUCH,sofá,12,0
+2023-09-04,Spanish (European),produces,COUCH,sofá,13,0
+2023-09-04,Spanish (European),produces,COUCH,sofá,14,0
+2023-09-04,Spanish (European),produces,COUCH,sofá,15,0.03
+2023-09-04,Spanish (European),produces,COUCH,sofá,16,0.05
+2023-09-04,Spanish (European),produces,COUCH,sofá,17,0
+2023-09-04,Spanish (European),produces,COUCH,sofá,18,0.04
+2023-09-04,Spanish (European),produces,COUCH,sofá,19,0.04
+2023-09-04,Spanish (European),produces,COUCH,sofá,20,0.14
+2023-09-04,Spanish (European),produces,COUCH,sofá,21,0.17
+2023-09-04,Spanish (European),produces,COUCH,sofá,22,0.32
+2023-09-04,Spanish (European),produces,COUCH,sofá,23,0.4
+2023-09-04,Spanish (European),produces,COUCH,sofá,24,0.36
+2023-09-04,Spanish (European),produces,COUCH,sofá,25,0.4
+2023-09-04,Spanish (European),produces,COUCH,sofá,26,0.71
+2023-09-04,Spanish (European),produces,COUCH,sofá,27,0.71
+2023-09-04,Spanish (European),produces,COUCH,sofá,28,0.63
+2023-09-04,Spanish (European),produces,COUCH,sofá,29,0.85
+2023-09-04,Spanish (European),produces,COUCH,sofá,30,0.73
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,8,0.01
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,9,0
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,10,0
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,11,0
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,12,0
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,13,0
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,14,0.01
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,15,0
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,16,0.01
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,17,0.05
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,18,0.04
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,19,0.1
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,20,0.18
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,21,0.21
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,22,0.34
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,23,0.39
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,24,0.51
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,25,0.61
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,26,0.63
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,27,0.72
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,28,0.74
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,29,0.74
+2023-09-04,Portuguese (European),produces,COUCH,Sofá,30,0.75
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,8,0
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,9,0
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,10,0
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,11,0
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,12,0
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,13,0
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,14,0.01
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,15,0.02
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,16,0.02
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,17,0.01
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,18,0.04
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,19,0.08
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,20,0.08
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,21,0.08
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,22,0.16
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,23,0.17
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,24,0.28
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,25,0.3
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,26,0.34
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,27,0.37
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,28,0.49
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,29,0.49
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,30,0.54
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,31,0.59
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,32,0.61
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,33,0.72
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,34,0.71
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,35,0.79
+2023-09-04,Mandarin (Taiwanese),produces,COUCH,沙發,36,0.68
+2023-09-04,Dutch,produces,COUCH,zetel/divan/sofa/bank,8,0
+2023-09-04,Dutch,produces,COUCH,zetel/divan/sofa/bank,9,0
+2023-09-04,Dutch,produces,COUCH,zetel/divan/sofa/bank,10,0
+2023-09-04,Dutch,produces,COUCH,zetel/divan/sofa/bank,11,0
+2023-09-04,Dutch,produces,COUCH,zetel/divan/sofa/bank,12,0
+2023-09-04,Dutch,produces,COUCH,zetel/divan/sofa/bank,13,0
+2023-09-04,Dutch,produces,COUCH,zetel/divan/sofa/bank,14,0
+2023-09-04,Dutch,produces,COUCH,"bank, zetel/divan/sofa/bank",15,0
+2023-09-04,Dutch,produces,COUCH,"bank, zetel/divan/sofa/bank",16,0
+2023-09-04,Dutch,produces,COUCH,"bank, zetel/divan/sofa/bank",17,0.05
+2023-09-04,Dutch,produces,COUCH,"bank, zetel/divan/sofa/bank",18,0.1
+2023-09-04,Dutch,produces,COUCH,"bank, zetel/divan/sofa/bank",19,0.14
+2023-09-04,Dutch,produces,COUCH,"bank, zetel/divan/sofa/bank",20,0.27
+2023-09-04,Dutch,produces,COUCH,"bank, zetel/divan/sofa/bank",21,0.31
+2023-09-04,Dutch,produces,COUCH,zetel/divan/sofa/bank,22,0.57
+2023-09-04,Dutch,produces,COUCH,zetel/divan/sofa/bank,23,0.51
+2023-09-04,Dutch,produces,COUCH,zetel/divan/sofa/bank,24,0.71
+2023-09-04,Dutch,produces,COUCH,zetel/divan/sofa/bank,25,1
+2023-09-04,Dutch,produces,COUCH,zetel/divan/sofa/bank,26,0.5
+2023-09-04,Dutch,produces,COUCH,zetel/divan/sofa/bank,27,0.6
+2023-09-04,Dutch,produces,COUCH,"zetel/divan/sofa/bank, zetel/sofa",28,1
+2023-09-04,Dutch,produces,COUCH,"zetel/divan/sofa/bank, zetel/sofa",29,0.69
+2023-09-04,Dutch,produces,COUCH,"zetel/divan/sofa/bank, zetel/sofa",30,0.73
+2023-09-04,Dutch,produces,COUCH,"zetel/divan/sofa/bank, zetel/sofa",31,0.57
+2023-09-04,Dutch,produces,COUCH,zetel/sofa,32,0.4
+2023-09-04,Dutch,produces,COUCH,zetel/sofa,33,0.67
+2023-09-04,Dutch,produces,COUCH,zetel/sofa,34,0.6
+2023-09-04,Dutch,produces,COUCH,zetel/sofa,35,0.67
+2023-09-04,Dutch,produces,COUCH,zetel/sofa,36,0.33
+2023-09-04,Hungarian,produces,COUCH,kanapé,16,0
+2023-09-04,Hungarian,produces,COUCH,kanapé,17,0.06
+2023-09-04,Hungarian,produces,COUCH,kanapé,18,0
+2023-09-04,Hungarian,produces,COUCH,kanapé,19,0.08
+2023-09-04,Hungarian,produces,COUCH,kanapé,20,0.06
+2023-09-04,Hungarian,produces,COUCH,kanapé,21,0.14
+2023-09-04,Hungarian,produces,COUCH,kanapé,22,0.11
+2023-09-04,Hungarian,produces,COUCH,kanapé,23,0.11
+2023-09-04,Hungarian,produces,COUCH,kanapé,24,0.18
+2023-09-04,Hungarian,produces,COUCH,kanapé,25,0.28
+2023-09-04,Hungarian,produces,COUCH,kanapé,26,0.3
+2023-09-04,Hungarian,produces,COUCH,kanapé,27,0.31
+2023-09-04,Hungarian,produces,COUCH,kanapé,28,0.27
+2023-09-04,Hungarian,produces,COUCH,kanapé,29,0.5
+2023-09-04,Hungarian,produces,COUCH,kanapé,30,0.33
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,16,0.13
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,17,0.04
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,18,0.08
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,19,0.07
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,20,0.17
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,21,0.2
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,22,0.12
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,23,0.22
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,24,0.23
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,25,0.42
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,26,0.31
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,27,0.5
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,28,0.45
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,29,0.38
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,30,0.67
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,31,0
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,32,1
+2023-09-04,Spanish (Argentinian),produces,COUCH,sillón,33,0

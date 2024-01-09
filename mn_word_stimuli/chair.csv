@@ -1,0 +1,649 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,16,0.04
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,17,0.18
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,18,0.16
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,19,0.18
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,20,0.36
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,21,0.44
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,22,0.53
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,23,0.5
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,24,0.65
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,25,0.83
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,26,0.72
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,27,0.9
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,28,0.89
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,29,0.92
+2023-09-04,Cantonese,produces,CHAIR,凳/椅,30,0.89
+2023-09-04,Croatian,produces,CHAIR,stolica,8,0
+2023-09-04,Croatian,produces,CHAIR,stolica,9,0
+2023-09-04,Croatian,produces,CHAIR,stolica,10,0
+2023-09-04,Croatian,produces,CHAIR,stolica,11,0
+2023-09-04,Croatian,produces,CHAIR,stolica,12,0
+2023-09-04,Croatian,produces,CHAIR,stolica,13,0
+2023-09-04,Croatian,produces,CHAIR,stolica,14,0
+2023-09-04,Croatian,produces,CHAIR,stolica,15,0
+2023-09-04,Croatian,produces,CHAIR,"stolica, klupa",16,0.1
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",17,0.06
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",18,0.09
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",19,0.19
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",20,0.23
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",21,0.22
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",22,0.35
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",23,0.44
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",24,0.47
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",25,0.57
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",26,0.57
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",27,0.56
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",28,0.81
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",29,0.62
+2023-09-04,Croatian,produces,CHAIR,"klupa, stolica",30,0.75
+2023-09-04,Danish,produces,CHAIR,stol,8,0
+2023-09-04,Danish,produces,CHAIR,stol,9,0
+2023-09-04,Danish,produces,CHAIR,stol,10,0
+2023-09-04,Danish,produces,CHAIR,stol,11,0
+2023-09-04,Danish,produces,CHAIR,stol,12,0.01
+2023-09-04,Danish,produces,CHAIR,stol,13,0
+2023-09-04,Danish,produces,CHAIR,stol,14,0.02
+2023-09-04,Danish,produces,CHAIR,stol,15,0.01
+2023-09-04,Danish,produces,CHAIR,stol,16,0.05
+2023-09-04,Danish,produces,CHAIR,stol,17,0.13
+2023-09-04,Danish,produces,CHAIR,stol,18,0.27
+2023-09-04,Danish,produces,CHAIR,stol,19,0.34
+2023-09-04,Danish,produces,CHAIR,stol,20,0.43
+2023-09-04,Danish,produces,CHAIR,stol,21,0.56
+2023-09-04,Danish,produces,CHAIR,stol,22,0.68
+2023-09-04,Danish,produces,CHAIR,stol,23,0.71
+2023-09-04,Danish,produces,CHAIR,stol,24,0.79
+2023-09-04,Danish,produces,CHAIR,stol,25,0.83
+2023-09-04,Danish,produces,CHAIR,stol,26,0.88
+2023-09-04,Danish,produces,CHAIR,stol,27,0.88
+2023-09-04,Danish,produces,CHAIR,stol,28,0.89
+2023-09-04,Danish,produces,CHAIR,stol,29,0.92
+2023-09-04,Danish,produces,CHAIR,stol,30,0.93
+2023-09-04,Danish,produces,CHAIR,stol,31,0.94
+2023-09-04,Danish,produces,CHAIR,stol,32,0.97
+2023-09-04,Danish,produces,CHAIR,stol,33,0.95
+2023-09-04,Danish,produces,CHAIR,stol,34,0.99
+2023-09-04,Danish,produces,CHAIR,stol,35,0.97
+2023-09-04,Danish,produces,CHAIR,stol,36,0.99
+2023-09-04,English (American),produces,CHAIR,chair,8,0.01
+2023-09-04,English (American),produces,CHAIR,chair,9,0.02
+2023-09-04,English (American),produces,CHAIR,chair,10,0.01
+2023-09-04,English (American),produces,CHAIR,chair,11,0.02
+2023-09-04,English (American),produces,CHAIR,chair,12,0.02
+2023-09-04,English (American),produces,CHAIR,chair,13,0.02
+2023-09-04,English (American),produces,CHAIR,chair,14,0.02
+2023-09-04,English (American),produces,CHAIR,chair,15,0.1
+2023-09-04,English (American),produces,CHAIR,chair,16,0.13
+2023-09-04,English (American),produces,CHAIR,chair,17,0.17
+2023-09-04,English (American),produces,CHAIR,chair,18,0.27
+2023-09-04,English (American),produces,CHAIR,chair,19,0.41
+2023-09-04,English (American),produces,CHAIR,chair,20,0.44
+2023-09-04,English (American),produces,CHAIR,chair,21,0.46
+2023-09-04,English (American),produces,CHAIR,chair,22,0.58
+2023-09-04,English (American),produces,CHAIR,chair,23,0.65
+2023-09-04,English (American),produces,CHAIR,chair,24,0.73
+2023-09-04,English (American),produces,CHAIR,chair,25,0.79
+2023-09-04,English (American),produces,CHAIR,chair,26,0.79
+2023-09-04,English (American),produces,CHAIR,chair,27,0.81
+2023-09-04,English (American),produces,CHAIR,chair,28,0.93
+2023-09-04,English (American),produces,CHAIR,chair,29,0.85
+2023-09-04,English (American),produces,CHAIR,chair,30,0.86
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,8,0
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,9,0
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,10,0
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,11,0
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,12,0
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,13,0
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,14,0
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,15,0.02
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,16,0.08
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,17,0.21
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,18,0.39
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,19,0.39
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,20,0.47
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,21,0.66
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,22,0.65
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,23,0.79
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,24,0.77
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,25,0.79
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,26,0.91
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,27,0.93
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,28,0.98
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,29,0.95
+2023-09-04,French (Quebecois),produces,CHAIR,chaise,30,0.92
+2023-09-04,German,produces,CHAIR,Stuhl,18,0.19
+2023-09-04,German,produces,CHAIR,Stuhl,19,0.39
+2023-09-04,German,produces,CHAIR,Stuhl,20,0.32
+2023-09-04,German,produces,CHAIR,Stuhl,21,0.4
+2023-09-04,German,produces,CHAIR,Stuhl,22,0.55
+2023-09-04,German,produces,CHAIR,Stuhl,23,0.8
+2023-09-04,German,produces,CHAIR,Stuhl,24,0.71
+2023-09-04,German,produces,CHAIR,Stuhl,25,0.78
+2023-09-04,German,produces,CHAIR,Stuhl,26,0.87
+2023-09-04,German,produces,CHAIR,Stuhl,27,0.83
+2023-09-04,German,produces,CHAIR,Stuhl,28,0.89
+2023-09-04,German,produces,CHAIR,Stuhl,29,0.94
+2023-09-04,German,produces,CHAIR,Stuhl,30,0.97
+2023-09-04,Hebrew,produces,CHAIR,כיסא,11,0
+2023-09-04,Hebrew,produces,CHAIR,כיסא,12,0
+2023-09-04,Hebrew,produces,CHAIR,כיסא,13,0
+2023-09-04,Hebrew,produces,CHAIR,כיסא,14,0
+2023-09-04,Hebrew,produces,CHAIR,כיסא,15,0
+2023-09-04,Hebrew,produces,CHAIR,כיסא,16,0.17
+2023-09-04,Hebrew,produces,CHAIR,כיסא,17,0.33
+2023-09-04,Hebrew,produces,CHAIR,כיסא,19,0.5
+2023-09-04,Hebrew,produces,CHAIR,כיסא,20,0.44
+2023-09-04,Hebrew,produces,CHAIR,כיסא,21,0.5
+2023-09-04,Hebrew,produces,CHAIR,כיסא,22,0.67
+2023-09-04,Hebrew,produces,CHAIR,כיסא,23,0.86
+2023-09-04,Hebrew,produces,CHAIR,כיסא,24,0.82
+2023-09-04,Hebrew,produces,CHAIR,כיסא,25,0.89
+2023-09-04,Hebrew,produces,CHAIR,כיסא,26,0.92
+2023-09-04,Hebrew,produces,CHAIR,כיסא,27,0.91
+2023-09-04,Hebrew,produces,CHAIR,כיסא,28,0.91
+2023-09-04,Hebrew,produces,CHAIR,כיסא,29,0.96
+2023-09-04,Hebrew,produces,CHAIR,כיסא,30,0.93
+2023-09-04,Hebrew,produces,CHAIR,כיסא,31,0.94
+2023-09-04,Hebrew,produces,CHAIR,כיסא,32,0.94
+2023-09-04,Hebrew,produces,CHAIR,כיסא,33,0.9
+2023-09-04,Hebrew,produces,CHAIR,כיסא,34,1
+2023-09-04,Hebrew,produces,CHAIR,כיסא,35,0.83
+2023-09-04,Hebrew,produces,CHAIR,כיסא,36,0.8
+2023-09-04,Italian,produces,CHAIR,sedia,7,0
+2023-09-04,Italian,produces,CHAIR,sedia,8,0
+2023-09-04,Italian,produces,CHAIR,sedia,9,0
+2023-09-04,Italian,produces,CHAIR,sedia,10,0
+2023-09-04,Italian,produces,CHAIR,sedia,11,0
+2023-09-04,Italian,produces,CHAIR,sedia,12,0
+2023-09-04,Italian,produces,CHAIR,sedia,13,0
+2023-09-04,Italian,produces,CHAIR,sedia,14,0
+2023-09-04,Italian,produces,CHAIR,sedia,15,0.03
+2023-09-04,Italian,produces,CHAIR,sedia,16,0
+2023-09-04,Italian,produces,CHAIR,sedia,17,0.1
+2023-09-04,Italian,produces,CHAIR,sedia,18,0.13
+2023-09-04,Italian,produces,CHAIR,sedia,19,0.22
+2023-09-04,Italian,produces,CHAIR,sedia,20,0.22
+2023-09-04,Italian,produces,CHAIR,sedia,21,0.4
+2023-09-04,Italian,produces,CHAIR,sedia,22,0.51
+2023-09-04,Italian,produces,CHAIR,sedia,23,0.63
+2023-09-04,Italian,produces,CHAIR,sedia,24,0.66
+2023-09-04,Italian,produces,CHAIR,sedia,25,0.82
+2023-09-04,Italian,produces,CHAIR,sedia,26,0.83
+2023-09-04,Italian,produces,CHAIR,sedia,27,0.72
+2023-09-04,Italian,produces,CHAIR,sedia,28,0.91
+2023-09-04,Italian,produces,CHAIR,sedia,29,0.89
+2023-09-04,Italian,produces,CHAIR,sedia,30,0.91
+2023-09-04,Italian,produces,CHAIR,sedia,31,1
+2023-09-04,Italian,produces,CHAIR,sedia,32,0.91
+2023-09-04,Italian,produces,CHAIR,sedia,33,1
+2023-09-04,Italian,produces,CHAIR,sedia,34,0.95
+2023-09-04,Italian,produces,CHAIR,sedia,35,0.93
+2023-09-04,Italian,produces,CHAIR,sedia,36,0.9
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,12,0.02
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,13,0.02
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,14,0
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,15,0.02
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,16,0.03
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,17,0.14
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,18,0.21
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,19,0.29
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,20,0.4
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,21,0.47
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,22,0.57
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,23,0.68
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,24,0.66
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,25,0.77
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,26,0.77
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,27,0.83
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,28,0.84
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,29,0.92
+2023-09-04,Mandarin (Beijing),produces,CHAIR,椅子,30,0.87
+2023-09-04,Norwegian,produces,CHAIR,stol,8,0.03
+2023-09-04,Norwegian,produces,CHAIR,stol,9,0.01
+2023-09-04,Norwegian,produces,CHAIR,stol,10,0
+2023-09-04,Norwegian,produces,CHAIR,stol,11,0
+2023-09-04,Norwegian,produces,CHAIR,stol,12,0
+2023-09-04,Norwegian,produces,CHAIR,stol,13,0
+2023-09-04,Norwegian,produces,CHAIR,stol,14,0
+2023-09-04,Norwegian,produces,CHAIR,stol,15,0.03
+2023-09-04,Norwegian,produces,CHAIR,stol,16,0.05
+2023-09-04,Norwegian,produces,CHAIR,stol,17,0.11
+2023-09-04,Norwegian,produces,CHAIR,stol,18,0.2
+2023-09-04,Norwegian,produces,CHAIR,stol,19,0.26
+2023-09-04,Norwegian,produces,CHAIR,stol,20,0.39
+2023-09-04,Norwegian,produces,CHAIR,stol,21,0.5
+2023-09-04,Norwegian,produces,CHAIR,stol,22,0.58
+2023-09-04,Norwegian,produces,CHAIR,stol,23,0.65
+2023-09-04,Norwegian,produces,CHAIR,stol,24,0.7
+2023-09-04,Norwegian,produces,CHAIR,stol,25,0.76
+2023-09-04,Norwegian,produces,CHAIR,stol,26,0.83
+2023-09-04,Norwegian,produces,CHAIR,stol,27,0.88
+2023-09-04,Norwegian,produces,CHAIR,stol,28,0.88
+2023-09-04,Norwegian,produces,CHAIR,stol,29,0.91
+2023-09-04,Norwegian,produces,CHAIR,stol,30,0.9
+2023-09-04,Norwegian,produces,CHAIR,stol,31,0.94
+2023-09-04,Norwegian,produces,CHAIR,stol,32,0.94
+2023-09-04,Norwegian,produces,CHAIR,stol,33,0.95
+2023-09-04,Norwegian,produces,CHAIR,stol,34,0.95
+2023-09-04,Norwegian,produces,CHAIR,stol,35,0.97
+2023-09-04,Norwegian,produces,CHAIR,stol,36,0.98
+2023-09-04,Russian,produces,CHAIR,стул,8,0
+2023-09-04,Russian,produces,CHAIR,стул,9,0
+2023-09-04,Russian,produces,CHAIR,стул,10,0
+2023-09-04,Russian,produces,CHAIR,стул,11,0
+2023-09-04,Russian,produces,CHAIR,стул,12,0
+2023-09-04,Russian,produces,CHAIR,стул,13,0.03
+2023-09-04,Russian,produces,CHAIR,стул,14,0.04
+2023-09-04,Russian,produces,CHAIR,стул,15,0.02
+2023-09-04,Russian,produces,CHAIR,стул,16,0.05
+2023-09-04,Russian,produces,CHAIR,стул,17,0.07
+2023-09-04,Russian,produces,CHAIR,стул,18,0.12
+2023-09-04,Russian,produces,CHAIR,стул,19,0.27
+2023-09-04,Russian,produces,CHAIR,стул,20,0.33
+2023-09-04,Russian,produces,CHAIR,стул,21,0.44
+2023-09-04,Russian,produces,CHAIR,стул,22,0.55
+2023-09-04,Russian,produces,CHAIR,стул,23,0.57
+2023-09-04,Russian,produces,CHAIR,стул,24,0.64
+2023-09-04,Russian,produces,CHAIR,стул,25,0.77
+2023-09-04,Russian,produces,CHAIR,стул,26,0.73
+2023-09-04,Russian,produces,CHAIR,стул,27,0.73
+2023-09-04,Russian,produces,CHAIR,стул,28,0.8
+2023-09-04,Russian,produces,CHAIR,стул,29,0.86
+2023-09-04,Russian,produces,CHAIR,стул,30,0.86
+2023-09-04,Russian,produces,CHAIR,стул,31,0.93
+2023-09-04,Russian,produces,CHAIR,стул,32,0.93
+2023-09-04,Russian,produces,CHAIR,стул,33,0.95
+2023-09-04,Russian,produces,CHAIR,стул,34,0.97
+2023-09-04,Russian,produces,CHAIR,стул,35,0.96
+2023-09-04,Russian,produces,CHAIR,стул,36,0.98
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,17,0.06
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,18,0.18
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,19,0.18
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,20,0.4
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,21,0.47
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,22,0.42
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,23,0.51
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,24,0.69
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,25,0.71
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,26,0.81
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,27,0.82
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,28,0.77
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,29,0.81
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,30,0.78
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,31,0.83
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,32,0.92
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,33,0.95
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,34,0.85
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,35,0.81
+2023-09-04,Slovak,produces,CHAIR,stolička / kreslo,36,0.88
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,8,0
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,9,0
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,10,0
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,11,0.01
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,12,0.01
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,13,0.05
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,14,0.03
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,15,0.07
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,16,0.17
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,17,0.27
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,18,0.31
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,19,0.49
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,20,0.53
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,21,0.51
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,22,0.62
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,23,0.6
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,24,0.75
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,25,0.81
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,26,0.78
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,27,0.87
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,28,0.84
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,29,0.87
+2023-09-04,Spanish (Mexican),produces,CHAIR,silla,30,0.74
+2023-09-04,Swedish,produces,CHAIR,stol,8,0
+2023-09-04,Swedish,produces,CHAIR,stol,9,0
+2023-09-04,Swedish,produces,CHAIR,stol,10,0
+2023-09-04,Swedish,produces,CHAIR,stol,11,0
+2023-09-04,Swedish,produces,CHAIR,stol,12,0.01
+2023-09-04,Swedish,produces,CHAIR,stol,13,0
+2023-09-04,Swedish,produces,CHAIR,stol,14,0.02
+2023-09-04,Swedish,produces,CHAIR,stol,15,0
+2023-09-04,Swedish,produces,CHAIR,stol,16,0.07
+2023-09-04,Swedish,produces,CHAIR,stol,19,0.25
+2023-09-04,Swedish,produces,CHAIR,stol,22,0.53
+2023-09-04,Swedish,produces,CHAIR,stol,25,0.73
+2023-09-04,Swedish,produces,CHAIR,stol,28,0.82
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,8,0.01
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,9,0
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,10,0.01
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,11,0.01
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,12,0
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,13,0.01
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,14,0
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,15,0.02
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,16,0.03
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,17,0.05
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,18,0.07
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,19,0.1
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,20,0.18
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,21,0.25
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,22,0.27
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,23,0.37
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,24,0.4
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,25,0.5
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,26,0.54
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,27,0.57
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,28,0.57
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,29,0.67
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,30,0.69
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,31,0.69
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,32,0.75
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,33,0.82
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,34,0.8
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,35,0.86
+2023-09-04,Turkish,produces,CHAIR,Sandalye/İskemle,36,0.88
+2023-09-04,English (British),produces,CHAIR,chair,12,0
+2023-09-04,English (British),produces,CHAIR,chair,13,0
+2023-09-04,English (British),produces,CHAIR,chair,14,0.06
+2023-09-04,English (British),produces,CHAIR,chair,15,0.05
+2023-09-04,English (British),produces,CHAIR,chair,16,0.09
+2023-09-04,English (British),produces,CHAIR,chair,17,0.14
+2023-09-04,English (British),produces,CHAIR,chair,18,0.25
+2023-09-04,English (British),produces,CHAIR,chair,19,0.34
+2023-09-04,English (British),produces,CHAIR,chair,20,0.47
+2023-09-04,English (British),produces,CHAIR,chair,21,0.56
+2023-09-04,English (British),produces,CHAIR,chair,22,0.57
+2023-09-04,English (British),produces,CHAIR,chair,23,0.67
+2023-09-04,English (British),produces,CHAIR,chair,24,0.84
+2023-09-04,English (British),produces,CHAIR,chair,25,0.69
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,8,0.2
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,9,0
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,10,0
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,11,0
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,12,0
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,13,0.06
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,14,0
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,15,0
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,16,0
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,17,0.17
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,18,0.23
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,19,0.38
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,20,0.43
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,21,0.5
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,22,0.78
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,23,0.5
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,24,1
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,25,1
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,26,0.83
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,27,1
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,28,1
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,29,1
+2023-09-04,Kigiriama,produces,CHAIR,Kihi/ Kibao,30,1
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",16,0
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",17,0.02
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",18,0.01
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",19,0.02
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",20,0.12
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",21,0.1
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",22,0.17
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",23,0.21
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",24,0.29
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",25,0.36
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",26,0.52
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",27,0.43
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",28,0.63
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",29,0.49
+2023-09-04,Czech,produces,CHAIR,"stolička, židle",30,0.59
+2023-09-04,English (Australian),produces,CHAIR,chair,12,0
+2023-09-04,English (Australian),produces,CHAIR,chair,13,0
+2023-09-04,English (Australian),produces,CHAIR,chair,14,0.08
+2023-09-04,English (Australian),produces,CHAIR,chair,15,0.06
+2023-09-04,English (Australian),produces,CHAIR,chair,16,0.1
+2023-09-04,English (Australian),produces,CHAIR,chair,17,0.19
+2023-09-04,English (Australian),produces,CHAIR,chair,18,0.33
+2023-09-04,English (Australian),produces,CHAIR,chair,19,0.45
+2023-09-04,English (Australian),produces,CHAIR,chair,20,0.62
+2023-09-04,English (Australian),produces,CHAIR,chair,21,0.57
+2023-09-04,English (Australian),produces,CHAIR,chair,22,0.73
+2023-09-04,English (Australian),produces,CHAIR,chair,23,0.79
+2023-09-04,English (Australian),produces,CHAIR,chair,24,0.75
+2023-09-04,English (Australian),produces,CHAIR,chair,25,0.82
+2023-09-04,English (Australian),produces,CHAIR,chair,26,0.88
+2023-09-04,English (Australian),produces,CHAIR,chair,27,0.93
+2023-09-04,English (Australian),produces,CHAIR,chair,28,0.9
+2023-09-04,English (Australian),produces,CHAIR,chair,29,0.92
+2023-09-04,English (Australian),produces,CHAIR,chair,30,0.94
+2023-09-04,Latvian,produces,CHAIR,krēsls,8,0
+2023-09-04,Latvian,produces,CHAIR,krēsls,9,0
+2023-09-04,Latvian,produces,CHAIR,krēsls,10,0
+2023-09-04,Latvian,produces,CHAIR,krēsls,11,0.07
+2023-09-04,Latvian,produces,CHAIR,krēsls,12,0.06
+2023-09-04,Latvian,produces,CHAIR,krēsls,13,0.05
+2023-09-04,Latvian,produces,CHAIR,krēsls,14,0.08
+2023-09-04,Latvian,produces,CHAIR,krēsls,15,0.1
+2023-09-04,Latvian,produces,CHAIR,krēsls,16,0.06
+2023-09-04,Latvian,produces,CHAIR,krēsls,17,0.22
+2023-09-04,Latvian,produces,CHAIR,krēsls,18,0.14
+2023-09-04,Latvian,produces,CHAIR,krēsls,19,0.29
+2023-09-04,Latvian,produces,CHAIR,krēsls,20,0.38
+2023-09-04,Latvian,produces,CHAIR,krēsls,21,0.5
+2023-09-04,Latvian,produces,CHAIR,krēsls,22,0.47
+2023-09-04,Latvian,produces,CHAIR,krēsls,23,0.6
+2023-09-04,Latvian,produces,CHAIR,krēsls,24,0.77
+2023-09-04,Latvian,produces,CHAIR,krēsls,25,0.72
+2023-09-04,Latvian,produces,CHAIR,krēsls,26,0.73
+2023-09-04,Latvian,produces,CHAIR,krēsls,27,0.78
+2023-09-04,Latvian,produces,CHAIR,krēsls,28,0.78
+2023-09-04,Latvian,produces,CHAIR,krēsls,29,0.83
+2023-09-04,Latvian,produces,CHAIR,krēsls,30,0.92
+2023-09-04,Latvian,produces,CHAIR,krēsls,31,0.89
+2023-09-04,Latvian,produces,CHAIR,krēsls,32,0.72
+2023-09-04,Latvian,produces,CHAIR,krēsls,33,0.9
+2023-09-04,Latvian,produces,CHAIR,krēsls,34,0.88
+2023-09-04,Latvian,produces,CHAIR,krēsls,35,0.86
+2023-09-04,Latvian,produces,CHAIR,krēsls,36,0.77
+2023-09-04,Korean,produces,CHAIR,의자,8,0
+2023-09-04,Korean,produces,CHAIR,의자,9,0
+2023-09-04,Korean,produces,CHAIR,의자,10,0
+2023-09-04,Korean,produces,CHAIR,의자,11,0.03
+2023-09-04,Korean,produces,CHAIR,의자,12,0.02
+2023-09-04,Korean,produces,CHAIR,의자,13,0.08
+2023-09-04,Korean,produces,CHAIR,의자,14,0.05
+2023-09-04,Korean,produces,CHAIR,의자,15,0.06
+2023-09-04,Korean,produces,CHAIR,의자,16,0.12
+2023-09-04,Korean,produces,CHAIR,의자,17,0.14
+2023-09-04,Korean,produces,CHAIR,의자,18,0.25
+2023-09-04,Korean,produces,CHAIR,의자,19,0.26
+2023-09-04,Korean,produces,CHAIR,의자,20,0.31
+2023-09-04,Korean,produces,CHAIR,의자,21,0.38
+2023-09-04,Korean,produces,CHAIR,의자,22,0.5
+2023-09-04,Korean,produces,CHAIR,의자,23,0.5
+2023-09-04,Korean,produces,CHAIR,의자,24,0.67
+2023-09-04,Korean,produces,CHAIR,의자,25,0.78
+2023-09-04,Korean,produces,CHAIR,의자,26,0.74
+2023-09-04,Korean,produces,CHAIR,의자,27,0.76
+2023-09-04,Korean,produces,CHAIR,의자,28,0.83
+2023-09-04,Korean,produces,CHAIR,의자,29,0.88
+2023-09-04,Korean,produces,CHAIR,의자,30,0.84
+2023-09-04,Korean,produces,CHAIR,의자,31,0.99
+2023-09-04,Korean,produces,CHAIR,의자,32,0.9
+2023-09-04,Korean,produces,CHAIR,의자,33,0.95
+2023-09-04,Korean,produces,CHAIR,의자,34,0.92
+2023-09-04,Korean,produces,CHAIR,의자,35,0.94
+2023-09-04,Korean,produces,CHAIR,의자,36,0.99
+2023-09-04,French (French),produces,CHAIR,chaise,8,0
+2023-09-04,French (French),produces,CHAIR,chaise,9,0
+2023-09-04,French (French),produces,CHAIR,chaise,11,0
+2023-09-04,French (French),produces,CHAIR,chaise,12,0
+2023-09-04,French (French),produces,CHAIR,chaise,13,0
+2023-09-04,French (French),produces,CHAIR,chaise,14,0
+2023-09-04,French (French),produces,CHAIR,chaise,15,0
+2023-09-04,French (French),produces,CHAIR,chaise,16,0.03
+2023-09-04,French (French),produces,CHAIR,chaise,17,0.12
+2023-09-04,French (French),produces,CHAIR,chaise,18,0
+2023-09-04,French (French),produces,CHAIR,chaise,19,0.36
+2023-09-04,French (French),produces,CHAIR,chaise,20,0.4
+2023-09-04,French (French),produces,CHAIR,chaise,21,0.52
+2023-09-04,French (French),produces,CHAIR,chaise,22,0.66
+2023-09-04,French (French),produces,CHAIR,chaise,23,0.45
+2023-09-04,French (French),produces,CHAIR,chaise,24,0.62
+2023-09-04,French (French),produces,CHAIR,chaise,25,0.83
+2023-09-04,French (French),produces,CHAIR,chaise,26,0.66
+2023-09-04,French (French),produces,CHAIR,chaise,27,0.81
+2023-09-04,French (French),produces,CHAIR,chaise,28,0.85
+2023-09-04,French (French),produces,CHAIR,chaise,29,0.89
+2023-09-04,French (French),produces,CHAIR,chaise,30,0.93
+2023-09-04,Spanish (European),produces,CHAIR,silla,8,0
+2023-09-04,Spanish (European),produces,CHAIR,silla,9,0
+2023-09-04,Spanish (European),produces,CHAIR,silla,10,0
+2023-09-04,Spanish (European),produces,CHAIR,silla,11,0
+2023-09-04,Spanish (European),produces,CHAIR,silla,12,0
+2023-09-04,Spanish (European),produces,CHAIR,silla,13,0.02
+2023-09-04,Spanish (European),produces,CHAIR,silla,14,0.02
+2023-09-04,Spanish (European),produces,CHAIR,silla,15,0.03
+2023-09-04,Spanish (European),produces,CHAIR,silla,16,0.08
+2023-09-04,Spanish (European),produces,CHAIR,silla,17,0.08
+2023-09-04,Spanish (European),produces,CHAIR,silla,18,0.16
+2023-09-04,Spanish (European),produces,CHAIR,silla,19,0.19
+2023-09-04,Spanish (European),produces,CHAIR,silla,20,0.39
+2023-09-04,Spanish (European),produces,CHAIR,silla,21,0.54
+2023-09-04,Spanish (European),produces,CHAIR,silla,22,0.66
+2023-09-04,Spanish (European),produces,CHAIR,silla,23,0.57
+2023-09-04,Spanish (European),produces,CHAIR,silla,24,0.67
+2023-09-04,Spanish (European),produces,CHAIR,silla,25,0.63
+2023-09-04,Spanish (European),produces,CHAIR,silla,26,0.86
+2023-09-04,Spanish (European),produces,CHAIR,silla,27,0.88
+2023-09-04,Spanish (European),produces,CHAIR,silla,28,0.89
+2023-09-04,Spanish (European),produces,CHAIR,silla,29,0.93
+2023-09-04,Spanish (European),produces,CHAIR,silla,30,0.88
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,8,0
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,9,0
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,10,0
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,11,0
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,12,0.01
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,13,0
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,14,0
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,15,0
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,16,0.02
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,17,0.04
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,18,0.15
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,19,0.15
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,20,0.23
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,21,0.27
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,22,0.38
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,23,0.43
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,24,0.55
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,25,0.68
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,26,0.67
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,27,0.76
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,28,0.78
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,29,0.85
+2023-09-04,Portuguese (European),produces,CHAIR,Cadeira,30,0.82
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,8,0
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,9,0
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,10,0
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,11,0.01
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,12,0
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,13,0.01
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,14,0.09
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,15,0.09
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,16,0.14
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,17,0.22
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,18,0.36
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,19,0.43
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,20,0.5
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,21,0.5
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,22,0.65
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,23,0.77
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,24,0.81
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,25,0.84
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,26,0.87
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,27,0.8
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,28,0.94
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,29,0.93
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,30,0.95
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,31,0.95
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,32,0.95
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,33,0.99
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,34,0.95
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,35,1
+2023-09-04,Mandarin (Taiwanese),produces,CHAIR,椅子,36,0.99
+2023-09-04,Dutch,produces,CHAIR,stoel,8,0
+2023-09-04,Dutch,produces,CHAIR,stoel,9,0
+2023-09-04,Dutch,produces,CHAIR,stoel,10,0
+2023-09-04,Dutch,produces,CHAIR,stoel,11,0
+2023-09-04,Dutch,produces,CHAIR,stoel,12,0
+2023-09-04,Dutch,produces,CHAIR,stoel,13,0
+2023-09-04,Dutch,produces,CHAIR,stoel,14,0
+2023-09-04,Dutch,produces,CHAIR,stoel,15,0
+2023-09-04,Dutch,produces,CHAIR,stoel,16,0
+2023-09-04,Dutch,produces,CHAIR,stoel,17,0.16
+2023-09-04,Dutch,produces,CHAIR,stoel,18,0.19
+2023-09-04,Dutch,produces,CHAIR,stoel,19,0.17
+2023-09-04,Dutch,produces,CHAIR,stoel,20,0.3
+2023-09-04,Dutch,produces,CHAIR,stoel,21,0.46
+2023-09-04,Dutch,produces,CHAIR,stoel,22,0.71
+2023-09-04,Dutch,produces,CHAIR,stoel,23,0.8
+2023-09-04,Dutch,produces,CHAIR,stoel,24,0.87
+2023-09-04,Dutch,produces,CHAIR,stoel,25,1
+2023-09-04,Dutch,produces,CHAIR,stoel,26,0.67
+2023-09-04,Dutch,produces,CHAIR,stoel,27,0.6
+2023-09-04,Dutch,produces,CHAIR,stoel,28,1
+2023-09-04,Dutch,produces,CHAIR,stoel,29,0.96
+2023-09-04,Dutch,produces,CHAIR,stoel,30,1
+2023-09-04,Dutch,produces,CHAIR,stoel,31,1
+2023-09-04,Hungarian,produces,CHAIR,szék,16,0.14
+2023-09-04,Hungarian,produces,CHAIR,szék,17,0.33
+2023-09-04,Hungarian,produces,CHAIR,szék,18,0.28
+2023-09-04,Hungarian,produces,CHAIR,szék,19,0.5
+2023-09-04,Hungarian,produces,CHAIR,szék,20,0.39
+2023-09-04,Hungarian,produces,CHAIR,szék,21,0.61
+2023-09-04,Hungarian,produces,CHAIR,szék,22,0.59
+2023-09-04,Hungarian,produces,CHAIR,szék,23,0.67
+2023-09-04,Hungarian,produces,CHAIR,szék,24,0.61
+2023-09-04,Hungarian,produces,CHAIR,szék,25,0.81
+2023-09-04,Hungarian,produces,CHAIR,szék,26,0.87
+2023-09-04,Hungarian,produces,CHAIR,szék,27,0.81
+2023-09-04,Hungarian,produces,CHAIR,szék,28,0.83
+2023-09-04,Hungarian,produces,CHAIR,szék,29,0.83
+2023-09-04,Hungarian,produces,CHAIR,szék,30,0.83
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,16,0.13
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,17,0.14
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,18,0.13
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,19,0.23
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,20,0.35
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,21,0.39
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,22,0.37
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,23,0.47
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,24,0.6
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,25,0.65
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,26,0.58
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,27,0.68
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,28,0.64
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,29,0.77
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,30,0.84
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,31,0
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,32,1
+2023-09-04,Spanish (Argentinian),produces,CHAIR,silla,33,0.5
+2023-09-04,Persian,produces,CHAIR,صندلی,8,0
+2023-09-04,Persian,produces,CHAIR,صندلی,9,0
+2023-09-04,Persian,produces,CHAIR,صندلی,10,0.06
+2023-09-04,Persian,produces,CHAIR,صندلی,11,0
+2023-09-04,Persian,produces,CHAIR,صندلی,12,0
+2023-09-04,Persian,produces,CHAIR,صندلی,13,0
+2023-09-04,Persian,produces,CHAIR,صندلی,14,0
+2023-09-04,Persian,produces,CHAIR,صندلی,15,0
+2023-09-04,Persian,produces,CHAIR,صندلی,16,0
+2023-09-04,Persian,produces,CHAIR,صندلی,17,0
+2023-09-04,Persian,produces,CHAIR,صندلی,18,0.4
+2023-09-04,Persian,produces,CHAIR,صندلی,20,0.33
+2023-09-04,Persian,produces,CHAIR,صندلی,21,0
+2023-09-04,Persian,produces,CHAIR,صندلی,22,1
+2023-09-04,Persian,produces,CHAIR,صندلی,23,1
+2023-09-04,Persian,produces,CHAIR,صندلی,24,0.8
+2023-09-04,Persian,produces,CHAIR,صندلی,25,0.33
+2023-09-04,Persian,produces,CHAIR,صندلی,26,1
+2023-09-04,Persian,produces,CHAIR,صندلی,27,0.6
+2023-09-04,Persian,produces,CHAIR,صندلی,28,0.89
+2023-09-04,Persian,produces,CHAIR,صندلی,29,1
+2023-09-04,Persian,produces,CHAIR,صندلی,30,1

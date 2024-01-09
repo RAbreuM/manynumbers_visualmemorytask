@@ -1,0 +1,640 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,BICYCLE,單車,16,0.02
+2023-09-04,Cantonese,produces,BICYCLE,單車,17,0.02
+2023-09-04,Cantonese,produces,BICYCLE,單車,18,0.1
+2023-09-04,Cantonese,produces,BICYCLE,單車,19,0.12
+2023-09-04,Cantonese,produces,BICYCLE,單車,20,0.21
+2023-09-04,Cantonese,produces,BICYCLE,單車,21,0.31
+2023-09-04,Cantonese,produces,BICYCLE,單車,22,0.29
+2023-09-04,Cantonese,produces,BICYCLE,單車,23,0.41
+2023-09-04,Cantonese,produces,BICYCLE,單車,24,0.51
+2023-09-04,Cantonese,produces,BICYCLE,單車,25,0.62
+2023-09-04,Cantonese,produces,BICYCLE,單車,26,0.59
+2023-09-04,Cantonese,produces,BICYCLE,單車,27,0.81
+2023-09-04,Cantonese,produces,BICYCLE,單車,28,0.79
+2023-09-04,Cantonese,produces,BICYCLE,單車,29,0.83
+2023-09-04,Cantonese,produces,BICYCLE,單車,30,0.85
+2023-09-04,Croatian,produces,BICYCLE,bicikl,8,0
+2023-09-04,Croatian,produces,BICYCLE,bicikl,9,0
+2023-09-04,Croatian,produces,BICYCLE,bicikl,10,0
+2023-09-04,Croatian,produces,BICYCLE,bicikl,11,0
+2023-09-04,Croatian,produces,BICYCLE,bicikl,12,0.03
+2023-09-04,Croatian,produces,BICYCLE,bicikl,13,0.03
+2023-09-04,Croatian,produces,BICYCLE,bicikl,14,0.07
+2023-09-04,Croatian,produces,BICYCLE,bicikl,15,0
+2023-09-04,Croatian,produces,BICYCLE,bicikl,16,0.11
+2023-09-04,Croatian,produces,BICYCLE,bicikl,17,0.08
+2023-09-04,Croatian,produces,BICYCLE,bicikl,18,0.18
+2023-09-04,Croatian,produces,BICYCLE,bicikl,19,0.29
+2023-09-04,Croatian,produces,BICYCLE,bicikl,20,0.46
+2023-09-04,Croatian,produces,BICYCLE,bicikl,21,0.38
+2023-09-04,Croatian,produces,BICYCLE,bicikl,22,0.38
+2023-09-04,Croatian,produces,BICYCLE,bicikl,23,0.73
+2023-09-04,Croatian,produces,BICYCLE,bicikl,24,0.73
+2023-09-04,Croatian,produces,BICYCLE,bicikl,25,0.8
+2023-09-04,Croatian,produces,BICYCLE,bicikl,26,0.72
+2023-09-04,Croatian,produces,BICYCLE,bicikl,27,0.88
+2023-09-04,Croatian,produces,BICYCLE,bicikl,28,0.86
+2023-09-04,Croatian,produces,BICYCLE,bicikl,29,0.82
+2023-09-04,Croatian,produces,BICYCLE,bicikl,30,0.86
+2023-09-04,Danish,produces,BICYCLE,cykel,8,0
+2023-09-04,Danish,produces,BICYCLE,cykel,9,0
+2023-09-04,Danish,produces,BICYCLE,cykel,10,0
+2023-09-04,Danish,produces,BICYCLE,cykel,11,0
+2023-09-04,Danish,produces,BICYCLE,cykel,12,0.01
+2023-09-04,Danish,produces,BICYCLE,cykel,13,0
+2023-09-04,Danish,produces,BICYCLE,cykel,14,0.01
+2023-09-04,Danish,produces,BICYCLE,cykel,15,0.02
+2023-09-04,Danish,produces,BICYCLE,cykel,16,0.05
+2023-09-04,Danish,produces,BICYCLE,cykel,17,0.11
+2023-09-04,Danish,produces,BICYCLE,cykel,18,0.21
+2023-09-04,Danish,produces,BICYCLE,cykel,19,0.25
+2023-09-04,Danish,produces,BICYCLE,cykel,20,0.42
+2023-09-04,Danish,produces,BICYCLE,cykel,21,0.48
+2023-09-04,Danish,produces,BICYCLE,cykel,22,0.62
+2023-09-04,Danish,produces,BICYCLE,cykel,23,0.7
+2023-09-04,Danish,produces,BICYCLE,cykel,24,0.76
+2023-09-04,Danish,produces,BICYCLE,cykel,25,0.82
+2023-09-04,Danish,produces,BICYCLE,cykel,26,0.91
+2023-09-04,Danish,produces,BICYCLE,cykel,27,0.94
+2023-09-04,Danish,produces,BICYCLE,cykel,28,0.93
+2023-09-04,Danish,produces,BICYCLE,cykel,29,0.91
+2023-09-04,Danish,produces,BICYCLE,cykel,30,0.97
+2023-09-04,Danish,produces,BICYCLE,cykel,31,0.94
+2023-09-04,Danish,produces,BICYCLE,cykel,32,0.98
+2023-09-04,Danish,produces,BICYCLE,cykel,33,0.98
+2023-09-04,Danish,produces,BICYCLE,cykel,34,0.99
+2023-09-04,Danish,produces,BICYCLE,cykel,35,0.98
+2023-09-04,Danish,produces,BICYCLE,cykel,36,0.99
+2023-09-04,English (American),produces,BICYCLE,bicycle,8,0.01
+2023-09-04,English (American),produces,BICYCLE,bicycle,9,0.01
+2023-09-04,English (American),produces,BICYCLE,bicycle,10,0.02
+2023-09-04,English (American),produces,BICYCLE,bicycle,11,0.02
+2023-09-04,English (American),produces,BICYCLE,bicycle,12,0.03
+2023-09-04,English (American),produces,BICYCLE,bicycle,13,0.02
+2023-09-04,English (American),produces,BICYCLE,bicycle,14,0.03
+2023-09-04,English (American),produces,BICYCLE,bicycle,15,0.08
+2023-09-04,English (American),produces,BICYCLE,bicycle,16,0.11
+2023-09-04,English (American),produces,BICYCLE,bicycle,17,0.15
+2023-09-04,English (American),produces,BICYCLE,bicycle,18,0.21
+2023-09-04,English (American),produces,BICYCLE,bicycle,19,0.32
+2023-09-04,English (American),produces,BICYCLE,bicycle,20,0.37
+2023-09-04,English (American),produces,BICYCLE,bicycle,21,0.4
+2023-09-04,English (American),produces,BICYCLE,bicycle,22,0.52
+2023-09-04,English (American),produces,BICYCLE,bicycle,23,0.56
+2023-09-04,English (American),produces,BICYCLE,bicycle,24,0.64
+2023-09-04,English (American),produces,BICYCLE,bicycle,25,0.72
+2023-09-04,English (American),produces,BICYCLE,bicycle,26,0.74
+2023-09-04,English (American),produces,BICYCLE,bicycle,27,0.74
+2023-09-04,English (American),produces,BICYCLE,bicycle,28,0.89
+2023-09-04,English (American),produces,BICYCLE,bicycle,29,0.82
+2023-09-04,English (American),produces,BICYCLE,bicycle,30,0.85
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,8,0
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,9,0
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,10,0
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,11,0
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,12,0
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,13,0
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,14,0
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,15,0.02
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,16,0.03
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,17,0.04
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,18,0.07
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,19,0.2
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,20,0.17
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,21,0.3
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,22,0.38
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,23,0.45
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,24,0.48
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,25,0.56
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,26,0.55
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,27,0.69
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,28,0.66
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,29,0.66
+2023-09-04,French (Quebecois),produces,BICYCLE,bicyclette,30,0.72
+2023-09-04,German,produces,BICYCLE,Fahrrad,18,0.11
+2023-09-04,German,produces,BICYCLE,Fahrrad,19,0.23
+2023-09-04,German,produces,BICYCLE,Fahrrad,20,0.3
+2023-09-04,German,produces,BICYCLE,Fahrrad,21,0.36
+2023-09-04,German,produces,BICYCLE,Fahrrad,22,0.39
+2023-09-04,German,produces,BICYCLE,Fahrrad,23,0.54
+2023-09-04,German,produces,BICYCLE,Fahrrad,24,0.53
+2023-09-04,German,produces,BICYCLE,Fahrrad,25,0.72
+2023-09-04,German,produces,BICYCLE,Fahrrad,26,0.77
+2023-09-04,German,produces,BICYCLE,Fahrrad,27,0.75
+2023-09-04,German,produces,BICYCLE,Fahrrad,28,0.8
+2023-09-04,German,produces,BICYCLE,Fahrrad,29,0.89
+2023-09-04,German,produces,BICYCLE,Fahrrad,30,0.95
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,11,0
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,12,0
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,13,0
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,14,0
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,15,0
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,16,0.17
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,17,0
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,19,1
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,20,0.44
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,21,0.5
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,22,1
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,23,1
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,24,0.73
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,25,0.82
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,26,0.86
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,27,0.94
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,28,0.93
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,29,0.96
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,30,0.89
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,31,0.97
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,32,0.92
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,33,0.9
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,34,1
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,35,0.78
+2023-09-04,Hebrew,produces,BICYCLE,אופניים,36,0.6
+2023-09-04,Italian,produces,BICYCLE,bicicletta,7,0
+2023-09-04,Italian,produces,BICYCLE,bicicletta,8,0
+2023-09-04,Italian,produces,BICYCLE,bicicletta,9,0
+2023-09-04,Italian,produces,BICYCLE,bicicletta,10,0
+2023-09-04,Italian,produces,BICYCLE,bicicletta,11,0
+2023-09-04,Italian,produces,BICYCLE,bicicletta,12,0
+2023-09-04,Italian,produces,BICYCLE,bicicletta,13,0
+2023-09-04,Italian,produces,BICYCLE,bicicletta,14,0
+2023-09-04,Italian,produces,BICYCLE,bicicletta,15,0.07
+2023-09-04,Italian,produces,BICYCLE,bicicletta,16,0.09
+2023-09-04,Italian,produces,BICYCLE,bicicletta,17,0.12
+2023-09-04,Italian,produces,BICYCLE,bicicletta,18,0.17
+2023-09-04,Italian,produces,BICYCLE,bicicletta,19,0.28
+2023-09-04,Italian,produces,BICYCLE,bicicletta,20,0.3
+2023-09-04,Italian,produces,BICYCLE,bicicletta,21,0.43
+2023-09-04,Italian,produces,BICYCLE,bicicletta,22,0.49
+2023-09-04,Italian,produces,BICYCLE,bicicletta,23,0.6
+2023-09-04,Italian,produces,BICYCLE,bicicletta,24,0.74
+2023-09-04,Italian,produces,BICYCLE,bicicletta,25,0.72
+2023-09-04,Italian,produces,BICYCLE,bicicletta,26,0.85
+2023-09-04,Italian,produces,BICYCLE,bicicletta,27,0.81
+2023-09-04,Italian,produces,BICYCLE,bicicletta,28,0.86
+2023-09-04,Italian,produces,BICYCLE,bicicletta,29,0.89
+2023-09-04,Italian,produces,BICYCLE,bicicletta,30,0.94
+2023-09-04,Italian,produces,BICYCLE,bicicletta,31,1
+2023-09-04,Italian,produces,BICYCLE,bicicletta,32,0.91
+2023-09-04,Italian,produces,BICYCLE,bicicletta,33,0.94
+2023-09-04,Italian,produces,BICYCLE,bicicletta,34,1
+2023-09-04,Italian,produces,BICYCLE,bicicletta,35,0.87
+2023-09-04,Italian,produces,BICYCLE,bicicletta,36,0.9
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,12,0
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,13,0.02
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,14,0
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,15,0.02
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,16,0.01
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,17,0.07
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,18,0.12
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,19,0.23
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,20,0.34
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,21,0.4
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,22,0.44
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,23,0.61
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,24,0.65
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,25,0.72
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,26,0.75
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,27,0.85
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,28,0.83
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,29,0.93
+2023-09-04,Mandarin (Beijing),produces,BICYCLE,自行车,30,0.91
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,8,0.03
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,9,0
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,10,0
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,11,0
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,12,0
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,13,0
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,14,0
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,15,0.03
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,16,0.03
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,17,0.09
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,18,0.15
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,19,0.21
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,20,0.36
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,21,0.43
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,22,0.51
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,23,0.64
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,24,0.7
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,25,0.77
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,26,0.84
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,27,0.87
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,28,0.91
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,29,0.92
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,30,0.94
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,31,0.95
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,32,0.96
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,33,0.97
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,34,0.97
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,35,0.98
+2023-09-04,Norwegian,produces,BICYCLE,sykkel,36,0.98
+2023-09-04,Russian,produces,BICYCLE,велосипед,8,0
+2023-09-04,Russian,produces,BICYCLE,велосипед,9,0
+2023-09-04,Russian,produces,BICYCLE,велосипед,10,0.02
+2023-09-04,Russian,produces,BICYCLE,велосипед,11,0
+2023-09-04,Russian,produces,BICYCLE,велосипед,12,0
+2023-09-04,Russian,produces,BICYCLE,велосипед,13,0
+2023-09-04,Russian,produces,BICYCLE,велосипед,14,0.01
+2023-09-04,Russian,produces,BICYCLE,велосипед,15,0.02
+2023-09-04,Russian,produces,BICYCLE,велосипед,16,0.02
+2023-09-04,Russian,produces,BICYCLE,велосипед,17,0.07
+2023-09-04,Russian,produces,BICYCLE,велосипед,18,0.09
+2023-09-04,Russian,produces,BICYCLE,велосипед,19,0.15
+2023-09-04,Russian,produces,BICYCLE,велосипед,20,0.16
+2023-09-04,Russian,produces,BICYCLE,велосипед,21,0.42
+2023-09-04,Russian,produces,BICYCLE,велосипед,22,0.39
+2023-09-04,Russian,produces,BICYCLE,велосипед,23,0.59
+2023-09-04,Russian,produces,BICYCLE,велосипед,24,0.57
+2023-09-04,Russian,produces,BICYCLE,велосипед,25,0.65
+2023-09-04,Russian,produces,BICYCLE,велосипед,26,0.65
+2023-09-04,Russian,produces,BICYCLE,велосипед,27,0.6
+2023-09-04,Russian,produces,BICYCLE,велосипед,28,0.75
+2023-09-04,Russian,produces,BICYCLE,велосипед,29,0.91
+2023-09-04,Russian,produces,BICYCLE,велосипед,30,0.74
+2023-09-04,Russian,produces,BICYCLE,велосипед,31,0.8
+2023-09-04,Russian,produces,BICYCLE,велосипед,32,0.89
+2023-09-04,Russian,produces,BICYCLE,велосипед,33,0.93
+2023-09-04,Russian,produces,BICYCLE,велосипед,34,0.84
+2023-09-04,Russian,produces,BICYCLE,велосипед,35,0.91
+2023-09-04,Russian,produces,BICYCLE,велосипед,36,0.9
+2023-09-04,Slovak,produces,BICYCLE,bicykel,8,0
+2023-09-04,Slovak,produces,BICYCLE,bicykel,9,0
+2023-09-04,Slovak,produces,BICYCLE,bicykel,10,0.01
+2023-09-04,Slovak,produces,BICYCLE,bicykel,11,0
+2023-09-04,Slovak,produces,BICYCLE,bicykel,12,0.01
+2023-09-04,Slovak,produces,BICYCLE,bicykel,13,0.05
+2023-09-04,Slovak,produces,BICYCLE,bicykel,14,0.08
+2023-09-04,Slovak,produces,BICYCLE,bicykel,15,0.08
+2023-09-04,Slovak,produces,BICYCLE,bicykel,16,0.12
+2023-09-04,Slovak,produces,BICYCLE,bicykel,17,0.14
+2023-09-04,Slovak,produces,BICYCLE,bicykel,18,0.28
+2023-09-04,Slovak,produces,BICYCLE,bicykel,19,0.27
+2023-09-04,Slovak,produces,BICYCLE,bicykel,20,0.45
+2023-09-04,Slovak,produces,BICYCLE,bicykel,21,0.42
+2023-09-04,Slovak,produces,BICYCLE,bicykel,22,0.45
+2023-09-04,Slovak,produces,BICYCLE,bicykel,23,0.56
+2023-09-04,Slovak,produces,BICYCLE,bicykel,24,0.69
+2023-09-04,Slovak,produces,BICYCLE,bicykel,25,0.7
+2023-09-04,Slovak,produces,BICYCLE,bicykel,26,0.82
+2023-09-04,Slovak,produces,BICYCLE,bicykel,27,0.89
+2023-09-04,Slovak,produces,BICYCLE,bicykel,28,0.78
+2023-09-04,Slovak,produces,BICYCLE,bicykel,29,0.81
+2023-09-04,Slovak,produces,BICYCLE,bicykel,30,0.84
+2023-09-04,Slovak,produces,BICYCLE,bicykel,31,0.86
+2023-09-04,Slovak,produces,BICYCLE,bicykel,32,0.88
+2023-09-04,Slovak,produces,BICYCLE,bicykel,33,0.91
+2023-09-04,Slovak,produces,BICYCLE,bicykel,34,0.89
+2023-09-04,Slovak,produces,BICYCLE,bicykel,35,0.81
+2023-09-04,Slovak,produces,BICYCLE,bicykel,36,0.88
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,8,0.03
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,9,0
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,10,0
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,11,0
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,12,0.02
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,13,0.02
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,14,0
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,15,0.05
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,16,0.11
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,17,0.17
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,18,0.18
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,19,0.27
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,20,0.36
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,21,0.3
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,22,0.27
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,23,0.37
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,24,0.51
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,25,0.58
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,26,0.6
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,27,0.71
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,28,0.62
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,29,0.72
+2023-09-04,Spanish (Mexican),produces,BICYCLE,bicicleta,30,0.61
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,8,0.01
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,9,0
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,10,0.01
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,11,0.01
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,12,0.02
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,13,0.02
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,14,0.03
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,15,0.03
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,16,0.04
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,17,0.1
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,18,0.12
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,19,0.17
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,20,0.22
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,21,0.31
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,22,0.3
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,23,0.45
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,24,0.5
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,25,0.51
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,26,0.58
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,27,0.7
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,28,0.71
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,29,0.79
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,30,0.83
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,31,0.77
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,32,0.82
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,33,0.89
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,34,0.87
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,35,0.84
+2023-09-04,Turkish,produces,BICYCLE,Bisiklet,36,0.96
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,12,0
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,13,0
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,14,0.03
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,15,0.03
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,16,0.06
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,17,0.1
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,18,0.17
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,19,0.27
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,20,0.41
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,21,0.48
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,22,0.5
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,23,0.58
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,24,0.72
+2023-09-04,English (British),produces,BICYCLE,bicycle / bike,25,0.69
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,8,0
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,9,0
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,10,0
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,11,0
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,12,0
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,13,0.06
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,14,0
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,15,0
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,16,0
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,17,0.17
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,18,0.31
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,19,0.25
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,20,0.5
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,21,0.5
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,22,0.56
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,23,0.25
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,24,0.71
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,25,1
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,26,0.67
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,27,1
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,28,1
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,29,1
+2023-09-04,Kigiriama,produces,BICYCLE,Basikili,30,1
+2023-09-04,Czech,produces,BICYCLE,kolo,16,0.21
+2023-09-04,Czech,produces,BICYCLE,kolo,17,0.34
+2023-09-04,Czech,produces,BICYCLE,kolo,18,0.36
+2023-09-04,Czech,produces,BICYCLE,kolo,19,0.33
+2023-09-04,Czech,produces,BICYCLE,kolo,20,0.65
+2023-09-04,Czech,produces,BICYCLE,kolo,21,0.71
+2023-09-04,Czech,produces,BICYCLE,kolo,22,0.78
+2023-09-04,Czech,produces,BICYCLE,kolo,23,0.7
+2023-09-04,Czech,produces,BICYCLE,kolo,24,0.86
+2023-09-04,Czech,produces,BICYCLE,kolo,25,0.77
+2023-09-04,Czech,produces,BICYCLE,kolo,26,0.77
+2023-09-04,Czech,produces,BICYCLE,kolo,27,0.84
+2023-09-04,Czech,produces,BICYCLE,kolo,28,0.88
+2023-09-04,Czech,produces,BICYCLE,kolo,29,0.97
+2023-09-04,Czech,produces,BICYCLE,kolo,30,0.93
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,12,0.01
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,13,0
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,14,0.08
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,15,0.13
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,16,0.18
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,17,0.26
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,18,0.39
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,19,0.52
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,20,0.68
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,21,0.57
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,22,0.82
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,23,0.77
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,24,0.86
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,25,0.81
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,26,0.86
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,27,0.94
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,28,0.97
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,29,0.91
+2023-09-04,English (Australian),produces,BICYCLE,bicycle/bike,30,0.98
+2023-09-04,Latvian,produces,BICYCLE,ritenis/velosipēds,8,0
+2023-09-04,Latvian,produces,BICYCLE,ritenis/velosipēds,9,0
+2023-09-04,Latvian,produces,BICYCLE,ritenis/velosipēds,10,0.04
+2023-09-04,Latvian,produces,BICYCLE,ritenis/velosipēds,11,0
+2023-09-04,Latvian,produces,BICYCLE,ritenis/velosipēds,12,0.06
+2023-09-04,Latvian,produces,BICYCLE,ritenis/velosipēds,13,0
+2023-09-04,Latvian,produces,BICYCLE,ritenis/velosipēds,14,0.12
+2023-09-04,Latvian,produces,BICYCLE,ritenis/velosipēds,15,0
+2023-09-04,Latvian,produces,BICYCLE,ritenis/velosipēds,16,0.06
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,17,0.15
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,18,0.14
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,19,0.21
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,20,0.32
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,21,0.58
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,22,0.41
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,23,0.64
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,24,0.73
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,25,0.72
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,26,0.77
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,27,0.83
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,28,0.83
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,29,0.88
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,30,0.88
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,31,1
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,32,0.8
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,33,0.9
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,34,0.94
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,35,0.9
+2023-09-04,Latvian,produces,BICYCLE,ritenis / velosipēds,36,0.82
+2023-09-04,Korean,produces,BICYCLE,자전거,18,0.26
+2023-09-04,Korean,produces,BICYCLE,자전거,19,0.08
+2023-09-04,Korean,produces,BICYCLE,자전거,20,0.22
+2023-09-04,Korean,produces,BICYCLE,자전거,21,0.41
+2023-09-04,Korean,produces,BICYCLE,자전거,22,0.43
+2023-09-04,Korean,produces,BICYCLE,자전거,23,0.39
+2023-09-04,Korean,produces,BICYCLE,자전거,24,0.6
+2023-09-04,Korean,produces,BICYCLE,자전거,25,0.75
+2023-09-04,Korean,produces,BICYCLE,자전거,26,0.73
+2023-09-04,Korean,produces,BICYCLE,자전거,27,0.72
+2023-09-04,Korean,produces,BICYCLE,자전거,28,0.78
+2023-09-04,Korean,produces,BICYCLE,자전거,29,0.88
+2023-09-04,Korean,produces,BICYCLE,자전거,30,0.83
+2023-09-04,Korean,produces,BICYCLE,자전거,31,0.92
+2023-09-04,Korean,produces,BICYCLE,자전거,32,0.94
+2023-09-04,Korean,produces,BICYCLE,자전거,33,0.93
+2023-09-04,Korean,produces,BICYCLE,자전거,34,0.92
+2023-09-04,Korean,produces,BICYCLE,자전거,35,0.93
+2023-09-04,Korean,produces,BICYCLE,자전거,36,0.97
+2023-09-04,French (French),produces,BICYCLE,vélo,8,0.02
+2023-09-04,French (French),produces,BICYCLE,vélo,9,0
+2023-09-04,French (French),produces,BICYCLE,vélo,11,0
+2023-09-04,French (French),produces,BICYCLE,vélo,12,0
+2023-09-04,French (French),produces,BICYCLE,vélo,13,0
+2023-09-04,French (French),produces,BICYCLE,vélo,14,0
+2023-09-04,French (French),produces,BICYCLE,vélo,15,0
+2023-09-04,French (French),produces,BICYCLE,vélo,16,0.04
+2023-09-04,French (French),produces,BICYCLE,vélo,17,0.08
+2023-09-04,French (French),produces,BICYCLE,vélo,18,0
+2023-09-04,French (French),produces,BICYCLE,vélo,19,0.45
+2023-09-04,French (French),produces,BICYCLE,vélo,20,0.45
+2023-09-04,French (French),produces,BICYCLE,vélo,21,0.62
+2023-09-04,French (French),produces,BICYCLE,vélo,22,0.63
+2023-09-04,French (French),produces,BICYCLE,vélo,23,0.68
+2023-09-04,French (French),produces,BICYCLE,vélo,24,0.75
+2023-09-04,French (French),produces,BICYCLE,vélo,25,0.83
+2023-09-04,French (French),produces,BICYCLE,vélo,26,0.75
+2023-09-04,French (French),produces,BICYCLE,vélo,27,0.96
+2023-09-04,French (French),produces,BICYCLE,vélo,28,0.88
+2023-09-04,French (French),produces,BICYCLE,vélo,29,0.97
+2023-09-04,French (French),produces,BICYCLE,vélo,30,0.93
+2023-09-04,Spanish (European),produces,BICYCLE,bici,8,0
+2023-09-04,Spanish (European),produces,BICYCLE,bici,9,0
+2023-09-04,Spanish (European),produces,BICYCLE,bici,10,0
+2023-09-04,Spanish (European),produces,BICYCLE,bici,11,0
+2023-09-04,Spanish (European),produces,BICYCLE,bici,12,0
+2023-09-04,Spanish (European),produces,BICYCLE,bici,13,0
+2023-09-04,Spanish (European),produces,BICYCLE,bici,14,0
+2023-09-04,Spanish (European),produces,BICYCLE,bici,15,0.09
+2023-09-04,Spanish (European),produces,BICYCLE,bici,16,0.1
+2023-09-04,Spanish (European),produces,BICYCLE,bici,17,0.05
+2023-09-04,Spanish (European),produces,BICYCLE,bici,18,0.28
+2023-09-04,Spanish (European),produces,BICYCLE,bici,19,0.33
+2023-09-04,Spanish (European),produces,BICYCLE,bici,20,0.19
+2023-09-04,Spanish (European),produces,BICYCLE,bici,21,0.41
+2023-09-04,Spanish (European),produces,BICYCLE,bici,22,0.45
+2023-09-04,Spanish (European),produces,BICYCLE,bici,23,0.6
+2023-09-04,Spanish (European),produces,BICYCLE,bici,24,0.71
+2023-09-04,Spanish (European),produces,BICYCLE,bici,25,0.69
+2023-09-04,Spanish (European),produces,BICYCLE,bici,26,0.86
+2023-09-04,Spanish (European),produces,BICYCLE,bici,27,0.76
+2023-09-04,Spanish (European),produces,BICYCLE,bici,28,0.79
+2023-09-04,Spanish (European),produces,BICYCLE,bici,29,0.88
+2023-09-04,Spanish (European),produces,BICYCLE,bici,30,0.83
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,8,0
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,9,0
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,10,0.01
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,11,0
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,12,0
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,13,0
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,14,0
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,15,0.01
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,16,0
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,17,0.04
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,18,0.09
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,19,0.09
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,20,0.15
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,21,0.26
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,22,0.34
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,23,0.35
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,24,0.44
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,25,0.54
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,26,0.57
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,27,0.67
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,28,0.74
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,29,0.71
+2023-09-04,Portuguese (European),produces,BICYCLE,Bicicleta,30,0.75
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,8,0
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,9,0
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,10,0
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,11,0
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,12,0
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,13,0
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,14,0.04
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,15,0.04
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,16,0.06
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,17,0.14
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,18,0.11
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,19,0.17
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,20,0.21
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,21,0.23
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,22,0.36
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,23,0.51
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,24,0.57
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,25,0.63
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,26,0.63
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,27,0.71
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,28,0.81
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,29,0.82
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,30,0.85
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,31,0.95
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,32,0.88
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,33,0.95
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,34,0.86
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,35,0.96
+2023-09-04,Mandarin (Taiwanese),produces,BICYCLE,腳踏車,36,0.99
+2023-09-04,Dutch,produces,BICYCLE,fiets,8,0
+2023-09-04,Dutch,produces,BICYCLE,fiets,9,0
+2023-09-04,Dutch,produces,BICYCLE,fiets,10,0
+2023-09-04,Dutch,produces,BICYCLE,fiets,11,0
+2023-09-04,Dutch,produces,BICYCLE,fiets,12,0
+2023-09-04,Dutch,produces,BICYCLE,fiets,13,0
+2023-09-04,Dutch,produces,BICYCLE,fiets,14,0.03
+2023-09-04,Dutch,produces,BICYCLE,fiets,15,0.14
+2023-09-04,Dutch,produces,BICYCLE,fiets,16,0.07
+2023-09-04,Dutch,produces,BICYCLE,fiets,17,0.31
+2023-09-04,Dutch,produces,BICYCLE,fiets,18,0.34
+2023-09-04,Dutch,produces,BICYCLE,fiets,19,0.35
+2023-09-04,Dutch,produces,BICYCLE,fiets,20,0.51
+2023-09-04,Dutch,produces,BICYCLE,fiets,21,0.57
+2023-09-04,Dutch,produces,BICYCLE,fiets,22,0.71
+2023-09-04,Dutch,produces,BICYCLE,fiets,23,0.9
+2023-09-04,Dutch,produces,BICYCLE,fiets,24,0.93
+2023-09-04,Dutch,produces,BICYCLE,fiets,25,0.9
+2023-09-04,Dutch,produces,BICYCLE,fiets,26,0.86
+2023-09-04,Dutch,produces,BICYCLE,fiets,27,1
+2023-09-04,Dutch,produces,BICYCLE,"fiets, driewieler",28,0.88
+2023-09-04,Dutch,produces,BICYCLE,"fiets, driewieler",29,0.76
+2023-09-04,Dutch,produces,BICYCLE,"fiets, driewieler",30,0.71
+2023-09-04,Dutch,produces,BICYCLE,"fiets, driewieler",31,0.83
+2023-09-04,Dutch,produces,BICYCLE,driewieler,32,0.6
+2023-09-04,Dutch,produces,BICYCLE,driewieler,33,0.67
+2023-09-04,Dutch,produces,BICYCLE,driewieler,34,0.4
+2023-09-04,Dutch,produces,BICYCLE,driewieler,35,0.33
+2023-09-04,Dutch,produces,BICYCLE,driewieler,36,0.83
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,16,0.1
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,17,0.33
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,18,0.17
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,19,0.5
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,20,0.39
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,21,0.61
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,22,0.48
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,23,0.5
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,24,0.61
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,25,0.79
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,26,0.74
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,27,0.73
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,28,0.73
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,29,0.92
+2023-09-04,Hungarian,produces,BICYCLE,bicikli,30,0.78
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,16,0.04
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,17,0.14
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,18,0.11
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,19,0.18
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,20,0.2
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,21,0.27
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,22,0.46
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,23,0.33
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,24,0.37
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,25,0.49
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,26,0.44
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,27,0.64
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,28,0.45
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,29,0.65
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,30,0.67
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,31,0
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,32,1
+2023-09-04,Spanish (Argentinian),produces,BICYCLE,bicicleta/bici,33,0.5
+2023-09-04,Persian,produces,BICYCLE,دوچرخه,8,0
+2023-09-04,Persian,produces,BICYCLE,دوچرخه,9,0
+2023-09-04,Persian,produces,BICYCLE,دوچرخه,10,0.06
+2023-09-04,Persian,produces,BICYCLE,دوچرخه,11,0
+2023-09-04,Persian,produces,BICYCLE,دوچرخه,12,0
+2023-09-04,Persian,produces,BICYCLE,دوچرخه,13,0
+2023-09-04,Persian,produces,BICYCLE,دوچرخه,14,0.13
+2023-09-04,Persian,produces,BICYCLE,دوچرخه,15,0.17
+2023-09-04,Persian,produces,BICYCLE,دوچرخه,16,0.5
+2023-09-04,Persian,produces,BICYCLE,دوچرخه (چرخ),17,1
+2023-09-04,Persian,produces,BICYCLE,دوچرخه (چرخ),18,0.4
+2023-09-04,Persian,produces,BICYCLE,دوچرخه (چرخ),20,0.33
+2023-09-04,Persian,produces,BICYCLE,دوچرخه (چرخ),21,0
+2023-09-04,Persian,produces,BICYCLE,دوچرخه (چرخ),22,1
+2023-09-04,Persian,produces,BICYCLE,دوچرخه (چرخ),23,0.67
+2023-09-04,Persian,produces,BICYCLE,دوچرخه (چرخ),24,0.5
+2023-09-04,Persian,produces,BICYCLE,دوچرخه (چرخ),25,0.33
+2023-09-04,Persian,produces,BICYCLE,دوچرخه (چرخ),26,0.5
+2023-09-04,Persian,produces,BICYCLE,دوچرخه (چرخ),27,0.8
+2023-09-04,Persian,produces,BICYCLE,دوچرخه (چرخ),28,0.78
+2023-09-04,Persian,produces,BICYCLE,دوچرخه (چرخ),29,1
+2023-09-04,Persian,produces,BICYCLE,دوچرخه (چرخ),30,0.5

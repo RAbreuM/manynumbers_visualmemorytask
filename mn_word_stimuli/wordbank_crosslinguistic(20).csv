@@ -1,0 +1,655 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,RAIN,雨,16,0.09
+2023-09-04,Cantonese,produces,RAIN,雨,17,0.33
+2023-09-04,Cantonese,produces,RAIN,雨,18,0.31
+2023-09-04,Cantonese,produces,RAIN,雨,19,0.39
+2023-09-04,Cantonese,produces,RAIN,雨,20,0.51
+2023-09-04,Cantonese,produces,RAIN,雨,21,0.55
+2023-09-04,Cantonese,produces,RAIN,雨,22,0.59
+2023-09-04,Cantonese,produces,RAIN,雨,23,0.72
+2023-09-04,Cantonese,produces,RAIN,雨,24,0.78
+2023-09-04,Cantonese,produces,RAIN,雨,25,0.89
+2023-09-04,Cantonese,produces,RAIN,雨,26,0.85
+2023-09-04,Cantonese,produces,RAIN,雨,27,0.95
+2023-09-04,Cantonese,produces,RAIN,雨,28,0.95
+2023-09-04,Cantonese,produces,RAIN,雨,29,0.93
+2023-09-04,Cantonese,produces,RAIN,雨,30,0.96
+2023-09-04,Croatian,produces,RAIN,kiša,8,0
+2023-09-04,Croatian,produces,RAIN,kiša,9,0
+2023-09-04,Croatian,produces,RAIN,kiša,10,0
+2023-09-04,Croatian,produces,RAIN,kiša,11,0
+2023-09-04,Croatian,produces,RAIN,kiša,12,0
+2023-09-04,Croatian,produces,RAIN,kiša,13,0
+2023-09-04,Croatian,produces,RAIN,kiša,14,0.04
+2023-09-04,Croatian,produces,RAIN,kiša,15,0
+2023-09-04,Croatian,produces,RAIN,kiša,16,0.17
+2023-09-04,Croatian,produces,RAIN,kiša,17,0.12
+2023-09-04,Croatian,produces,RAIN,kiša,18,0.14
+2023-09-04,Croatian,produces,RAIN,kiša,19,0.38
+2023-09-04,Croatian,produces,RAIN,kiša,20,0.62
+2023-09-04,Croatian,produces,RAIN,kiša,21,0.55
+2023-09-04,Croatian,produces,RAIN,kiša,22,0.71
+2023-09-04,Croatian,produces,RAIN,kiša,23,0.77
+2023-09-04,Croatian,produces,RAIN,kiša,24,0.8
+2023-09-04,Croatian,produces,RAIN,kiša,25,0.83
+2023-09-04,Croatian,produces,RAIN,kiša,26,0.86
+2023-09-04,Croatian,produces,RAIN,kiša,27,1
+2023-09-04,Croatian,produces,RAIN,kiša,28,1
+2023-09-04,Croatian,produces,RAIN,kiša,29,1
+2023-09-04,Croatian,produces,RAIN,kiša,30,0.96
+2023-09-04,Danish,produces,RAIN,regn,8,0
+2023-09-04,Danish,produces,RAIN,regn,9,0
+2023-09-04,Danish,produces,RAIN,regn,10,0
+2023-09-04,Danish,produces,RAIN,regn,11,0
+2023-09-04,Danish,produces,RAIN,regn,12,0
+2023-09-04,Danish,produces,RAIN,regn,13,0
+2023-09-04,Danish,produces,RAIN,regn,14,0
+2023-09-04,Danish,produces,RAIN,regn,15,0
+2023-09-04,Danish,produces,RAIN,regn,16,0.03
+2023-09-04,Danish,produces,RAIN,regn,17,0.03
+2023-09-04,Danish,produces,RAIN,regn,18,0.08
+2023-09-04,Danish,produces,RAIN,regn,19,0.1
+2023-09-04,Danish,produces,RAIN,regn,20,0.24
+2023-09-04,Danish,produces,RAIN,regn,21,0.26
+2023-09-04,Danish,produces,RAIN,regn,22,0.42
+2023-09-04,Danish,produces,RAIN,regn,23,0.45
+2023-09-04,Danish,produces,RAIN,regn,24,0.55
+2023-09-04,Danish,produces,RAIN,regn,25,0.64
+2023-09-04,Danish,produces,RAIN,regn,26,0.77
+2023-09-04,Danish,produces,RAIN,regn,27,0.86
+2023-09-04,Danish,produces,RAIN,regn,28,0.84
+2023-09-04,Danish,produces,RAIN,regn,29,0.87
+2023-09-04,Danish,produces,RAIN,regn,30,0.94
+2023-09-04,Danish,produces,RAIN,regn,31,0.95
+2023-09-04,Danish,produces,RAIN,regn,32,0.98
+2023-09-04,Danish,produces,RAIN,regn,33,0.95
+2023-09-04,Danish,produces,RAIN,regn,34,0.98
+2023-09-04,Danish,produces,RAIN,regn,35,0.96
+2023-09-04,Danish,produces,RAIN,regn,36,0.99
+2023-09-04,English (American),produces,RAIN,rain,8,0.01
+2023-09-04,English (American),produces,RAIN,rain,9,0.01
+2023-09-04,English (American),produces,RAIN,rain,10,0.02
+2023-09-04,English (American),produces,RAIN,rain,11,0.02
+2023-09-04,English (American),produces,RAIN,rain,12,0.02
+2023-09-04,English (American),produces,RAIN,rain,13,0.02
+2023-09-04,English (American),produces,RAIN,rain,14,0.03
+2023-09-04,English (American),produces,RAIN,rain,15,0.06
+2023-09-04,English (American),produces,RAIN,rain,16,0.06
+2023-09-04,English (American),produces,RAIN,rain,17,0.1
+2023-09-04,English (American),produces,RAIN,rain,18,0.15
+2023-09-04,English (American),produces,RAIN,rain,19,0.27
+2023-09-04,English (American),produces,RAIN,rain,20,0.36
+2023-09-04,English (American),produces,RAIN,rain,21,0.39
+2023-09-04,English (American),produces,RAIN,rain,22,0.46
+2023-09-04,English (American),produces,RAIN,rain,23,0.59
+2023-09-04,English (American),produces,RAIN,rain,24,0.65
+2023-09-04,English (American),produces,RAIN,rain,25,0.74
+2023-09-04,English (American),produces,RAIN,rain,26,0.74
+2023-09-04,English (American),produces,RAIN,rain,27,0.77
+2023-09-04,English (American),produces,RAIN,rain,28,0.91
+2023-09-04,English (American),produces,RAIN,rain,29,0.82
+2023-09-04,English (American),produces,RAIN,rain,30,0.86
+2023-09-04,French (Quebecois),produces,RAIN,pluie,8,0
+2023-09-04,French (Quebecois),produces,RAIN,pluie,9,0
+2023-09-04,French (Quebecois),produces,RAIN,pluie,10,0
+2023-09-04,French (Quebecois),produces,RAIN,pluie,11,0
+2023-09-04,French (Quebecois),produces,RAIN,pluie,12,0
+2023-09-04,French (Quebecois),produces,RAIN,pluie,13,0
+2023-09-04,French (Quebecois),produces,RAIN,pluie,14,0.02
+2023-09-04,French (Quebecois),produces,RAIN,pluie,15,0.03
+2023-09-04,French (Quebecois),produces,RAIN,pluie,16,0.04
+2023-09-04,French (Quebecois),produces,RAIN,pluie,17,0.1
+2023-09-04,French (Quebecois),produces,RAIN,pluie,18,0.15
+2023-09-04,French (Quebecois),produces,RAIN,pluie,19,0.28
+2023-09-04,French (Quebecois),produces,RAIN,pluie,20,0.36
+2023-09-04,French (Quebecois),produces,RAIN,pluie,21,0.42
+2023-09-04,French (Quebecois),produces,RAIN,pluie,22,0.48
+2023-09-04,French (Quebecois),produces,RAIN,pluie,23,0.58
+2023-09-04,French (Quebecois),produces,RAIN,pluie,24,0.53
+2023-09-04,French (Quebecois),produces,RAIN,pluie,25,0.72
+2023-09-04,French (Quebecois),produces,RAIN,pluie,26,0.79
+2023-09-04,French (Quebecois),produces,RAIN,pluie,27,0.85
+2023-09-04,French (Quebecois),produces,RAIN,pluie,28,0.83
+2023-09-04,French (Quebecois),produces,RAIN,pluie,29,0.97
+2023-09-04,French (Quebecois),produces,RAIN,pluie,30,0.88
+2023-09-04,German,produces,RAIN,Regen,18,0.09
+2023-09-04,German,produces,RAIN,Regen,19,0.22
+2023-09-04,German,produces,RAIN,Regen,20,0.21
+2023-09-04,German,produces,RAIN,Regen,21,0.34
+2023-09-04,German,produces,RAIN,Regen,22,0.32
+2023-09-04,German,produces,RAIN,Regen,23,0.57
+2023-09-04,German,produces,RAIN,Regen,24,0.54
+2023-09-04,German,produces,RAIN,Regen,25,0.69
+2023-09-04,German,produces,RAIN,Regen,26,0.7
+2023-09-04,German,produces,RAIN,Regen,27,0.73
+2023-09-04,German,produces,RAIN,Regen,28,0.8
+2023-09-04,German,produces,RAIN,Regen,29,0.88
+2023-09-04,German,produces,RAIN,Regen,30,0.95
+2023-09-04,Hebrew,produces,RAIN,גשם,11,0
+2023-09-04,Hebrew,produces,RAIN,גשם,12,0
+2023-09-04,Hebrew,produces,RAIN,גשם,13,0
+2023-09-04,Hebrew,produces,RAIN,גשם,14,0
+2023-09-04,Hebrew,produces,RAIN,גשם,15,0
+2023-09-04,Hebrew,produces,RAIN,גשם,16,0
+2023-09-04,Hebrew,produces,RAIN,גשם,17,0
+2023-09-04,Hebrew,produces,RAIN,גשם,19,0.25
+2023-09-04,Hebrew,produces,RAIN,גשם,20,0.56
+2023-09-04,Hebrew,produces,RAIN,גשם,21,0.5
+2023-09-04,Hebrew,produces,RAIN,גשם,22,0.67
+2023-09-04,Hebrew,produces,RAIN,גשם,23,0.14
+2023-09-04,Hebrew,produces,RAIN,גשם,24,0.82
+2023-09-04,Hebrew,produces,RAIN,גשם,25,0.7
+2023-09-04,Hebrew,produces,RAIN,גשם,26,0.85
+2023-09-04,Hebrew,produces,RAIN,גשם,27,0.9
+2023-09-04,Hebrew,produces,RAIN,גשם,28,0.89
+2023-09-04,Hebrew,produces,RAIN,גשם,29,0.96
+2023-09-04,Hebrew,produces,RAIN,גשם,30,0.89
+2023-09-04,Hebrew,produces,RAIN,גשם,31,0.86
+2023-09-04,Hebrew,produces,RAIN,גשם,32,0.94
+2023-09-04,Hebrew,produces,RAIN,גשם,33,0.9
+2023-09-04,Hebrew,produces,RAIN,גשם,34,1
+2023-09-04,Hebrew,produces,RAIN,גשם,35,0.89
+2023-09-04,Hebrew,produces,RAIN,גשם,36,0.8
+2023-09-04,Italian,produces,RAIN,pioggia,7,0
+2023-09-04,Italian,produces,RAIN,pioggia,8,0
+2023-09-04,Italian,produces,RAIN,pioggia,9,0
+2023-09-04,Italian,produces,RAIN,pioggia,10,0
+2023-09-04,Italian,produces,RAIN,pioggia,11,0
+2023-09-04,Italian,produces,RAIN,pioggia,12,0
+2023-09-04,Italian,produces,RAIN,pioggia,13,0
+2023-09-04,Italian,produces,RAIN,pioggia,14,0
+2023-09-04,Italian,produces,RAIN,pioggia,15,0
+2023-09-04,Italian,produces,RAIN,pioggia,16,0
+2023-09-04,Italian,produces,RAIN,pioggia,17,0.04
+2023-09-04,Italian,produces,RAIN,pioggia,18,0.09
+2023-09-04,Italian,produces,RAIN,pioggia,19,0.14
+2023-09-04,Italian,produces,RAIN,pioggia,20,0.17
+2023-09-04,Italian,produces,RAIN,pioggia,21,0.33
+2023-09-04,Italian,produces,RAIN,pioggia,22,0.42
+2023-09-04,Italian,produces,RAIN,pioggia,23,0.51
+2023-09-04,Italian,produces,RAIN,pioggia,24,0.55
+2023-09-04,Italian,produces,RAIN,pioggia,25,0.72
+2023-09-04,Italian,produces,RAIN,pioggia,26,0.68
+2023-09-04,Italian,produces,RAIN,pioggia,27,0.67
+2023-09-04,Italian,produces,RAIN,pioggia,28,0.8
+2023-09-04,Italian,produces,RAIN,pioggia,29,0.81
+2023-09-04,Italian,produces,RAIN,pioggia,30,0.85
+2023-09-04,Italian,produces,RAIN,pioggia,31,1
+2023-09-04,Italian,produces,RAIN,pioggia,32,0.87
+2023-09-04,Italian,produces,RAIN,pioggia,33,1
+2023-09-04,Italian,produces,RAIN,pioggia,34,0.95
+2023-09-04,Italian,produces,RAIN,pioggia,35,0.93
+2023-09-04,Italian,produces,RAIN,pioggia,36,0.95
+2023-09-04,Mandarin (Beijing),produces,RAIN,下雨,12,0.02
+2023-09-04,Mandarin (Beijing),produces,RAIN,下雨,13,0.04
+2023-09-04,Mandarin (Beijing),produces,RAIN,下雨,14,0.02
+2023-09-04,Mandarin (Beijing),produces,RAIN,下雨,15,0
+2023-09-04,Mandarin (Beijing),produces,RAIN,"下雨, 雨",16,0.06
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",17,0.22
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",18,0.29
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",19,0.37
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",20,0.49
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",21,0.58
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",22,0.56
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",23,0.68
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",24,0.72
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",25,0.78
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",26,0.79
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",27,0.86
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",28,0.86
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",29,0.9
+2023-09-04,Mandarin (Beijing),produces,RAIN,"雨, 下雨",30,0.92
+2023-09-04,Norwegian,produces,RAIN,regn,8,0.03
+2023-09-04,Norwegian,produces,RAIN,regn,9,0
+2023-09-04,Norwegian,produces,RAIN,regn,10,0
+2023-09-04,Norwegian,produces,RAIN,regn,11,0
+2023-09-04,Norwegian,produces,RAIN,regn,12,0
+2023-09-04,Norwegian,produces,RAIN,regn,13,0
+2023-09-04,Norwegian,produces,RAIN,regn,14,0
+2023-09-04,Norwegian,produces,RAIN,regn,15,0.03
+2023-09-04,Norwegian,produces,RAIN,regn,16,0.01
+2023-09-04,Norwegian,produces,RAIN,regn,17,0.03
+2023-09-04,Norwegian,produces,RAIN,regn,18,0.07
+2023-09-04,Norwegian,produces,RAIN,regn,19,0.13
+2023-09-04,Norwegian,produces,RAIN,regn,20,0.22
+2023-09-04,Norwegian,produces,RAIN,regn,21,0.26
+2023-09-04,Norwegian,produces,RAIN,regn,22,0.36
+2023-09-04,Norwegian,produces,RAIN,regn,23,0.43
+2023-09-04,Norwegian,produces,RAIN,regn,24,0.52
+2023-09-04,Norwegian,produces,RAIN,regn,25,0.62
+2023-09-04,Norwegian,produces,RAIN,regn,26,0.74
+2023-09-04,Norwegian,produces,RAIN,regn,27,0.78
+2023-09-04,Norwegian,produces,RAIN,regn,28,0.86
+2023-09-04,Norwegian,produces,RAIN,regn,29,0.88
+2023-09-04,Norwegian,produces,RAIN,regn,30,0.88
+2023-09-04,Norwegian,produces,RAIN,regn,31,0.91
+2023-09-04,Norwegian,produces,RAIN,regn,32,0.92
+2023-09-04,Norwegian,produces,RAIN,regn,33,0.94
+2023-09-04,Norwegian,produces,RAIN,regn,34,0.96
+2023-09-04,Norwegian,produces,RAIN,regn,35,0.97
+2023-09-04,Norwegian,produces,RAIN,regn,36,0.97
+2023-09-04,Russian,produces,RAIN,дождь,8,0
+2023-09-04,Russian,produces,RAIN,дождь,9,0
+2023-09-04,Russian,produces,RAIN,дождь,10,0
+2023-09-04,Russian,produces,RAIN,дождь,11,0
+2023-09-04,Russian,produces,RAIN,дождь,12,0
+2023-09-04,Russian,produces,RAIN,дождь,13,0
+2023-09-04,Russian,produces,RAIN,дождь,14,0.03
+2023-09-04,Russian,produces,RAIN,дождь,15,0.04
+2023-09-04,Russian,produces,RAIN,дождь,16,0.04
+2023-09-04,Russian,produces,RAIN,дождь,17,0.06
+2023-09-04,Russian,produces,RAIN,дождь,18,0.08
+2023-09-04,Russian,produces,RAIN,дождь,19,0.17
+2023-09-04,Russian,produces,RAIN,дождь,20,0.29
+2023-09-04,Russian,produces,RAIN,дождь,21,0.37
+2023-09-04,Russian,produces,RAIN,дождь,22,0.45
+2023-09-04,Russian,produces,RAIN,дождь,23,0.54
+2023-09-04,Russian,produces,RAIN,дождь,24,0.59
+2023-09-04,Russian,produces,RAIN,дождь,25,0.64
+2023-09-04,Russian,produces,RAIN,дождь,26,0.73
+2023-09-04,Russian,produces,RAIN,дождь,27,0.7
+2023-09-04,Russian,produces,RAIN,дождь,28,0.8
+2023-09-04,Russian,produces,RAIN,дождь,29,0.91
+2023-09-04,Russian,produces,RAIN,дождь,30,0.84
+2023-09-04,Russian,produces,RAIN,дождь,31,0.93
+2023-09-04,Russian,produces,RAIN,дождь,32,0.89
+2023-09-04,Russian,produces,RAIN,дождь,33,0.93
+2023-09-04,Russian,produces,RAIN,дождь,34,0.95
+2023-09-04,Russian,produces,RAIN,дождь,35,0.96
+2023-09-04,Russian,produces,RAIN,дождь,36,0.98
+2023-09-04,Slovak,produces,RAIN,dážď,8,0
+2023-09-04,Slovak,produces,RAIN,dážď,9,0
+2023-09-04,Slovak,produces,RAIN,dážď,10,0
+2023-09-04,Slovak,produces,RAIN,dážď,11,0
+2023-09-04,Slovak,produces,RAIN,dážď,12,0.03
+2023-09-04,Slovak,produces,RAIN,dážď,13,0.01
+2023-09-04,Slovak,produces,RAIN,dážď,14,0.01
+2023-09-04,Slovak,produces,RAIN,dážď,15,0.06
+2023-09-04,Slovak,produces,RAIN,dážď,16,0.09
+2023-09-04,Slovak,produces,RAIN,dážď,17,0.04
+2023-09-04,Slovak,produces,RAIN,dážď,18,0.11
+2023-09-04,Slovak,produces,RAIN,dážď,19,0.09
+2023-09-04,Slovak,produces,RAIN,dážď,20,0.24
+2023-09-04,Slovak,produces,RAIN,dážď,21,0.27
+2023-09-04,Slovak,produces,RAIN,dážď,22,0.34
+2023-09-04,Slovak,produces,RAIN,dážď,23,0.41
+2023-09-04,Slovak,produces,RAIN,dážď,24,0.53
+2023-09-04,Slovak,produces,RAIN,dážď,25,0.45
+2023-09-04,Slovak,produces,RAIN,dážď,26,0.68
+2023-09-04,Slovak,produces,RAIN,dážď,27,0.69
+2023-09-04,Slovak,produces,RAIN,dážď,28,0.56
+2023-09-04,Slovak,produces,RAIN,dážď,29,0.73
+2023-09-04,Slovak,produces,RAIN,dážď,30,0.73
+2023-09-04,Slovak,produces,RAIN,dážď,31,0.72
+2023-09-04,Slovak,produces,RAIN,dážď,32,0.8
+2023-09-04,Slovak,produces,RAIN,dážď,33,0.82
+2023-09-04,Slovak,produces,RAIN,dážď,34,0.7
+2023-09-04,Slovak,produces,RAIN,dážď,35,0.74
+2023-09-04,Slovak,produces,RAIN,dážď,36,0.75
+2023-09-04,Spanish (Mexican),produces,RAIN,lluvia,8,0
+2023-09-04,Spanish (Mexican),produces,RAIN,lluvia,9,0
+2023-09-04,Spanish (Mexican),produces,RAIN,lluvia,10,0
+2023-09-04,Spanish (Mexican),produces,RAIN,lluvia,11,0
+2023-09-04,Spanish (Mexican),produces,RAIN,lluvia,12,0
+2023-09-04,Spanish (Mexican),produces,RAIN,lluvia,13,0.01
+2023-09-04,Spanish (Mexican),produces,RAIN,lluvia,14,0.01
+2023-09-04,Spanish (Mexican),produces,RAIN,lluvia,15,0.03
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",16,0.1
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",17,0.11
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",18,0.15
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",19,0.26
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",20,0.27
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",21,0.18
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",22,0.31
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",23,0.23
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",24,0.38
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",25,0.46
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",26,0.48
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",27,0.64
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",28,0.53
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",29,0.58
+2023-09-04,Spanish (Mexican),produces,RAIN,"lluvia, llover",30,0.53
+2023-09-04,Turkish,produces,RAIN,Yağmur,8,0
+2023-09-04,Turkish,produces,RAIN,Yağmur,9,0
+2023-09-04,Turkish,produces,RAIN,Yağmur,10,0.01
+2023-09-04,Turkish,produces,RAIN,Yağmur,11,0.02
+2023-09-04,Turkish,produces,RAIN,Yağmur,12,0
+2023-09-04,Turkish,produces,RAIN,Yağmur,13,0
+2023-09-04,Turkish,produces,RAIN,Yağmur,14,0.01
+2023-09-04,Turkish,produces,RAIN,Yağmur,15,0.02
+2023-09-04,Turkish,produces,RAIN,Yağmur,16,0.06
+2023-09-04,Turkish,produces,RAIN,Yağmur,17,0.09
+2023-09-04,Turkish,produces,RAIN,Yağmur,18,0.09
+2023-09-04,Turkish,produces,RAIN,Yağmur,19,0.17
+2023-09-04,Turkish,produces,RAIN,Yağmur,20,0.24
+2023-09-04,Turkish,produces,RAIN,Yağmur,21,0.31
+2023-09-04,Turkish,produces,RAIN,Yağmur,22,0.28
+2023-09-04,Turkish,produces,RAIN,Yağmur,23,0.43
+2023-09-04,Turkish,produces,RAIN,Yağmur,24,0.49
+2023-09-04,Turkish,produces,RAIN,Yağmur,25,0.59
+2023-09-04,Turkish,produces,RAIN,Yağmur,26,0.64
+2023-09-04,Turkish,produces,RAIN,Yağmur,27,0.66
+2023-09-04,Turkish,produces,RAIN,Yağmur,28,0.72
+2023-09-04,Turkish,produces,RAIN,Yağmur,29,0.78
+2023-09-04,Turkish,produces,RAIN,Yağmur,30,0.81
+2023-09-04,Turkish,produces,RAIN,Yağmur,31,0.82
+2023-09-04,Turkish,produces,RAIN,Yağmur,32,0.83
+2023-09-04,Turkish,produces,RAIN,Yağmur,33,0.89
+2023-09-04,Turkish,produces,RAIN,Yağmur,34,0.89
+2023-09-04,Turkish,produces,RAIN,Yağmur,35,0.91
+2023-09-04,Turkish,produces,RAIN,Yağmur,36,0.9
+2023-09-04,English (British),produces,RAIN,rain,12,0
+2023-09-04,English (British),produces,RAIN,rain,13,0
+2023-09-04,English (British),produces,RAIN,rain,14,0.02
+2023-09-04,English (British),produces,RAIN,rain,15,0
+2023-09-04,English (British),produces,RAIN,rain,16,0.02
+2023-09-04,English (British),produces,RAIN,rain,17,0.05
+2023-09-04,English (British),produces,RAIN,rain,18,0.1
+2023-09-04,English (British),produces,RAIN,rain,19,0.24
+2023-09-04,English (British),produces,RAIN,rain,20,0.32
+2023-09-04,English (British),produces,RAIN,rain,21,0.35
+2023-09-04,English (British),produces,RAIN,rain,22,0.57
+2023-09-04,English (British),produces,RAIN,rain,23,0.59
+2023-09-04,English (British),produces,RAIN,rain,24,0.63
+2023-09-04,English (British),produces,RAIN,rain,25,0.67
+2023-09-04,English (British),produces,RAIN,rain,26,0.74
+2023-09-04,English (British),produces,RAIN,rain,27,0.77
+2023-09-04,English (British),produces,RAIN,rain,28,0.73
+2023-09-04,English (British),produces,RAIN,rain,29,0.82
+2023-09-04,English (British),produces,RAIN,rain,30,0.98
+2023-09-04,English (British),produces,RAIN,rain,31,0.92
+2023-09-04,English (British),produces,RAIN,rain,32,0.85
+2023-09-04,English (British),produces,RAIN,rain,33,0.93
+2023-09-04,English (British),produces,RAIN,rain,34,0.5
+2023-09-04,English (British),produces,RAIN,rain,35,0.6
+2023-09-04,Kigiriama,produces,RAIN,Mvula,8,0.2
+2023-09-04,Kigiriama,produces,RAIN,Mvula,9,0
+2023-09-04,Kigiriama,produces,RAIN,Mvula,10,0
+2023-09-04,Kigiriama,produces,RAIN,Mvula,11,0
+2023-09-04,Kigiriama,produces,RAIN,Mvula,12,0
+2023-09-04,Kigiriama,produces,RAIN,Mvula,13,0
+2023-09-04,Kigiriama,produces,RAIN,Mvula,14,0
+2023-09-04,Kigiriama,produces,RAIN,Mvula,15,0.06
+2023-09-04,Kigiriama,produces,RAIN,Mvula,16,0
+2023-09-04,Kigiriama,produces,RAIN,Mvula,17,0
+2023-09-04,Kigiriama,produces,RAIN,Mvula,18,0.08
+2023-09-04,Kigiriama,produces,RAIN,Mvula,19,0
+2023-09-04,Kigiriama,produces,RAIN,Mvula,20,0.07
+2023-09-04,Kigiriama,produces,RAIN,Mvula,21,0.33
+2023-09-04,Kigiriama,produces,RAIN,Mvula,22,0.56
+2023-09-04,Kigiriama,produces,RAIN,Mvula,23,0.5
+2023-09-04,Kigiriama,produces,RAIN,Mvula,24,0.86
+2023-09-04,Kigiriama,produces,RAIN,Mvula,25,0.67
+2023-09-04,Kigiriama,produces,RAIN,Mvula,26,0.67
+2023-09-04,Kigiriama,produces,RAIN,Mvula,27,0.75
+2023-09-04,Kigiriama,produces,RAIN,Mvula,28,1
+2023-09-04,Kigiriama,produces,RAIN,Mvula,29,1
+2023-09-04,Kigiriama,produces,RAIN,Mvula,30,1
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",16,0
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",17,0.02
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",18,0.1
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",19,0.07
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",20,0.15
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",21,0.15
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",22,0.24
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",23,0.25
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",24,0.34
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",25,0.33
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",26,0.45
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",27,0.35
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",28,0.56
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",29,0.37
+2023-09-04,Czech,produces,RAIN,"déšť, pršet",30,0.48
+2023-09-04,English (Australian),produces,RAIN,rain,12,0
+2023-09-04,English (Australian),produces,RAIN,rain,13,0
+2023-09-04,English (Australian),produces,RAIN,rain,14,0.05
+2023-09-04,English (Australian),produces,RAIN,rain,15,0.04
+2023-09-04,English (Australian),produces,RAIN,rain,16,0.07
+2023-09-04,English (Australian),produces,RAIN,rain,17,0.11
+2023-09-04,English (Australian),produces,RAIN,rain,18,0.2
+2023-09-04,English (Australian),produces,RAIN,rain,19,0.32
+2023-09-04,English (Australian),produces,RAIN,rain,20,0.41
+2023-09-04,English (Australian),produces,RAIN,rain,21,0.4
+2023-09-04,English (Australian),produces,RAIN,rain,22,0.58
+2023-09-04,English (Australian),produces,RAIN,rain,23,0.73
+2023-09-04,English (Australian),produces,RAIN,rain,24,0.76
+2023-09-04,English (Australian),produces,RAIN,rain,25,0.69
+2023-09-04,English (Australian),produces,RAIN,rain,26,0.83
+2023-09-04,English (Australian),produces,RAIN,rain,27,0.9
+2023-09-04,English (Australian),produces,RAIN,rain,28,0.91
+2023-09-04,English (Australian),produces,RAIN,rain,29,0.95
+2023-09-04,English (Australian),produces,RAIN,rain,30,0.94
+2023-09-04,Latvian,produces,RAIN,lietus,8,0
+2023-09-04,Latvian,produces,RAIN,lietus,9,0
+2023-09-04,Latvian,produces,RAIN,lietus,10,0
+2023-09-04,Latvian,produces,RAIN,lietus,11,0
+2023-09-04,Latvian,produces,RAIN,lietus,12,0.06
+2023-09-04,Latvian,produces,RAIN,lietus,13,0
+2023-09-04,Latvian,produces,RAIN,lietus,14,0
+2023-09-04,Latvian,produces,RAIN,lietus,15,0
+2023-09-04,Latvian,produces,RAIN,lietus,16,0.06
+2023-09-04,Latvian,produces,RAIN,lietus,17,0.15
+2023-09-04,Latvian,produces,RAIN,lietus,18,0.1
+2023-09-04,Latvian,produces,RAIN,lietus,19,0.18
+2023-09-04,Latvian,produces,RAIN,lietus,20,0.35
+2023-09-04,Latvian,produces,RAIN,lietus,21,0.54
+2023-09-04,Latvian,produces,RAIN,lietus,22,0.38
+2023-09-04,Latvian,produces,RAIN,lietus,23,0.6
+2023-09-04,Latvian,produces,RAIN,lietus,24,0.73
+2023-09-04,Latvian,produces,RAIN,lietus,25,0.66
+2023-09-04,Latvian,produces,RAIN,lietus,26,0.73
+2023-09-04,Latvian,produces,RAIN,lietus,27,0.72
+2023-09-04,Latvian,produces,RAIN,lietus,28,0.74
+2023-09-04,Latvian,produces,RAIN,lietus,29,0.88
+2023-09-04,Latvian,produces,RAIN,lietus,30,0.88
+2023-09-04,Latvian,produces,RAIN,lietus,31,0.84
+2023-09-04,Latvian,produces,RAIN,lietus,32,0.8
+2023-09-04,Latvian,produces,RAIN,lietus,33,0.9
+2023-09-04,Latvian,produces,RAIN,lietus,34,0.88
+2023-09-04,Latvian,produces,RAIN,lietus,35,0.9
+2023-09-04,Latvian,produces,RAIN,lietus,36,0.86
+2023-09-04,Korean,produces,RAIN,비,8,0
+2023-09-04,Korean,produces,RAIN,비,9,0
+2023-09-04,Korean,produces,RAIN,비,10,0
+2023-09-04,Korean,produces,RAIN,비,11,0
+2023-09-04,Korean,produces,RAIN,비,12,0
+2023-09-04,Korean,produces,RAIN,비,13,0.01
+2023-09-04,Korean,produces,RAIN,비,14,0
+2023-09-04,Korean,produces,RAIN,비,15,0.02
+2023-09-04,Korean,produces,RAIN,비,16,0.05
+2023-09-04,Korean,produces,RAIN,비,17,0.1
+2023-09-04,Korean,produces,RAIN,비,18,0.17
+2023-09-04,Korean,produces,RAIN,비,19,0.12
+2023-09-04,Korean,produces,RAIN,비,20,0.22
+2023-09-04,Korean,produces,RAIN,비,21,0.44
+2023-09-04,Korean,produces,RAIN,비,22,0.41
+2023-09-04,Korean,produces,RAIN,비,23,0.49
+2023-09-04,Korean,produces,RAIN,비,24,0.64
+2023-09-04,Korean,produces,RAIN,비,25,0.77
+2023-09-04,Korean,produces,RAIN,비,26,0.73
+2023-09-04,Korean,produces,RAIN,비,27,0.7
+2023-09-04,Korean,produces,RAIN,비,28,0.79
+2023-09-04,Korean,produces,RAIN,비,29,0.85
+2023-09-04,Korean,produces,RAIN,비,30,0.86
+2023-09-04,Korean,produces,RAIN,비,31,0.92
+2023-09-04,Korean,produces,RAIN,비,32,0.84
+2023-09-04,Korean,produces,RAIN,비,33,0.95
+2023-09-04,Korean,produces,RAIN,비,34,0.97
+2023-09-04,Korean,produces,RAIN,비,35,0.91
+2023-09-04,Korean,produces,RAIN,비,36,0.99
+2023-09-04,French (French),produces,RAIN,pluie,8,0
+2023-09-04,French (French),produces,RAIN,pluie,9,0
+2023-09-04,French (French),produces,RAIN,pluie,11,0
+2023-09-04,French (French),produces,RAIN,pluie,12,0
+2023-09-04,French (French),produces,RAIN,pluie,13,0
+2023-09-04,French (French),produces,RAIN,pluie,14,0
+2023-09-04,French (French),produces,RAIN,pluie,15,0
+2023-09-04,French (French),produces,RAIN,pluie,16,0.01
+2023-09-04,French (French),produces,RAIN,pluie,17,0.08
+2023-09-04,French (French),produces,RAIN,pluie,18,0
+2023-09-04,French (French),produces,RAIN,pluie,19,0.36
+2023-09-04,French (French),produces,RAIN,pluie,20,0.22
+2023-09-04,French (French),produces,RAIN,pluie,21,0.34
+2023-09-04,French (French),produces,RAIN,pluie,22,0.59
+2023-09-04,French (French),produces,RAIN,pluie,23,0.41
+2023-09-04,French (French),produces,RAIN,pluie,24,0.56
+2023-09-04,French (French),produces,RAIN,pluie,25,0.71
+2023-09-04,French (French),produces,RAIN,pluie,26,0.75
+2023-09-04,French (French),produces,RAIN,pluie,27,0.81
+2023-09-04,French (French),produces,RAIN,pluie,28,0.91
+2023-09-04,French (French),produces,RAIN,pluie,29,0.86
+2023-09-04,French (French),produces,RAIN,pluie,30,0.9
+2023-09-04,Spanish (European),produces,RAIN,lluvia,8,0
+2023-09-04,Spanish (European),produces,RAIN,lluvia,9,0
+2023-09-04,Spanish (European),produces,RAIN,lluvia,10,0
+2023-09-04,Spanish (European),produces,RAIN,lluvia,11,0
+2023-09-04,Spanish (European),produces,RAIN,lluvia,12,0
+2023-09-04,Spanish (European),produces,RAIN,lluvia,13,0.02
+2023-09-04,Spanish (European),produces,RAIN,lluvia,14,0
+2023-09-04,Spanish (European),produces,RAIN,lluvia,15,0.02
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",16,0.04
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",17,0.09
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",18,0.12
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",19,0.06
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",20,0.21
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",21,0.23
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",22,0.36
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",23,0.42
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",24,0.48
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",25,0.41
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",26,0.62
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",27,0.76
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",28,0.72
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",29,0.82
+2023-09-04,Spanish (European),produces,RAIN,"lluvia, llover",30,0.76
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,8,0
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,9,0
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,10,0
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,11,0
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,12,0
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,13,0
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,14,0
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,15,0.01
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,16,0.03
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,17,0.06
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,18,0.12
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,19,0.14
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,20,0.33
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,21,0.32
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,22,0.41
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,23,0.55
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,24,0.6
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,25,0.74
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,26,0.74
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,27,0.82
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,28,0.8
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,29,0.84
+2023-09-04,Portuguese (European),produces,RAIN,Chuva,30,0.85
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,8,0
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,9,0
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,10,0
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,11,0
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,12,0.01
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,13,0.04
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,14,0.05
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,15,0.07
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,16,0.08
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,17,0.21
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,18,0.33
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,19,0.38
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,20,0.52
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,21,0.51
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,22,0.59
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,23,0.7
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,24,0.78
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,25,0.84
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,26,0.83
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,27,0.88
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,28,0.96
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,29,0.93
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,30,0.96
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,31,0.95
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,32,0.94
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,33,0.96
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,34,0.96
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,35,1
+2023-09-04,Mandarin (Taiwanese),produces,RAIN,下雨,36,0.99
+2023-09-04,Dutch,produces,RAIN,regen,8,0
+2023-09-04,Dutch,produces,RAIN,regen,9,0
+2023-09-04,Dutch,produces,RAIN,regen,10,0
+2023-09-04,Dutch,produces,RAIN,regen,11,0
+2023-09-04,Dutch,produces,RAIN,regen,12,0
+2023-09-04,Dutch,produces,RAIN,regen,13,0
+2023-09-04,Dutch,produces,RAIN,regen,14,0
+2023-09-04,Dutch,produces,RAIN,regen,15,0
+2023-09-04,Dutch,produces,RAIN,regen,16,0
+2023-09-04,Dutch,produces,RAIN,regen,17,0.02
+2023-09-04,Dutch,produces,RAIN,regen,18,0.05
+2023-09-04,Dutch,produces,RAIN,regen,19,0.1
+2023-09-04,Dutch,produces,RAIN,regen,20,0.12
+2023-09-04,Dutch,produces,RAIN,regen,21,0.23
+2023-09-04,Dutch,produces,RAIN,regen,22,0.29
+2023-09-04,Dutch,produces,RAIN,regen,23,0.71
+2023-09-04,Dutch,produces,RAIN,regen,24,0.74
+2023-09-04,Dutch,produces,RAIN,regen,25,0.83
+2023-09-04,Dutch,produces,RAIN,regen,26,0.67
+2023-09-04,Dutch,produces,RAIN,regen,27,0.6
+2023-09-04,Dutch,produces,RAIN,regen,28,1
+2023-09-04,Dutch,produces,RAIN,regen,29,1
+2023-09-04,Dutch,produces,RAIN,regen,30,1
+2023-09-04,Dutch,produces,RAIN,regen,31,1
+2023-09-04,Hungarian,produces,RAIN,eső,16,0.1
+2023-09-04,Hungarian,produces,RAIN,eső,17,0.28
+2023-09-04,Hungarian,produces,RAIN,eső,18,0.22
+2023-09-04,Hungarian,produces,RAIN,eső,19,0.35
+2023-09-04,Hungarian,produces,RAIN,eső,20,0.44
+2023-09-04,Hungarian,produces,RAIN,eső,21,0.64
+2023-09-04,Hungarian,produces,RAIN,eső,22,0.59
+2023-09-04,Hungarian,produces,RAIN,eső,23,0.56
+2023-09-04,Hungarian,produces,RAIN,eső,24,0.63
+2023-09-04,Hungarian,produces,RAIN,eső,25,0.84
+2023-09-04,Hungarian,produces,RAIN,eső,26,0.83
+2023-09-04,Hungarian,produces,RAIN,eső,27,0.77
+2023-09-04,Hungarian,produces,RAIN,eső,28,0.83
+2023-09-04,Hungarian,produces,RAIN,eső,29,0.75
+2023-09-04,Hungarian,produces,RAIN,eső,30,0.78
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,16,0.15
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,17,0.1
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,18,0.11
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,19,0.09
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,20,0.37
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,21,0.32
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,22,0.37
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,23,0.51
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,24,0.43
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,25,0.56
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,26,0.6
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,27,0.66
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,28,0.62
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,29,0.72
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,30,0.78
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,31,0
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,32,1
+2023-09-04,Spanish (Argentinian),produces,RAIN,lluvia,33,1
+2023-09-04,Persian,produces,RAIN,باران,8,0
+2023-09-04,Persian,produces,RAIN,باران,9,0
+2023-09-04,Persian,produces,RAIN,باران,10,0.06
+2023-09-04,Persian,produces,RAIN,باران,11,0
+2023-09-04,Persian,produces,RAIN,باران,12,0
+2023-09-04,Persian,produces,RAIN,باران,13,0
+2023-09-04,Persian,produces,RAIN,باران,14,0
+2023-09-04,Persian,produces,RAIN,باران,15,0
+2023-09-04,Persian,produces,RAIN,باران,16,0
+2023-09-04,Persian,produces,RAIN,باران,17,0
+2023-09-04,Persian,produces,RAIN,باران,18,0.2
+2023-09-04,Persian,produces,RAIN,باران,20,0.33
+2023-09-04,Persian,produces,RAIN,باران,21,1
+2023-09-04,Persian,produces,RAIN,باران,22,1
+2023-09-04,Persian,produces,RAIN,باران,23,1
+2023-09-04,Persian,produces,RAIN,باران,24,0.8
+2023-09-04,Persian,produces,RAIN,باران,25,0.33
+2023-09-04,Persian,produces,RAIN,باران,26,1
+2023-09-04,Persian,produces,RAIN,باران,27,1
+2023-09-04,Persian,produces,RAIN,باران,28,0.78
+2023-09-04,Persian,produces,RAIN,باران,29,1
+2023-09-04,Persian,produces,RAIN,باران,30,1

@@ -1,0 +1,668 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,SHOE,鞋,16,0.22
+2023-09-04,Cantonese,produces,SHOE,鞋,17,0.41
+2023-09-04,Cantonese,produces,SHOE,鞋,18,0.44
+2023-09-04,Cantonese,produces,SHOE,鞋,19,0.44
+2023-09-04,Cantonese,produces,SHOE,鞋,20,0.71
+2023-09-04,Cantonese,produces,SHOE,鞋,21,0.75
+2023-09-04,Cantonese,produces,SHOE,鞋,22,0.78
+2023-09-04,Cantonese,produces,SHOE,鞋,23,0.8
+2023-09-04,Cantonese,produces,SHOE,鞋,24,0.81
+2023-09-04,Cantonese,produces,SHOE,鞋,25,0.92
+2023-09-04,Cantonese,produces,SHOE,鞋,26,0.96
+2023-09-04,Cantonese,produces,SHOE,鞋,27,0.97
+2023-09-04,Cantonese,produces,SHOE,鞋,28,0.98
+2023-09-04,Cantonese,produces,SHOE,鞋,29,0.99
+2023-09-04,Cantonese,produces,SHOE,鞋,30,0.99
+2023-09-04,Croatian,produces,SHOE,cipele,8,0
+2023-09-04,Croatian,produces,SHOE,cipele,9,0
+2023-09-04,Croatian,produces,SHOE,cipele,10,0.09
+2023-09-04,Croatian,produces,SHOE,cipele,11,0
+2023-09-04,Croatian,produces,SHOE,cipele,12,0.03
+2023-09-04,Croatian,produces,SHOE,cipele,13,0
+2023-09-04,Croatian,produces,SHOE,cipele,14,0.14
+2023-09-04,Croatian,produces,SHOE,cipele,15,0.17
+2023-09-04,Croatian,produces,SHOE,"cipele, cipela, tenisice",16,0.37
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",17,0.36
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",18,0.34
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",19,0.45
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",20,0.48
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",21,0.48
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",22,0.58
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",23,0.71
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",24,0.78
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",25,0.8
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",26,0.78
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",27,0.86
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",28,0.88
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",29,0.82
+2023-09-04,Croatian,produces,SHOE,"cipela, tenisice",30,0.86
+2023-09-04,Danish,produces,SHOE,sko,8,0.01
+2023-09-04,Danish,produces,SHOE,sko,9,0
+2023-09-04,Danish,produces,SHOE,sko,10,0
+2023-09-04,Danish,produces,SHOE,sko,11,0
+2023-09-04,Danish,produces,SHOE,sko,12,0.02
+2023-09-04,Danish,produces,SHOE,sko,13,0.06
+2023-09-04,Danish,produces,SHOE,sko,14,0.06
+2023-09-04,Danish,produces,SHOE,sko,15,0.11
+2023-09-04,Danish,produces,SHOE,sko,16,0.24
+2023-09-04,Danish,produces,SHOE,sko,17,0.39
+2023-09-04,Danish,produces,SHOE,sko,18,0.54
+2023-09-04,Danish,produces,SHOE,sko,19,0.58
+2023-09-04,Danish,produces,SHOE,sko,20,0.72
+2023-09-04,Danish,produces,SHOE,sko,21,0.75
+2023-09-04,Danish,produces,SHOE,sko,22,0.89
+2023-09-04,Danish,produces,SHOE,sko,23,0.89
+2023-09-04,Danish,produces,SHOE,sko,24,0.9
+2023-09-04,Danish,produces,SHOE,sko,25,0.94
+2023-09-04,Danish,produces,SHOE,sko,26,0.95
+2023-09-04,Danish,produces,SHOE,sko,27,0.95
+2023-09-04,Danish,produces,SHOE,sko,28,0.95
+2023-09-04,Danish,produces,SHOE,sko,29,0.97
+2023-09-04,Danish,produces,SHOE,sko,30,0.98
+2023-09-04,Danish,produces,SHOE,sko,31,0.96
+2023-09-04,Danish,produces,SHOE,sko,32,0.99
+2023-09-04,Danish,produces,SHOE,sko,33,1
+2023-09-04,Danish,produces,SHOE,sko,34,1
+2023-09-04,Danish,produces,SHOE,sko,35,0.99
+2023-09-04,Danish,produces,SHOE,sko,36,0.99
+2023-09-04,English (American),produces,SHOE,shoe,8,0.02
+2023-09-04,English (American),produces,SHOE,shoe,9,0.01
+2023-09-04,English (American),produces,SHOE,shoe,10,0.01
+2023-09-04,English (American),produces,SHOE,shoe,11,0.04
+2023-09-04,English (American),produces,SHOE,shoe,12,0.06
+2023-09-04,English (American),produces,SHOE,shoe,13,0.11
+2023-09-04,English (American),produces,SHOE,shoe,14,0.14
+2023-09-04,English (American),produces,SHOE,shoe,15,0.32
+2023-09-04,English (American),produces,SHOE,shoe,16,0.45
+2023-09-04,English (American),produces,SHOE,shoe,17,0.49
+2023-09-04,English (American),produces,SHOE,shoe,18,0.62
+2023-09-04,English (American),produces,SHOE,shoe,19,0.77
+2023-09-04,English (American),produces,SHOE,shoe,20,0.78
+2023-09-04,English (American),produces,SHOE,shoe,21,0.83
+2023-09-04,English (American),produces,SHOE,shoe,22,0.84
+2023-09-04,English (American),produces,SHOE,shoe,23,0.85
+2023-09-04,English (American),produces,SHOE,shoe,24,0.9
+2023-09-04,English (American),produces,SHOE,shoe,25,0.93
+2023-09-04,English (American),produces,SHOE,shoe,26,0.9
+2023-09-04,English (American),produces,SHOE,shoe,27,0.95
+2023-09-04,English (American),produces,SHOE,shoe,28,0.97
+2023-09-04,English (American),produces,SHOE,shoe,29,0.93
+2023-09-04,English (American),produces,SHOE,shoe,30,0.94
+2023-09-04,French (Quebecois),produces,SHOE,soulier,8,0
+2023-09-04,French (Quebecois),produces,SHOE,soulier,9,0
+2023-09-04,French (Quebecois),produces,SHOE,soulier,10,0
+2023-09-04,French (Quebecois),produces,SHOE,soulier,11,0
+2023-09-04,French (Quebecois),produces,SHOE,soulier,12,0
+2023-09-04,French (Quebecois),produces,SHOE,soulier,13,0.01
+2023-09-04,French (Quebecois),produces,SHOE,soulier,14,0
+2023-09-04,French (Quebecois),produces,SHOE,soulier,15,0.08
+2023-09-04,French (Quebecois),produces,SHOE,soulier,16,0.17
+2023-09-04,French (Quebecois),produces,SHOE,soulier,17,0.37
+2023-09-04,French (Quebecois),produces,SHOE,soulier,18,0.41
+2023-09-04,French (Quebecois),produces,SHOE,soulier,19,0.48
+2023-09-04,French (Quebecois),produces,SHOE,soulier,20,0.53
+2023-09-04,French (Quebecois),produces,SHOE,soulier,21,0.7
+2023-09-04,French (Quebecois),produces,SHOE,soulier,22,0.64
+2023-09-04,French (Quebecois),produces,SHOE,soulier,23,0.76
+2023-09-04,French (Quebecois),produces,SHOE,soulier,24,0.71
+2023-09-04,French (Quebecois),produces,SHOE,soulier,25,0.8
+2023-09-04,French (Quebecois),produces,SHOE,soulier,26,0.83
+2023-09-04,French (Quebecois),produces,SHOE,soulier,27,0.93
+2023-09-04,French (Quebecois),produces,SHOE,soulier,28,0.88
+2023-09-04,French (Quebecois),produces,SHOE,soulier,29,0.9
+2023-09-04,French (Quebecois),produces,SHOE,soulier,30,0.89
+2023-09-04,German,produces,SHOE,Schuh,18,0.45
+2023-09-04,German,produces,SHOE,Schuh,19,0.58
+2023-09-04,German,produces,SHOE,Schuh,20,0.52
+2023-09-04,German,produces,SHOE,Schuh,21,0.68
+2023-09-04,German,produces,SHOE,Schuh,22,0.67
+2023-09-04,German,produces,SHOE,Schuh,23,0.84
+2023-09-04,German,produces,SHOE,Schuh,24,0.78
+2023-09-04,German,produces,SHOE,Schuh,25,0.87
+2023-09-04,German,produces,SHOE,Schuh,26,0.93
+2023-09-04,German,produces,SHOE,Schuh,27,0.89
+2023-09-04,German,produces,SHOE,Schuh,28,0.92
+2023-09-04,German,produces,SHOE,Schuh,29,0.98
+2023-09-04,German,produces,SHOE,Schuh,30,0.98
+2023-09-04,Hebrew,produces,SHOE,נעליים,11,0
+2023-09-04,Hebrew,produces,SHOE,נעליים,12,0
+2023-09-04,Hebrew,produces,SHOE,נעליים,13,0
+2023-09-04,Hebrew,produces,SHOE,נעליים,14,0
+2023-09-04,Hebrew,produces,SHOE,נעליים,15,0
+2023-09-04,Hebrew,produces,SHOE,נעליים,16,0.33
+2023-09-04,Hebrew,produces,SHOE,נעליים,17,0.33
+2023-09-04,Hebrew,produces,SHOE,נעליים,19,1
+2023-09-04,Hebrew,produces,SHOE,נעליים,20,0.78
+2023-09-04,Hebrew,produces,SHOE,נעליים,21,0.75
+2023-09-04,Hebrew,produces,SHOE,נעליים,22,1
+2023-09-04,Hebrew,produces,SHOE,נעליים,23,1
+2023-09-04,Hebrew,produces,SHOE,נעליים,24,0.91
+2023-09-04,Hebrew,produces,SHOE,"נעליים, נעל/ נעליים",25,0.93
+2023-09-04,Hebrew,produces,SHOE,נעל/ נעליים,26,0.89
+2023-09-04,Hebrew,produces,SHOE,נעל/ נעליים,27,0.97
+2023-09-04,Hebrew,produces,SHOE,נעל/ נעליים,28,0.95
+2023-09-04,Hebrew,produces,SHOE,נעל/ נעליים,29,1
+2023-09-04,Hebrew,produces,SHOE,נעל/ נעליים,30,1
+2023-09-04,Hebrew,produces,SHOE,נעל/ נעליים,31,1
+2023-09-04,Hebrew,produces,SHOE,נעל/ נעליים,32,0.89
+2023-09-04,Hebrew,produces,SHOE,נעל/ נעליים,33,0.9
+2023-09-04,Hebrew,produces,SHOE,נעל/ נעליים,34,1
+2023-09-04,Hebrew,produces,SHOE,נעל/ נעליים,35,0.89
+2023-09-04,Hebrew,produces,SHOE,נעל/ נעליים,36,0.8
+2023-09-04,Italian,produces,SHOE,scarpe,7,0
+2023-09-04,Italian,produces,SHOE,scarpe,8,0
+2023-09-04,Italian,produces,SHOE,scarpe,9,0
+2023-09-04,Italian,produces,SHOE,scarpe,10,0.04
+2023-09-04,Italian,produces,SHOE,scarpe,11,0.05
+2023-09-04,Italian,produces,SHOE,scarpe,12,0.09
+2023-09-04,Italian,produces,SHOE,scarpe,13,0.17
+2023-09-04,Italian,produces,SHOE,scarpe,14,0.17
+2023-09-04,Italian,produces,SHOE,scarpe,15,0.34
+2023-09-04,Italian,produces,SHOE,scarpe,16,0.34
+2023-09-04,Italian,produces,SHOE,scarpe,17,0.44
+2023-09-04,Italian,produces,SHOE,scarpe,18,0.57
+2023-09-04,Italian,produces,SHOE,scarpe,19,0.69
+2023-09-04,Italian,produces,SHOE,scarpe,20,0.71
+2023-09-04,Italian,produces,SHOE,scarpe,21,0.79
+2023-09-04,Italian,produces,SHOE,scarpe,22,0.78
+2023-09-04,Italian,produces,SHOE,scarpe,23,0.91
+2023-09-04,Italian,produces,SHOE,scarpe,24,0.85
+2023-09-04,Italian,produces,SHOE,scarpe,25,0.95
+2023-09-04,Italian,produces,SHOE,scarpe,26,0.95
+2023-09-04,Italian,produces,SHOE,scarpe,27,1
+2023-09-04,Italian,produces,SHOE,scarpe,28,0.95
+2023-09-04,Italian,produces,SHOE,scarpe,29,0.97
+2023-09-04,Italian,produces,SHOE,scarpe,30,0.99
+2023-09-04,Italian,produces,SHOE,scarpe,31,0.95
+2023-09-04,Italian,produces,SHOE,scarpe,32,0.91
+2023-09-04,Italian,produces,SHOE,scarpe,33,1
+2023-09-04,Italian,produces,SHOE,scarpe,34,0.95
+2023-09-04,Italian,produces,SHOE,scarpe,35,1
+2023-09-04,Italian,produces,SHOE,scarpe,36,0.95
+2023-09-04,Mandarin (Beijing),produces,SHOE,鞋,12,0
+2023-09-04,Mandarin (Beijing),produces,SHOE,鞋,13,0.04
+2023-09-04,Mandarin (Beijing),produces,SHOE,鞋,14,0.1
+2023-09-04,Mandarin (Beijing),produces,SHOE,鞋,15,0.2
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",16,0.22
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",17,0.32
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",18,0.33
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",19,0.39
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",20,0.48
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",21,0.54
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",22,0.63
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",23,0.71
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",24,0.73
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",25,0.77
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",26,0.78
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",27,0.84
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",28,0.82
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",29,0.89
+2023-09-04,Mandarin (Beijing),produces,SHOE,"鞋, 皮鞋",30,0.9
+2023-09-04,Norwegian,produces,SHOE,sko,8,0.03
+2023-09-04,Norwegian,produces,SHOE,sko,9,0
+2023-09-04,Norwegian,produces,SHOE,sko,10,0
+2023-09-04,Norwegian,produces,SHOE,sko,11,0
+2023-09-04,Norwegian,produces,SHOE,sko,12,0.01
+2023-09-04,Norwegian,produces,SHOE,sko,13,0.05
+2023-09-04,Norwegian,produces,SHOE,sko,14,0.07
+2023-09-04,Norwegian,produces,SHOE,sko,15,0.18
+2023-09-04,Norwegian,produces,SHOE,sko,16,0.27
+2023-09-04,Norwegian,produces,SHOE,sko,17,0.4
+2023-09-04,Norwegian,produces,SHOE,sko,18,0.55
+2023-09-04,Norwegian,produces,SHOE,sko,19,0.62
+2023-09-04,Norwegian,produces,SHOE,sko,20,0.74
+2023-09-04,Norwegian,produces,SHOE,sko,21,0.81
+2023-09-04,Norwegian,produces,SHOE,sko,22,0.84
+2023-09-04,Norwegian,produces,SHOE,sko,23,0.87
+2023-09-04,Norwegian,produces,SHOE,sko,24,0.91
+2023-09-04,Norwegian,produces,SHOE,sko,25,0.92
+2023-09-04,Norwegian,produces,SHOE,sko,26,0.95
+2023-09-04,Norwegian,produces,SHOE,sko,27,0.95
+2023-09-04,Norwegian,produces,SHOE,sko,28,0.97
+2023-09-04,Norwegian,produces,SHOE,sko,29,0.96
+2023-09-04,Norwegian,produces,SHOE,sko,30,0.96
+2023-09-04,Norwegian,produces,SHOE,sko,31,0.98
+2023-09-04,Norwegian,produces,SHOE,sko,32,0.98
+2023-09-04,Norwegian,produces,SHOE,sko,33,0.99
+2023-09-04,Norwegian,produces,SHOE,sko,34,0.97
+2023-09-04,Norwegian,produces,SHOE,sko,35,0.98
+2023-09-04,Norwegian,produces,SHOE,sko,36,0.98
+2023-09-04,Russian,produces,SHOE,туфли,8,0
+2023-09-04,Russian,produces,SHOE,туфли,9,0
+2023-09-04,Russian,produces,SHOE,туфли,10,0
+2023-09-04,Russian,produces,SHOE,туфли,11,0
+2023-09-04,Russian,produces,SHOE,туфли,12,0
+2023-09-04,Russian,produces,SHOE,туфли,13,0
+2023-09-04,Russian,produces,SHOE,туфли,14,0
+2023-09-04,Russian,produces,SHOE,туфли,15,0
+2023-09-04,Russian,produces,SHOE,туфли,16,0.02
+2023-09-04,Russian,produces,SHOE,туфли,17,0.05
+2023-09-04,Russian,produces,SHOE,"туфли, кроссовки, обувь",18,0.02
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",19,0.04
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",20,0.05
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",21,0.13
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",22,0.1
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",23,0.19
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",24,0.26
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",25,0.28
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",26,0.26
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",27,0.37
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",28,0.46
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",29,0.48
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",30,0.45
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",31,0.54
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",32,0.59
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",33,0.62
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",34,0.6
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",35,0.62
+2023-09-04,Russian,produces,SHOE,"кроссовки, обувь, туфли",36,0.71
+2023-09-04,Slovak,produces,SHOE,topánky,8,0
+2023-09-04,Slovak,produces,SHOE,topánky,9,0
+2023-09-04,Slovak,produces,SHOE,topánky,10,0.01
+2023-09-04,Slovak,produces,SHOE,topánky,11,0.05
+2023-09-04,Slovak,produces,SHOE,topánky,12,0.06
+2023-09-04,Slovak,produces,SHOE,topánky,13,0.11
+2023-09-04,Slovak,produces,SHOE,topánky,14,0.14
+2023-09-04,Slovak,produces,SHOE,topánky,15,0.16
+2023-09-04,Slovak,produces,SHOE,topánky,16,0.29
+2023-09-04,Slovak,produces,SHOE,topánky,17,0.23
+2023-09-04,Slovak,produces,SHOE,topánky,18,0.38
+2023-09-04,Slovak,produces,SHOE,topánky,19,0.3
+2023-09-04,Slovak,produces,SHOE,topánky,20,0.6
+2023-09-04,Slovak,produces,SHOE,topánky,21,0.57
+2023-09-04,Slovak,produces,SHOE,topánky,22,0.57
+2023-09-04,Slovak,produces,SHOE,topánky,23,0.63
+2023-09-04,Slovak,produces,SHOE,topánky,24,0.76
+2023-09-04,Slovak,produces,SHOE,topánky,25,0.8
+2023-09-04,Slovak,produces,SHOE,topánky,26,0.87
+2023-09-04,Slovak,produces,SHOE,topánky,27,0.89
+2023-09-04,Slovak,produces,SHOE,topánky,28,0.83
+2023-09-04,Slovak,produces,SHOE,topánky,29,0.87
+2023-09-04,Slovak,produces,SHOE,topánky,30,0.88
+2023-09-04,Slovak,produces,SHOE,topánky,31,0.93
+2023-09-04,Slovak,produces,SHOE,topánky,32,0.96
+2023-09-04,Slovak,produces,SHOE,topánky,33,1
+2023-09-04,Slovak,produces,SHOE,topánky,34,0.93
+2023-09-04,Slovak,produces,SHOE,topánky,35,0.89
+2023-09-04,Slovak,produces,SHOE,topánky,36,0.88
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,8,0
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,9,0.02
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,10,0
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,11,0.01
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,12,0.1
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,13,0.14
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,14,0.13
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,15,0.15
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,16,0.35
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,17,0.51
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,18,0.54
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,19,0.77
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,20,0.77
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,21,0.71
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,22,0.81
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,23,0.76
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,24,0.9
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,25,0.88
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,26,0.87
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,27,0.94
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,28,0.87
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,29,0.88
+2023-09-04,Spanish (Mexican),produces,SHOE,zapato,30,0.89
+2023-09-04,Swedish,produces,SHOE,sko,8,0
+2023-09-04,Swedish,produces,SHOE,sko,9,0
+2023-09-04,Swedish,produces,SHOE,sko,10,0
+2023-09-04,Swedish,produces,SHOE,sko,11,0
+2023-09-04,Swedish,produces,SHOE,sko,12,0.03
+2023-09-04,Swedish,produces,SHOE,sko,13,0.14
+2023-09-04,Swedish,produces,SHOE,sko,14,0.06
+2023-09-04,Swedish,produces,SHOE,sko,15,0.23
+2023-09-04,Swedish,produces,SHOE,sko,16,0.28
+2023-09-04,Swedish,produces,SHOE,sko,19,0.58
+2023-09-04,Swedish,produces,SHOE,sko,22,0.77
+2023-09-04,Swedish,produces,SHOE,sko,25,0.87
+2023-09-04,Swedish,produces,SHOE,sko,28,0.95
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,8,0.01
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,9,0
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,10,0.02
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,11,0.03
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,12,0.03
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,13,0.05
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,14,0.11
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,15,0.05
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,16,0.26
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,17,0.36
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,18,0.41
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,19,0.46
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,20,0.61
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,21,0.58
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,22,0.6
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,23,0.69
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,24,0.74
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,25,0.76
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,26,0.84
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,27,0.81
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,28,0.8
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,29,0.85
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,30,0.91
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,31,0.88
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,32,0.89
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,33,0.95
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,34,0.95
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,35,0.94
+2023-09-04,Turkish,produces,SHOE,Ayakkabı/Pabuç,36,0.96
+2023-09-04,English (British),produces,SHOE,shoe,12,0.04
+2023-09-04,English (British),produces,SHOE,shoe,13,0
+2023-09-04,English (British),produces,SHOE,shoe,14,0.17
+2023-09-04,English (British),produces,SHOE,shoe,15,0.16
+2023-09-04,English (British),produces,SHOE,shoe,16,0.36
+2023-09-04,English (British),produces,SHOE,shoe,17,0.43
+2023-09-04,English (British),produces,SHOE,shoe,18,0.47
+2023-09-04,English (British),produces,SHOE,shoe,19,0.63
+2023-09-04,English (British),produces,SHOE,shoe,20,0.71
+2023-09-04,English (British),produces,SHOE,shoe,21,0.83
+2023-09-04,English (British),produces,SHOE,shoe,22,0.86
+2023-09-04,English (British),produces,SHOE,shoe,23,0.89
+2023-09-04,English (British),produces,SHOE,shoe,24,0.9
+2023-09-04,English (British),produces,SHOE,shoe,25,0.89
+2023-09-04,English (British),produces,SHOE,shoe,26,0.91
+2023-09-04,English (British),produces,SHOE,shoe,27,0.88
+2023-09-04,English (British),produces,SHOE,shoe,28,0.91
+2023-09-04,English (British),produces,SHOE,shoe,29,0.88
+2023-09-04,English (British),produces,SHOE,shoe,30,1
+2023-09-04,English (British),produces,SHOE,shoe,31,1
+2023-09-04,English (British),produces,SHOE,shoe,32,0.89
+2023-09-04,English (British),produces,SHOE,shoe,33,0.93
+2023-09-04,English (British),produces,SHOE,shoe,34,0.7
+2023-09-04,English (British),produces,SHOE,shoe,35,0.8
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,8,0.2
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,9,0
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,10,0
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,11,0
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,12,0
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,13,0.06
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,14,0
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,15,0.06
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,16,0
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,17,0.33
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,18,0.31
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,19,0.38
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,20,0.57
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,21,0.67
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,22,0.89
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,23,0.5
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,24,1
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,25,1
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,26,0.67
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,27,1
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,28,1
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,29,1
+2023-09-04,Kigiriama,produces,SHOE,Kirahu,30,0
+2023-09-04,Czech,produces,SHOE,boty,16,0.31
+2023-09-04,Czech,produces,SHOE,boty,17,0.59
+2023-09-04,Czech,produces,SHOE,boty,18,0.62
+2023-09-04,Czech,produces,SHOE,boty,19,0.59
+2023-09-04,Czech,produces,SHOE,boty,20,0.92
+2023-09-04,Czech,produces,SHOE,boty,21,0.76
+2023-09-04,Czech,produces,SHOE,boty,22,0.86
+2023-09-04,Czech,produces,SHOE,boty,23,0.76
+2023-09-04,Czech,produces,SHOE,boty,24,0.86
+2023-09-04,Czech,produces,SHOE,boty,25,0.89
+2023-09-04,Czech,produces,SHOE,boty,26,0.82
+2023-09-04,Czech,produces,SHOE,boty,27,0.92
+2023-09-04,Czech,produces,SHOE,boty,28,1
+2023-09-04,Czech,produces,SHOE,boty,29,0.9
+2023-09-04,Czech,produces,SHOE,boty,30,0.96
+2023-09-04,English (Australian),produces,SHOE,shoe(s),12,0.03
+2023-09-04,English (Australian),produces,SHOE,shoe(s),13,0.16
+2023-09-04,English (Australian),produces,SHOE,shoe(s),14,0.24
+2023-09-04,English (Australian),produces,SHOE,shoe(s),15,0.23
+2023-09-04,English (Australian),produces,SHOE,shoe(s),16,0.42
+2023-09-04,English (Australian),produces,SHOE,shoe(s),17,0.58
+2023-09-04,English (Australian),produces,SHOE,shoe(s),18,0.68
+2023-09-04,English (Australian),produces,SHOE,shoe(s),19,0.84
+2023-09-04,English (Australian),produces,SHOE,shoe(s),20,0.78
+2023-09-04,English (Australian),produces,SHOE,shoe(s),21,0.79
+2023-09-04,English (Australian),produces,SHOE,shoe(s),22,0.95
+2023-09-04,English (Australian),produces,SHOE,shoe(s),23,0.99
+2023-09-04,English (Australian),produces,SHOE,shoe(s),24,0.92
+2023-09-04,English (Australian),produces,SHOE,shoe(s),25,0.94
+2023-09-04,English (Australian),produces,SHOE,shoe(s),26,0.96
+2023-09-04,English (Australian),produces,SHOE,shoe(s),27,0.97
+2023-09-04,English (Australian),produces,SHOE,shoe(s),28,0.99
+2023-09-04,English (Australian),produces,SHOE,shoe(s),29,0.98
+2023-09-04,English (Australian),produces,SHOE,shoe(s),30,1
+2023-09-04,Latvian,produces,SHOE,kurpes,8,0
+2023-09-04,Latvian,produces,SHOE,kurpes,9,0
+2023-09-04,Latvian,produces,SHOE,kurpes,10,0
+2023-09-04,Latvian,produces,SHOE,kurpes,11,0
+2023-09-04,Latvian,produces,SHOE,kurpes,12,0
+2023-09-04,Latvian,produces,SHOE,kurpes,13,0.05
+2023-09-04,Latvian,produces,SHOE,kurpes,14,0.16
+2023-09-04,Latvian,produces,SHOE,kurpes,15,0.21
+2023-09-04,Latvian,produces,SHOE,kurpes,16,0.12
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",17,0.13
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",18,0.17
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",19,0.18
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",20,0.28
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",21,0.4
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",22,0.33
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",23,0.4
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",24,0.42
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",25,0.43
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",26,0.52
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",27,0.56
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",28,0.59
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",29,0.46
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",30,0.58
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",31,0.55
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",32,0.58
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",33,0.63
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",34,0.68
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",35,0.64
+2023-09-04,Latvian,produces,SHOE,"apavi, kurpes",36,0.7
+2023-09-04,Korean,produces,SHOE,신/신발,8,0
+2023-09-04,Korean,produces,SHOE,신/신발,9,0
+2023-09-04,Korean,produces,SHOE,신/신발,10,0
+2023-09-04,Korean,produces,SHOE,신/신발,11,0.05
+2023-09-04,Korean,produces,SHOE,신/신발,12,0.06
+2023-09-04,Korean,produces,SHOE,신/신발,13,0.14
+2023-09-04,Korean,produces,SHOE,신/신발,14,0.13
+2023-09-04,Korean,produces,SHOE,신/신발,15,0.17
+2023-09-04,Korean,produces,SHOE,신/신발,16,0.3
+2023-09-04,Korean,produces,SHOE,신/신발,17,0.32
+2023-09-04,Korean,produces,SHOE,신/신발,18,0.42
+2023-09-04,Korean,produces,SHOE,신/신발,19,0.45
+2023-09-04,Korean,produces,SHOE,신/신발,20,0.42
+2023-09-04,Korean,produces,SHOE,신/신발,21,0.56
+2023-09-04,Korean,produces,SHOE,신/신발,22,0.63
+2023-09-04,Korean,produces,SHOE,신/신발,23,0.61
+2023-09-04,Korean,produces,SHOE,신/신발,24,0.79
+2023-09-04,Korean,produces,SHOE,신/신발,25,0.85
+2023-09-04,Korean,produces,SHOE,신/신발,26,0.89
+2023-09-04,Korean,produces,SHOE,신/신발,27,0.85
+2023-09-04,Korean,produces,SHOE,신/신발,28,0.91
+2023-09-04,Korean,produces,SHOE,신/신발,29,0.92
+2023-09-04,Korean,produces,SHOE,신/신발,30,0.89
+2023-09-04,Korean,produces,SHOE,신/신발,31,0.96
+2023-09-04,Korean,produces,SHOE,신/신발,32,0.96
+2023-09-04,Korean,produces,SHOE,신/신발,33,0.96
+2023-09-04,Korean,produces,SHOE,신/신발,34,0.95
+2023-09-04,Korean,produces,SHOE,신/신발,35,0.93
+2023-09-04,Korean,produces,SHOE,신/신발,36,0.99
+2023-09-04,French (French),produces,SHOE,chaussure,8,0
+2023-09-04,French (French),produces,SHOE,chaussure,9,0
+2023-09-04,French (French),produces,SHOE,chaussure,11,0
+2023-09-04,French (French),produces,SHOE,chaussure,12,0
+2023-09-04,French (French),produces,SHOE,chaussure,13,0.05
+2023-09-04,French (French),produces,SHOE,chaussure,14,0
+2023-09-04,French (French),produces,SHOE,chaussure,15,0
+2023-09-04,French (French),produces,SHOE,chaussure,16,0.22
+2023-09-04,French (French),produces,SHOE,chaussure,17,0.38
+2023-09-04,French (French),produces,SHOE,chaussure,18,0
+2023-09-04,French (French),produces,SHOE,chaussure,19,0.82
+2023-09-04,French (French),produces,SHOE,chaussure,20,0.62
+2023-09-04,French (French),produces,SHOE,chaussure,21,0.71
+2023-09-04,French (French),produces,SHOE,chaussure,22,0.83
+2023-09-04,French (French),produces,SHOE,chaussure,23,0.63
+2023-09-04,French (French),produces,SHOE,chaussure,24,0.83
+2023-09-04,French (French),produces,SHOE,chaussure,25,0.98
+2023-09-04,French (French),produces,SHOE,chaussure,26,0.91
+2023-09-04,French (French),produces,SHOE,chaussure,27,0.96
+2023-09-04,French (French),produces,SHOE,chaussure,28,0.97
+2023-09-04,French (French),produces,SHOE,chaussure,29,0.97
+2023-09-04,French (French),produces,SHOE,chaussure,30,0.97
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,8,0
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,9,0
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,10,0
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,11,0
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,12,0
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,13,0.03
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,14,0.09
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,15,0.15
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,16,0.21
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,17,0.36
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,18,0.4
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,19,0.59
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,20,0.56
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,21,0.59
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,22,0.74
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,23,0.8
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,24,0.78
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,25,0.69
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,26,0.9
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,27,0.94
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,28,0.92
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,29,0.9
+2023-09-04,Spanish (European),produces,SHOE,zapato/s,30,0.9
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato(s)",8,0.01
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato(s)",9,0
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato(s)",10,0
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato(s)",11,0.01
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato(s)",12,0.01
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato(s)",13,0.03
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato(s)",14,0.04
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato(s)",15,0.08
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",16,0.11
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",17,0.16
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",18,0.23
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",19,0.27
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",20,0.35
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",21,0.38
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",22,0.43
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",23,0.47
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",24,0.54
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",25,0.62
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",26,0.64
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",27,0.69
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",28,0.74
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",29,0.72
+2023-09-04,Portuguese (European),produces,SHOE,"Sapatilhas / Ténis, Sapato",30,0.75
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,鞋子,8,0
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,鞋子,9,0.01
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,鞋子,10,0
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,鞋子,11,0.01
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,鞋子,12,0.03
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,鞋子,13,0.12
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,鞋子,14,0.2
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,鞋子,15,0.3
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",16,0.24
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",17,0.3
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",18,0.31
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",19,0.38
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",20,0.43
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",21,0.44
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",22,0.49
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",23,0.49
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",24,0.53
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",25,0.55
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",26,0.56
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",27,0.55
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",28,0.62
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",29,0.64
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",30,0.64
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",31,0.66
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",32,0.65
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",33,0.77
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",34,0.74
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",35,0.73
+2023-09-04,Mandarin (Taiwanese),produces,SHOE,"鞋子, 皮鞋",36,0.7
+2023-09-04,Dutch,produces,SHOE,schoen,8,0
+2023-09-04,Dutch,produces,SHOE,schoen,9,0
+2023-09-04,Dutch,produces,SHOE,schoen,10,0
+2023-09-04,Dutch,produces,SHOE,schoen,11,0
+2023-09-04,Dutch,produces,SHOE,schoen,12,0
+2023-09-04,Dutch,produces,SHOE,schoen,13,0
+2023-09-04,Dutch,produces,SHOE,schoen,14,0
+2023-09-04,Dutch,produces,SHOE,schoen,15,0.14
+2023-09-04,Dutch,produces,SHOE,schoen,16,0.09
+2023-09-04,Dutch,produces,SHOE,schoen,17,0.24
+2023-09-04,Dutch,produces,SHOE,schoen,18,0.24
+2023-09-04,Dutch,produces,SHOE,schoen,19,0.41
+2023-09-04,Dutch,produces,SHOE,schoen,20,0.39
+2023-09-04,Dutch,produces,SHOE,schoen,21,0.62
+2023-09-04,Dutch,produces,SHOE,schoen,22,0.57
+2023-09-04,Dutch,produces,SHOE,schoen,23,0.82
+2023-09-04,Dutch,produces,SHOE,schoen,24,0.81
+2023-09-04,Dutch,produces,SHOE,schoen,25,0.83
+2023-09-04,Dutch,produces,SHOE,schoen,26,0.5
+2023-09-04,Dutch,produces,SHOE,schoen,27,0.8
+2023-09-04,Dutch,produces,SHOE,schoen,28,1
+2023-09-04,Dutch,produces,SHOE,schoen,29,0.96
+2023-09-04,Dutch,produces,SHOE,schoen,30,1
+2023-09-04,Dutch,produces,SHOE,schoen,31,1
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",16,0.12
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",17,0.19
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",18,0.28
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",19,0.29
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",20,0.31
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",21,0.39
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",22,0.37
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",23,0.5
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",24,0.42
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",25,0.56
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",26,0.52
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",27,0.48
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",28,0.52
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",29,0.58
+2023-09-04,Hungarian,produces,SHOE,"cipő, tornacipő",30,0.56
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,16,0.15
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,17,0.16
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,18,0.24
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,19,0.16
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,20,0.33
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,21,0.29
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,22,0.42
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,23,0.41
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,24,0.44
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,25,0.37
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,26,0.42
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,27,0.43
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,28,0.4
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,29,0.48
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,30,0.68
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,31,0
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,32,1
+2023-09-04,Spanish (Argentinian),produces,SHOE,zapato,33,1
+2023-09-04,Persian,produces,SHOE,کفش,8,0
+2023-09-04,Persian,produces,SHOE,کفش,9,0
+2023-09-04,Persian,produces,SHOE,کفش,10,0.06
+2023-09-04,Persian,produces,SHOE,کفش,11,0
+2023-09-04,Persian,produces,SHOE,کفش,12,0
+2023-09-04,Persian,produces,SHOE,کفش,13,0
+2023-09-04,Persian,produces,SHOE,کفش,14,0.33
+2023-09-04,Persian,produces,SHOE,کفش,15,0.08
+2023-09-04,Persian,produces,SHOE,کفش,16,0
+2023-09-04,Persian,produces,SHOE,ک فش,17,1
+2023-09-04,Persian,produces,SHOE,ک فش,18,0.6
+2023-09-04,Persian,produces,SHOE,ک فش,20,0.33
+2023-09-04,Persian,produces,SHOE,ک فش,21,1
+2023-09-04,Persian,produces,SHOE,ک فش,22,1
+2023-09-04,Persian,produces,SHOE,ک فش,23,1
+2023-09-04,Persian,produces,SHOE,ک فش,24,1
+2023-09-04,Persian,produces,SHOE,ک فش,25,1
+2023-09-04,Persian,produces,SHOE,ک فش,26,1
+2023-09-04,Persian,produces,SHOE,ک فش,27,1
+2023-09-04,Persian,produces,SHOE,ک فش,28,1
+2023-09-04,Persian,produces,SHOE,ک فش,29,1
+2023-09-04,Persian,produces,SHOE,ک فش,30,1

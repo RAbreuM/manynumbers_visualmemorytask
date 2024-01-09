@@ -1,0 +1,510 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,SHIRT,T恤,16,0
+2023-09-04,Cantonese,produces,SHIRT,T恤,17,0.02
+2023-09-04,Cantonese,produces,SHIRT,T恤,18,0.01
+2023-09-04,Cantonese,produces,SHIRT,T恤,19,0
+2023-09-04,Cantonese,produces,SHIRT,T恤,20,0.01
+2023-09-04,Cantonese,produces,SHIRT,T恤,21,0
+2023-09-04,Cantonese,produces,SHIRT,T恤,22,0.03
+2023-09-04,Cantonese,produces,SHIRT,T恤,23,0.03
+2023-09-04,Cantonese,produces,SHIRT,T恤,24,0.04
+2023-09-04,Cantonese,produces,SHIRT,T恤,25,0.06
+2023-09-04,Cantonese,produces,SHIRT,T恤,26,0.12
+2023-09-04,Cantonese,produces,SHIRT,T恤,27,0.11
+2023-09-04,Cantonese,produces,SHIRT,T恤,28,0.12
+2023-09-04,Cantonese,produces,SHIRT,T恤,29,0.15
+2023-09-04,Cantonese,produces,SHIRT,T恤,30,0.21
+2023-09-04,Danish,produces,SHIRT,bluse,8,0
+2023-09-04,Danish,produces,SHIRT,bluse,9,0
+2023-09-04,Danish,produces,SHIRT,bluse,10,0
+2023-09-04,Danish,produces,SHIRT,bluse,11,0
+2023-09-04,Danish,produces,SHIRT,bluse,12,0.01
+2023-09-04,Danish,produces,SHIRT,bluse,13,0
+2023-09-04,Danish,produces,SHIRT,bluse,14,0.01
+2023-09-04,Danish,produces,SHIRT,bluse,15,0
+2023-09-04,Danish,produces,SHIRT,bluse,16,0.02
+2023-09-04,Danish,produces,SHIRT,bluse,17,0.05
+2023-09-04,Danish,produces,SHIRT,bluse,18,0.1
+2023-09-04,Danish,produces,SHIRT,bluse,19,0.14
+2023-09-04,Danish,produces,SHIRT,bluse,20,0.28
+2023-09-04,Danish,produces,SHIRT,bluse,21,0.32
+2023-09-04,Danish,produces,SHIRT,bluse,22,0.43
+2023-09-04,Danish,produces,SHIRT,bluse,23,0.48
+2023-09-04,Danish,produces,SHIRT,bluse,24,0.53
+2023-09-04,Danish,produces,SHIRT,bluse,25,0.56
+2023-09-04,Danish,produces,SHIRT,bluse,26,0.75
+2023-09-04,Danish,produces,SHIRT,bluse,27,0.75
+2023-09-04,Danish,produces,SHIRT,bluse,28,0.74
+2023-09-04,Danish,produces,SHIRT,bluse,29,0.76
+2023-09-04,Danish,produces,SHIRT,bluse,30,0.87
+2023-09-04,Danish,produces,SHIRT,bluse,31,0.85
+2023-09-04,Danish,produces,SHIRT,bluse,32,0.82
+2023-09-04,Danish,produces,SHIRT,bluse,33,0.88
+2023-09-04,Danish,produces,SHIRT,bluse,34,0.88
+2023-09-04,Danish,produces,SHIRT,bluse,35,0.88
+2023-09-04,Danish,produces,SHIRT,bluse,36,0.91
+2023-09-04,English (American),produces,SHIRT,shirt,8,0
+2023-09-04,English (American),produces,SHIRT,shirt,9,0.01
+2023-09-04,English (American),produces,SHIRT,shirt,10,0.01
+2023-09-04,English (American),produces,SHIRT,shirt,11,0.02
+2023-09-04,English (American),produces,SHIRT,shirt,12,0.02
+2023-09-04,English (American),produces,SHIRT,shirt,13,0.03
+2023-09-04,English (American),produces,SHIRT,shirt,14,0.05
+2023-09-04,English (American),produces,SHIRT,shirt,15,0.09
+2023-09-04,English (American),produces,SHIRT,shirt,16,0.09
+2023-09-04,English (American),produces,SHIRT,shirt,17,0.13
+2023-09-04,English (American),produces,SHIRT,shirt,18,0.21
+2023-09-04,English (American),produces,SHIRT,shirt,19,0.33
+2023-09-04,English (American),produces,SHIRT,shirt,20,0.39
+2023-09-04,English (American),produces,SHIRT,shirt,21,0.46
+2023-09-04,English (American),produces,SHIRT,shirt,22,0.54
+2023-09-04,English (American),produces,SHIRT,shirt,23,0.62
+2023-09-04,English (American),produces,SHIRT,shirt,24,0.66
+2023-09-04,English (American),produces,SHIRT,shirt,25,0.74
+2023-09-04,English (American),produces,SHIRT,shirt,26,0.75
+2023-09-04,English (American),produces,SHIRT,shirt,27,0.8
+2023-09-04,English (American),produces,SHIRT,shirt,28,0.91
+2023-09-04,English (American),produces,SHIRT,shirt,29,0.82
+2023-09-04,English (American),produces,SHIRT,shirt,30,0.83
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,8,0
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,9,0
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,10,0
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,11,0
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,12,0
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,13,0
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,14,0
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,15,0
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,16,0
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,17,0.02
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,18,0.06
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,19,0.06
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,20,0.03
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,21,0.17
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,22,0.14
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,23,0.19
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,24,0.15
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,25,0.25
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,26,0.33
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,27,0.32
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,28,0.46
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,29,0.64
+2023-09-04,French (Quebecois),produces,SHIRT,chemise,30,0.49
+2023-09-04,German,produces,SHIRT,"Hemd, Tshirt",18,0.05
+2023-09-04,German,produces,SHIRT,"Hemd, Tshirt",19,0.05
+2023-09-04,German,produces,SHIRT,"Hemd, Tshirt",20,0.08
+2023-09-04,German,produces,SHIRT,"Hemd, Tshirt",21,0.16
+2023-09-04,German,produces,SHIRT,"Hemd, Tshirt",22,0.16
+2023-09-04,German,produces,SHIRT,"Hemd, Tshirt",23,0.32
+2023-09-04,German,produces,SHIRT,"Hemd, Tshirt",24,0.36
+2023-09-04,German,produces,SHIRT,"Hemd, Tshirt",25,0.42
+2023-09-04,German,produces,SHIRT,"Hemd, Tshirt",26,0.49
+2023-09-04,German,produces,SHIRT,"Hemd, Tshirt",27,0.44
+2023-09-04,German,produces,SHIRT,"Hemd, Tshirt",28,0.61
+2023-09-04,German,produces,SHIRT,"Hemd, Tshirt",29,0.69
+2023-09-04,German,produces,SHIRT,"Hemd, Tshirt",30,0.79
+2023-09-04,Hebrew,produces,SHIRT,חולצה,11,0
+2023-09-04,Hebrew,produces,SHIRT,חולצה,12,0
+2023-09-04,Hebrew,produces,SHIRT,חולצה,13,0
+2023-09-04,Hebrew,produces,SHIRT,חולצה,14,0
+2023-09-04,Hebrew,produces,SHIRT,חולצה,15,0
+2023-09-04,Hebrew,produces,SHIRT,חולצה,16,0.17
+2023-09-04,Hebrew,produces,SHIRT,חולצה,17,0
+2023-09-04,Hebrew,produces,SHIRT,חולצה,19,0.5
+2023-09-04,Hebrew,produces,SHIRT,חולצה,20,0.56
+2023-09-04,Hebrew,produces,SHIRT,חולצה,21,0.5
+2023-09-04,Hebrew,produces,SHIRT,חולצה,22,0.67
+2023-09-04,Hebrew,produces,SHIRT,חולצה,23,0.71
+2023-09-04,Hebrew,produces,SHIRT,חולצה,24,0.73
+2023-09-04,Hebrew,produces,SHIRT,חולצה,25,0.86
+2023-09-04,Hebrew,produces,SHIRT,חולצה,26,0.86
+2023-09-04,Hebrew,produces,SHIRT,חולצה,27,0.93
+2023-09-04,Hebrew,produces,SHIRT,חולצה,28,0.89
+2023-09-04,Hebrew,produces,SHIRT,חולצה,29,0.96
+2023-09-04,Hebrew,produces,SHIRT,חולצה,30,0.96
+2023-09-04,Hebrew,produces,SHIRT,חולצה,31,0.97
+2023-09-04,Hebrew,produces,SHIRT,חולצה,32,0.92
+2023-09-04,Hebrew,produces,SHIRT,חולצה,33,0.9
+2023-09-04,Hebrew,produces,SHIRT,חולצה,34,1
+2023-09-04,Hebrew,produces,SHIRT,חולצה,35,0.83
+2023-09-04,Hebrew,produces,SHIRT,חולצה,36,0.8
+2023-09-04,Italian,produces,SHIRT,camicia,18,0.13
+2023-09-04,Italian,produces,SHIRT,camicia,19,0.13
+2023-09-04,Italian,produces,SHIRT,camicia,20,0.17
+2023-09-04,Italian,produces,SHIRT,camicia,21,0.29
+2023-09-04,Italian,produces,SHIRT,camicia,22,0.42
+2023-09-04,Italian,produces,SHIRT,camicia,23,0.32
+2023-09-04,Italian,produces,SHIRT,camicia,24,0.48
+2023-09-04,Italian,produces,SHIRT,camicia,25,0.67
+2023-09-04,Italian,produces,SHIRT,camicia,26,0.61
+2023-09-04,Italian,produces,SHIRT,camicia,27,0.47
+2023-09-04,Italian,produces,SHIRT,camicia,28,0.64
+2023-09-04,Italian,produces,SHIRT,camicia,29,0.89
+2023-09-04,Italian,produces,SHIRT,camicia,30,0.88
+2023-09-04,Italian,produces,SHIRT,camicia,31,0.74
+2023-09-04,Italian,produces,SHIRT,camicia,32,0.78
+2023-09-04,Italian,produces,SHIRT,camicia,33,0.94
+2023-09-04,Italian,produces,SHIRT,camicia,34,0.95
+2023-09-04,Italian,produces,SHIRT,camicia,35,0.87
+2023-09-04,Italian,produces,SHIRT,camicia,36,0.9
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,16,0
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,17,0.04
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,18,0.06
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,19,0.11
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,20,0.21
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,21,0.27
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,22,0.44
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,23,0.51
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,24,0.53
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,25,0.66
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,26,0.68
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,27,0.69
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,28,0.74
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,29,0.8
+2023-09-04,Mandarin (Beijing),produces,SHIRT,上衣,30,0.86
+2023-09-04,Norwegian,produces,SHIRT,skjorte,16,0
+2023-09-04,Norwegian,produces,SHIRT,skjorte,17,0.01
+2023-09-04,Norwegian,produces,SHIRT,skjorte,18,0.02
+2023-09-04,Norwegian,produces,SHIRT,skjorte,19,0.02
+2023-09-04,Norwegian,produces,SHIRT,skjorte,20,0.04
+2023-09-04,Norwegian,produces,SHIRT,skjorte,21,0.1
+2023-09-04,Norwegian,produces,SHIRT,skjorte,22,0.13
+2023-09-04,Norwegian,produces,SHIRT,skjorte,23,0.19
+2023-09-04,Norwegian,produces,SHIRT,skjorte,24,0.22
+2023-09-04,Norwegian,produces,SHIRT,skjorte,25,0.3
+2023-09-04,Norwegian,produces,SHIRT,skjorte,26,0.4
+2023-09-04,Norwegian,produces,SHIRT,skjorte,27,0.43
+2023-09-04,Norwegian,produces,SHIRT,skjorte,28,0.47
+2023-09-04,Norwegian,produces,SHIRT,skjorte,29,0.52
+2023-09-04,Norwegian,produces,SHIRT,skjorte,30,0.58
+2023-09-04,Norwegian,produces,SHIRT,skjorte,31,0.65
+2023-09-04,Norwegian,produces,SHIRT,skjorte,32,0.66
+2023-09-04,Norwegian,produces,SHIRT,skjorte,33,0.71
+2023-09-04,Norwegian,produces,SHIRT,skjorte,34,0.73
+2023-09-04,Norwegian,produces,SHIRT,skjorte,35,0.77
+2023-09-04,Norwegian,produces,SHIRT,skjorte,36,0.79
+2023-09-04,Russian,produces,SHIRT,рубашка,8,0
+2023-09-04,Russian,produces,SHIRT,рубашка,9,0
+2023-09-04,Russian,produces,SHIRT,рубашка,10,0
+2023-09-04,Russian,produces,SHIRT,рубашка,11,0
+2023-09-04,Russian,produces,SHIRT,рубашка,12,0
+2023-09-04,Russian,produces,SHIRT,рубашка,13,0
+2023-09-04,Russian,produces,SHIRT,рубашка,14,0
+2023-09-04,Russian,produces,SHIRT,рубашка,15,0.01
+2023-09-04,Russian,produces,SHIRT,рубашка,16,0.04
+2023-09-04,Russian,produces,SHIRT,рубашка,17,0.03
+2023-09-04,Russian,produces,SHIRT,"рубашка, майка",18,0.05
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",19,0.13
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",20,0.16
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",21,0.35
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",22,0.35
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",23,0.37
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",24,0.5
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",25,0.5
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",26,0.52
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",27,0.6
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",28,0.72
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",29,0.77
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",30,0.74
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",31,0.74
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",32,0.8
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",33,0.83
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",34,0.82
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",35,0.87
+2023-09-04,Russian,produces,SHIRT,"майка, рубашка",36,0.85
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",8,0
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",9,0
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",10,0.01
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",11,0
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",12,0
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",13,0
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",14,0.01
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",15,0.02
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",16,0.09
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",17,0.09
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",18,0.08
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",19,0.15
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",20,0.27
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",21,0.32
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",22,0.37
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",23,0.32
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",24,0.53
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",25,0.54
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",26,0.71
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",27,0.73
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",28,0.62
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",29,0.73
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",30,0.7
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",31,0.71
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",32,0.84
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",33,0.84
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",34,0.81
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",35,0.8
+2023-09-04,Slovak,produces,SHIRT,"košeľa, tričko",36,0.75
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,16,0.06
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,17,0.05
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,18,0.15
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,19,0.22
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,20,0.26
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,21,0.26
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,22,0.29
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,23,0.24
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,24,0.42
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,25,0.45
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,26,0.51
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,27,0.66
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,28,0.6
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,29,0.69
+2023-09-04,Spanish (Mexican),produces,SHIRT,camisa,30,0.56
+2023-09-04,English (British),produces,SHIRT,shirt,12,0
+2023-09-04,English (British),produces,SHIRT,shirt,13,0
+2023-09-04,English (British),produces,SHIRT,shirt,14,0
+2023-09-04,English (British),produces,SHIRT,shirt,15,0.01
+2023-09-04,English (British),produces,SHIRT,shirt,16,0
+2023-09-04,English (British),produces,SHIRT,shirt,17,0.02
+2023-09-04,English (British),produces,SHIRT,shirt,18,0.03
+2023-09-04,English (British),produces,SHIRT,shirt,19,0.04
+2023-09-04,English (British),produces,SHIRT,shirt,20,0.07
+2023-09-04,English (British),produces,SHIRT,shirt,21,0.12
+2023-09-04,English (British),produces,SHIRT,shirt,22,0.18
+2023-09-04,English (British),produces,SHIRT,shirt,23,0.21
+2023-09-04,English (British),produces,SHIRT,shirt,24,0.3
+2023-09-04,English (British),produces,SHIRT,shirt,25,0.36
+2023-09-04,Kigiriama,produces,SHIRT,Shati,8,0.2
+2023-09-04,Kigiriama,produces,SHIRT,Shati,9,0
+2023-09-04,Kigiriama,produces,SHIRT,Shati,10,0
+2023-09-04,Kigiriama,produces,SHIRT,Shati,11,0
+2023-09-04,Kigiriama,produces,SHIRT,Shati,12,0
+2023-09-04,Kigiriama,produces,SHIRT,Shati,13,0.06
+2023-09-04,Kigiriama,produces,SHIRT,Shati,14,0
+2023-09-04,Kigiriama,produces,SHIRT,Shati,15,0.06
+2023-09-04,Kigiriama,produces,SHIRT,Shati,16,0
+2023-09-04,Kigiriama,produces,SHIRT,Shati,17,0.17
+2023-09-04,Kigiriama,produces,SHIRT,Shati,18,0.08
+2023-09-04,Kigiriama,produces,SHIRT,Shati,19,0.25
+2023-09-04,Kigiriama,produces,SHIRT,Shati,20,0.21
+2023-09-04,Kigiriama,produces,SHIRT,Shati,21,0.33
+2023-09-04,Kigiriama,produces,SHIRT,Shati,22,0.44
+2023-09-04,Kigiriama,produces,SHIRT,Shati,23,0.25
+2023-09-04,Kigiriama,produces,SHIRT,Shati,24,0.57
+2023-09-04,Kigiriama,produces,SHIRT,Shati,25,0.33
+2023-09-04,Kigiriama,produces,SHIRT,Shati,26,0.33
+2023-09-04,Kigiriama,produces,SHIRT,Shati,27,0.75
+2023-09-04,Kigiriama,produces,SHIRT,Shati,28,1
+2023-09-04,Kigiriama,produces,SHIRT,Shati,29,0.6
+2023-09-04,Kigiriama,produces,SHIRT,Shati,30,1
+2023-09-04,English (Australian),produces,SHIRT,shirt,12,0
+2023-09-04,English (Australian),produces,SHIRT,shirt,13,0
+2023-09-04,English (Australian),produces,SHIRT,shirt,14,0.04
+2023-09-04,English (Australian),produces,SHIRT,shirt,15,0.06
+2023-09-04,English (Australian),produces,SHIRT,shirt,16,0.05
+2023-09-04,English (Australian),produces,SHIRT,shirt,17,0.05
+2023-09-04,English (Australian),produces,SHIRT,shirt,18,0.1
+2023-09-04,English (Australian),produces,SHIRT,shirt,19,0.18
+2023-09-04,English (Australian),produces,SHIRT,shirt,20,0.22
+2023-09-04,English (Australian),produces,SHIRT,shirt,21,0.26
+2023-09-04,English (Australian),produces,SHIRT,shirt,22,0.37
+2023-09-04,English (Australian),produces,SHIRT,shirt,23,0.55
+2023-09-04,English (Australian),produces,SHIRT,shirt,24,0.5
+2023-09-04,English (Australian),produces,SHIRT,shirt,25,0.65
+2023-09-04,English (Australian),produces,SHIRT,shirt,26,0.66
+2023-09-04,English (Australian),produces,SHIRT,shirt,27,0.68
+2023-09-04,English (Australian),produces,SHIRT,shirt,28,0.67
+2023-09-04,English (Australian),produces,SHIRT,shirt,29,0.74
+2023-09-04,English (Australian),produces,SHIRT,shirt,30,0.79
+2023-09-04,Latvian,produces,SHIRT,krekls,8,0
+2023-09-04,Latvian,produces,SHIRT,krekls,9,0
+2023-09-04,Latvian,produces,SHIRT,krekls,10,0.04
+2023-09-04,Latvian,produces,SHIRT,krekls,11,0
+2023-09-04,Latvian,produces,SHIRT,krekls,12,0
+2023-09-04,Latvian,produces,SHIRT,krekls,13,0
+2023-09-04,Latvian,produces,SHIRT,krekls,14,0.08
+2023-09-04,Latvian,produces,SHIRT,krekls,15,0.03
+2023-09-04,Latvian,produces,SHIRT,krekls,16,0.06
+2023-09-04,Latvian,produces,SHIRT,krekls,17,0.04
+2023-09-04,Latvian,produces,SHIRT,krekls,18,0.1
+2023-09-04,Latvian,produces,SHIRT,krekls,19,0.11
+2023-09-04,Latvian,produces,SHIRT,krekls,20,0.29
+2023-09-04,Latvian,produces,SHIRT,krekls,21,0.35
+2023-09-04,Latvian,produces,SHIRT,krekls,22,0.22
+2023-09-04,Latvian,produces,SHIRT,krekls,23,0.32
+2023-09-04,Latvian,produces,SHIRT,krekls,24,0.63
+2023-09-04,Latvian,produces,SHIRT,krekls,25,0.52
+2023-09-04,Latvian,produces,SHIRT,krekls,26,0.64
+2023-09-04,Latvian,produces,SHIRT,krekls,27,0.67
+2023-09-04,Latvian,produces,SHIRT,krekls,28,0.7
+2023-09-04,Latvian,produces,SHIRT,krekls,29,0.67
+2023-09-04,Latvian,produces,SHIRT,krekls,30,0.77
+2023-09-04,Latvian,produces,SHIRT,krekls,31,0.84
+2023-09-04,Latvian,produces,SHIRT,krekls,32,0.68
+2023-09-04,Latvian,produces,SHIRT,krekls,33,0.71
+2023-09-04,Latvian,produces,SHIRT,krekls,34,0.71
+2023-09-04,Latvian,produces,SHIRT,krekls,35,0.86
+2023-09-04,Latvian,produces,SHIRT,krekls,36,0.73
+2023-09-04,French (French),produces,SHIRT,chemise,8,0
+2023-09-04,French (French),produces,SHIRT,chemise,9,0
+2023-09-04,French (French),produces,SHIRT,chemise,11,0
+2023-09-04,French (French),produces,SHIRT,chemise,12,0
+2023-09-04,French (French),produces,SHIRT,chemise,13,0
+2023-09-04,French (French),produces,SHIRT,chemise,14,0
+2023-09-04,French (French),produces,SHIRT,chemise,15,0
+2023-09-04,French (French),produces,SHIRT,chemise,16,0
+2023-09-04,French (French),produces,SHIRT,chemise,17,0
+2023-09-04,French (French),produces,SHIRT,chemise,18,0
+2023-09-04,French (French),produces,SHIRT,chemise,19,0
+2023-09-04,French (French),produces,SHIRT,chemise,20,0.1
+2023-09-04,French (French),produces,SHIRT,chemise,21,0.11
+2023-09-04,French (French),produces,SHIRT,chemise,22,0.2
+2023-09-04,French (French),produces,SHIRT,chemise,23,0.15
+2023-09-04,French (French),produces,SHIRT,chemise,24,0.23
+2023-09-04,French (French),produces,SHIRT,chemise,25,0.45
+2023-09-04,French (French),produces,SHIRT,chemise,26,0.38
+2023-09-04,French (French),produces,SHIRT,chemise,27,0.5
+2023-09-04,French (French),produces,SHIRT,chemise,28,0.5
+2023-09-04,French (French),produces,SHIRT,chemise,29,0.71
+2023-09-04,French (French),produces,SHIRT,chemise,30,0.52
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,8,0
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,9,0
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,10,0
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,11,0
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,12,0
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,13,0
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,14,0
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,15,0.02
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,16,0.05
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,17,0
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,18,0.06
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,19,0.11
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,20,0.11
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,21,0.17
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,22,0.26
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,23,0.3
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,24,0.44
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,25,0.34
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,26,0.57
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,27,0.68
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,28,0.61
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,29,0.8
+2023-09-04,Spanish (European),produces,SHIRT,camiseta,30,0.73
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,16,0
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,17,0.02
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,18,0.02
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,19,0.03
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,20,0.08
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,21,0.08
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,22,0.12
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,23,0.08
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,24,0.16
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,25,0.25
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,26,0.3
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,27,0.37
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,28,0.38
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,29,0.39
+2023-09-04,Portuguese (European),produces,SHIRT,Camisa,30,0.44
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,8,0
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,9,0
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,10,0
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,11,0
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,12,0
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,13,0
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,14,0.02
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,15,0.13
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,16,0.05
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,17,0.1
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,18,0.15
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,19,0.35
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,20,0.23
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,21,0.34
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,22,0.39
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,23,0.35
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,24,0.48
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,25,0.53
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,26,0.53
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,27,0.51
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,28,0.66
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,29,0.52
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,30,0.55
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,31,0.62
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,32,0.57
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,33,0.59
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,34,0.65
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,35,0.62
+2023-09-04,Mandarin (Taiwanese),produces,SHIRT,衣物,36,0.69
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,8,0
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,9,0
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,10,0
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,11,0
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,12,0
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,13,0
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,14,0
+2023-09-04,Dutch,produces,SHIRT,"bloes, hemd/bloes",15,0
+2023-09-04,Dutch,produces,SHIRT,"bloes, hemd/bloes",16,0
+2023-09-04,Dutch,produces,SHIRT,"bloes, hemd/bloes",17,0
+2023-09-04,Dutch,produces,SHIRT,"bloes, hemd/bloes",18,0.04
+2023-09-04,Dutch,produces,SHIRT,"bloes, hemd/bloes",19,0.02
+2023-09-04,Dutch,produces,SHIRT,"bloes, hemd/bloes",20,0.03
+2023-09-04,Dutch,produces,SHIRT,"bloes, hemd/bloes",21,0.08
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,22,0.29
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,23,0.29
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,24,0.19
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,25,0.33
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,26,0.33
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,27,0.4
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,28,0.67
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,29,0.74
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,30,0.71
+2023-09-04,Dutch,produces,SHIRT,hemd/bloes,31,0.5
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",16,0.02
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",17,0.06
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",18,0.03
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",19,0.12
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",20,0.14
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",21,0.32
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",22,0.26
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",23,0.36
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",24,0.28
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",25,0.53
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",26,0.41
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",27,0.46
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",28,0.62
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",29,0.62
+2023-09-04,Hungarian,produces,SHIRT,"ing, póló",30,0.58
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,16,0
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,17,0.02
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,18,0.03
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,19,0.02
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,20,0.04
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,21,0.05
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,22,0.09
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,23,0.08
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,24,0.07
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,25,0.21
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,26,0.07
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,27,0.14
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,28,0.17
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,29,0.28
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,30,0.28
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,31,0
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,32,1
+2023-09-04,Spanish (Argentinian),produces,SHIRT,camisa,33,0.5
+2023-09-04,Persian,produces,SHIRT,پیراهن,8,0
+2023-09-04,Persian,produces,SHIRT,پیراهن,9,0
+2023-09-04,Persian,produces,SHIRT,پیراهن,10,0.06
+2023-09-04,Persian,produces,SHIRT,پیراهن,11,0
+2023-09-04,Persian,produces,SHIRT,پیراهن,12,0
+2023-09-04,Persian,produces,SHIRT,پیراهن,13,0
+2023-09-04,Persian,produces,SHIRT,پیراهن,14,0.07
+2023-09-04,Persian,produces,SHIRT,پیراهن,15,0
+2023-09-04,Persian,produces,SHIRT,پیراهن,16,0
+2023-09-04,Persian,produces,SHIRT,پیراهن,17,0
+2023-09-04,Persian,produces,SHIRT,پیراهن,18,0.4
+2023-09-04,Persian,produces,SHIRT,پیراهن,20,0
+2023-09-04,Persian,produces,SHIRT,پیراهن,21,0
+2023-09-04,Persian,produces,SHIRT,پیراهن,22,1
+2023-09-04,Persian,produces,SHIRT,پیراهن,23,0.67
+2023-09-04,Persian,produces,SHIRT,پیراهن,24,0.4
+2023-09-04,Persian,produces,SHIRT,پیراهن,25,0.33
+2023-09-04,Persian,produces,SHIRT,پیراهن,26,0.33
+2023-09-04,Persian,produces,SHIRT,پیراهن,27,0.4
+2023-09-04,Persian,produces,SHIRT,پیراهن,28,0.78
+2023-09-04,Persian,produces,SHIRT,پیراهن,29,1
+2023-09-04,Persian,produces,SHIRT,پیراهن,30,1

@@ -1,0 +1,646 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",16,0.25
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",17,0.24
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",18,0.36
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",19,0.33
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",20,0.49
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",21,0.49
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",22,0.49
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",23,0.55
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",24,0.6
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",25,0.59
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",26,0.64
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",27,0.59
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",28,0.67
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",29,0.72
+2023-09-04,Cantonese,produces,CAR,"車, 私家車",30,0.73
+2023-09-04,Croatian,produces,CAR,auto,8,0
+2023-09-04,Croatian,produces,CAR,auto,9,0
+2023-09-04,Croatian,produces,CAR,auto,10,0.05
+2023-09-04,Croatian,produces,CAR,auto,11,0.08
+2023-09-04,Croatian,produces,CAR,auto,12,0.03
+2023-09-04,Croatian,produces,CAR,auto,13,0.24
+2023-09-04,Croatian,produces,CAR,auto,14,0.29
+2023-09-04,Croatian,produces,CAR,auto,15,0.17
+2023-09-04,Croatian,produces,CAR,auto,16,0.55
+2023-09-04,Croatian,produces,CAR,auto,17,0.44
+2023-09-04,Croatian,produces,CAR,auto,18,0.73
+2023-09-04,Croatian,produces,CAR,auto,19,0.67
+2023-09-04,Croatian,produces,CAR,auto,20,0.73
+2023-09-04,Croatian,produces,CAR,auto,21,0.79
+2023-09-04,Croatian,produces,CAR,auto,22,0.88
+2023-09-04,Croatian,produces,CAR,auto,23,0.92
+2023-09-04,Croatian,produces,CAR,auto,24,0.97
+2023-09-04,Croatian,produces,CAR,auto,25,0.93
+2023-09-04,Croatian,produces,CAR,auto,26,1
+2023-09-04,Croatian,produces,CAR,auto,27,1
+2023-09-04,Croatian,produces,CAR,auto,28,1
+2023-09-04,Croatian,produces,CAR,auto,29,1
+2023-09-04,Croatian,produces,CAR,auto,30,1
+2023-09-04,Danish,produces,CAR,bil,8,0
+2023-09-04,Danish,produces,CAR,bil,9,0
+2023-09-04,Danish,produces,CAR,bil,10,0.01
+2023-09-04,Danish,produces,CAR,bil,11,0.01
+2023-09-04,Danish,produces,CAR,bil,12,0.03
+2023-09-04,Danish,produces,CAR,bil,13,0.03
+2023-09-04,Danish,produces,CAR,bil,14,0.05
+2023-09-04,Danish,produces,CAR,bil,15,0.1
+2023-09-04,Danish,produces,CAR,bil,16,0.19
+2023-09-04,Danish,produces,CAR,bil,17,0.3
+2023-09-04,Danish,produces,CAR,bil,18,0.46
+2023-09-04,Danish,produces,CAR,bil,19,0.53
+2023-09-04,Danish,produces,CAR,bil,20,0.71
+2023-09-04,Danish,produces,CAR,bil,21,0.81
+2023-09-04,Danish,produces,CAR,bil,22,0.84
+2023-09-04,Danish,produces,CAR,bil,23,0.88
+2023-09-04,Danish,produces,CAR,bil,24,0.93
+2023-09-04,Danish,produces,CAR,bil,25,0.95
+2023-09-04,Danish,produces,CAR,bil,26,0.96
+2023-09-04,Danish,produces,CAR,bil,27,0.96
+2023-09-04,Danish,produces,CAR,bil,28,0.96
+2023-09-04,Danish,produces,CAR,bil,29,0.97
+2023-09-04,Danish,produces,CAR,bil,30,0.99
+2023-09-04,Danish,produces,CAR,bil,31,1
+2023-09-04,Danish,produces,CAR,bil,32,0.99
+2023-09-04,Danish,produces,CAR,bil,33,0.99
+2023-09-04,Danish,produces,CAR,bil,34,1
+2023-09-04,Danish,produces,CAR,bil,35,1
+2023-09-04,Danish,produces,CAR,bil,36,1
+2023-09-04,English (American),produces,CAR,car,8,0.03
+2023-09-04,English (American),produces,CAR,car,9,0.02
+2023-09-04,English (American),produces,CAR,car,10,0.02
+2023-09-04,English (American),produces,CAR,car,11,0.04
+2023-09-04,English (American),produces,CAR,car,12,0.07
+2023-09-04,English (American),produces,CAR,car,13,0.12
+2023-09-04,English (American),produces,CAR,car,14,0.14
+2023-09-04,English (American),produces,CAR,car,15,0.24
+2023-09-04,English (American),produces,CAR,car,16,0.34
+2023-09-04,English (American),produces,CAR,car,17,0.41
+2023-09-04,English (American),produces,CAR,car,18,0.54
+2023-09-04,English (American),produces,CAR,car,19,0.67
+2023-09-04,English (American),produces,CAR,car,20,0.74
+2023-09-04,English (American),produces,CAR,car,21,0.74
+2023-09-04,English (American),produces,CAR,car,22,0.77
+2023-09-04,English (American),produces,CAR,car,23,0.82
+2023-09-04,English (American),produces,CAR,car,24,0.89
+2023-09-04,English (American),produces,CAR,car,25,0.91
+2023-09-04,English (American),produces,CAR,car,26,0.91
+2023-09-04,English (American),produces,CAR,car,27,0.93
+2023-09-04,English (American),produces,CAR,car,28,0.97
+2023-09-04,English (American),produces,CAR,car,29,0.94
+2023-09-04,English (American),produces,CAR,car,30,0.95
+2023-09-04,French (Quebecois),produces,CAR,auto,8,0
+2023-09-04,French (Quebecois),produces,CAR,auto,9,0
+2023-09-04,French (Quebecois),produces,CAR,auto,10,0.04
+2023-09-04,French (Quebecois),produces,CAR,auto,11,0
+2023-09-04,French (Quebecois),produces,CAR,auto,12,0.05
+2023-09-04,French (Quebecois),produces,CAR,auto,13,0.06
+2023-09-04,French (Quebecois),produces,CAR,auto,14,0.11
+2023-09-04,French (Quebecois),produces,CAR,auto,15,0.26
+2023-09-04,French (Quebecois),produces,CAR,auto,16,0.4
+2023-09-04,French (Quebecois),produces,CAR,auto,17,0.6
+2023-09-04,French (Quebecois),produces,CAR,auto,18,0.67
+2023-09-04,French (Quebecois),produces,CAR,auto,19,0.74
+2023-09-04,French (Quebecois),produces,CAR,auto,20,0.78
+2023-09-04,French (Quebecois),produces,CAR,auto,21,0.89
+2023-09-04,French (Quebecois),produces,CAR,auto,22,0.88
+2023-09-04,French (Quebecois),produces,CAR,auto,23,0.91
+2023-09-04,French (Quebecois),produces,CAR,auto,24,0.88
+2023-09-04,French (Quebecois),produces,CAR,auto,25,0.92
+2023-09-04,French (Quebecois),produces,CAR,auto,26,0.97
+2023-09-04,French (Quebecois),produces,CAR,auto,27,0.95
+2023-09-04,French (Quebecois),produces,CAR,auto,28,0.95
+2023-09-04,French (Quebecois),produces,CAR,auto,29,0.93
+2023-09-04,French (Quebecois),produces,CAR,auto,30,0.92
+2023-09-04,German,produces,CAR,Auto,18,0.6
+2023-09-04,German,produces,CAR,Auto,19,0.71
+2023-09-04,German,produces,CAR,Auto,20,0.72
+2023-09-04,German,produces,CAR,Auto,21,0.84
+2023-09-04,German,produces,CAR,Auto,22,0.82
+2023-09-04,German,produces,CAR,Auto,23,0.92
+2023-09-04,German,produces,CAR,Auto,24,0.91
+2023-09-04,German,produces,CAR,Auto,25,0.88
+2023-09-04,German,produces,CAR,Auto,26,0.95
+2023-09-04,German,produces,CAR,Auto,27,0.97
+2023-09-04,German,produces,CAR,Auto,28,0.97
+2023-09-04,German,produces,CAR,Auto,29,0.99
+2023-09-04,German,produces,CAR,Auto,30,1
+2023-09-04,Hebrew,produces,CAR,אוטו,11,0
+2023-09-04,Hebrew,produces,CAR,אוטו,12,0
+2023-09-04,Hebrew,produces,CAR,אוטו,13,0.25
+2023-09-04,Hebrew,produces,CAR,אוטו,14,0
+2023-09-04,Hebrew,produces,CAR,אוטו,15,0.5
+2023-09-04,Hebrew,produces,CAR,אוטו,16,0.67
+2023-09-04,Hebrew,produces,CAR,אוטו,17,0.33
+2023-09-04,Hebrew,produces,CAR,אוטו,19,1
+2023-09-04,Hebrew,produces,CAR,אוטו,20,0.78
+2023-09-04,Hebrew,produces,CAR,אוטו,21,0.5
+2023-09-04,Hebrew,produces,CAR,אוטו,22,1
+2023-09-04,Hebrew,produces,CAR,אוטו,23,0.71
+2023-09-04,Hebrew,produces,CAR,אוטו,24,0.91
+2023-09-04,Hebrew,produces,CAR,"אוטו, אוטו/ מכונית",25,0.99
+2023-09-04,Hebrew,produces,CAR,אוטו/ מכונית,26,0.96
+2023-09-04,Hebrew,produces,CAR,אוטו/ מכונית,27,0.99
+2023-09-04,Hebrew,produces,CAR,אוטו/ מכונית,28,0.98
+2023-09-04,Hebrew,produces,CAR,אוטו/ מכונית,29,0.98
+2023-09-04,Hebrew,produces,CAR,אוטו/ מכונית,30,1
+2023-09-04,Hebrew,produces,CAR,אוטו/ מכונית,31,1
+2023-09-04,Hebrew,produces,CAR,אוטו/ מכונית,32,1
+2023-09-04,Hebrew,produces,CAR,אוטו/ מכונית,33,0.9
+2023-09-04,Hebrew,produces,CAR,אוטו/ מכונית,34,1
+2023-09-04,Hebrew,produces,CAR,אוטו/ מכונית,35,0.78
+2023-09-04,Hebrew,produces,CAR,אוטו/ מכונית,36,1
+2023-09-04,Italian,produces,CAR,automobile,7,0
+2023-09-04,Italian,produces,CAR,automobile,8,0
+2023-09-04,Italian,produces,CAR,automobile,9,0.03
+2023-09-04,Italian,produces,CAR,automobile,10,0
+2023-09-04,Italian,produces,CAR,automobile,11,0
+2023-09-04,Italian,produces,CAR,automobile,12,0
+2023-09-04,Italian,produces,CAR,automobile,13,0
+2023-09-04,Italian,produces,CAR,automobile,14,0.07
+2023-09-04,Italian,produces,CAR,automobile,15,0
+2023-09-04,Italian,produces,CAR,automobile,16,0.09
+2023-09-04,Italian,produces,CAR,automobile,17,0.21
+2023-09-04,Italian,produces,CAR,automobile,18,0.15
+2023-09-04,Italian,produces,CAR,automobile,19,0.26
+2023-09-04,Italian,produces,CAR,automobile,20,0.2
+2023-09-04,Italian,produces,CAR,automobile,21,0.33
+2023-09-04,Italian,produces,CAR,automobile,22,0.42
+2023-09-04,Italian,produces,CAR,automobile,23,0.49
+2023-09-04,Italian,produces,CAR,automobile,24,0.58
+2023-09-04,Italian,produces,CAR,automobile,25,0.69
+2023-09-04,Italian,produces,CAR,automobile,26,0.61
+2023-09-04,Italian,produces,CAR,automobile,27,0.65
+2023-09-04,Italian,produces,CAR,automobile,28,0.75
+2023-09-04,Italian,produces,CAR,automobile,29,0.73
+2023-09-04,Italian,produces,CAR,automobile,30,0.78
+2023-09-04,Italian,produces,CAR,automobile,31,0.89
+2023-09-04,Italian,produces,CAR,automobile,32,0.7
+2023-09-04,Italian,produces,CAR,automobile,33,0.88
+2023-09-04,Italian,produces,CAR,automobile,34,0.79
+2023-09-04,Italian,produces,CAR,automobile,35,0.73
+2023-09-04,Italian,produces,CAR,automobile,36,0.9
+2023-09-04,Mandarin (Beijing),produces,CAR,小汽车,12,0.02
+2023-09-04,Mandarin (Beijing),produces,CAR,小汽车,13,0
+2023-09-04,Mandarin (Beijing),produces,CAR,小汽车,14,0
+2023-09-04,Mandarin (Beijing),produces,CAR,小汽车,15,0.04
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",16,0.2
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",17,0.34
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",18,0.37
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",19,0.46
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",20,0.52
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",21,0.58
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",22,0.65
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",23,0.74
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",24,0.71
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",25,0.75
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",26,0.79
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",27,0.86
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",28,0.9
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",29,0.92
+2023-09-04,Mandarin (Beijing),produces,CAR,"小汽车, 车, 小轿车",30,0.88
+2023-09-04,Norwegian,produces,CAR,bil,8,0.03
+2023-09-04,Norwegian,produces,CAR,bil,9,0.01
+2023-09-04,Norwegian,produces,CAR,bil,10,0
+2023-09-04,Norwegian,produces,CAR,bil,11,0.03
+2023-09-04,Norwegian,produces,CAR,bil,12,0.03
+2023-09-04,Norwegian,produces,CAR,bil,13,0.11
+2023-09-04,Norwegian,produces,CAR,bil,14,0.12
+2023-09-04,Norwegian,produces,CAR,bil,15,0.22
+2023-09-04,Norwegian,produces,CAR,bil,16,0.32
+2023-09-04,Norwegian,produces,CAR,bil,17,0.43
+2023-09-04,Norwegian,produces,CAR,bil,18,0.57
+2023-09-04,Norwegian,produces,CAR,bil,19,0.66
+2023-09-04,Norwegian,produces,CAR,bil,20,0.79
+2023-09-04,Norwegian,produces,CAR,bil,21,0.84
+2023-09-04,Norwegian,produces,CAR,bil,22,0.9
+2023-09-04,Norwegian,produces,CAR,bil,23,0.91
+2023-09-04,Norwegian,produces,CAR,bil,24,0.9
+2023-09-04,Norwegian,produces,CAR,bil,25,0.94
+2023-09-04,Norwegian,produces,CAR,bil,26,0.97
+2023-09-04,Norwegian,produces,CAR,bil,27,0.96
+2023-09-04,Norwegian,produces,CAR,bil,28,0.98
+2023-09-04,Norwegian,produces,CAR,bil,29,0.98
+2023-09-04,Norwegian,produces,CAR,bil,30,0.98
+2023-09-04,Norwegian,produces,CAR,bil,31,0.99
+2023-09-04,Norwegian,produces,CAR,bil,32,0.98
+2023-09-04,Norwegian,produces,CAR,bil,33,1
+2023-09-04,Norwegian,produces,CAR,bil,34,0.98
+2023-09-04,Norwegian,produces,CAR,bil,35,0.99
+2023-09-04,Norwegian,produces,CAR,bil,36,0.98
+2023-09-04,Russian,produces,CAR,машина,8,0
+2023-09-04,Russian,produces,CAR,машина,9,0
+2023-09-04,Russian,produces,CAR,машина,10,0.02
+2023-09-04,Russian,produces,CAR,машина,11,0.03
+2023-09-04,Russian,produces,CAR,машина,12,0
+2023-09-04,Russian,produces,CAR,машина,13,0.07
+2023-09-04,Russian,produces,CAR,машина,14,0.11
+2023-09-04,Russian,produces,CAR,машина,15,0.07
+2023-09-04,Russian,produces,CAR,машина,16,0.11
+2023-09-04,Russian,produces,CAR,машина,17,0.12
+2023-09-04,Russian,produces,CAR,машина,18,0.22
+2023-09-04,Russian,produces,CAR,машина,19,0.27
+2023-09-04,Russian,produces,CAR,машина,20,0.27
+2023-09-04,Russian,produces,CAR,машина,21,0.49
+2023-09-04,Russian,produces,CAR,машина,22,0.55
+2023-09-04,Russian,produces,CAR,машина,23,0.64
+2023-09-04,Russian,produces,CAR,машина,24,0.74
+2023-09-04,Russian,produces,CAR,машина,25,0.8
+2023-09-04,Russian,produces,CAR,машина,26,0.75
+2023-09-04,Russian,produces,CAR,машина,27,0.75
+2023-09-04,Russian,produces,CAR,машина,28,0.87
+2023-09-04,Russian,produces,CAR,машина,29,0.98
+2023-09-04,Russian,produces,CAR,машина,30,0.9
+2023-09-04,Russian,produces,CAR,машина,31,0.97
+2023-09-04,Russian,produces,CAR,машина,32,0.95
+2023-09-04,Russian,produces,CAR,машина,33,0.96
+2023-09-04,Russian,produces,CAR,машина,34,0.97
+2023-09-04,Russian,produces,CAR,машина,35,1
+2023-09-04,Russian,produces,CAR,машина,36,0.96
+2023-09-04,Slovak,produces,CAR,auto,8,0.04
+2023-09-04,Slovak,produces,CAR,auto,9,0.15
+2023-09-04,Slovak,produces,CAR,auto,10,0.16
+2023-09-04,Slovak,produces,CAR,auto,11,0.31
+2023-09-04,Slovak,produces,CAR,auto,12,0.39
+2023-09-04,Slovak,produces,CAR,auto,13,0.42
+2023-09-04,Slovak,produces,CAR,auto,14,0.58
+2023-09-04,Slovak,produces,CAR,auto,15,0.57
+2023-09-04,Slovak,produces,CAR,auto,16,0.65
+2023-09-04,Slovak,produces,CAR,"auto, vagón",17,0.36
+2023-09-04,Slovak,produces,CAR,"auto, vagón",18,0.45
+2023-09-04,Slovak,produces,CAR,"auto, vagón",19,0.4
+2023-09-04,Slovak,produces,CAR,"auto, vagón",20,0.53
+2023-09-04,Slovak,produces,CAR,"auto, vagón",21,0.52
+2023-09-04,Slovak,produces,CAR,"auto, vagón",22,0.53
+2023-09-04,Slovak,produces,CAR,"auto, vagón",23,0.58
+2023-09-04,Slovak,produces,CAR,"auto, vagón",24,0.65
+2023-09-04,Slovak,produces,CAR,"auto, vagón",25,0.57
+2023-09-04,Slovak,produces,CAR,"auto, vagón",26,0.72
+2023-09-04,Slovak,produces,CAR,"auto, vagón",27,0.72
+2023-09-04,Slovak,produces,CAR,"auto, vagón",28,0.67
+2023-09-04,Slovak,produces,CAR,"auto, vagón",29,0.73
+2023-09-04,Slovak,produces,CAR,"auto, vagón",30,0.77
+2023-09-04,Slovak,produces,CAR,"auto, vagón",31,0.76
+2023-09-04,Slovak,produces,CAR,"auto, vagón",32,0.8
+2023-09-04,Slovak,produces,CAR,"auto, vagón",33,0.84
+2023-09-04,Slovak,produces,CAR,"auto, vagón",34,0.69
+2023-09-04,Slovak,produces,CAR,"auto, vagón",35,0.74
+2023-09-04,Slovak,produces,CAR,"auto, vagón",36,0.81
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,8,0.03
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,9,0.03
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,10,0.01
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,11,0.03
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,12,0.12
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,13,0.12
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,14,0.09
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,15,0.21
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,16,0.35
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,17,0.4
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,18,0.39
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,19,0.64
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,20,0.64
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,21,0.69
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,22,0.69
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,23,0.69
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,24,0.8
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,25,0.72
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,26,0.8
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,27,0.91
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,28,0.8
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,29,0.87
+2023-09-04,Spanish (Mexican),produces,CAR,carro/coche,30,0.82
+2023-09-04,Swedish,produces,CAR,bil,8,0
+2023-09-04,Swedish,produces,CAR,bil,9,0
+2023-09-04,Swedish,produces,CAR,bil,10,0.02
+2023-09-04,Swedish,produces,CAR,bil,11,0
+2023-09-04,Swedish,produces,CAR,bil,12,0.1
+2023-09-04,Swedish,produces,CAR,bil,13,0
+2023-09-04,Swedish,produces,CAR,bil,14,0.14
+2023-09-04,Swedish,produces,CAR,bil,15,0.15
+2023-09-04,Swedish,produces,CAR,bil,16,0.35
+2023-09-04,Swedish,produces,CAR,bil,19,0.63
+2023-09-04,Swedish,produces,CAR,bil,22,0.84
+2023-09-04,Swedish,produces,CAR,bil,25,0.92
+2023-09-04,Swedish,produces,CAR,bil,28,0.97
+2023-09-04,Turkish,produces,CAR,Araba,8,0.01
+2023-09-04,Turkish,produces,CAR,Araba,9,0.01
+2023-09-04,Turkish,produces,CAR,Araba,10,0.05
+2023-09-04,Turkish,produces,CAR,Araba,11,0.06
+2023-09-04,Turkish,produces,CAR,Araba,12,0.09
+2023-09-04,Turkish,produces,CAR,Araba,13,0.05
+2023-09-04,Turkish,produces,CAR,Araba,14,0.12
+2023-09-04,Turkish,produces,CAR,Araba,15,0.13
+2023-09-04,Turkish,produces,CAR,Araba,16,0.29
+2023-09-04,Turkish,produces,CAR,Araba,17,0.45
+2023-09-04,Turkish,produces,CAR,Araba,18,0.5
+2023-09-04,Turkish,produces,CAR,Araba,19,0.58
+2023-09-04,Turkish,produces,CAR,Araba,20,0.59
+2023-09-04,Turkish,produces,CAR,Araba,21,0.67
+2023-09-04,Turkish,produces,CAR,Araba,22,0.67
+2023-09-04,Turkish,produces,CAR,Araba,23,0.8
+2023-09-04,Turkish,produces,CAR,Araba,24,0.78
+2023-09-04,Turkish,produces,CAR,Araba,25,0.8
+2023-09-04,Turkish,produces,CAR,Araba,26,0.85
+2023-09-04,Turkish,produces,CAR,Araba,27,0.85
+2023-09-04,Turkish,produces,CAR,Araba,28,0.9
+2023-09-04,Turkish,produces,CAR,Araba,29,0.95
+2023-09-04,Turkish,produces,CAR,Araba,30,0.94
+2023-09-04,Turkish,produces,CAR,Araba,31,0.91
+2023-09-04,Turkish,produces,CAR,Araba,32,0.92
+2023-09-04,Turkish,produces,CAR,Araba,33,0.97
+2023-09-04,Turkish,produces,CAR,Araba,34,0.98
+2023-09-04,Turkish,produces,CAR,Araba,35,0.95
+2023-09-04,Turkish,produces,CAR,Araba,36,0.97
+2023-09-04,English (British),produces,CAR,car,12,0.07
+2023-09-04,English (British),produces,CAR,car,13,0.14
+2023-09-04,English (British),produces,CAR,car,14,0.2
+2023-09-04,English (British),produces,CAR,car,15,0.24
+2023-09-04,English (British),produces,CAR,car,16,0.3
+2023-09-04,English (British),produces,CAR,car,17,0.46
+2023-09-04,English (British),produces,CAR,car,18,0.53
+2023-09-04,English (British),produces,CAR,car,19,0.7
+2023-09-04,English (British),produces,CAR,car,20,0.73
+2023-09-04,English (British),produces,CAR,car,21,0.76
+2023-09-04,English (British),produces,CAR,car,22,0.92
+2023-09-04,English (British),produces,CAR,car,23,0.91
+2023-09-04,English (British),produces,CAR,car,24,0.92
+2023-09-04,English (British),produces,CAR,car,25,0.91
+2023-09-04,English (British),produces,CAR,car,26,0.95
+2023-09-04,English (British),produces,CAR,car,27,0.92
+2023-09-04,English (British),produces,CAR,car,28,0.9
+2023-09-04,English (British),produces,CAR,car,29,0.88
+2023-09-04,English (British),produces,CAR,car,30,1
+2023-09-04,English (British),produces,CAR,car,31,1
+2023-09-04,English (British),produces,CAR,car,32,0.93
+2023-09-04,English (British),produces,CAR,car,33,0.93
+2023-09-04,English (British),produces,CAR,car,34,0.7
+2023-09-04,English (British),produces,CAR,car,35,0.8
+2023-09-04,Kigiriama,produces,CAR,"Vruum Vruum, Gari",8,0.3
+2023-09-04,Kigiriama,produces,CAR,"Vruum Vruum, Gari",9,0.02
+2023-09-04,Kigiriama,produces,CAR,"Vruum Vruum, Gari",10,0.1
+2023-09-04,Kigiriama,produces,CAR,"Vruum Vruum, Gari",11,0.21
+2023-09-04,Kigiriama,produces,CAR,"Vruum Vruum, Gari",12,0.17
+2023-09-04,Kigiriama,produces,CAR,"Vruum Vruum, Gari",13,0.25
+2023-09-04,Kigiriama,produces,CAR,"Vruum Vruum, Gari",14,0.25
+2023-09-04,Kigiriama,produces,CAR,"Vruum Vruum, Gari",15,0.28
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",16,1
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",17,0.58
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",18,0.46
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",19,0.56
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",20,0.68
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",21,0.75
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",22,0.94
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",23,0.88
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",24,0.86
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",25,1
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",26,0.92
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",27,1
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",28,0.5
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",29,1
+2023-09-04,Kigiriama,produces,CAR,"Vruum vruum, Gari",30,1
+2023-09-04,Czech,produces,CAR,auto,16,0.38
+2023-09-04,Czech,produces,CAR,auto,17,0.52
+2023-09-04,Czech,produces,CAR,auto,18,0.6
+2023-09-04,Czech,produces,CAR,auto,19,0.56
+2023-09-04,Czech,produces,CAR,auto,20,0.81
+2023-09-04,Czech,produces,CAR,auto,21,0.76
+2023-09-04,Czech,produces,CAR,auto,22,0.89
+2023-09-04,Czech,produces,CAR,auto,23,0.74
+2023-09-04,Czech,produces,CAR,auto,24,0.86
+2023-09-04,Czech,produces,CAR,auto,25,0.91
+2023-09-04,Czech,produces,CAR,auto,26,0.86
+2023-09-04,Czech,produces,CAR,auto,27,0.92
+2023-09-04,Czech,produces,CAR,auto,28,1
+2023-09-04,Czech,produces,CAR,auto,29,0.9
+2023-09-04,Czech,produces,CAR,auto,30,0.96
+2023-09-04,English (Australian),produces,CAR,car,12,0.07
+2023-09-04,English (Australian),produces,CAR,car,13,0.14
+2023-09-04,English (Australian),produces,CAR,car,14,0.38
+2023-09-04,English (Australian),produces,CAR,car,15,0.39
+2023-09-04,English (Australian),produces,CAR,car,16,0.48
+2023-09-04,English (Australian),produces,CAR,car,17,0.56
+2023-09-04,English (Australian),produces,CAR,car,18,0.72
+2023-09-04,English (Australian),produces,CAR,car,19,0.81
+2023-09-04,English (Australian),produces,CAR,car,20,0.94
+2023-09-04,English (Australian),produces,CAR,car,21,0.88
+2023-09-04,English (Australian),produces,CAR,car,22,0.96
+2023-09-04,English (Australian),produces,CAR,car,23,0.93
+2023-09-04,English (Australian),produces,CAR,car,24,0.96
+2023-09-04,English (Australian),produces,CAR,car,25,0.98
+2023-09-04,English (Australian),produces,CAR,car,26,0.96
+2023-09-04,English (Australian),produces,CAR,car,27,0.97
+2023-09-04,English (Australian),produces,CAR,car,28,0.97
+2023-09-04,English (Australian),produces,CAR,car,29,0.95
+2023-09-04,English (Australian),produces,CAR,car,30,1
+2023-09-04,Latvian,produces,CAR,mašīna,8,0
+2023-09-04,Latvian,produces,CAR,mašīna,9,0
+2023-09-04,Latvian,produces,CAR,mašīna,10,0.08
+2023-09-04,Latvian,produces,CAR,mašīna,11,0.13
+2023-09-04,Latvian,produces,CAR,mašīna,12,0.25
+2023-09-04,Latvian,produces,CAR,mašīna,13,0.14
+2023-09-04,Latvian,produces,CAR,mašīna,14,0.32
+2023-09-04,Latvian,produces,CAR,mašīna,15,0.31
+2023-09-04,Latvian,produces,CAR,mašīna,16,0.44
+2023-09-04,Latvian,produces,CAR,mašīna,17,0.33
+2023-09-04,Latvian,produces,CAR,mašīna,18,0.29
+2023-09-04,Latvian,produces,CAR,mašīna,19,0.54
+2023-09-04,Latvian,produces,CAR,mašīna,20,0.62
+2023-09-04,Latvian,produces,CAR,mašīna,21,0.69
+2023-09-04,Latvian,produces,CAR,mašīna,22,0.62
+2023-09-04,Latvian,produces,CAR,mašīna,23,0.68
+2023-09-04,Latvian,produces,CAR,mašīna,24,0.8
+2023-09-04,Latvian,produces,CAR,mašīna,25,0.9
+2023-09-04,Latvian,produces,CAR,mašīna,26,0.86
+2023-09-04,Latvian,produces,CAR,mašīna,27,0.89
+2023-09-04,Latvian,produces,CAR,mašīna,28,0.87
+2023-09-04,Latvian,produces,CAR,mašīna,29,0.92
+2023-09-04,Latvian,produces,CAR,mašīna,30,0.88
+2023-09-04,Latvian,produces,CAR,mašīna,31,1
+2023-09-04,Latvian,produces,CAR,mašīna,32,0.96
+2023-09-04,Latvian,produces,CAR,mašīna,33,0.97
+2023-09-04,Latvian,produces,CAR,mašīna,34,0.94
+2023-09-04,Latvian,produces,CAR,mašīna,35,0.95
+2023-09-04,Latvian,produces,CAR,mašīna,36,0.91
+2023-09-04,Korean,produces,CAR,차/자동차,8,0
+2023-09-04,Korean,produces,CAR,차/자동차,9,0
+2023-09-04,Korean,produces,CAR,차/자동차,10,0
+2023-09-04,Korean,produces,CAR,차/자동차,11,0.03
+2023-09-04,Korean,produces,CAR,차/자동차,12,0.06
+2023-09-04,Korean,produces,CAR,차/자동차,13,0.12
+2023-09-04,Korean,produces,CAR,차/자동차,14,0.17
+2023-09-04,Korean,produces,CAR,차/자동차,15,0.13
+2023-09-04,Korean,produces,CAR,차/자동차,16,0.22
+2023-09-04,Korean,produces,CAR,차/자동차,17,0.32
+2023-09-04,Korean,produces,CAR,차/자동차,18,0.51
+2023-09-04,Korean,produces,CAR,차/자동차,19,0.43
+2023-09-04,Korean,produces,CAR,차/자동차,20,0.57
+2023-09-04,Korean,produces,CAR,차/자동차,21,0.63
+2023-09-04,Korean,produces,CAR,차/자동차,22,0.73
+2023-09-04,Korean,produces,CAR,차/자동차,23,0.69
+2023-09-04,Korean,produces,CAR,차/자동차,24,0.77
+2023-09-04,Korean,produces,CAR,차/자동차,25,0.88
+2023-09-04,Korean,produces,CAR,차/자동차,26,0.81
+2023-09-04,Korean,produces,CAR,차/자동차,27,0.9
+2023-09-04,Korean,produces,CAR,차/자동차,28,0.9
+2023-09-04,Korean,produces,CAR,차/자동차,29,0.91
+2023-09-04,Korean,produces,CAR,차/자동차,30,0.89
+2023-09-04,Korean,produces,CAR,차/자동차,31,0.99
+2023-09-04,Korean,produces,CAR,차/자동차,32,0.9
+2023-09-04,Korean,produces,CAR,차/자동차,33,0.96
+2023-09-04,Korean,produces,CAR,차/자동차,34,0.96
+2023-09-04,Korean,produces,CAR,차/자동차,35,0.93
+2023-09-04,Korean,produces,CAR,차/자동차,36,0.97
+2023-09-04,French (French),produces,CAR,voiture,8,0.02
+2023-09-04,French (French),produces,CAR,voiture,9,0
+2023-09-04,French (French),produces,CAR,voiture,11,0
+2023-09-04,French (French),produces,CAR,voiture,12,0
+2023-09-04,French (French),produces,CAR,voiture,13,0
+2023-09-04,French (French),produces,CAR,voiture,14,0
+2023-09-04,French (French),produces,CAR,voiture,15,0
+2023-09-04,French (French),produces,CAR,voiture,16,0.1
+2023-09-04,French (French),produces,CAR,voiture,17,0.23
+2023-09-04,French (French),produces,CAR,voiture,18,0
+2023-09-04,French (French),produces,CAR,voiture,19,0.73
+2023-09-04,French (French),produces,CAR,voiture,20,0.42
+2023-09-04,French (French),produces,CAR,voiture,21,0.61
+2023-09-04,French (French),produces,CAR,voiture,22,0.66
+2023-09-04,French (French),produces,CAR,voiture,23,0.66
+2023-09-04,French (French),produces,CAR,voiture,24,0.75
+2023-09-04,French (French),produces,CAR,voiture,25,0.93
+2023-09-04,French (French),produces,CAR,voiture,26,0.84
+2023-09-04,French (French),produces,CAR,voiture,27,0.92
+2023-09-04,French (French),produces,CAR,voiture,28,0.88
+2023-09-04,French (French),produces,CAR,voiture,29,0.91
+2023-09-04,French (French),produces,CAR,voiture,30,0.93
+2023-09-04,Spanish (European),produces,CAR,coche,8,0
+2023-09-04,Spanish (European),produces,CAR,coche,9,0
+2023-09-04,Spanish (European),produces,CAR,coche,10,0
+2023-09-04,Spanish (European),produces,CAR,coche,11,0.03
+2023-09-04,Spanish (European),produces,CAR,coche,12,0.08
+2023-09-04,Spanish (European),produces,CAR,coche,13,0.03
+2023-09-04,Spanish (European),produces,CAR,coche,14,0.13
+2023-09-04,Spanish (European),produces,CAR,coche,15,0.17
+2023-09-04,Spanish (European),produces,CAR,coche,16,0.13
+2023-09-04,Spanish (European),produces,CAR,coche,17,0.18
+2023-09-04,Spanish (European),produces,CAR,coche,18,0.34
+2023-09-04,Spanish (European),produces,CAR,coche,19,0.44
+2023-09-04,Spanish (European),produces,CAR,coche,20,0.56
+2023-09-04,Spanish (European),produces,CAR,coche,21,0.61
+2023-09-04,Spanish (European),produces,CAR,coche,22,0.76
+2023-09-04,Spanish (European),produces,CAR,coche,23,0.93
+2023-09-04,Spanish (European),produces,CAR,coche,24,0.78
+2023-09-04,Spanish (European),produces,CAR,coche,25,0.89
+2023-09-04,Spanish (European),produces,CAR,coche,26,0.96
+2023-09-04,Spanish (European),produces,CAR,coche,27,1
+2023-09-04,Spanish (European),produces,CAR,coche,28,1
+2023-09-04,Spanish (European),produces,CAR,coche,29,1
+2023-09-04,Spanish (European),produces,CAR,coche,30,1
+2023-09-04,Portuguese (European),produces,CAR,Carro,8,0
+2023-09-04,Portuguese (European),produces,CAR,Carro,9,0
+2023-09-04,Portuguese (European),produces,CAR,Carro,10,0.02
+2023-09-04,Portuguese (European),produces,CAR,Carro,11,0.01
+2023-09-04,Portuguese (European),produces,CAR,Carro,12,0.03
+2023-09-04,Portuguese (European),produces,CAR,Carro,13,0.07
+2023-09-04,Portuguese (European),produces,CAR,Carro,14,0.09
+2023-09-04,Portuguese (European),produces,CAR,Carro,15,0.17
+2023-09-04,Portuguese (European),produces,CAR,Carro,16,0.26
+2023-09-04,Portuguese (European),produces,CAR,Carro,17,0.28
+2023-09-04,Portuguese (European),produces,CAR,Carro,18,0.48
+2023-09-04,Portuguese (European),produces,CAR,Carro,19,0.45
+2023-09-04,Portuguese (European),produces,CAR,Carro,20,0.68
+2023-09-04,Portuguese (European),produces,CAR,Carro,21,0.72
+2023-09-04,Portuguese (European),produces,CAR,Carro,22,0.76
+2023-09-04,Portuguese (European),produces,CAR,Carro,23,0.81
+2023-09-04,Portuguese (European),produces,CAR,Carro,24,0.8
+2023-09-04,Portuguese (European),produces,CAR,Carro,25,0.89
+2023-09-04,Portuguese (European),produces,CAR,Carro,26,0.86
+2023-09-04,Portuguese (European),produces,CAR,Carro,27,0.93
+2023-09-04,Portuguese (European),produces,CAR,Carro,28,0.92
+2023-09-04,Portuguese (European),produces,CAR,Carro,29,0.92
+2023-09-04,Portuguese (European),produces,CAR,Carro,30,0.93
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),8,0
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),9,0
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),10,0
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),11,0.04
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),12,0.06
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),13,0.13
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),14,0.2
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),15,0.31
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),16,0.36
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),17,0.64
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),18,0.67
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),19,0.82
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),20,0.82
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),21,0.91
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),22,0.91
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),23,0.93
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),24,0.97
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),25,0.95
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),26,0.98
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),27,0.96
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),28,0.99
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),29,1
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),30,1
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),31,1
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),32,0.96
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),33,1
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),34,1
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),35,0.99
+2023-09-04,Mandarin (Taiwanese),produces,CAR,汽車(車車、ㄅㄨㄅㄨ),36,1
+2023-09-04,Dutch,produces,CAR,auto,8,0
+2023-09-04,Dutch,produces,CAR,auto,9,0.01
+2023-09-04,Dutch,produces,CAR,auto,10,0.01
+2023-09-04,Dutch,produces,CAR,auto,11,0.02
+2023-09-04,Dutch,produces,CAR,auto,12,0.11
+2023-09-04,Dutch,produces,CAR,auto,13,0.22
+2023-09-04,Dutch,produces,CAR,auto,14,0.07
+2023-09-04,Dutch,produces,CAR,auto,15,0.26
+2023-09-04,Dutch,produces,CAR,auto,16,0.35
+2023-09-04,Dutch,produces,CAR,auto,17,0.6
+2023-09-04,Dutch,produces,CAR,auto,18,0.53
+2023-09-04,Dutch,produces,CAR,auto,19,0.55
+2023-09-04,Dutch,produces,CAR,auto,20,0.78
+2023-09-04,Dutch,produces,CAR,auto,21,0.86
+2023-09-04,Dutch,produces,CAR,auto,22,0.86
+2023-09-04,Dutch,produces,CAR,auto,23,0.98
+2023-09-04,Dutch,produces,CAR,auto,24,0.95
+2023-09-04,Dutch,produces,CAR,auto,25,1
+2023-09-04,Dutch,produces,CAR,auto,26,0.86
+2023-09-04,Dutch,produces,CAR,auto,27,1
+2023-09-04,Dutch,produces,CAR,auto,28,0.87
+2023-09-04,Dutch,produces,CAR,auto,29,1
+2023-09-04,Dutch,produces,CAR,auto,30,1
+2023-09-04,Dutch,produces,CAR,auto,31,1
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",16,0.29
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",17,0.39
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",18,0.31
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",19,0.58
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",20,0.56
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",21,0.67
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",22,0.63
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",23,0.72
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",24,0.75
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",25,0.81
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",26,0.72
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",27,0.71
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",28,0.82
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",29,0.79
+2023-09-04,Hungarian,produces,CAR,"autó, kocsi",30,0.72
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,16,0.47
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,17,0.47
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,18,0.47
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,19,0.57
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,20,0.54
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,21,0.8
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,22,0.72
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,23,0.76
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,24,0.75
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,25,0.79
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,26,0.84
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,27,0.86
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,28,0.83
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,29,0.89
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,30,0.91
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,31,0.5
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,32,1
+2023-09-04,Spanish (Argentinian),produces,CAR,auto,33,0.5

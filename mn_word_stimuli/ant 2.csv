@@ -1,0 +1,480 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,16,0.02
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,17,0.07
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,18,0.06
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,19,0.11
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,20,0.11
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,21,0.16
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,22,0.26
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,23,0.26
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,24,0.32
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,25,0.4
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,26,0.44
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,27,0.69
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,28,0.56
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,29,0.64
+2023-09-04,Cantonese,produces,ANT,(螞)蟻,30,0.7
+2023-09-04,Croatian,produces,ANT,mrav,16,0
+2023-09-04,Croatian,produces,ANT,mrav,17,0.08
+2023-09-04,Croatian,produces,ANT,mrav,18,0.32
+2023-09-04,Croatian,produces,ANT,mrav,19,0.1
+2023-09-04,Croatian,produces,ANT,mrav,20,0.27
+2023-09-04,Croatian,produces,ANT,mrav,21,0.24
+2023-09-04,Croatian,produces,ANT,mrav,22,0.42
+2023-09-04,Croatian,produces,ANT,mrav,23,0.42
+2023-09-04,Croatian,produces,ANT,mrav,24,0.53
+2023-09-04,Croatian,produces,ANT,mrav,25,0.4
+2023-09-04,Croatian,produces,ANT,mrav,26,0.59
+2023-09-04,Croatian,produces,ANT,mrav,27,0.8
+2023-09-04,Croatian,produces,ANT,mrav,28,0.67
+2023-09-04,Croatian,produces,ANT,mrav,29,0.54
+2023-09-04,Croatian,produces,ANT,mrav,30,0.75
+2023-09-04,Danish,produces,ANT,myre,16,0.02
+2023-09-04,Danish,produces,ANT,myre,17,0.03
+2023-09-04,Danish,produces,ANT,myre,18,0.07
+2023-09-04,Danish,produces,ANT,myre,19,0.07
+2023-09-04,Danish,produces,ANT,myre,20,0.18
+2023-09-04,Danish,produces,ANT,myre,21,0.21
+2023-09-04,Danish,produces,ANT,myre,22,0.3
+2023-09-04,Danish,produces,ANT,myre,23,0.37
+2023-09-04,Danish,produces,ANT,myre,24,0.5
+2023-09-04,Danish,produces,ANT,myre,25,0.55
+2023-09-04,Danish,produces,ANT,myre,26,0.62
+2023-09-04,Danish,produces,ANT,myre,27,0.65
+2023-09-04,Danish,produces,ANT,myre,28,0.77
+2023-09-04,Danish,produces,ANT,myre,29,0.77
+2023-09-04,Danish,produces,ANT,myre,30,0.8
+2023-09-04,Danish,produces,ANT,myre,31,0.78
+2023-09-04,Danish,produces,ANT,myre,32,0.83
+2023-09-04,Danish,produces,ANT,myre,33,0.83
+2023-09-04,Danish,produces,ANT,myre,34,0.82
+2023-09-04,Danish,produces,ANT,myre,35,0.9
+2023-09-04,Danish,produces,ANT,myre,36,0.9
+2023-09-04,English (American),produces,ANT,ant,16,0.04
+2023-09-04,English (American),produces,ANT,ant,17,0.06
+2023-09-04,English (American),produces,ANT,ant,18,0.1
+2023-09-04,English (American),produces,ANT,ant,19,0.18
+2023-09-04,English (American),produces,ANT,ant,20,0.21
+2023-09-04,English (American),produces,ANT,ant,21,0.23
+2023-09-04,English (American),produces,ANT,ant,22,0.26
+2023-09-04,English (American),produces,ANT,ant,23,0.37
+2023-09-04,English (American),produces,ANT,ant,24,0.43
+2023-09-04,English (American),produces,ANT,ant,25,0.49
+2023-09-04,English (American),produces,ANT,ant,26,0.51
+2023-09-04,English (American),produces,ANT,ant,27,0.54
+2023-09-04,English (American),produces,ANT,ant,28,0.74
+2023-09-04,English (American),produces,ANT,ant,29,0.63
+2023-09-04,English (American),produces,ANT,ant,30,0.66
+2023-09-04,French (Quebecois),produces,ANT,fourmi,16,0
+2023-09-04,French (Quebecois),produces,ANT,fourmi,17,0.08
+2023-09-04,French (Quebecois),produces,ANT,fourmi,18,0.07
+2023-09-04,French (Quebecois),produces,ANT,fourmi,19,0.22
+2023-09-04,French (Quebecois),produces,ANT,fourmi,20,0.16
+2023-09-04,French (Quebecois),produces,ANT,fourmi,21,0.36
+2023-09-04,French (Quebecois),produces,ANT,fourmi,22,0.38
+2023-09-04,French (Quebecois),produces,ANT,fourmi,23,0.39
+2023-09-04,French (Quebecois),produces,ANT,fourmi,24,0.41
+2023-09-04,French (Quebecois),produces,ANT,fourmi,25,0.54
+2023-09-04,French (Quebecois),produces,ANT,fourmi,26,0.66
+2023-09-04,French (Quebecois),produces,ANT,fourmi,27,0.75
+2023-09-04,French (Quebecois),produces,ANT,fourmi,28,0.81
+2023-09-04,French (Quebecois),produces,ANT,fourmi,29,0.71
+2023-09-04,French (Quebecois),produces,ANT,fourmi,30,0.73
+2023-09-04,German,produces,ANT,Ameise,18,0.06
+2023-09-04,German,produces,ANT,Ameise,19,0.13
+2023-09-04,German,produces,ANT,Ameise,20,0.12
+2023-09-04,German,produces,ANT,Ameise,21,0.22
+2023-09-04,German,produces,ANT,Ameise,22,0.22
+2023-09-04,German,produces,ANT,Ameise,23,0.31
+2023-09-04,German,produces,ANT,Ameise,24,0.37
+2023-09-04,German,produces,ANT,Ameise,25,0.49
+2023-09-04,German,produces,ANT,Ameise,26,0.52
+2023-09-04,German,produces,ANT,Ameise,27,0.51
+2023-09-04,German,produces,ANT,Ameise,28,0.55
+2023-09-04,German,produces,ANT,Ameise,29,0.65
+2023-09-04,German,produces,ANT,Ameise,30,0.75
+2023-09-04,Hebrew,produces,ANT,נמלה,25,0.61
+2023-09-04,Hebrew,produces,ANT,נמלה,26,0.71
+2023-09-04,Hebrew,produces,ANT,נמלה,27,0.68
+2023-09-04,Hebrew,produces,ANT,נמלה,28,0.86
+2023-09-04,Hebrew,produces,ANT,נמלה,29,0.74
+2023-09-04,Hebrew,produces,ANT,נמלה,30,0.79
+2023-09-04,Hebrew,produces,ANT,נמלה,31,0.91
+2023-09-04,Hebrew,produces,ANT,נמלה,32,0.83
+2023-09-04,Hebrew,produces,ANT,נמלה,33,0.81
+2023-09-04,Hebrew,produces,ANT,נמלה,34,0.93
+2023-09-04,Hebrew,produces,ANT,נמלה,35,0.78
+2023-09-04,Hebrew,produces,ANT,נמלה,36,0.6
+2023-09-04,Italian,produces,ANT,formica,7,0
+2023-09-04,Italian,produces,ANT,formica,8,0
+2023-09-04,Italian,produces,ANT,formica,9,0
+2023-09-04,Italian,produces,ANT,formica,10,0
+2023-09-04,Italian,produces,ANT,formica,11,0
+2023-09-04,Italian,produces,ANT,formica,12,0
+2023-09-04,Italian,produces,ANT,formica,13,0
+2023-09-04,Italian,produces,ANT,formica,14,0
+2023-09-04,Italian,produces,ANT,formica,15,0
+2023-09-04,Italian,produces,ANT,formica,16,0
+2023-09-04,Italian,produces,ANT,formica,17,0.1
+2023-09-04,Italian,produces,ANT,formica,18,0.07
+2023-09-04,Italian,produces,ANT,formica,19,0.14
+2023-09-04,Italian,produces,ANT,formica,20,0.07
+2023-09-04,Italian,produces,ANT,formica,21,0.19
+2023-09-04,Italian,produces,ANT,formica,22,0.31
+2023-09-04,Italian,produces,ANT,formica,23,0.39
+2023-09-04,Italian,produces,ANT,formica,24,0.45
+2023-09-04,Italian,produces,ANT,formica,25,0.59
+2023-09-04,Italian,produces,ANT,formica,26,0.63
+2023-09-04,Italian,produces,ANT,formica,27,0.6
+2023-09-04,Italian,produces,ANT,formica,28,0.64
+2023-09-04,Italian,produces,ANT,formica,29,0.76
+2023-09-04,Italian,produces,ANT,formica,30,0.81
+2023-09-04,Italian,produces,ANT,formica,31,0.84
+2023-09-04,Italian,produces,ANT,formica,32,0.91
+2023-09-04,Italian,produces,ANT,formica,33,0.88
+2023-09-04,Italian,produces,ANT,formica,34,1
+2023-09-04,Italian,produces,ANT,formica,35,0.93
+2023-09-04,Italian,produces,ANT,formica,36,0.9
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,16,0.03
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,17,0.14
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,18,0.27
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,19,0.26
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,20,0.39
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,21,0.39
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,22,0.53
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,23,0.67
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,24,0.64
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,25,0.77
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,26,0.7
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,27,0.81
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,28,0.78
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,29,0.86
+2023-09-04,Mandarin (Beijing),produces,ANT,蚂蚁,30,0.93
+2023-09-04,Norwegian,produces,ANT,maur,16,0.01
+2023-09-04,Norwegian,produces,ANT,maur,17,0
+2023-09-04,Norwegian,produces,ANT,maur,18,0.02
+2023-09-04,Norwegian,produces,ANT,maur,19,0.03
+2023-09-04,Norwegian,produces,ANT,maur,20,0.07
+2023-09-04,Norwegian,produces,ANT,maur,21,0.09
+2023-09-04,Norwegian,produces,ANT,maur,22,0.13
+2023-09-04,Norwegian,produces,ANT,maur,23,0.2
+2023-09-04,Norwegian,produces,ANT,maur,24,0.26
+2023-09-04,Norwegian,produces,ANT,maur,25,0.35
+2023-09-04,Norwegian,produces,ANT,maur,26,0.47
+2023-09-04,Norwegian,produces,ANT,maur,27,0.52
+2023-09-04,Norwegian,produces,ANT,maur,28,0.56
+2023-09-04,Norwegian,produces,ANT,maur,29,0.58
+2023-09-04,Norwegian,produces,ANT,maur,30,0.63
+2023-09-04,Norwegian,produces,ANT,maur,31,0.66
+2023-09-04,Norwegian,produces,ANT,maur,32,0.76
+2023-09-04,Norwegian,produces,ANT,maur,33,0.74
+2023-09-04,Norwegian,produces,ANT,maur,34,0.77
+2023-09-04,Norwegian,produces,ANT,maur,35,0.83
+2023-09-04,Norwegian,produces,ANT,maur,36,0.8
+2023-09-04,Slovak,produces,ANT,mravec,17,0.07
+2023-09-04,Slovak,produces,ANT,mravec,18,0.11
+2023-09-04,Slovak,produces,ANT,mravec,19,0.18
+2023-09-04,Slovak,produces,ANT,mravec,20,0.31
+2023-09-04,Slovak,produces,ANT,mravec,21,0.31
+2023-09-04,Slovak,produces,ANT,mravec,22,0.43
+2023-09-04,Slovak,produces,ANT,mravec,23,0.44
+2023-09-04,Slovak,produces,ANT,mravec,24,0.63
+2023-09-04,Slovak,produces,ANT,mravec,25,0.61
+2023-09-04,Slovak,produces,ANT,mravec,26,0.74
+2023-09-04,Slovak,produces,ANT,mravec,27,0.74
+2023-09-04,Slovak,produces,ANT,mravec,28,0.62
+2023-09-04,Slovak,produces,ANT,mravec,29,0.65
+2023-09-04,Slovak,produces,ANT,mravec,30,0.73
+2023-09-04,Slovak,produces,ANT,mravec,31,0.55
+2023-09-04,Slovak,produces,ANT,mravec,32,0.88
+2023-09-04,Slovak,produces,ANT,mravec,33,0.91
+2023-09-04,Slovak,produces,ANT,mravec,34,0.78
+2023-09-04,Slovak,produces,ANT,mravec,35,0.81
+2023-09-04,Slovak,produces,ANT,mravec,36,0.88
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,8,0.03
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,9,0
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,10,0
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,11,0.01
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,12,0.01
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,13,0.02
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,14,0.01
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,15,0.02
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,16,0.14
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,17,0.14
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,18,0.17
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,19,0.25
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,20,0.34
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,21,0.3
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,22,0.35
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,23,0.36
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,24,0.43
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,25,0.45
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,26,0.54
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,27,0.66
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,28,0.63
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,29,0.64
+2023-09-04,Spanish (Mexican),produces,ANT,hormiga,30,0.56
+2023-09-04,Turkish,produces,ANT,Karınca,16,0.01
+2023-09-04,Turkish,produces,ANT,Karınca,17,0.09
+2023-09-04,Turkish,produces,ANT,Karınca,18,0.05
+2023-09-04,Turkish,produces,ANT,Karınca,19,0.09
+2023-09-04,Turkish,produces,ANT,Karınca,20,0.16
+2023-09-04,Turkish,produces,ANT,Karınca,21,0.21
+2023-09-04,Turkish,produces,ANT,Karınca,22,0.23
+2023-09-04,Turkish,produces,ANT,Karınca,23,0.32
+2023-09-04,Turkish,produces,ANT,Karınca,24,0.32
+2023-09-04,Turkish,produces,ANT,Karınca,25,0.37
+2023-09-04,Turkish,produces,ANT,Karınca,26,0.45
+2023-09-04,Turkish,produces,ANT,Karınca,27,0.54
+2023-09-04,Turkish,produces,ANT,Karınca,28,0.56
+2023-09-04,Turkish,produces,ANT,Karınca,29,0.66
+2023-09-04,Turkish,produces,ANT,Karınca,30,0.68
+2023-09-04,Turkish,produces,ANT,Karınca,31,0.6
+2023-09-04,Turkish,produces,ANT,Karınca,32,0.74
+2023-09-04,Turkish,produces,ANT,Karınca,33,0.75
+2023-09-04,Turkish,produces,ANT,Karınca,34,0.8
+2023-09-04,Turkish,produces,ANT,Karınca,35,0.76
+2023-09-04,Turkish,produces,ANT,Karınca,36,0.9
+2023-09-04,Czech,produces,ANT,mravenec,16,0.03
+2023-09-04,Czech,produces,ANT,mravenec,17,0.03
+2023-09-04,Czech,produces,ANT,mravenec,18,0
+2023-09-04,Czech,produces,ANT,mravenec,19,0.04
+2023-09-04,Czech,produces,ANT,mravenec,20,0.15
+2023-09-04,Czech,produces,ANT,mravenec,21,0.09
+2023-09-04,Czech,produces,ANT,mravenec,22,0.25
+2023-09-04,Czech,produces,ANT,mravenec,23,0.33
+2023-09-04,Czech,produces,ANT,mravenec,24,0.34
+2023-09-04,Czech,produces,ANT,mravenec,25,0.4
+2023-09-04,Czech,produces,ANT,mravenec,26,0.59
+2023-09-04,Czech,produces,ANT,mravenec,27,0.51
+2023-09-04,Czech,produces,ANT,mravenec,28,0.77
+2023-09-04,Czech,produces,ANT,mravenec,29,0.49
+2023-09-04,Czech,produces,ANT,mravenec,30,0.67
+2023-09-04,English (Australian),produces,ANT,ant,12,0
+2023-09-04,English (Australian),produces,ANT,ant,13,0
+2023-09-04,English (Australian),produces,ANT,ant,14,0.02
+2023-09-04,English (Australian),produces,ANT,ant,15,0.03
+2023-09-04,English (Australian),produces,ANT,ant,16,0.03
+2023-09-04,English (Australian),produces,ANT,ant,17,0.08
+2023-09-04,English (Australian),produces,ANT,ant,18,0.06
+2023-09-04,English (Australian),produces,ANT,ant,19,0.15
+2023-09-04,English (Australian),produces,ANT,ant,20,0.17
+2023-09-04,English (Australian),produces,ANT,ant,21,0.13
+2023-09-04,English (Australian),produces,ANT,ant,22,0.41
+2023-09-04,English (Australian),produces,ANT,ant,23,0.39
+2023-09-04,English (Australian),produces,ANT,ant,24,0.41
+2023-09-04,English (Australian),produces,ANT,ant,25,0.49
+2023-09-04,English (Australian),produces,ANT,ant,26,0.52
+2023-09-04,English (Australian),produces,ANT,ant,27,0.69
+2023-09-04,English (Australian),produces,ANT,ant,28,0.54
+2023-09-04,English (Australian),produces,ANT,ant,29,0.63
+2023-09-04,English (Australian),produces,ANT,ant,30,0.83
+2023-09-04,Latvian,produces,ANT,skudra,8,0
+2023-09-04,Latvian,produces,ANT,skudra,9,0
+2023-09-04,Latvian,produces,ANT,skudra,10,0
+2023-09-04,Latvian,produces,ANT,skudra,11,0
+2023-09-04,Latvian,produces,ANT,skudra,12,0.06
+2023-09-04,Latvian,produces,ANT,skudra,13,0
+2023-09-04,Latvian,produces,ANT,skudra,14,0.04
+2023-09-04,Latvian,produces,ANT,skudra,15,0.07
+2023-09-04,Latvian,produces,ANT,skudra,16,0
+2023-09-04,Latvian,produces,ANT,skudra,17,0.04
+2023-09-04,Latvian,produces,ANT,skudra,18,0.05
+2023-09-04,Latvian,produces,ANT,skudra,19,0.11
+2023-09-04,Latvian,produces,ANT,skudra,20,0.18
+2023-09-04,Latvian,produces,ANT,skudra,21,0.27
+2023-09-04,Latvian,produces,ANT,skudra,22,0.16
+2023-09-04,Latvian,produces,ANT,skudra,23,0.32
+2023-09-04,Latvian,produces,ANT,skudra,24,0.57
+2023-09-04,Latvian,produces,ANT,skudra,25,0.38
+2023-09-04,Latvian,produces,ANT,skudra,26,0.5
+2023-09-04,Latvian,produces,ANT,skudra,27,0.5
+2023-09-04,Latvian,produces,ANT,skudra,28,0.57
+2023-09-04,Latvian,produces,ANT,skudra,29,0.54
+2023-09-04,Latvian,produces,ANT,skudra,30,0.73
+2023-09-04,Latvian,produces,ANT,skudra,31,0.58
+2023-09-04,Latvian,produces,ANT,skudra,32,0.56
+2023-09-04,Latvian,produces,ANT,skudra,33,0.68
+2023-09-04,Latvian,produces,ANT,skudra,34,0.76
+2023-09-04,Latvian,produces,ANT,skudra,35,0.62
+2023-09-04,Latvian,produces,ANT,skudra,36,0.59
+2023-09-04,Korean,produces,ANT,개미,18,0.06
+2023-09-04,Korean,produces,ANT,개미,19,0.12
+2023-09-04,Korean,produces,ANT,개미,20,0.12
+2023-09-04,Korean,produces,ANT,개미,21,0.32
+2023-09-04,Korean,produces,ANT,개미,22,0.31
+2023-09-04,Korean,produces,ANT,개미,23,0.3
+2023-09-04,Korean,produces,ANT,개미,24,0.43
+2023-09-04,Korean,produces,ANT,개미,25,0.55
+2023-09-04,Korean,produces,ANT,개미,26,0.63
+2023-09-04,Korean,produces,ANT,개미,27,0.62
+2023-09-04,Korean,produces,ANT,개미,28,0.69
+2023-09-04,Korean,produces,ANT,개미,29,0.79
+2023-09-04,Korean,produces,ANT,개미,30,0.76
+2023-09-04,Korean,produces,ANT,개미,31,0.81
+2023-09-04,Korean,produces,ANT,개미,32,0.85
+2023-09-04,Korean,produces,ANT,개미,33,0.88
+2023-09-04,Korean,produces,ANT,개미,34,0.82
+2023-09-04,Korean,produces,ANT,개미,35,0.88
+2023-09-04,Korean,produces,ANT,개미,36,0.93
+2023-09-04,French (French),produces,ANT,fourmi,8,0
+2023-09-04,French (French),produces,ANT,fourmi,9,0
+2023-09-04,French (French),produces,ANT,fourmi,11,0
+2023-09-04,French (French),produces,ANT,fourmi,12,0
+2023-09-04,French (French),produces,ANT,fourmi,13,0
+2023-09-04,French (French),produces,ANT,fourmi,14,0
+2023-09-04,French (French),produces,ANT,fourmi,15,0
+2023-09-04,French (French),produces,ANT,fourmi,16,0.01
+2023-09-04,French (French),produces,ANT,fourmi,17,0
+2023-09-04,French (French),produces,ANT,fourmi,18,0
+2023-09-04,French (French),produces,ANT,fourmi,19,0
+2023-09-04,French (French),produces,ANT,fourmi,20,0.07
+2023-09-04,French (French),produces,ANT,fourmi,21,0.16
+2023-09-04,French (French),produces,ANT,fourmi,22,0.24
+2023-09-04,French (French),produces,ANT,fourmi,23,0.31
+2023-09-04,French (French),produces,ANT,fourmi,24,0.29
+2023-09-04,French (French),produces,ANT,fourmi,25,0.43
+2023-09-04,French (French),produces,ANT,fourmi,26,0.47
+2023-09-04,French (French),produces,ANT,fourmi,27,0.42
+2023-09-04,French (French),produces,ANT,fourmi,28,0.59
+2023-09-04,French (French),produces,ANT,fourmi,29,0.71
+2023-09-04,French (French),produces,ANT,fourmi,30,0.62
+2023-09-04,Spanish (European),produces,ANT,hormiga,8,0
+2023-09-04,Spanish (European),produces,ANT,hormiga,9,0
+2023-09-04,Spanish (European),produces,ANT,hormiga,10,0
+2023-09-04,Spanish (European),produces,ANT,hormiga,11,0
+2023-09-04,Spanish (European),produces,ANT,hormiga,12,0
+2023-09-04,Spanish (European),produces,ANT,hormiga,13,0
+2023-09-04,Spanish (European),produces,ANT,hormiga,14,0
+2023-09-04,Spanish (European),produces,ANT,hormiga,15,0.05
+2023-09-04,Spanish (European),produces,ANT,hormiga,16,0.03
+2023-09-04,Spanish (European),produces,ANT,hormiga,17,0.03
+2023-09-04,Spanish (European),produces,ANT,hormiga,18,0.08
+2023-09-04,Spanish (European),produces,ANT,hormiga,19,0.04
+2023-09-04,Spanish (European),produces,ANT,hormiga,20,0.19
+2023-09-04,Spanish (European),produces,ANT,hormiga,21,0.22
+2023-09-04,Spanish (European),produces,ANT,hormiga,22,0.26
+2023-09-04,Spanish (European),produces,ANT,hormiga,23,0.33
+2023-09-04,Spanish (European),produces,ANT,hormiga,24,0.4
+2023-09-04,Spanish (European),produces,ANT,hormiga,25,0.4
+2023-09-04,Spanish (European),produces,ANT,hormiga,26,0.51
+2023-09-04,Spanish (European),produces,ANT,hormiga,27,0.71
+2023-09-04,Spanish (European),produces,ANT,hormiga,28,0.63
+2023-09-04,Spanish (European),produces,ANT,hormiga,29,0.78
+2023-09-04,Spanish (European),produces,ANT,hormiga,30,0.68
+2023-09-04,Portuguese (European),produces,ANT,Formiga,16,0.01
+2023-09-04,Portuguese (European),produces,ANT,Formiga,17,0.01
+2023-09-04,Portuguese (European),produces,ANT,Formiga,18,0.02
+2023-09-04,Portuguese (European),produces,ANT,Formiga,19,0.04
+2023-09-04,Portuguese (European),produces,ANT,Formiga,20,0.07
+2023-09-04,Portuguese (European),produces,ANT,Formiga,21,0.09
+2023-09-04,Portuguese (European),produces,ANT,Formiga,22,0.17
+2023-09-04,Portuguese (European),produces,ANT,Formiga,23,0.2
+2023-09-04,Portuguese (European),produces,ANT,Formiga,24,0.22
+2023-09-04,Portuguese (European),produces,ANT,Formiga,25,0.37
+2023-09-04,Portuguese (European),produces,ANT,Formiga,26,0.37
+2023-09-04,Portuguese (European),produces,ANT,Formiga,27,0.46
+2023-09-04,Portuguese (European),produces,ANT,Formiga,28,0.46
+2023-09-04,Portuguese (European),produces,ANT,Formiga,29,0.57
+2023-09-04,Portuguese (European),produces,ANT,Formiga,30,0.56
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,8,0
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,9,0
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,10,0
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,11,0
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,12,0
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,13,0.01
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,14,0.02
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,15,0.04
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,16,0.02
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,17,0.09
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,18,0.18
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,19,0.26
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,20,0.17
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,21,0.3
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,22,0.38
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,23,0.52
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,24,0.52
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,25,0.61
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,26,0.62
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,27,0.65
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,28,0.78
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,29,0.82
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,30,0.68
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,31,0.83
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,32,0.82
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,33,0.87
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,34,0.83
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,35,0.94
+2023-09-04,Mandarin (Taiwanese),produces,ANT,螞蟻,36,0.93
+2023-09-04,Dutch,produces,ANT,mier,15,0
+2023-09-04,Dutch,produces,ANT,mier,16,0
+2023-09-04,Dutch,produces,ANT,mier,17,0.02
+2023-09-04,Dutch,produces,ANT,mier,18,0.07
+2023-09-04,Dutch,produces,ANT,mier,19,0.28
+2023-09-04,Dutch,produces,ANT,mier,20,0.33
+2023-09-04,Dutch,produces,ANT,mier,21,0
+2023-09-04,Dutch,produces,ANT,mier,22,0.43
+2023-09-04,Dutch,produces,ANT,mier,23,0.37
+2023-09-04,Dutch,produces,ANT,mier,24,0.35
+2023-09-04,Dutch,produces,ANT,mier,25,0.5
+2023-09-04,Dutch,produces,ANT,mier,26,0.5
+2023-09-04,Dutch,produces,ANT,mier,27,0.8
+2023-09-04,Dutch,produces,ANT,mier,28,1
+2023-09-04,Dutch,produces,ANT,mier,29,0.74
+2023-09-04,Dutch,produces,ANT,mier,30,0.79
+2023-09-04,Dutch,produces,ANT,mier,31,1
+2023-09-04,Hungarian,produces,ANT,hangya,16,0
+2023-09-04,Hungarian,produces,ANT,hangya,17,0.22
+2023-09-04,Hungarian,produces,ANT,hangya,18,0.06
+2023-09-04,Hungarian,produces,ANT,hangya,19,0.35
+2023-09-04,Hungarian,produces,ANT,hangya,20,0.22
+2023-09-04,Hungarian,produces,ANT,hangya,21,0.39
+2023-09-04,Hungarian,produces,ANT,hangya,22,0.41
+2023-09-04,Hungarian,produces,ANT,hangya,23,0.44
+2023-09-04,Hungarian,produces,ANT,hangya,24,0.45
+2023-09-04,Hungarian,produces,ANT,hangya,25,0.6
+2023-09-04,Hungarian,produces,ANT,hangya,26,0.57
+2023-09-04,Hungarian,produces,ANT,hangya,27,0.65
+2023-09-04,Hungarian,produces,ANT,hangya,28,0.6
+2023-09-04,Hungarian,produces,ANT,hangya,29,0.83
+2023-09-04,Hungarian,produces,ANT,hangya,30,0.67
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,16,0.06
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,17,0.1
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,18,0.08
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,19,0.02
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,20,0.11
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,21,0.12
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,22,0.23
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,23,0.29
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,24,0.28
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,25,0.47
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,26,0.22
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,27,0.45
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,28,0.31
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,29,0.43
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,30,0.61
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,31,0.5
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,32,1
+2023-09-04,Spanish (Argentinian),produces,ANT,hormiga,33,0.5
+2023-09-04,Persian,produces,ANT,مورچه,8,0
+2023-09-04,Persian,produces,ANT,مورچه,9,0
+2023-09-04,Persian,produces,ANT,مورچه,10,0
+2023-09-04,Persian,produces,ANT,مورچه,11,0
+2023-09-04,Persian,produces,ANT,مورچه,12,0
+2023-09-04,Persian,produces,ANT,مورچه,13,0
+2023-09-04,Persian,produces,ANT,مورچه,14,0.13
+2023-09-04,Persian,produces,ANT,مورچه,15,0.08
+2023-09-04,Persian,produces,ANT,مورچه,16,0
+2023-09-04,Persian,produces,ANT,مورچه,17,0
+2023-09-04,Persian,produces,ANT,مورچه,18,0.6
+2023-09-04,Persian,produces,ANT,مورچه,20,0.67
+2023-09-04,Persian,produces,ANT,مورچه,21,0
+2023-09-04,Persian,produces,ANT,مورچه,22,1
+2023-09-04,Persian,produces,ANT,مورچه,23,0.67
+2023-09-04,Persian,produces,ANT,مورچه,24,0.9
+2023-09-04,Persian,produces,ANT,مورچه,25,0.67
+2023-09-04,Persian,produces,ANT,مورچه,26,1
+2023-09-04,Persian,produces,ANT,مورچه,27,0.8
+2023-09-04,Persian,produces,ANT,مورچه,28,0.89
+2023-09-04,Persian,produces,ANT,مورچه,29,1
+2023-09-04,Persian,produces,ANT,مورچه,30,1

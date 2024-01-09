@@ -1,0 +1,202 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Danish,produces,JAR,krukke,16,0
+2023-09-04,Danish,produces,JAR,krukke,17,0
+2023-09-04,Danish,produces,JAR,krukke,18,0.01
+2023-09-04,Danish,produces,JAR,krukke,19,0.01
+2023-09-04,Danish,produces,JAR,krukke,20,0.01
+2023-09-04,Danish,produces,JAR,krukke,21,0.03
+2023-09-04,Danish,produces,JAR,krukke,22,0.01
+2023-09-04,Danish,produces,JAR,krukke,23,0.04
+2023-09-04,Danish,produces,JAR,krukke,24,0.05
+2023-09-04,Danish,produces,JAR,krukke,25,0.06
+2023-09-04,Danish,produces,JAR,krukke,26,0.14
+2023-09-04,Danish,produces,JAR,krukke,27,0.16
+2023-09-04,Danish,produces,JAR,krukke,28,0.13
+2023-09-04,Danish,produces,JAR,krukke,29,0.21
+2023-09-04,Danish,produces,JAR,krukke,30,0.23
+2023-09-04,Danish,produces,JAR,krukke,31,0.21
+2023-09-04,Danish,produces,JAR,krukke,32,0.28
+2023-09-04,Danish,produces,JAR,krukke,33,0.4
+2023-09-04,Danish,produces,JAR,krukke,34,0.34
+2023-09-04,Danish,produces,JAR,krukke,35,0.36
+2023-09-04,Danish,produces,JAR,krukke,36,0.37
+2023-09-04,English (American),produces,JAR,jar,16,0.07
+2023-09-04,English (American),produces,JAR,jar,17,0.08
+2023-09-04,English (American),produces,JAR,jar,18,0.09
+2023-09-04,English (American),produces,JAR,jar,19,0.14
+2023-09-04,English (American),produces,JAR,jar,20,0.18
+2023-09-04,English (American),produces,JAR,jar,21,0.18
+2023-09-04,English (American),produces,JAR,jar,22,0.23
+2023-09-04,English (American),produces,JAR,jar,23,0.26
+2023-09-04,English (American),produces,JAR,jar,24,0.24
+2023-09-04,English (American),produces,JAR,jar,25,0.26
+2023-09-04,English (American),produces,JAR,jar,26,0.29
+2023-09-04,English (American),produces,JAR,jar,27,0.33
+2023-09-04,English (American),produces,JAR,jar,28,0.41
+2023-09-04,English (American),produces,JAR,jar,29,0.41
+2023-09-04,English (American),produces,JAR,jar,30,0.41
+2023-09-04,Norwegian,produces,JAR,krukke,16,0
+2023-09-04,Norwegian,produces,JAR,krukke,17,0
+2023-09-04,Norwegian,produces,JAR,krukke,18,0
+2023-09-04,Norwegian,produces,JAR,krukke,19,0
+2023-09-04,Norwegian,produces,JAR,krukke,20,0.01
+2023-09-04,Norwegian,produces,JAR,krukke,21,0.01
+2023-09-04,Norwegian,produces,JAR,krukke,22,0.02
+2023-09-04,Norwegian,produces,JAR,krukke,23,0.04
+2023-09-04,Norwegian,produces,JAR,krukke,24,0.04
+2023-09-04,Norwegian,produces,JAR,krukke,25,0.05
+2023-09-04,Norwegian,produces,JAR,krukke,26,0.12
+2023-09-04,Norwegian,produces,JAR,krukke,27,0.12
+2023-09-04,Norwegian,produces,JAR,krukke,28,0.13
+2023-09-04,Norwegian,produces,JAR,krukke,29,0.17
+2023-09-04,Norwegian,produces,JAR,krukke,30,0.2
+2023-09-04,Norwegian,produces,JAR,krukke,31,0.22
+2023-09-04,Norwegian,produces,JAR,krukke,32,0.26
+2023-09-04,Norwegian,produces,JAR,krukke,33,0.29
+2023-09-04,Norwegian,produces,JAR,krukke,34,0.31
+2023-09-04,Norwegian,produces,JAR,krukke,35,0.35
+2023-09-04,Norwegian,produces,JAR,krukke,36,0.36
+2023-09-04,Russian,produces,JAR,банка,8,0
+2023-09-04,Russian,produces,JAR,банка,9,0
+2023-09-04,Russian,produces,JAR,банка,10,0
+2023-09-04,Russian,produces,JAR,банка,11,0
+2023-09-04,Russian,produces,JAR,банка,12,0
+2023-09-04,Russian,produces,JAR,банка,13,0
+2023-09-04,Russian,produces,JAR,банка,14,0.03
+2023-09-04,Russian,produces,JAR,банка,15,0.01
+2023-09-04,Russian,produces,JAR,банка,16,0.02
+2023-09-04,Russian,produces,JAR,банка,17,0.1
+2023-09-04,Russian,produces,JAR,банка,18,0.1
+2023-09-04,Russian,produces,JAR,банка,19,0.17
+2023-09-04,Russian,produces,JAR,банка,20,0.2
+2023-09-04,Russian,produces,JAR,банка,21,0.4
+2023-09-04,Russian,produces,JAR,банка,22,0.45
+2023-09-04,Russian,produces,JAR,банка,23,0.46
+2023-09-04,Russian,produces,JAR,банка,24,0.54
+2023-09-04,Russian,produces,JAR,банка,25,0.52
+2023-09-04,Russian,produces,JAR,банка,26,0.48
+2023-09-04,Russian,produces,JAR,банка,27,0.7
+2023-09-04,Russian,produces,JAR,банка,28,0.63
+2023-09-04,Russian,produces,JAR,банка,29,0.78
+2023-09-04,Russian,produces,JAR,банка,30,0.74
+2023-09-04,Russian,produces,JAR,банка,31,0.82
+2023-09-04,Russian,produces,JAR,банка,32,0.82
+2023-09-04,Russian,produces,JAR,банка,33,0.75
+2023-09-04,Russian,produces,JAR,банка,34,0.91
+2023-09-04,Russian,produces,JAR,банка,35,0.85
+2023-09-04,Russian,produces,JAR,банка,36,0.86
+2023-09-04,English (British),produces,JAR,jar,34,0.51
+2023-09-04,English (British),produces,JAR,jar,35,0.54
+2023-09-04,English (British),produces,JAR,jar,36,0.55
+2023-09-04,English (British),produces,JAR,jar,37,0.56
+2023-09-04,English (British),produces,JAR,jar,38,0.49
+2023-09-04,English (British),produces,JAR,jar,39,0.66
+2023-09-04,English (British),produces,JAR,jar,40,0.44
+2023-09-04,English (British),produces,JAR,jar,41,0.67
+2023-09-04,English (British),produces,JAR,jar,42,0.74
+2023-09-04,English (British),produces,JAR,jar,43,0.67
+2023-09-04,English (British),produces,JAR,jar,44,0.67
+2023-09-04,English (British),produces,JAR,jar,45,0.58
+2023-09-04,English (British),produces,JAR,jar,46,0.2
+2023-09-04,English (British),produces,JAR,jar,47,0.5
+2023-09-04,English (Australian),produces,JAR,jar,12,0
+2023-09-04,English (Australian),produces,JAR,jar,13,0
+2023-09-04,English (Australian),produces,JAR,jar,14,0
+2023-09-04,English (Australian),produces,JAR,jar,15,0.01
+2023-09-04,English (Australian),produces,JAR,jar,16,0.02
+2023-09-04,English (Australian),produces,JAR,jar,17,0.02
+2023-09-04,English (Australian),produces,JAR,jar,18,0.01
+2023-09-04,English (Australian),produces,JAR,jar,19,0.03
+2023-09-04,English (Australian),produces,JAR,jar,20,0.04
+2023-09-04,English (Australian),produces,JAR,jar,21,0.06
+2023-09-04,English (Australian),produces,JAR,jar,22,0.14
+2023-09-04,English (Australian),produces,JAR,jar,23,0.17
+2023-09-04,English (Australian),produces,JAR,jar,24,0.21
+2023-09-04,English (Australian),produces,JAR,jar,25,0.13
+2023-09-04,English (Australian),produces,JAR,jar,26,0.16
+2023-09-04,English (Australian),produces,JAR,jar,27,0.28
+2023-09-04,English (Australian),produces,JAR,jar,28,0.25
+2023-09-04,English (Australian),produces,JAR,jar,29,0.28
+2023-09-04,English (Australian),produces,JAR,jar,30,0.38
+2023-09-04,Latvian,produces,JAR,burka,17,0
+2023-09-04,Latvian,produces,JAR,burka,18,0.1
+2023-09-04,Latvian,produces,JAR,burka,19,0
+2023-09-04,Latvian,produces,JAR,burka,20,0.12
+2023-09-04,Latvian,produces,JAR,burka,21,0.31
+2023-09-04,Latvian,produces,JAR,burka,22,0.25
+2023-09-04,Latvian,produces,JAR,burka,23,0.2
+2023-09-04,Latvian,produces,JAR,burka,24,0.53
+2023-09-04,Latvian,produces,JAR,burka,25,0.21
+2023-09-04,Latvian,produces,JAR,burka,26,0.45
+2023-09-04,Latvian,produces,JAR,burka,27,0.5
+2023-09-04,Latvian,produces,JAR,burka,28,0.43
+2023-09-04,Latvian,produces,JAR,burka,29,0.54
+2023-09-04,Latvian,produces,JAR,burka,30,0.42
+2023-09-04,Latvian,produces,JAR,burka,31,0.63
+2023-09-04,Latvian,produces,JAR,burka,32,0.64
+2023-09-04,Latvian,produces,JAR,burka,33,0.58
+2023-09-04,Latvian,produces,JAR,burka,34,0.71
+2023-09-04,Latvian,produces,JAR,burka,35,0.71
+2023-09-04,Latvian,produces,JAR,burka,36,0.64
+2023-09-04,French (French),produces,JAR,pot,8,0
+2023-09-04,French (French),produces,JAR,pot,9,0
+2023-09-04,French (French),produces,JAR,pot,11,0
+2023-09-04,French (French),produces,JAR,pot,12,0
+2023-09-04,French (French),produces,JAR,pot,13,0
+2023-09-04,French (French),produces,JAR,pot,14,0
+2023-09-04,French (French),produces,JAR,pot,15,0
+2023-09-04,French (French),produces,JAR,pot,16,0.08
+2023-09-04,French (French),produces,JAR,pot,17,0.13
+2023-09-04,French (French),produces,JAR,pot,18,0
+2023-09-04,French (French),produces,JAR,pot,19,0.59
+2023-09-04,French (French),produces,JAR,pot,20,0.51
+2023-09-04,French (French),produces,JAR,pot,21,0.61
+2023-09-04,French (French),produces,JAR,pot,22,0.7
+2023-09-04,French (French),produces,JAR,pot,23,0.59
+2023-09-04,French (French),produces,JAR,pot,24,0.7
+2023-09-04,French (French),produces,JAR,pot,25,0.8
+2023-09-04,French (French),produces,JAR,pot,26,0.7
+2023-09-04,French (French),produces,JAR,pot,27,0.83
+2023-09-04,French (French),produces,JAR,pot,28,0.9
+2023-09-04,French (French),produces,JAR,pot,29,0.87
+2023-09-04,French (French),produces,JAR,pot,30,0.95
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,16,0
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,17,0.01
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,18,0
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,19,0.04
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,20,0.01
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,21,0.03
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,22,0.07
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,23,0.1
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,24,0.12
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,25,0.15
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,26,0.24
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,27,0.16
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,28,0.3
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,29,0.3
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,30,0.45
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,31,0.42
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,32,0.41
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,33,0.48
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,34,0.52
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,35,0.56
+2023-09-04,Mandarin (Taiwanese),produces,JAR,罐子,36,0.56
+2023-09-04,Dutch,produces,JAR,pot,9,0
+2023-09-04,Dutch,produces,JAR,pot,12,0
+2023-09-04,Dutch,produces,JAR,pot,15,0.03
+2023-09-04,Dutch,produces,JAR,pot,16,0.05
+2023-09-04,Dutch,produces,JAR,pot,17,0.05
+2023-09-04,Dutch,produces,JAR,pot,18,0.05
+2023-09-04,Dutch,produces,JAR,pot,19,0
+2023-09-04,Dutch,produces,JAR,pot,20,0.24
+2023-09-04,Dutch,produces,JAR,pot,21,0.12
+2023-09-04,Dutch,produces,JAR,pot,22,0.29
+2023-09-04,Dutch,produces,JAR,pot,23,0.22
+2023-09-04,Dutch,produces,JAR,pot,24,0.33
+2023-09-04,Dutch,produces,JAR,pot,25,0.52
+2023-09-04,Dutch,produces,JAR,pot,26,0.29
+2023-09-04,Dutch,produces,JAR,pot,27,0.6
+2023-09-04,Dutch,produces,JAR,pot,28,0.8
+2023-09-04,Dutch,produces,JAR,pot,29,0.73
+2023-09-04,Dutch,produces,JAR,pot,30,0.68
+2023-09-04,Dutch,produces,JAR,pot,31,0.57

@@ -1,0 +1,635 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,NOSE,鼻,16,0.17
+2023-09-04,Cantonese,produces,NOSE,鼻,17,0.3
+2023-09-04,Cantonese,produces,NOSE,鼻,18,0.34
+2023-09-04,Cantonese,produces,NOSE,鼻,19,0.39
+2023-09-04,Cantonese,produces,NOSE,鼻,20,0.61
+2023-09-04,Cantonese,produces,NOSE,鼻,21,0.61
+2023-09-04,Cantonese,produces,NOSE,鼻,22,0.69
+2023-09-04,Cantonese,produces,NOSE,鼻,23,0.61
+2023-09-04,Cantonese,produces,NOSE,鼻,24,0.69
+2023-09-04,Cantonese,produces,NOSE,鼻,25,0.86
+2023-09-04,Cantonese,produces,NOSE,鼻,26,0.79
+2023-09-04,Cantonese,produces,NOSE,鼻,27,0.94
+2023-09-04,Cantonese,produces,NOSE,鼻,28,0.92
+2023-09-04,Cantonese,produces,NOSE,鼻,29,0.94
+2023-09-04,Cantonese,produces,NOSE,鼻,30,0.97
+2023-09-04,Croatian,produces,NOSE,nos,8,0
+2023-09-04,Croatian,produces,NOSE,nos,9,0
+2023-09-04,Croatian,produces,NOSE,nos,10,0
+2023-09-04,Croatian,produces,NOSE,nos,11,0
+2023-09-04,Croatian,produces,NOSE,nos,12,0.03
+2023-09-04,Croatian,produces,NOSE,nos,13,0.06
+2023-09-04,Croatian,produces,NOSE,nos,14,0.14
+2023-09-04,Croatian,produces,NOSE,nos,15,0.08
+2023-09-04,Croatian,produces,NOSE,nos,16,0.4
+2023-09-04,Croatian,produces,NOSE,nos,17,0.4
+2023-09-04,Croatian,produces,NOSE,nos,18,0.45
+2023-09-04,Croatian,produces,NOSE,nos,19,0.57
+2023-09-04,Croatian,produces,NOSE,nos,20,0.77
+2023-09-04,Croatian,produces,NOSE,nos,21,0.69
+2023-09-04,Croatian,produces,NOSE,nos,22,0.75
+2023-09-04,Croatian,produces,NOSE,nos,23,0.92
+2023-09-04,Croatian,produces,NOSE,nos,24,0.97
+2023-09-04,Croatian,produces,NOSE,nos,25,0.9
+2023-09-04,Croatian,produces,NOSE,nos,26,1
+2023-09-04,Croatian,produces,NOSE,nos,27,0.96
+2023-09-04,Croatian,produces,NOSE,nos,28,0.95
+2023-09-04,Croatian,produces,NOSE,nos,29,1
+2023-09-04,Croatian,produces,NOSE,nos,30,0.96
+2023-09-04,Danish,produces,NOSE,næse,8,0
+2023-09-04,Danish,produces,NOSE,næse,9,0
+2023-09-04,Danish,produces,NOSE,næse,10,0
+2023-09-04,Danish,produces,NOSE,næse,11,0.01
+2023-09-04,Danish,produces,NOSE,næse,12,0.01
+2023-09-04,Danish,produces,NOSE,næse,13,0.01
+2023-09-04,Danish,produces,NOSE,næse,14,0.03
+2023-09-04,Danish,produces,NOSE,næse,15,0.02
+2023-09-04,Danish,produces,NOSE,næse,16,0.11
+2023-09-04,Danish,produces,NOSE,næse,17,0.15
+2023-09-04,Danish,produces,NOSE,næse,18,0.25
+2023-09-04,Danish,produces,NOSE,næse,19,0.3
+2023-09-04,Danish,produces,NOSE,næse,20,0.49
+2023-09-04,Danish,produces,NOSE,næse,21,0.55
+2023-09-04,Danish,produces,NOSE,næse,22,0.72
+2023-09-04,Danish,produces,NOSE,næse,23,0.69
+2023-09-04,Danish,produces,NOSE,næse,24,0.78
+2023-09-04,Danish,produces,NOSE,næse,25,0.86
+2023-09-04,Danish,produces,NOSE,næse,26,0.91
+2023-09-04,Danish,produces,NOSE,næse,27,0.92
+2023-09-04,Danish,produces,NOSE,næse,28,0.94
+2023-09-04,Danish,produces,NOSE,næse,29,0.94
+2023-09-04,Danish,produces,NOSE,næse,30,0.98
+2023-09-04,Danish,produces,NOSE,næse,31,0.97
+2023-09-04,Danish,produces,NOSE,næse,32,0.99
+2023-09-04,Danish,produces,NOSE,næse,33,0.98
+2023-09-04,Danish,produces,NOSE,næse,34,0.98
+2023-09-04,Danish,produces,NOSE,næse,35,0.99
+2023-09-04,Danish,produces,NOSE,næse,36,1
+2023-09-04,English (American),produces,NOSE,nose,8,0
+2023-09-04,English (American),produces,NOSE,nose,9,0.02
+2023-09-04,English (American),produces,NOSE,nose,10,0.02
+2023-09-04,English (American),produces,NOSE,nose,11,0.03
+2023-09-04,English (American),produces,NOSE,nose,12,0.04
+2023-09-04,English (American),produces,NOSE,nose,13,0.1
+2023-09-04,English (American),produces,NOSE,nose,14,0.15
+2023-09-04,English (American),produces,NOSE,nose,15,0.24
+2023-09-04,English (American),produces,NOSE,nose,16,0.37
+2023-09-04,English (American),produces,NOSE,nose,17,0.4
+2023-09-04,English (American),produces,NOSE,nose,18,0.51
+2023-09-04,English (American),produces,NOSE,nose,19,0.67
+2023-09-04,English (American),produces,NOSE,nose,20,0.72
+2023-09-04,English (American),produces,NOSE,nose,21,0.74
+2023-09-04,English (American),produces,NOSE,nose,22,0.78
+2023-09-04,English (American),produces,NOSE,nose,23,0.8
+2023-09-04,English (American),produces,NOSE,nose,24,0.86
+2023-09-04,English (American),produces,NOSE,nose,25,0.9
+2023-09-04,English (American),produces,NOSE,nose,26,0.88
+2023-09-04,English (American),produces,NOSE,nose,27,0.9
+2023-09-04,English (American),produces,NOSE,nose,28,0.96
+2023-09-04,English (American),produces,NOSE,nose,29,0.91
+2023-09-04,English (American),produces,NOSE,nose,30,0.92
+2023-09-04,French (Quebecois),produces,NOSE,nez,8,0
+2023-09-04,French (Quebecois),produces,NOSE,nez,9,0
+2023-09-04,French (Quebecois),produces,NOSE,nez,10,0
+2023-09-04,French (Quebecois),produces,NOSE,nez,11,0
+2023-09-04,French (Quebecois),produces,NOSE,nez,12,0.03
+2023-09-04,French (Quebecois),produces,NOSE,nez,13,0.03
+2023-09-04,French (Quebecois),produces,NOSE,nez,14,0.17
+2023-09-04,French (Quebecois),produces,NOSE,nez,15,0.2
+2023-09-04,French (Quebecois),produces,NOSE,nez,16,0.37
+2023-09-04,French (Quebecois),produces,NOSE,nez,17,0.56
+2023-09-04,French (Quebecois),produces,NOSE,nez,18,0.57
+2023-09-04,French (Quebecois),produces,NOSE,nez,19,0.74
+2023-09-04,French (Quebecois),produces,NOSE,nez,20,0.84
+2023-09-04,French (Quebecois),produces,NOSE,nez,21,0.8
+2023-09-04,French (Quebecois),produces,NOSE,nez,22,0.91
+2023-09-04,French (Quebecois),produces,NOSE,nez,23,0.93
+2023-09-04,French (Quebecois),produces,NOSE,nez,24,0.88
+2023-09-04,French (Quebecois),produces,NOSE,nez,25,0.92
+2023-09-04,French (Quebecois),produces,NOSE,nez,26,0.95
+2023-09-04,French (Quebecois),produces,NOSE,nez,27,1
+2023-09-04,French (Quebecois),produces,NOSE,nez,28,1
+2023-09-04,French (Quebecois),produces,NOSE,nez,29,0.98
+2023-09-04,French (Quebecois),produces,NOSE,nez,30,0.92
+2023-09-04,German,produces,NOSE,Nase,18,0.36
+2023-09-04,German,produces,NOSE,Nase,19,0.51
+2023-09-04,German,produces,NOSE,Nase,20,0.56
+2023-09-04,German,produces,NOSE,Nase,21,0.56
+2023-09-04,German,produces,NOSE,Nase,22,0.65
+2023-09-04,German,produces,NOSE,Nase,23,0.85
+2023-09-04,German,produces,NOSE,Nase,24,0.8
+2023-09-04,German,produces,NOSE,Nase,25,0.81
+2023-09-04,German,produces,NOSE,Nase,26,0.87
+2023-09-04,German,produces,NOSE,Nase,27,0.88
+2023-09-04,German,produces,NOSE,Nase,28,0.88
+2023-09-04,German,produces,NOSE,Nase,29,0.99
+2023-09-04,German,produces,NOSE,Nase,30,0.97
+2023-09-04,Hebrew,produces,NOSE,אף,11,0
+2023-09-04,Hebrew,produces,NOSE,אף,12,0
+2023-09-04,Hebrew,produces,NOSE,אף,13,0
+2023-09-04,Hebrew,produces,NOSE,אף,14,1
+2023-09-04,Hebrew,produces,NOSE,אף,15,0.5
+2023-09-04,Hebrew,produces,NOSE,אף,16,0.5
+2023-09-04,Hebrew,produces,NOSE,אף,17,0.67
+2023-09-04,Hebrew,produces,NOSE,אף,19,0.75
+2023-09-04,Hebrew,produces,NOSE,אף,20,0.67
+2023-09-04,Hebrew,produces,NOSE,אף,21,1
+2023-09-04,Hebrew,produces,NOSE,אף,22,1
+2023-09-04,Hebrew,produces,NOSE,אף,23,1
+2023-09-04,Hebrew,produces,NOSE,אף,24,1
+2023-09-04,Hebrew,produces,NOSE,אף,25,0.95
+2023-09-04,Hebrew,produces,NOSE,אף,26,0.9
+2023-09-04,Hebrew,produces,NOSE,אף,27,0.97
+2023-09-04,Hebrew,produces,NOSE,אף,28,0.96
+2023-09-04,Hebrew,produces,NOSE,אף,29,1
+2023-09-04,Hebrew,produces,NOSE,אף,30,1
+2023-09-04,Hebrew,produces,NOSE,אף,31,1
+2023-09-04,Hebrew,produces,NOSE,אף,32,0.94
+2023-09-04,Hebrew,produces,NOSE,אף,33,0.9
+2023-09-04,Hebrew,produces,NOSE,אף,34,1
+2023-09-04,Hebrew,produces,NOSE,אף,35,0.83
+2023-09-04,Hebrew,produces,NOSE,אף,36,0.8
+2023-09-04,Italian,produces,NOSE,naso,7,0
+2023-09-04,Italian,produces,NOSE,naso,8,0
+2023-09-04,Italian,produces,NOSE,naso,9,0
+2023-09-04,Italian,produces,NOSE,naso,10,0
+2023-09-04,Italian,produces,NOSE,naso,11,0
+2023-09-04,Italian,produces,NOSE,naso,12,0
+2023-09-04,Italian,produces,NOSE,naso,13,0
+2023-09-04,Italian,produces,NOSE,naso,14,0.03
+2023-09-04,Italian,produces,NOSE,naso,15,0.06
+2023-09-04,Italian,produces,NOSE,naso,16,0.12
+2023-09-04,Italian,produces,NOSE,naso,17,0.21
+2023-09-04,Italian,produces,NOSE,naso,18,0.27
+2023-09-04,Italian,produces,NOSE,naso,19,0.38
+2023-09-04,Italian,produces,NOSE,naso,20,0.35
+2023-09-04,Italian,produces,NOSE,naso,21,0.63
+2023-09-04,Italian,produces,NOSE,naso,22,0.69
+2023-09-04,Italian,produces,NOSE,naso,23,0.76
+2023-09-04,Italian,produces,NOSE,naso,24,0.8
+2023-09-04,Italian,produces,NOSE,naso,25,0.85
+2023-09-04,Italian,produces,NOSE,naso,26,0.9
+2023-09-04,Italian,produces,NOSE,naso,27,0.95
+2023-09-04,Italian,produces,NOSE,naso,28,0.95
+2023-09-04,Italian,produces,NOSE,naso,29,0.97
+2023-09-04,Italian,produces,NOSE,naso,30,0.97
+2023-09-04,Italian,produces,NOSE,naso,31,0.95
+2023-09-04,Italian,produces,NOSE,naso,32,0.96
+2023-09-04,Italian,produces,NOSE,naso,33,1
+2023-09-04,Italian,produces,NOSE,naso,34,1
+2023-09-04,Italian,produces,NOSE,naso,35,0.93
+2023-09-04,Italian,produces,NOSE,naso,36,0.95
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,12,0.02
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,13,0
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,14,0.02
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,15,0
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,16,0.14
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,17,0.38
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,18,0.37
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,19,0.47
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,20,0.64
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,21,0.66
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,22,0.75
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,23,0.85
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,24,0.79
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,25,0.92
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,26,0.9
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,27,0.95
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,28,0.96
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,29,0.97
+2023-09-04,Mandarin (Beijing),produces,NOSE,鼻子,30,0.95
+2023-09-04,Norwegian,produces,NOSE,nese,8,0.03
+2023-09-04,Norwegian,produces,NOSE,nese,9,0
+2023-09-04,Norwegian,produces,NOSE,nese,10,0
+2023-09-04,Norwegian,produces,NOSE,nese,11,0.01
+2023-09-04,Norwegian,produces,NOSE,nese,12,0.01
+2023-09-04,Norwegian,produces,NOSE,nese,13,0.04
+2023-09-04,Norwegian,produces,NOSE,nese,14,0.03
+2023-09-04,Norwegian,produces,NOSE,nese,15,0.09
+2023-09-04,Norwegian,produces,NOSE,nese,16,0.16
+2023-09-04,Norwegian,produces,NOSE,nese,17,0.28
+2023-09-04,Norwegian,produces,NOSE,nese,18,0.42
+2023-09-04,Norwegian,produces,NOSE,nese,19,0.49
+2023-09-04,Norwegian,produces,NOSE,nese,20,0.64
+2023-09-04,Norwegian,produces,NOSE,nese,21,0.72
+2023-09-04,Norwegian,produces,NOSE,nese,22,0.75
+2023-09-04,Norwegian,produces,NOSE,nese,23,0.79
+2023-09-04,Norwegian,produces,NOSE,nese,24,0.86
+2023-09-04,Norwegian,produces,NOSE,nese,25,0.89
+2023-09-04,Norwegian,produces,NOSE,nese,26,0.91
+2023-09-04,Norwegian,produces,NOSE,nese,27,0.92
+2023-09-04,Norwegian,produces,NOSE,nese,28,0.95
+2023-09-04,Norwegian,produces,NOSE,nese,29,0.96
+2023-09-04,Norwegian,produces,NOSE,nese,30,0.95
+2023-09-04,Norwegian,produces,NOSE,nese,31,0.96
+2023-09-04,Norwegian,produces,NOSE,nese,32,0.97
+2023-09-04,Norwegian,produces,NOSE,nese,33,0.97
+2023-09-04,Norwegian,produces,NOSE,nese,34,0.97
+2023-09-04,Norwegian,produces,NOSE,nese,35,0.98
+2023-09-04,Norwegian,produces,NOSE,nese,36,0.99
+2023-09-04,Russian,produces,NOSE,нос,8,0
+2023-09-04,Russian,produces,NOSE,нос,9,0
+2023-09-04,Russian,produces,NOSE,нос,10,0.02
+2023-09-04,Russian,produces,NOSE,нос,11,0.01
+2023-09-04,Russian,produces,NOSE,нос,12,0.03
+2023-09-04,Russian,produces,NOSE,нос,13,0.03
+2023-09-04,Russian,produces,NOSE,нос,14,0.09
+2023-09-04,Russian,produces,NOSE,нос,15,0.07
+2023-09-04,Russian,produces,NOSE,нос,16,0.11
+2023-09-04,Russian,produces,NOSE,нос,17,0.17
+2023-09-04,Russian,produces,NOSE,нос,18,0.29
+2023-09-04,Russian,produces,NOSE,нос,19,0.44
+2023-09-04,Russian,produces,NOSE,нос,20,0.53
+2023-09-04,Russian,produces,NOSE,нос,21,0.58
+2023-09-04,Russian,produces,NOSE,нос,22,0.71
+2023-09-04,Russian,produces,NOSE,нос,23,0.73
+2023-09-04,Russian,produces,NOSE,нос,24,0.74
+2023-09-04,Russian,produces,NOSE,нос,25,0.79
+2023-09-04,Russian,produces,NOSE,нос,26,0.85
+2023-09-04,Russian,produces,NOSE,нос,27,0.85
+2023-09-04,Russian,produces,NOSE,нос,28,0.87
+2023-09-04,Russian,produces,NOSE,нос,29,0.98
+2023-09-04,Russian,produces,NOSE,нос,30,0.9
+2023-09-04,Russian,produces,NOSE,нос,31,0.93
+2023-09-04,Russian,produces,NOSE,нос,32,0.96
+2023-09-04,Russian,produces,NOSE,нос,33,0.93
+2023-09-04,Russian,produces,NOSE,нос,34,0.98
+2023-09-04,Russian,produces,NOSE,нос,35,0.98
+2023-09-04,Russian,produces,NOSE,нос,36,0.98
+2023-09-04,Slovak,produces,NOSE,nos,8,0
+2023-09-04,Slovak,produces,NOSE,nos,9,0
+2023-09-04,Slovak,produces,NOSE,nos,10,0.01
+2023-09-04,Slovak,produces,NOSE,nos,11,0.02
+2023-09-04,Slovak,produces,NOSE,nos,12,0.03
+2023-09-04,Slovak,produces,NOSE,nos,13,0.05
+2023-09-04,Slovak,produces,NOSE,nos,14,0.1
+2023-09-04,Slovak,produces,NOSE,nos,15,0.17
+2023-09-04,Slovak,produces,NOSE,nos,16,0.12
+2023-09-04,Slovak,produces,NOSE,nos,17,0.27
+2023-09-04,Slovak,produces,NOSE,nos,18,0.35
+2023-09-04,Slovak,produces,NOSE,nos,19,0.45
+2023-09-04,Slovak,produces,NOSE,nos,20,0.61
+2023-09-04,Slovak,produces,NOSE,nos,21,0.63
+2023-09-04,Slovak,produces,NOSE,nos,22,0.64
+2023-09-04,Slovak,produces,NOSE,nos,23,0.75
+2023-09-04,Slovak,produces,NOSE,nos,24,0.85
+2023-09-04,Slovak,produces,NOSE,nos,25,0.77
+2023-09-04,Slovak,produces,NOSE,nos,26,0.94
+2023-09-04,Slovak,produces,NOSE,nos,27,0.94
+2023-09-04,Slovak,produces,NOSE,nos,28,0.9
+2023-09-04,Slovak,produces,NOSE,nos,29,0.91
+2023-09-04,Slovak,produces,NOSE,nos,30,0.88
+2023-09-04,Slovak,produces,NOSE,nos,31,0.83
+2023-09-04,Slovak,produces,NOSE,nos,32,0.96
+2023-09-04,Slovak,produces,NOSE,nos,33,1
+2023-09-04,Slovak,produces,NOSE,nos,34,0.93
+2023-09-04,Slovak,produces,NOSE,nos,35,0.89
+2023-09-04,Slovak,produces,NOSE,nos,36,0.88
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,8,0
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,9,0.02
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,10,0
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,11,0
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,12,0
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,13,0.04
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,14,0.05
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,15,0.07
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,16,0.2
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,17,0.27
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,18,0.26
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,19,0.49
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,20,0.57
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,21,0.49
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,22,0.51
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,23,0.55
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,24,0.69
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,25,0.77
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,26,0.75
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,27,0.91
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,28,0.81
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,29,0.88
+2023-09-04,Spanish (Mexican),produces,NOSE,nariz,30,0.82
+2023-09-04,Swedish,produces,NOSE,näsa,8,0
+2023-09-04,Swedish,produces,NOSE,näsa,9,0
+2023-09-04,Swedish,produces,NOSE,näsa,10,0
+2023-09-04,Swedish,produces,NOSE,näsa,11,0
+2023-09-04,Swedish,produces,NOSE,näsa,12,0.01
+2023-09-04,Swedish,produces,NOSE,näsa,13,0
+2023-09-04,Swedish,produces,NOSE,näsa,14,0.06
+2023-09-04,Swedish,produces,NOSE,näsa,15,0
+2023-09-04,Swedish,produces,NOSE,näsa,16,0.15
+2023-09-04,Swedish,produces,NOSE,näsa,19,0.36
+2023-09-04,Swedish,produces,NOSE,näsa,22,0.64
+2023-09-04,Swedish,produces,NOSE,näsa,25,0.78
+2023-09-04,Swedish,produces,NOSE,näsa,28,0.91
+2023-09-04,Turkish,produces,NOSE,Burun,8,0
+2023-09-04,Turkish,produces,NOSE,Burun,9,0.01
+2023-09-04,Turkish,produces,NOSE,Burun,10,0.02
+2023-09-04,Turkish,produces,NOSE,Burun,11,0.02
+2023-09-04,Turkish,produces,NOSE,Burun,12,0.01
+2023-09-04,Turkish,produces,NOSE,Burun,13,0.02
+2023-09-04,Turkish,produces,NOSE,Burun,14,0.05
+2023-09-04,Turkish,produces,NOSE,Burun,15,0.05
+2023-09-04,Turkish,produces,NOSE,Burun,16,0.18
+2023-09-04,Turkish,produces,NOSE,Burun,17,0.3
+2023-09-04,Turkish,produces,NOSE,Burun,18,0.3
+2023-09-04,Turkish,produces,NOSE,Burun,19,0.36
+2023-09-04,Turkish,produces,NOSE,Burun,20,0.5
+2023-09-04,Turkish,produces,NOSE,Burun,21,0.52
+2023-09-04,Turkish,produces,NOSE,Burun,22,0.58
+2023-09-04,Turkish,produces,NOSE,Burun,23,0.66
+2023-09-04,Turkish,produces,NOSE,Burun,24,0.74
+2023-09-04,Turkish,produces,NOSE,Burun,25,0.75
+2023-09-04,Turkish,produces,NOSE,Burun,26,0.78
+2023-09-04,Turkish,produces,NOSE,Burun,27,0.81
+2023-09-04,Turkish,produces,NOSE,Burun,28,0.88
+2023-09-04,Turkish,produces,NOSE,Burun,29,0.9
+2023-09-04,Turkish,produces,NOSE,Burun,30,0.91
+2023-09-04,Turkish,produces,NOSE,Burun,31,0.89
+2023-09-04,Turkish,produces,NOSE,Burun,32,0.91
+2023-09-04,Turkish,produces,NOSE,Burun,33,0.94
+2023-09-04,Turkish,produces,NOSE,Burun,34,0.97
+2023-09-04,Turkish,produces,NOSE,Burun,35,0.92
+2023-09-04,Turkish,produces,NOSE,Burun,36,0.97
+2023-09-04,English (British),produces,NOSE,nose,12,0
+2023-09-04,English (British),produces,NOSE,nose,13,0
+2023-09-04,English (British),produces,NOSE,nose,14,0.08
+2023-09-04,English (British),produces,NOSE,nose,15,0.1
+2023-09-04,English (British),produces,NOSE,nose,16,0.19
+2023-09-04,English (British),produces,NOSE,nose,17,0.27
+2023-09-04,English (British),produces,NOSE,nose,18,0.37
+2023-09-04,English (British),produces,NOSE,nose,19,0.47
+2023-09-04,English (British),produces,NOSE,nose,20,0.59
+2023-09-04,English (British),produces,NOSE,nose,21,0.76
+2023-09-04,English (British),produces,NOSE,nose,22,0.75
+2023-09-04,English (British),produces,NOSE,nose,23,0.75
+2023-09-04,English (British),produces,NOSE,nose,24,0.87
+2023-09-04,English (British),produces,NOSE,nose,25,0.75
+2023-09-04,Czech,produces,NOSE,nos,16,0.03
+2023-09-04,Czech,produces,NOSE,nos,17,0.34
+2023-09-04,Czech,produces,NOSE,nos,18,0.24
+2023-09-04,Czech,produces,NOSE,nos,19,0.22
+2023-09-04,Czech,produces,NOSE,nos,20,0.58
+2023-09-04,Czech,produces,NOSE,nos,21,0.53
+2023-09-04,Czech,produces,NOSE,nos,22,0.61
+2023-09-04,Czech,produces,NOSE,nos,23,0.59
+2023-09-04,Czech,produces,NOSE,nos,24,0.71
+2023-09-04,Czech,produces,NOSE,nos,25,0.74
+2023-09-04,Czech,produces,NOSE,nos,26,0.77
+2023-09-04,Czech,produces,NOSE,nos,27,0.68
+2023-09-04,Czech,produces,NOSE,nos,28,0.96
+2023-09-04,Czech,produces,NOSE,nos,29,0.9
+2023-09-04,Czech,produces,NOSE,nos,30,0.93
+2023-09-04,English (Australian),produces,NOSE,nose,12,0.01
+2023-09-04,English (Australian),produces,NOSE,nose,13,0.09
+2023-09-04,English (Australian),produces,NOSE,nose,14,0.15
+2023-09-04,English (Australian),produces,NOSE,nose,15,0.16
+2023-09-04,English (Australian),produces,NOSE,nose,16,0.3
+2023-09-04,English (Australian),produces,NOSE,nose,17,0.38
+2023-09-04,English (Australian),produces,NOSE,nose,18,0.52
+2023-09-04,English (Australian),produces,NOSE,nose,19,0.7
+2023-09-04,English (Australian),produces,NOSE,nose,20,0.68
+2023-09-04,English (Australian),produces,NOSE,nose,21,0.69
+2023-09-04,English (Australian),produces,NOSE,nose,22,0.9
+2023-09-04,English (Australian),produces,NOSE,nose,23,0.93
+2023-09-04,English (Australian),produces,NOSE,nose,24,0.89
+2023-09-04,English (Australian),produces,NOSE,nose,25,0.92
+2023-09-04,English (Australian),produces,NOSE,nose,26,0.91
+2023-09-04,English (Australian),produces,NOSE,nose,27,0.93
+2023-09-04,English (Australian),produces,NOSE,nose,28,0.99
+2023-09-04,English (Australian),produces,NOSE,nose,29,0.97
+2023-09-04,English (Australian),produces,NOSE,nose,30,0.98
+2023-09-04,Latvian,produces,NOSE,deguns,8,0
+2023-09-04,Latvian,produces,NOSE,deguns,9,0
+2023-09-04,Latvian,produces,NOSE,deguns,10,0.08
+2023-09-04,Latvian,produces,NOSE,deguns,11,0
+2023-09-04,Latvian,produces,NOSE,deguns,12,0.12
+2023-09-04,Latvian,produces,NOSE,deguns,13,0.14
+2023-09-04,Latvian,produces,NOSE,deguns,14,0.16
+2023-09-04,Latvian,produces,NOSE,deguns,15,0.14
+2023-09-04,Latvian,produces,NOSE,deguns,16,0.19
+2023-09-04,Latvian,produces,NOSE,deguns,17,0.37
+2023-09-04,Latvian,produces,NOSE,deguns,18,0.43
+2023-09-04,Latvian,produces,NOSE,deguns,19,0.36
+2023-09-04,Latvian,produces,NOSE,deguns,20,0.53
+2023-09-04,Latvian,produces,NOSE,deguns,21,0.69
+2023-09-04,Latvian,produces,NOSE,deguns,22,0.5
+2023-09-04,Latvian,produces,NOSE,deguns,23,0.64
+2023-09-04,Latvian,produces,NOSE,deguns,24,0.83
+2023-09-04,Latvian,produces,NOSE,deguns,25,0.83
+2023-09-04,Latvian,produces,NOSE,deguns,26,0.82
+2023-09-04,Latvian,produces,NOSE,deguns,27,0.78
+2023-09-04,Latvian,produces,NOSE,deguns,28,0.87
+2023-09-04,Latvian,produces,NOSE,deguns,29,0.88
+2023-09-04,Latvian,produces,NOSE,deguns,30,0.92
+2023-09-04,Latvian,produces,NOSE,deguns,31,0.95
+2023-09-04,Latvian,produces,NOSE,deguns,32,0.84
+2023-09-04,Latvian,produces,NOSE,deguns,33,0.94
+2023-09-04,Latvian,produces,NOSE,deguns,34,0.88
+2023-09-04,Latvian,produces,NOSE,deguns,35,0.9
+2023-09-04,Latvian,produces,NOSE,deguns,36,0.91
+2023-09-04,Korean,produces,NOSE,코,8,0
+2023-09-04,Korean,produces,NOSE,코,9,0
+2023-09-04,Korean,produces,NOSE,코,10,0
+2023-09-04,Korean,produces,NOSE,코,11,0.03
+2023-09-04,Korean,produces,NOSE,코,12,0.13
+2023-09-04,Korean,produces,NOSE,코,13,0.15
+2023-09-04,Korean,produces,NOSE,코,14,0.37
+2023-09-04,Korean,produces,NOSE,코,15,0.21
+2023-09-04,Korean,produces,NOSE,코,16,0.34
+2023-09-04,Korean,produces,NOSE,코,17,0.38
+2023-09-04,Korean,produces,NOSE,코,18,0.52
+2023-09-04,Korean,produces,NOSE,코,19,0.57
+2023-09-04,Korean,produces,NOSE,코,20,0.52
+2023-09-04,Korean,produces,NOSE,코,21,0.68
+2023-09-04,Korean,produces,NOSE,코,22,0.67
+2023-09-04,Korean,produces,NOSE,코,23,0.77
+2023-09-04,Korean,produces,NOSE,코,24,0.79
+2023-09-04,Korean,produces,NOSE,코,25,0.88
+2023-09-04,Korean,produces,NOSE,코,26,0.89
+2023-09-04,Korean,produces,NOSE,코,27,0.88
+2023-09-04,Korean,produces,NOSE,코,28,0.94
+2023-09-04,Korean,produces,NOSE,코,29,0.94
+2023-09-04,Korean,produces,NOSE,코,30,0.91
+2023-09-04,Korean,produces,NOSE,코,31,0.97
+2023-09-04,Korean,produces,NOSE,코,32,0.99
+2023-09-04,Korean,produces,NOSE,코,33,0.92
+2023-09-04,Korean,produces,NOSE,코,34,1
+2023-09-04,Korean,produces,NOSE,코,35,0.91
+2023-09-04,Korean,produces,NOSE,코,36,0.99
+2023-09-04,French (French),produces,NOSE,nez,8,0
+2023-09-04,French (French),produces,NOSE,nez,9,0
+2023-09-04,French (French),produces,NOSE,nez,11,0
+2023-09-04,French (French),produces,NOSE,nez,12,0
+2023-09-04,French (French),produces,NOSE,nez,13,0.01
+2023-09-04,French (French),produces,NOSE,nez,14,0
+2023-09-04,French (French),produces,NOSE,nez,15,0
+2023-09-04,French (French),produces,NOSE,nez,16,0.08
+2023-09-04,French (French),produces,NOSE,nez,17,0.27
+2023-09-04,French (French),produces,NOSE,nez,18,0
+2023-09-04,French (French),produces,NOSE,nez,19,0.91
+2023-09-04,French (French),produces,NOSE,nez,20,0.55
+2023-09-04,French (French),produces,NOSE,nez,21,0.71
+2023-09-04,French (French),produces,NOSE,nez,22,0.76
+2023-09-04,French (French),produces,NOSE,nez,23,0.7
+2023-09-04,French (French),produces,NOSE,nez,24,0.82
+2023-09-04,French (French),produces,NOSE,nez,25,0.95
+2023-09-04,French (French),produces,NOSE,nez,26,0.84
+2023-09-04,French (French),produces,NOSE,nez,27,0.92
+2023-09-04,French (French),produces,NOSE,nez,28,0.94
+2023-09-04,French (French),produces,NOSE,nez,29,1
+2023-09-04,French (French),produces,NOSE,nez,30,1
+2023-09-04,Spanish (European),produces,NOSE,nariz,8,0
+2023-09-04,Spanish (European),produces,NOSE,nariz,9,0
+2023-09-04,Spanish (European),produces,NOSE,nariz,10,0.02
+2023-09-04,Spanish (European),produces,NOSE,nariz,11,0.03
+2023-09-04,Spanish (European),produces,NOSE,nariz,12,0.02
+2023-09-04,Spanish (European),produces,NOSE,nariz,13,0
+2023-09-04,Spanish (European),produces,NOSE,nariz,14,0.05
+2023-09-04,Spanish (European),produces,NOSE,nariz,15,0.11
+2023-09-04,Spanish (European),produces,NOSE,nariz,16,0.13
+2023-09-04,Spanish (European),produces,NOSE,nariz,17,0.13
+2023-09-04,Spanish (European),produces,NOSE,nariz,18,0.24
+2023-09-04,Spanish (European),produces,NOSE,nariz,19,0.37
+2023-09-04,Spanish (European),produces,NOSE,nariz,20,0.5
+2023-09-04,Spanish (European),produces,NOSE,nariz,21,0.54
+2023-09-04,Spanish (European),produces,NOSE,nariz,22,0.63
+2023-09-04,Spanish (European),produces,NOSE,nariz,23,0.77
+2023-09-04,Spanish (European),produces,NOSE,nariz,24,0.75
+2023-09-04,Spanish (European),produces,NOSE,nariz,25,0.69
+2023-09-04,Spanish (European),produces,NOSE,nariz,26,0.92
+2023-09-04,Spanish (European),produces,NOSE,nariz,27,0.91
+2023-09-04,Spanish (European),produces,NOSE,nariz,28,1
+2023-09-04,Spanish (European),produces,NOSE,nariz,29,0.9
+2023-09-04,Spanish (European),produces,NOSE,nariz,30,0.95
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,8,0
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,9,0
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,10,0
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,11,0
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,12,0.01
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,13,0.02
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,14,0.01
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,15,0.03
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,16,0.09
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,17,0.15
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,18,0.3
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,19,0.32
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,20,0.43
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,21,0.53
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,22,0.57
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,23,0.68
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,24,0.72
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,25,0.85
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,26,0.84
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,27,0.85
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,28,0.91
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,29,0.89
+2023-09-04,Portuguese (European),produces,NOSE,Nariz,30,0.9
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,8,0
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,9,0.01
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,10,0.01
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,11,0.01
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,12,0.03
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,13,0.06
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,14,0.09
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,15,0.12
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,16,0.14
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,17,0.23
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,18,0.32
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,19,0.52
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,20,0.49
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,21,0.58
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,22,0.73
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,23,0.81
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,24,0.81
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,25,0.84
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,26,0.9
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,27,0.88
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,28,0.96
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,29,0.95
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,30,0.95
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,31,0.97
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,32,0.96
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,33,0.99
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,34,0.91
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,35,1
+2023-09-04,Mandarin (Taiwanese),produces,NOSE,鼻子,36,1
+2023-09-04,Dutch,produces,NOSE,neus,8,0
+2023-09-04,Dutch,produces,NOSE,neus,9,0
+2023-09-04,Dutch,produces,NOSE,neus,10,0
+2023-09-04,Dutch,produces,NOSE,neus,11,0
+2023-09-04,Dutch,produces,NOSE,neus,12,0
+2023-09-04,Dutch,produces,NOSE,neus,13,0
+2023-09-04,Dutch,produces,NOSE,neus,14,0
+2023-09-04,Dutch,produces,NOSE,neus,15,0.13
+2023-09-04,Dutch,produces,NOSE,neus,16,0.1
+2023-09-04,Dutch,produces,NOSE,neus,17,0.21
+2023-09-04,Dutch,produces,NOSE,neus,18,0.29
+2023-09-04,Dutch,produces,NOSE,neus,19,0.32
+2023-09-04,Dutch,produces,NOSE,neus,20,0.42
+2023-09-04,Dutch,produces,NOSE,neus,21,0.5
+2023-09-04,Dutch,produces,NOSE,neus,22,0.71
+2023-09-04,Dutch,produces,NOSE,neus,23,0.86
+2023-09-04,Dutch,produces,NOSE,neus,24,0.9
+2023-09-04,Dutch,produces,NOSE,neus,25,0.95
+2023-09-04,Dutch,produces,NOSE,neus,26,0.86
+2023-09-04,Dutch,produces,NOSE,neus,27,1
+2023-09-04,Dutch,produces,NOSE,neus,28,1
+2023-09-04,Dutch,produces,NOSE,neus,29,0.96
+2023-09-04,Dutch,produces,NOSE,neus,30,1
+2023-09-04,Dutch,produces,NOSE,neus,31,0.86
+2023-09-04,Hungarian,produces,NOSE,orr,16,0.1
+2023-09-04,Hungarian,produces,NOSE,orr,17,0.22
+2023-09-04,Hungarian,produces,NOSE,orr,18,0.28
+2023-09-04,Hungarian,produces,NOSE,orr,19,0.62
+2023-09-04,Hungarian,produces,NOSE,orr,20,0.5
+2023-09-04,Hungarian,produces,NOSE,orr,21,0.69
+2023-09-04,Hungarian,produces,NOSE,orr,22,0.63
+2023-09-04,Hungarian,produces,NOSE,orr,23,0.56
+2023-09-04,Hungarian,produces,NOSE,orr,24,0.63
+2023-09-04,Hungarian,produces,NOSE,orr,25,0.84
+2023-09-04,Hungarian,produces,NOSE,orr,26,0.78
+2023-09-04,Hungarian,produces,NOSE,orr,27,0.73
+2023-09-04,Hungarian,produces,NOSE,orr,28,0.83
+2023-09-04,Hungarian,produces,NOSE,orr,29,0.83
+2023-09-04,Hungarian,produces,NOSE,orr,30,0.83
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,16,0.3
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,17,0.31
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,18,0.26
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,19,0.36
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,20,0.35
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,21,0.51
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,22,0.54
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,23,0.63
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,24,0.59
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,25,0.67
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,26,0.69
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,27,0.77
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,28,0.69
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,29,0.82
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,30,0.93
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,31,0.5
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,32,1
+2023-09-04,Spanish (Argentinian),produces,NOSE,nariz,33,1
+2023-09-04,Persian,produces,NOSE,بینی,8,0
+2023-09-04,Persian,produces,NOSE,بینی,9,0
+2023-09-04,Persian,produces,NOSE,بینی,10,0.06
+2023-09-04,Persian,produces,NOSE,بینی,11,0.08
+2023-09-04,Persian,produces,NOSE,بینی,12,0.09
+2023-09-04,Persian,produces,NOSE,بینی,13,0
+2023-09-04,Persian,produces,NOSE,بینی,14,0.13
+2023-09-04,Persian,produces,NOSE,بینی,15,0.08
+2023-09-04,Persian,produces,NOSE,بینی,16,0.25
+2023-09-04,Persian,produces,NOSE,بینی(دماغ),17,1
+2023-09-04,Persian,produces,NOSE,بینی(دماغ),18,0.4
+2023-09-04,Persian,produces,NOSE,بینی(دماغ),20,0.67
+2023-09-04,Persian,produces,NOSE,بینی(دماغ),21,0
+2023-09-04,Persian,produces,NOSE,بینی(دماغ),22,1
+2023-09-04,Persian,produces,NOSE,بینی(دماغ),23,1
+2023-09-04,Persian,produces,NOSE,بینی(دماغ),24,0.9
+2023-09-04,Persian,produces,NOSE,بینی(دماغ),25,1
+2023-09-04,Persian,produces,NOSE,بینی(دماغ),26,1
+2023-09-04,Persian,produces,NOSE,بینی(دماغ),27,0.8
+2023-09-04,Persian,produces,NOSE,بینی(دماغ),28,1
+2023-09-04,Persian,produces,NOSE,بینی(دماغ),29,1
+2023-09-04,Persian,produces,NOSE,بینی(دماغ),30,1

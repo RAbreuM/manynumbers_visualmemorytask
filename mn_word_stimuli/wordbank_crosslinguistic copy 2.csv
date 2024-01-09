@@ -1,0 +1,605 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,PIG,豬,16,0.04
+2023-09-04,Cantonese,produces,PIG,豬,17,0.16
+2023-09-04,Cantonese,produces,PIG,豬,18,0.16
+2023-09-04,Cantonese,produces,PIG,豬,19,0.24
+2023-09-04,Cantonese,produces,PIG,豬,20,0.39
+2023-09-04,Cantonese,produces,PIG,豬,21,0.45
+2023-09-04,Cantonese,produces,PIG,豬,22,0.47
+2023-09-04,Cantonese,produces,PIG,豬,23,0.41
+2023-09-04,Cantonese,produces,PIG,豬,24,0.51
+2023-09-04,Cantonese,produces,PIG,豬,25,0.62
+2023-09-04,Cantonese,produces,PIG,豬,26,0.63
+2023-09-04,Cantonese,produces,PIG,豬,27,0.65
+2023-09-04,Cantonese,produces,PIG,豬,28,0.79
+2023-09-04,Cantonese,produces,PIG,豬,29,0.81
+2023-09-04,Cantonese,produces,PIG,豬,30,0.88
+2023-09-04,Croatian,produces,PIG,prase,8,0
+2023-09-04,Croatian,produces,PIG,prase,9,0
+2023-09-04,Croatian,produces,PIG,prase,10,0
+2023-09-04,Croatian,produces,PIG,prase,11,0
+2023-09-04,Croatian,produces,PIG,prase,12,0
+2023-09-04,Croatian,produces,PIG,prase,13,0
+2023-09-04,Croatian,produces,PIG,prase,14,0
+2023-09-04,Croatian,produces,PIG,prase,15,0
+2023-09-04,Croatian,produces,PIG,prase,16,0.17
+2023-09-04,Croatian,produces,PIG,prase,17,0.04
+2023-09-04,Croatian,produces,PIG,prase,18,0.27
+2023-09-04,Croatian,produces,PIG,prase,19,0.43
+2023-09-04,Croatian,produces,PIG,prase,20,0.46
+2023-09-04,Croatian,produces,PIG,prase,21,0.41
+2023-09-04,Croatian,produces,PIG,prase,22,0.46
+2023-09-04,Croatian,produces,PIG,prase,23,0.62
+2023-09-04,Croatian,produces,PIG,prase,24,0.7
+2023-09-04,Croatian,produces,PIG,prase,25,0.77
+2023-09-04,Croatian,produces,PIG,prase,26,0.72
+2023-09-04,Croatian,produces,PIG,prase,27,0.84
+2023-09-04,Croatian,produces,PIG,prase,28,0.95
+2023-09-04,Croatian,produces,PIG,prase,29,0.89
+2023-09-04,Croatian,produces,PIG,prase,30,0.93
+2023-09-04,Danish,produces,PIG,gris,8,0
+2023-09-04,Danish,produces,PIG,gris,9,0
+2023-09-04,Danish,produces,PIG,gris,10,0
+2023-09-04,Danish,produces,PIG,gris,11,0
+2023-09-04,Danish,produces,PIG,gris,12,0
+2023-09-04,Danish,produces,PIG,gris,13,0
+2023-09-04,Danish,produces,PIG,gris,14,0.01
+2023-09-04,Danish,produces,PIG,gris,15,0.03
+2023-09-04,Danish,produces,PIG,gris,16,0.07
+2023-09-04,Danish,produces,PIG,gris,17,0.09
+2023-09-04,Danish,produces,PIG,gris,18,0.19
+2023-09-04,Danish,produces,PIG,gris,19,0.24
+2023-09-04,Danish,produces,PIG,gris,20,0.35
+2023-09-04,Danish,produces,PIG,gris,21,0.38
+2023-09-04,Danish,produces,PIG,gris,22,0.54
+2023-09-04,Danish,produces,PIG,gris,23,0.62
+2023-09-04,Danish,produces,PIG,gris,24,0.73
+2023-09-04,Danish,produces,PIG,gris,25,0.82
+2023-09-04,Danish,produces,PIG,gris,26,0.87
+2023-09-04,Danish,produces,PIG,gris,27,0.89
+2023-09-04,Danish,produces,PIG,gris,28,0.88
+2023-09-04,Danish,produces,PIG,gris,29,0.9
+2023-09-04,Danish,produces,PIG,gris,30,0.94
+2023-09-04,Danish,produces,PIG,gris,31,0.96
+2023-09-04,Danish,produces,PIG,gris,32,0.97
+2023-09-04,Danish,produces,PIG,gris,33,0.96
+2023-09-04,Danish,produces,PIG,gris,34,0.99
+2023-09-04,Danish,produces,PIG,gris,35,0.98
+2023-09-04,Danish,produces,PIG,gris,36,1
+2023-09-04,English (American),produces,PIG,pig,8,0.01
+2023-09-04,English (American),produces,PIG,pig,9,0.01
+2023-09-04,English (American),produces,PIG,pig,10,0.02
+2023-09-04,English (American),produces,PIG,pig,11,0.01
+2023-09-04,English (American),produces,PIG,pig,12,0.03
+2023-09-04,English (American),produces,PIG,pig,13,0.05
+2023-09-04,English (American),produces,PIG,pig,14,0.04
+2023-09-04,English (American),produces,PIG,pig,15,0.12
+2023-09-04,English (American),produces,PIG,pig,16,0.14
+2023-09-04,English (American),produces,PIG,pig,17,0.18
+2023-09-04,English (American),produces,PIG,pig,18,0.24
+2023-09-04,English (American),produces,PIG,pig,19,0.43
+2023-09-04,English (American),produces,PIG,pig,20,0.45
+2023-09-04,English (American),produces,PIG,pig,21,0.45
+2023-09-04,English (American),produces,PIG,pig,22,0.57
+2023-09-04,English (American),produces,PIG,pig,23,0.64
+2023-09-04,English (American),produces,PIG,pig,24,0.71
+2023-09-04,English (American),produces,PIG,pig,25,0.78
+2023-09-04,English (American),produces,PIG,pig,26,0.78
+2023-09-04,English (American),produces,PIG,pig,27,0.79
+2023-09-04,English (American),produces,PIG,pig,28,0.91
+2023-09-04,English (American),produces,PIG,pig,29,0.86
+2023-09-04,English (American),produces,PIG,pig,30,0.86
+2023-09-04,French (Quebecois),produces,PIG,cochon,8,0
+2023-09-04,French (Quebecois),produces,PIG,cochon,9,0
+2023-09-04,French (Quebecois),produces,PIG,cochon,10,0.02
+2023-09-04,French (Quebecois),produces,PIG,cochon,11,0
+2023-09-04,French (Quebecois),produces,PIG,cochon,12,0
+2023-09-04,French (Quebecois),produces,PIG,cochon,13,0.03
+2023-09-04,French (Quebecois),produces,PIG,cochon,14,0
+2023-09-04,French (Quebecois),produces,PIG,cochon,15,0.05
+2023-09-04,French (Quebecois),produces,PIG,cochon,16,0.05
+2023-09-04,French (Quebecois),produces,PIG,cochon,17,0.21
+2023-09-04,French (Quebecois),produces,PIG,cochon,18,0.24
+2023-09-04,French (Quebecois),produces,PIG,cochon,19,0.3
+2023-09-04,French (Quebecois),produces,PIG,cochon,20,0.47
+2023-09-04,French (Quebecois),produces,PIG,cochon,21,0.52
+2023-09-04,French (Quebecois),produces,PIG,cochon,22,0.58
+2023-09-04,French (Quebecois),produces,PIG,cochon,23,0.73
+2023-09-04,French (Quebecois),produces,PIG,cochon,24,0.72
+2023-09-04,French (Quebecois),produces,PIG,cochon,25,0.79
+2023-09-04,French (Quebecois),produces,PIG,cochon,26,0.79
+2023-09-04,French (Quebecois),produces,PIG,cochon,27,0.92
+2023-09-04,French (Quebecois),produces,PIG,cochon,28,0.9
+2023-09-04,French (Quebecois),produces,PIG,cochon,29,0.97
+2023-09-04,French (Quebecois),produces,PIG,cochon,30,0.92
+2023-09-04,German,produces,PIG,Schwein,18,0.08
+2023-09-04,German,produces,PIG,Schwein,19,0.16
+2023-09-04,German,produces,PIG,Schwein,20,0.21
+2023-09-04,German,produces,PIG,Schwein,21,0.35
+2023-09-04,German,produces,PIG,Schwein,22,0.49
+2023-09-04,German,produces,PIG,Schwein,23,0.51
+2023-09-04,German,produces,PIG,Schwein,24,0.58
+2023-09-04,German,produces,PIG,Schwein,25,0.68
+2023-09-04,German,produces,PIG,Schwein,26,0.77
+2023-09-04,German,produces,PIG,Schwein,27,0.74
+2023-09-04,German,produces,PIG,Schwein,28,0.8
+2023-09-04,German,produces,PIG,Schwein,29,0.85
+2023-09-04,German,produces,PIG,Schwein,30,0.96
+2023-09-04,Hebrew,produces,PIG,חזיר,11,0
+2023-09-04,Hebrew,produces,PIG,חזיר,12,0
+2023-09-04,Hebrew,produces,PIG,חזיר,13,0
+2023-09-04,Hebrew,produces,PIG,חזיר,14,0
+2023-09-04,Hebrew,produces,PIG,חזיר,15,0
+2023-09-04,Hebrew,produces,PIG,חזיר,16,0
+2023-09-04,Hebrew,produces,PIG,חזיר,17,0
+2023-09-04,Hebrew,produces,PIG,חזיר,19,0.25
+2023-09-04,Hebrew,produces,PIG,חזיר,20,0.33
+2023-09-04,Hebrew,produces,PIG,חזיר,21,0.5
+2023-09-04,Hebrew,produces,PIG,חזיר,22,0.33
+2023-09-04,Hebrew,produces,PIG,חזיר,23,0.29
+2023-09-04,Hebrew,produces,PIG,חזיר,24,0.36
+2023-09-04,Hebrew,produces,PIG,חזיר,25,0.01
+2023-09-04,Hebrew,produces,PIG,חזיר,26,0
+2023-09-04,Hebrew,produces,PIG,חזיר,27,0
+2023-09-04,Hebrew,produces,PIG,חזיר,28,0.02
+2023-09-04,Hebrew,produces,PIG,חזיר,29,0.02
+2023-09-04,Hebrew,produces,PIG,חזיר,30,0
+2023-09-04,Hebrew,produces,PIG,חזיר,31,0
+2023-09-04,Hebrew,produces,PIG,חזיר,32,0
+2023-09-04,Hebrew,produces,PIG,חזיר,33,0
+2023-09-04,Hebrew,produces,PIG,חזיר,34,0
+2023-09-04,Hebrew,produces,PIG,חזיר,35,0
+2023-09-04,Hebrew,produces,PIG,חזיר,36,0.2
+2023-09-04,Italian,produces,PIG,maiale,7,0
+2023-09-04,Italian,produces,PIG,maiale,8,0
+2023-09-04,Italian,produces,PIG,maiale,9,0
+2023-09-04,Italian,produces,PIG,maiale,10,0
+2023-09-04,Italian,produces,PIG,maiale,11,0
+2023-09-04,Italian,produces,PIG,maiale,12,0.01
+2023-09-04,Italian,produces,PIG,maiale,13,0
+2023-09-04,Italian,produces,PIG,maiale,14,0.05
+2023-09-04,Italian,produces,PIG,maiale,15,0
+2023-09-04,Italian,produces,PIG,maiale,16,0.05
+2023-09-04,Italian,produces,PIG,maiale,17,0.15
+2023-09-04,Italian,produces,PIG,maiale,18,0.05
+2023-09-04,Italian,produces,PIG,maiale,19,0.1
+2023-09-04,Italian,produces,PIG,maiale,20,0.11
+2023-09-04,Italian,produces,PIG,maiale,21,0.16
+2023-09-04,Italian,produces,PIG,maiale,22,0.27
+2023-09-04,Italian,produces,PIG,maiale,23,0.49
+2023-09-04,Italian,produces,PIG,maiale,24,0.49
+2023-09-04,Italian,produces,PIG,maiale,25,0.56
+2023-09-04,Italian,produces,PIG,maiale,26,0.56
+2023-09-04,Italian,produces,PIG,maiale,27,0.65
+2023-09-04,Italian,produces,PIG,maiale,28,0.64
+2023-09-04,Italian,produces,PIG,maiale,29,0.76
+2023-09-04,Italian,produces,PIG,maiale,30,0.73
+2023-09-04,Italian,produces,PIG,maiale,31,0.95
+2023-09-04,Italian,produces,PIG,maiale,32,0.65
+2023-09-04,Italian,produces,PIG,maiale,33,0.94
+2023-09-04,Italian,produces,PIG,maiale,34,1
+2023-09-04,Italian,produces,PIG,maiale,35,0.87
+2023-09-04,Italian,produces,PIG,maiale,36,0.9
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,12,0
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,13,0.06
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,14,0.04
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,15,0.09
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,16,0.1
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,17,0.34
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,18,0.31
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,19,0.48
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,20,0.54
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,21,0.58
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,22,0.7
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,23,0.75
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,24,0.77
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,25,0.8
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,26,0.81
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,27,0.87
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,28,0.93
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,29,0.91
+2023-09-04,Mandarin (Beijing),produces,PIG,猪,30,0.97
+2023-09-04,Norwegian,produces,PIG,gris,8,0.03
+2023-09-04,Norwegian,produces,PIG,gris,9,0.01
+2023-09-04,Norwegian,produces,PIG,gris,10,0
+2023-09-04,Norwegian,produces,PIG,gris,11,0
+2023-09-04,Norwegian,produces,PIG,gris,12,0.02
+2023-09-04,Norwegian,produces,PIG,gris,13,0.03
+2023-09-04,Norwegian,produces,PIG,gris,14,0.04
+2023-09-04,Norwegian,produces,PIG,gris,15,0.12
+2023-09-04,Norwegian,produces,PIG,gris,16,0.15
+2023-09-04,Norwegian,produces,PIG,gris,17,0.2
+2023-09-04,Norwegian,produces,PIG,gris,18,0.32
+2023-09-04,Norwegian,produces,PIG,gris,19,0.38
+2023-09-04,Norwegian,produces,PIG,gris,20,0.54
+2023-09-04,Norwegian,produces,PIG,gris,21,0.61
+2023-09-04,Norwegian,produces,PIG,gris,22,0.66
+2023-09-04,Norwegian,produces,PIG,gris,23,0.77
+2023-09-04,Norwegian,produces,PIG,gris,24,0.77
+2023-09-04,Norwegian,produces,PIG,gris,25,0.84
+2023-09-04,Norwegian,produces,PIG,gris,26,0.89
+2023-09-04,Norwegian,produces,PIG,gris,27,0.89
+2023-09-04,Norwegian,produces,PIG,gris,28,0.91
+2023-09-04,Norwegian,produces,PIG,gris,29,0.93
+2023-09-04,Norwegian,produces,PIG,gris,30,0.93
+2023-09-04,Norwegian,produces,PIG,gris,31,0.96
+2023-09-04,Norwegian,produces,PIG,gris,32,0.95
+2023-09-04,Norwegian,produces,PIG,gris,33,0.96
+2023-09-04,Norwegian,produces,PIG,gris,34,0.96
+2023-09-04,Norwegian,produces,PIG,gris,35,0.98
+2023-09-04,Norwegian,produces,PIG,gris,36,0.96
+2023-09-04,Russian,produces,PIG,поросенок/свинка,8,0
+2023-09-04,Russian,produces,PIG,поросенок/свинка,9,0
+2023-09-04,Russian,produces,PIG,поросенок/свинка,10,0
+2023-09-04,Russian,produces,PIG,поросенок/свинка,11,0.01
+2023-09-04,Russian,produces,PIG,поросенок/свинка,12,0.01
+2023-09-04,Russian,produces,PIG,поросенок/свинка,13,0.01
+2023-09-04,Russian,produces,PIG,поросенок/свинка,14,0.01
+2023-09-04,Russian,produces,PIG,поросенок/свинка,15,0.04
+2023-09-04,Russian,produces,PIG,поросенок/свинка,16,0.04
+2023-09-04,Russian,produces,PIG,поросенок/свинка,17,0.06
+2023-09-04,Russian,produces,PIG,"поросенок/свинка, свинка",18,0.1
+2023-09-04,Russian,produces,PIG,свинка,19,0.1
+2023-09-04,Russian,produces,PIG,свинка,20,0.16
+2023-09-04,Russian,produces,PIG,свинка,21,0.33
+2023-09-04,Russian,produces,PIG,свинка,22,0.25
+2023-09-04,Russian,produces,PIG,свинка,23,0.39
+2023-09-04,Russian,produces,PIG,свинка,24,0.44
+2023-09-04,Russian,produces,PIG,свинка,25,0.61
+2023-09-04,Russian,produces,PIG,свинка,26,0.4
+2023-09-04,Russian,produces,PIG,свинка,27,0.58
+2023-09-04,Russian,produces,PIG,свинка,28,0.67
+2023-09-04,Russian,produces,PIG,свинка,29,0.74
+2023-09-04,Russian,produces,PIG,свинка,30,0.62
+2023-09-04,Russian,produces,PIG,свинка,31,0.74
+2023-09-04,Russian,produces,PIG,свинка,32,0.8
+2023-09-04,Russian,produces,PIG,свинка,33,0.78
+2023-09-04,Russian,produces,PIG,свинка,34,0.72
+2023-09-04,Russian,produces,PIG,свинка,35,0.89
+2023-09-04,Russian,produces,PIG,свинка,36,0.82
+2023-09-04,Slovak,produces,PIG,prasa,8,0
+2023-09-04,Slovak,produces,PIG,prasa,9,0.02
+2023-09-04,Slovak,produces,PIG,prasa,10,0.01
+2023-09-04,Slovak,produces,PIG,prasa,11,0.05
+2023-09-04,Slovak,produces,PIG,prasa,12,0.05
+2023-09-04,Slovak,produces,PIG,prasa,13,0.09
+2023-09-04,Slovak,produces,PIG,prasa,14,0.21
+2023-09-04,Slovak,produces,PIG,prasa,15,0.17
+2023-09-04,Slovak,produces,PIG,prasa,16,0.25
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,17,0.36
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,18,0.58
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,19,0.54
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,20,0.66
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,21,0.59
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,22,0.6
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,23,0.64
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,24,0.8
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,25,0.75
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,26,0.88
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,27,0.92
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,28,0.85
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,29,0.88
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,30,0.84
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,31,0.79
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,32,0.96
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,33,1
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,34,0.85
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,35,0.81
+2023-09-04,Slovak,produces,PIG,prasa /sviňa / svinka,36,0.88
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,8,0.03
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,9,0
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,10,0
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,11,0
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,12,0
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,13,0.02
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,14,0.01
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,15,0.02
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,16,0.13
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,17,0.16
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,18,0.13
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,19,0.17
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,20,0.25
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,21,0.23
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,22,0.23
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,23,0.19
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,24,0.37
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,25,0.32
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,26,0.39
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,27,0.51
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,28,0.45
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,29,0.46
+2023-09-04,Spanish (Mexican),produces,PIG,puerco,30,0.33
+2023-09-04,Swedish,produces,PIG,gris,8,0
+2023-09-04,Swedish,produces,PIG,gris,9,0
+2023-09-04,Swedish,produces,PIG,gris,10,0
+2023-09-04,Swedish,produces,PIG,gris,11,0
+2023-09-04,Swedish,produces,PIG,gris,12,0.03
+2023-09-04,Swedish,produces,PIG,gris,13,0
+2023-09-04,Swedish,produces,PIG,gris,14,0.03
+2023-09-04,Swedish,produces,PIG,gris,15,0.08
+2023-09-04,Swedish,produces,PIG,"gris, nasse",16,0.09
+2023-09-04,Swedish,produces,PIG,"gris, nasse",19,0.17
+2023-09-04,Swedish,produces,PIG,"gris, nasse",22,0.34
+2023-09-04,Swedish,produces,PIG,"gris, nasse",25,0.47
+2023-09-04,Swedish,produces,PIG,"gris, nasse",28,0.56
+2023-09-04,Turkish,produces,PIG,Domuz,16,0.01
+2023-09-04,Turkish,produces,PIG,Domuz,17,0.04
+2023-09-04,Turkish,produces,PIG,Domuz,18,0.03
+2023-09-04,Turkish,produces,PIG,Domuz,19,0.05
+2023-09-04,Turkish,produces,PIG,Domuz,20,0.08
+2023-09-04,Turkish,produces,PIG,Domuz,21,0.15
+2023-09-04,Turkish,produces,PIG,Domuz,22,0.08
+2023-09-04,Turkish,produces,PIG,Domuz,23,0.12
+2023-09-04,Turkish,produces,PIG,Domuz,24,0.12
+2023-09-04,Turkish,produces,PIG,Domuz,25,0.2
+2023-09-04,Turkish,produces,PIG,Domuz,26,0.24
+2023-09-04,Turkish,produces,PIG,Domuz,27,0.25
+2023-09-04,Turkish,produces,PIG,Domuz,28,0.3
+2023-09-04,Turkish,produces,PIG,Domuz,29,0.39
+2023-09-04,Turkish,produces,PIG,Domuz,30,0.37
+2023-09-04,Turkish,produces,PIG,Domuz,31,0.41
+2023-09-04,Turkish,produces,PIG,Domuz,32,0.44
+2023-09-04,Turkish,produces,PIG,Domuz,33,0.48
+2023-09-04,Turkish,produces,PIG,Domuz,34,0.44
+2023-09-04,Turkish,produces,PIG,Domuz,35,0.54
+2023-09-04,Turkish,produces,PIG,Domuz,36,0.68
+2023-09-04,English (British),produces,PIG,pig,12,0
+2023-09-04,English (British),produces,PIG,pig,13,0
+2023-09-04,English (British),produces,PIG,pig,14,0.08
+2023-09-04,English (British),produces,PIG,pig,15,0.02
+2023-09-04,English (British),produces,PIG,pig,16,0.13
+2023-09-04,English (British),produces,PIG,pig,17,0.16
+2023-09-04,English (British),produces,PIG,pig,18,0.21
+2023-09-04,English (British),produces,PIG,pig,19,0.36
+2023-09-04,English (British),produces,PIG,pig,20,0.53
+2023-09-04,English (British),produces,PIG,pig,21,0.55
+2023-09-04,English (British),produces,PIG,pig,22,0.54
+2023-09-04,English (British),produces,PIG,pig,23,0.71
+2023-09-04,English (British),produces,PIG,pig,24,0.78
+2023-09-04,English (British),produces,PIG,pig,25,0.86
+2023-09-04,Czech,produces,PIG,prase,16,0
+2023-09-04,Czech,produces,PIG,prase,17,0.07
+2023-09-04,Czech,produces,PIG,prase,18,0.07
+2023-09-04,Czech,produces,PIG,prase,19,0.07
+2023-09-04,Czech,produces,PIG,prase,20,0.31
+2023-09-04,Czech,produces,PIG,prase,21,0.21
+2023-09-04,Czech,produces,PIG,prase,22,0.36
+2023-09-04,Czech,produces,PIG,prase,23,0.35
+2023-09-04,Czech,produces,PIG,prase,24,0.37
+2023-09-04,Czech,produces,PIG,prase,25,0.49
+2023-09-04,Czech,produces,PIG,prase,26,0.68
+2023-09-04,Czech,produces,PIG,prase,27,0.57
+2023-09-04,Czech,produces,PIG,prase,28,0.77
+2023-09-04,Czech,produces,PIG,prase,29,0.77
+2023-09-04,Czech,produces,PIG,prase,30,0.89
+2023-09-04,English (Australian),produces,PIG,pig,12,0
+2023-09-04,English (Australian),produces,PIG,pig,13,0.02
+2023-09-04,English (Australian),produces,PIG,pig,14,0.09
+2023-09-04,English (Australian),produces,PIG,pig,15,0.1
+2023-09-04,English (Australian),produces,PIG,pig,16,0.12
+2023-09-04,English (Australian),produces,PIG,pig,17,0.17
+2023-09-04,English (Australian),produces,PIG,pig,18,0.22
+2023-09-04,English (Australian),produces,PIG,pig,19,0.4
+2023-09-04,English (Australian),produces,PIG,pig,20,0.51
+2023-09-04,English (Australian),produces,PIG,pig,21,0.46
+2023-09-04,English (Australian),produces,PIG,pig,22,0.74
+2023-09-04,English (Australian),produces,PIG,pig,23,0.7
+2023-09-04,English (Australian),produces,PIG,pig,24,0.7
+2023-09-04,English (Australian),produces,PIG,pig,25,0.79
+2023-09-04,English (Australian),produces,PIG,pig,26,0.84
+2023-09-04,English (Australian),produces,PIG,pig,27,0.88
+2023-09-04,English (Australian),produces,PIG,pig,28,0.93
+2023-09-04,English (Australian),produces,PIG,pig,29,0.91
+2023-09-04,English (Australian),produces,PIG,pig,30,0.98
+2023-09-04,Latvian,produces,PIG,cūka,8,0
+2023-09-04,Latvian,produces,PIG,cūka,9,0
+2023-09-04,Latvian,produces,PIG,cūka,10,0
+2023-09-04,Latvian,produces,PIG,cūka,11,0
+2023-09-04,Latvian,produces,PIG,cūka,12,0.06
+2023-09-04,Latvian,produces,PIG,cūka,13,0.05
+2023-09-04,Latvian,produces,PIG,cūka,14,0.12
+2023-09-04,Latvian,produces,PIG,cūka,15,0.07
+2023-09-04,Latvian,produces,PIG,cūka,16,0.12
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",17,0.09
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",18,0.21
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",19,0.18
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",20,0.31
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",21,0.17
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",22,0.3
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",23,0.4
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",24,0.47
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",25,0.59
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",26,0.57
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",27,0.61
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",28,0.61
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",29,0.52
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",30,0.67
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",31,0.66
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",32,0.6
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",33,0.74
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",34,0.79
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",35,0.74
+2023-09-04,Latvian,produces,PIG,"cūka, sivēns",36,0.7
+2023-09-04,Korean,produces,PIG,돼지,8,0
+2023-09-04,Korean,produces,PIG,돼지,9,0
+2023-09-04,Korean,produces,PIG,돼지,10,0
+2023-09-04,Korean,produces,PIG,돼지,11,0.02
+2023-09-04,Korean,produces,PIG,돼지,12,0.02
+2023-09-04,Korean,produces,PIG,돼지,13,0.05
+2023-09-04,Korean,produces,PIG,돼지,14,0.13
+2023-09-04,Korean,produces,PIG,돼지,15,0.14
+2023-09-04,Korean,produces,PIG,돼지,16,0.09
+2023-09-04,Korean,produces,PIG,돼지,17,0.22
+2023-09-04,Korean,produces,PIG,돼지,18,0.31
+2023-09-04,Korean,produces,PIG,돼지,19,0.2
+2023-09-04,Korean,produces,PIG,돼지,20,0.31
+2023-09-04,Korean,produces,PIG,돼지,21,0.4
+2023-09-04,Korean,produces,PIG,돼지,22,0.53
+2023-09-04,Korean,produces,PIG,돼지,23,0.57
+2023-09-04,Korean,produces,PIG,돼지,24,0.67
+2023-09-04,Korean,produces,PIG,돼지,25,0.78
+2023-09-04,Korean,produces,PIG,돼지,26,0.76
+2023-09-04,Korean,produces,PIG,돼지,27,0.8
+2023-09-04,Korean,produces,PIG,돼지,28,0.82
+2023-09-04,Korean,produces,PIG,돼지,29,0.85
+2023-09-04,Korean,produces,PIG,돼지,30,0.86
+2023-09-04,Korean,produces,PIG,돼지,31,0.93
+2023-09-04,Korean,produces,PIG,돼지,32,0.91
+2023-09-04,Korean,produces,PIG,돼지,33,0.88
+2023-09-04,Korean,produces,PIG,돼지,34,0.93
+2023-09-04,Korean,produces,PIG,돼지,35,0.93
+2023-09-04,Korean,produces,PIG,돼지,36,0.97
+2023-09-04,French (French),produces,PIG,cochon,8,0
+2023-09-04,French (French),produces,PIG,cochon,9,0
+2023-09-04,French (French),produces,PIG,cochon,11,0
+2023-09-04,French (French),produces,PIG,cochon,12,0
+2023-09-04,French (French),produces,PIG,cochon,13,0.01
+2023-09-04,French (French),produces,PIG,cochon,14,0
+2023-09-04,French (French),produces,PIG,cochon,15,0
+2023-09-04,French (French),produces,PIG,cochon,16,0.03
+2023-09-04,French (French),produces,PIG,cochon,17,0.04
+2023-09-04,French (French),produces,PIG,cochon,18,0
+2023-09-04,French (French),produces,PIG,cochon,19,0.64
+2023-09-04,French (French),produces,PIG,cochon,20,0.32
+2023-09-04,French (French),produces,PIG,cochon,21,0.41
+2023-09-04,French (French),produces,PIG,cochon,22,0.54
+2023-09-04,French (French),produces,PIG,cochon,23,0.54
+2023-09-04,French (French),produces,PIG,cochon,24,0.63
+2023-09-04,French (French),produces,PIG,cochon,25,0.74
+2023-09-04,French (French),produces,PIG,cochon,26,0.72
+2023-09-04,French (French),produces,PIG,cochon,27,0.69
+2023-09-04,French (French),produces,PIG,cochon,28,0.82
+2023-09-04,French (French),produces,PIG,cochon,29,0.91
+2023-09-04,French (French),produces,PIG,cochon,30,0.86
+2023-09-04,Spanish (European),produces,PIG,cerdo,8,0
+2023-09-04,Spanish (European),produces,PIG,cerdo,9,0
+2023-09-04,Spanish (European),produces,PIG,cerdo,10,0
+2023-09-04,Spanish (European),produces,PIG,cerdo,11,0
+2023-09-04,Spanish (European),produces,PIG,cerdo,12,0
+2023-09-04,Spanish (European),produces,PIG,cerdo,13,0
+2023-09-04,Spanish (European),produces,PIG,cerdo,14,0
+2023-09-04,Spanish (European),produces,PIG,cerdo,15,0.06
+2023-09-04,Spanish (European),produces,PIG,cerdo,16,0.05
+2023-09-04,Spanish (European),produces,PIG,cerdo,17,0.03
+2023-09-04,Spanish (European),produces,PIG,cerdo,18,0.06
+2023-09-04,Spanish (European),produces,PIG,cerdo,19,0.04
+2023-09-04,Spanish (European),produces,PIG,cerdo,20,0.14
+2023-09-04,Spanish (European),produces,PIG,cerdo,21,0.24
+2023-09-04,Spanish (European),produces,PIG,cerdo,22,0.32
+2023-09-04,Spanish (European),produces,PIG,cerdo,23,0.43
+2023-09-04,Spanish (European),produces,PIG,cerdo,24,0.56
+2023-09-04,Spanish (European),produces,PIG,cerdo,25,0.43
+2023-09-04,Spanish (European),produces,PIG,cerdo,26,0.71
+2023-09-04,Spanish (European),produces,PIG,cerdo,27,0.79
+2023-09-04,Spanish (European),produces,PIG,cerdo,28,0.71
+2023-09-04,Spanish (European),produces,PIG,cerdo,29,0.85
+2023-09-04,Spanish (European),produces,PIG,cerdo,30,0.66
+2023-09-04,Portuguese (European),produces,PIG,Porco,8,0
+2023-09-04,Portuguese (European),produces,PIG,Porco,9,0
+2023-09-04,Portuguese (European),produces,PIG,Porco,10,0.01
+2023-09-04,Portuguese (European),produces,PIG,Porco,11,0
+2023-09-04,Portuguese (European),produces,PIG,Porco,12,0.01
+2023-09-04,Portuguese (European),produces,PIG,Porco,13,0
+2023-09-04,Portuguese (European),produces,PIG,Porco,14,0.02
+2023-09-04,Portuguese (European),produces,PIG,Porco,15,0.05
+2023-09-04,Portuguese (European),produces,PIG,Porco,16,0.04
+2023-09-04,Portuguese (European),produces,PIG,Porco,17,0.09
+2023-09-04,Portuguese (European),produces,PIG,Porco,18,0.16
+2023-09-04,Portuguese (European),produces,PIG,Porco,19,0.2
+2023-09-04,Portuguese (European),produces,PIG,Porco,20,0.31
+2023-09-04,Portuguese (European),produces,PIG,Porco,21,0.34
+2023-09-04,Portuguese (European),produces,PIG,Porco,22,0.4
+2023-09-04,Portuguese (European),produces,PIG,Porco,23,0.5
+2023-09-04,Portuguese (European),produces,PIG,Porco,24,0.58
+2023-09-04,Portuguese (European),produces,PIG,Porco,25,0.7
+2023-09-04,Portuguese (European),produces,PIG,Porco,26,0.71
+2023-09-04,Portuguese (European),produces,PIG,Porco,27,0.74
+2023-09-04,Portuguese (European),produces,PIG,Porco,28,0.79
+2023-09-04,Portuguese (European),produces,PIG,Porco,29,0.82
+2023-09-04,Portuguese (European),produces,PIG,Porco,30,0.75
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,8,0
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,9,0
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,10,0
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,11,0
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,12,0
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,13,0.03
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,14,0.05
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,15,0.08
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,16,0.12
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,17,0.25
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,18,0.27
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,19,0.35
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,20,0.4
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,21,0.56
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,22,0.53
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,23,0.67
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,24,0.7
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,25,0.68
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,26,0.79
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,27,0.71
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,28,0.81
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,29,0.91
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,30,0.86
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,31,0.9
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,32,0.82
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,33,0.95
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,34,0.87
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,35,0.93
+2023-09-04,Mandarin (Taiwanese),produces,PIG,豬,36,0.94
+2023-09-04,Dutch,produces,PIG,varken,8,0
+2023-09-04,Dutch,produces,PIG,varken,9,0
+2023-09-04,Dutch,produces,PIG,varken,10,0
+2023-09-04,Dutch,produces,PIG,varken,11,0
+2023-09-04,Dutch,produces,PIG,varken,12,0
+2023-09-04,Dutch,produces,PIG,varken,13,0
+2023-09-04,Dutch,produces,PIG,varken,14,0.03
+2023-09-04,Dutch,produces,PIG,varken,15,0.11
+2023-09-04,Dutch,produces,PIG,varken,16,0
+2023-09-04,Dutch,produces,PIG,varken,17,0.13
+2023-09-04,Dutch,produces,PIG,varken,18,0.09
+2023-09-04,Dutch,produces,PIG,varken,19,0.14
+2023-09-04,Dutch,produces,PIG,varken,20,0.15
+2023-09-04,Dutch,produces,PIG,varken,21,0.23
+2023-09-04,Dutch,produces,PIG,varken,22,0.43
+2023-09-04,Dutch,produces,PIG,varken,23,0.75
+2023-09-04,Dutch,produces,PIG,varken,24,0.74
+2023-09-04,Dutch,produces,PIG,varken,25,1
+2023-09-04,Dutch,produces,PIG,varken,26,0.5
+2023-09-04,Dutch,produces,PIG,varken,27,0.8
+2023-09-04,Dutch,produces,PIG,varken,28,1
+2023-09-04,Dutch,produces,PIG,varken,29,0.96
+2023-09-04,Dutch,produces,PIG,varken,30,1
+2023-09-04,Dutch,produces,PIG,varken,31,1
+2023-09-04,Hungarian,produces,PIG,malac,16,0.1
+2023-09-04,Hungarian,produces,PIG,malac,17,0.11
+2023-09-04,Hungarian,produces,PIG,malac,18,0.11
+2023-09-04,Hungarian,produces,PIG,malac,19,0.35
+2023-09-04,Hungarian,produces,PIG,malac,20,0.33
+2023-09-04,Hungarian,produces,PIG,malac,21,0.47
+2023-09-04,Hungarian,produces,PIG,malac,22,0.22
+2023-09-04,Hungarian,produces,PIG,malac,23,0.5
+2023-09-04,Hungarian,produces,PIG,malac,24,0.63
+2023-09-04,Hungarian,produces,PIG,malac,25,0.79
+2023-09-04,Hungarian,produces,PIG,malac,26,0.65
+2023-09-04,Hungarian,produces,PIG,malac,27,0.58
+2023-09-04,Hungarian,produces,PIG,malac,28,0.7
+2023-09-04,Hungarian,produces,PIG,malac,29,0.75
+2023-09-04,Hungarian,produces,PIG,malac,30,0.72
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,16,0.13
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,17,0.18
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,18,0.16
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,19,0.23
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,20,0.26
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,21,0.27
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,22,0.28
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,23,0.37
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,24,0.47
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,25,0.58
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,26,0.51
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,27,0.68
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,28,0.52
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,29,0.57
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,30,0.7
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,31,0
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,32,1
+2023-09-04,Spanish (Argentinian),produces,PIG,chancho,33,0

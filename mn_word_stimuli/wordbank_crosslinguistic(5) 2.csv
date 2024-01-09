@@ -1,0 +1,559 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,HAND,手,16,0.15
+2023-09-04,Cantonese,produces,HAND,手,17,0.33
+2023-09-04,Cantonese,produces,HAND,手,18,0.4
+2023-09-04,Cantonese,produces,HAND,手,19,0.41
+2023-09-04,Cantonese,produces,HAND,手,20,0.58
+2023-09-04,Cantonese,produces,HAND,手,21,0.65
+2023-09-04,Cantonese,produces,HAND,手,22,0.69
+2023-09-04,Cantonese,produces,HAND,手,23,0.72
+2023-09-04,Cantonese,produces,HAND,手,24,0.78
+2023-09-04,Cantonese,produces,HAND,手,25,0.89
+2023-09-04,Cantonese,produces,HAND,手,26,0.85
+2023-09-04,Cantonese,produces,HAND,手,27,0.95
+2023-09-04,Cantonese,produces,HAND,手,28,0.95
+2023-09-04,Cantonese,produces,HAND,手,29,0.97
+2023-09-04,Cantonese,produces,HAND,手,30,0.97
+2023-09-04,Danish,produces,HAND,hånd,8,0
+2023-09-04,Danish,produces,HAND,hånd,9,0
+2023-09-04,Danish,produces,HAND,hånd,10,0
+2023-09-04,Danish,produces,HAND,hånd,11,0
+2023-09-04,Danish,produces,HAND,hånd,12,0.01
+2023-09-04,Danish,produces,HAND,hånd,13,0
+2023-09-04,Danish,produces,HAND,hånd,14,0.01
+2023-09-04,Danish,produces,HAND,hånd,15,0
+2023-09-04,Danish,produces,HAND,hånd,16,0.03
+2023-09-04,Danish,produces,HAND,hånd,17,0.05
+2023-09-04,Danish,produces,HAND,hånd,18,0.1
+2023-09-04,Danish,produces,HAND,hånd,19,0.17
+2023-09-04,Danish,produces,HAND,hånd,20,0.34
+2023-09-04,Danish,produces,HAND,hånd,21,0.37
+2023-09-04,Danish,produces,HAND,hånd,22,0.57
+2023-09-04,Danish,produces,HAND,hånd,23,0.58
+2023-09-04,Danish,produces,HAND,hånd,24,0.73
+2023-09-04,Danish,produces,HAND,hånd,25,0.8
+2023-09-04,Danish,produces,HAND,hånd,26,0.84
+2023-09-04,Danish,produces,HAND,hånd,27,0.92
+2023-09-04,Danish,produces,HAND,hånd,28,0.89
+2023-09-04,Danish,produces,HAND,hånd,29,0.91
+2023-09-04,Danish,produces,HAND,hånd,30,0.94
+2023-09-04,Danish,produces,HAND,hånd,31,0.95
+2023-09-04,Danish,produces,HAND,hånd,32,0.97
+2023-09-04,Danish,produces,HAND,hånd,33,0.99
+2023-09-04,Danish,produces,HAND,hånd,34,0.99
+2023-09-04,Danish,produces,HAND,hånd,35,0.98
+2023-09-04,Danish,produces,HAND,hånd,36,0.98
+2023-09-04,English (American),produces,HAND,hand,8,0.01
+2023-09-04,English (American),produces,HAND,hand,9,0.01
+2023-09-04,English (American),produces,HAND,hand,10,0.02
+2023-09-04,English (American),produces,HAND,hand,11,0.02
+2023-09-04,English (American),produces,HAND,hand,12,0.03
+2023-09-04,English (American),produces,HAND,hand,13,0.05
+2023-09-04,English (American),produces,HAND,hand,14,0.04
+2023-09-04,English (American),produces,HAND,hand,15,0.08
+2023-09-04,English (American),produces,HAND,hand,16,0.11
+2023-09-04,English (American),produces,HAND,hand,17,0.13
+2023-09-04,English (American),produces,HAND,hand,18,0.23
+2023-09-04,English (American),produces,HAND,hand,19,0.34
+2023-09-04,English (American),produces,HAND,hand,20,0.4
+2023-09-04,English (American),produces,HAND,hand,21,0.53
+2023-09-04,English (American),produces,HAND,hand,22,0.56
+2023-09-04,English (American),produces,HAND,hand,23,0.68
+2023-09-04,English (American),produces,HAND,hand,24,0.72
+2023-09-04,English (American),produces,HAND,hand,25,0.79
+2023-09-04,English (American),produces,HAND,hand,26,0.8
+2023-09-04,English (American),produces,HAND,hand,27,0.83
+2023-09-04,English (American),produces,HAND,hand,28,0.93
+2023-09-04,English (American),produces,HAND,hand,29,0.9
+2023-09-04,English (American),produces,HAND,hand,30,0.87
+2023-09-04,French (Quebecois),produces,HAND,main,8,0
+2023-09-04,French (Quebecois),produces,HAND,main,9,0
+2023-09-04,French (Quebecois),produces,HAND,main,10,0
+2023-09-04,French (Quebecois),produces,HAND,main,11,0
+2023-09-04,French (Quebecois),produces,HAND,main,12,0.01
+2023-09-04,French (Quebecois),produces,HAND,main,13,0.01
+2023-09-04,French (Quebecois),produces,HAND,main,14,0.04
+2023-09-04,French (Quebecois),produces,HAND,main,15,0.09
+2023-09-04,French (Quebecois),produces,HAND,main,16,0.17
+2023-09-04,French (Quebecois),produces,HAND,main,17,0.31
+2023-09-04,French (Quebecois),produces,HAND,main,18,0.5
+2023-09-04,French (Quebecois),produces,HAND,main,19,0.57
+2023-09-04,French (Quebecois),produces,HAND,main,20,0.64
+2023-09-04,French (Quebecois),produces,HAND,main,21,0.78
+2023-09-04,French (Quebecois),produces,HAND,main,22,0.82
+2023-09-04,French (Quebecois),produces,HAND,main,23,0.88
+2023-09-04,French (Quebecois),produces,HAND,main,24,0.83
+2023-09-04,French (Quebecois),produces,HAND,main,25,0.87
+2023-09-04,French (Quebecois),produces,HAND,main,26,0.93
+2023-09-04,French (Quebecois),produces,HAND,main,27,1
+2023-09-04,French (Quebecois),produces,HAND,main,28,0.97
+2023-09-04,French (Quebecois),produces,HAND,main,29,0.98
+2023-09-04,French (Quebecois),produces,HAND,main,30,0.91
+2023-09-04,German,produces,HAND,Hand,18,0.21
+2023-09-04,German,produces,HAND,Hand,19,0.3
+2023-09-04,German,produces,HAND,Hand,20,0.33
+2023-09-04,German,produces,HAND,Hand,21,0.45
+2023-09-04,German,produces,HAND,Hand,22,0.55
+2023-09-04,German,produces,HAND,Hand,23,0.69
+2023-09-04,German,produces,HAND,Hand,24,0.7
+2023-09-04,German,produces,HAND,Hand,25,0.76
+2023-09-04,German,produces,HAND,Hand,26,0.86
+2023-09-04,German,produces,HAND,Hand,27,0.85
+2023-09-04,German,produces,HAND,Hand,28,0.88
+2023-09-04,German,produces,HAND,Hand,29,0.97
+2023-09-04,German,produces,HAND,Hand,30,0.99
+2023-09-04,Hebrew,produces,HAND,ידיים,11,0
+2023-09-04,Hebrew,produces,HAND,ידיים,12,0
+2023-09-04,Hebrew,produces,HAND,ידיים,13,0
+2023-09-04,Hebrew,produces,HAND,ידיים,14,0
+2023-09-04,Hebrew,produces,HAND,ידיים,15,0.5
+2023-09-04,Hebrew,produces,HAND,ידיים,16,0.17
+2023-09-04,Hebrew,produces,HAND,ידיים,17,0.33
+2023-09-04,Hebrew,produces,HAND,ידיים,19,0.5
+2023-09-04,Hebrew,produces,HAND,ידיים,20,0.56
+2023-09-04,Hebrew,produces,HAND,ידיים,21,0.5
+2023-09-04,Hebrew,produces,HAND,ידיים,22,1
+2023-09-04,Hebrew,produces,HAND,ידיים,23,1
+2023-09-04,Hebrew,produces,HAND,ידיים,24,0.82
+2023-09-04,Hebrew,produces,HAND,"ידיים, יד/ ידיים",25,0.9
+2023-09-04,Hebrew,produces,HAND,יד/ ידיים,26,0.88
+2023-09-04,Hebrew,produces,HAND,יד/ ידיים,27,0.94
+2023-09-04,Hebrew,produces,HAND,יד/ ידיים,28,0.91
+2023-09-04,Hebrew,produces,HAND,יד/ ידיים,29,0.98
+2023-09-04,Hebrew,produces,HAND,יד/ ידיים,30,0.93
+2023-09-04,Hebrew,produces,HAND,יד/ ידיים,31,0.97
+2023-09-04,Hebrew,produces,HAND,יד/ ידיים,32,0.94
+2023-09-04,Hebrew,produces,HAND,יד/ ידיים,33,0.9
+2023-09-04,Hebrew,produces,HAND,יד/ ידיים,34,1
+2023-09-04,Hebrew,produces,HAND,יד/ ידיים,35,0.89
+2023-09-04,Hebrew,produces,HAND,יד/ ידיים,36,0.8
+2023-09-04,Italian,produces,HAND,mano,7,0
+2023-09-04,Italian,produces,HAND,mano,8,0
+2023-09-04,Italian,produces,HAND,mano,9,0
+2023-09-04,Italian,produces,HAND,mano,10,0
+2023-09-04,Italian,produces,HAND,mano,11,0
+2023-09-04,Italian,produces,HAND,mano,12,0
+2023-09-04,Italian,produces,HAND,mano,13,0
+2023-09-04,Italian,produces,HAND,mano,14,0.03
+2023-09-04,Italian,produces,HAND,mano,15,0.09
+2023-09-04,Italian,produces,HAND,mano,16,0.12
+2023-09-04,Italian,produces,HAND,mano,17,0.21
+2023-09-04,Italian,produces,HAND,mano,18,0.33
+2023-09-04,Italian,produces,HAND,mano,19,0.43
+2023-09-04,Italian,produces,HAND,mano,20,0.43
+2023-09-04,Italian,produces,HAND,mano,21,0.73
+2023-09-04,Italian,produces,HAND,mano,22,0.68
+2023-09-04,Italian,produces,HAND,mano,23,0.76
+2023-09-04,Italian,produces,HAND,mano,24,0.88
+2023-09-04,Italian,produces,HAND,mano,25,0.92
+2023-09-04,Italian,produces,HAND,mano,26,0.93
+2023-09-04,Italian,produces,HAND,mano,27,0.93
+2023-09-04,Italian,produces,HAND,mano,28,0.98
+2023-09-04,Italian,produces,HAND,mano,29,0.97
+2023-09-04,Italian,produces,HAND,mano,30,0.99
+2023-09-04,Italian,produces,HAND,mano,31,1
+2023-09-04,Italian,produces,HAND,mano,32,1
+2023-09-04,Italian,produces,HAND,mano,33,1
+2023-09-04,Italian,produces,HAND,mano,34,1
+2023-09-04,Italian,produces,HAND,mano,35,1
+2023-09-04,Italian,produces,HAND,mano,36,1
+2023-09-04,Mandarin (Beijing),produces,HAND,手,12,0.04
+2023-09-04,Mandarin (Beijing),produces,HAND,手,13,0.08
+2023-09-04,Mandarin (Beijing),produces,HAND,手,14,0.1
+2023-09-04,Mandarin (Beijing),produces,HAND,手,15,0.11
+2023-09-04,Mandarin (Beijing),produces,HAND,手,16,0.25
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",17,0.34
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",18,0.29
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",19,0.39
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",20,0.51
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",21,0.53
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",22,0.57
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",23,0.65
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",24,0.65
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",25,0.68
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",26,0.73
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",27,0.72
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",28,0.79
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",29,0.81
+2023-09-04,Mandarin (Beijing),produces,HAND,"手, 右手, 左手",30,0.86
+2023-09-04,Norwegian,produces,HAND,hånd,8,0.03
+2023-09-04,Norwegian,produces,HAND,hånd,9,0
+2023-09-04,Norwegian,produces,HAND,hånd,10,0
+2023-09-04,Norwegian,produces,HAND,hånd,11,0
+2023-09-04,Norwegian,produces,HAND,hånd,12,0
+2023-09-04,Norwegian,produces,HAND,hånd,13,0
+2023-09-04,Norwegian,produces,HAND,hånd,14,0.01
+2023-09-04,Norwegian,produces,HAND,hånd,15,0.03
+2023-09-04,Norwegian,produces,HAND,hånd,16,0.04
+2023-09-04,Norwegian,produces,HAND,hånd,17,0.09
+2023-09-04,Norwegian,produces,HAND,hånd,18,0.15
+2023-09-04,Norwegian,produces,HAND,hånd,19,0.22
+2023-09-04,Norwegian,produces,HAND,hånd,20,0.34
+2023-09-04,Norwegian,produces,HAND,hånd,21,0.44
+2023-09-04,Norwegian,produces,HAND,hånd,22,0.53
+2023-09-04,Norwegian,produces,HAND,hånd,23,0.6
+2023-09-04,Norwegian,produces,HAND,hånd,24,0.7
+2023-09-04,Norwegian,produces,HAND,hånd,25,0.75
+2023-09-04,Norwegian,produces,HAND,hånd,26,0.8
+2023-09-04,Norwegian,produces,HAND,hånd,27,0.84
+2023-09-04,Norwegian,produces,HAND,hånd,28,0.89
+2023-09-04,Norwegian,produces,HAND,hånd,29,0.9
+2023-09-04,Norwegian,produces,HAND,hånd,30,0.9
+2023-09-04,Norwegian,produces,HAND,hånd,31,0.92
+2023-09-04,Norwegian,produces,HAND,hånd,32,0.94
+2023-09-04,Norwegian,produces,HAND,hånd,33,0.95
+2023-09-04,Norwegian,produces,HAND,hånd,34,0.96
+2023-09-04,Norwegian,produces,HAND,hånd,35,0.97
+2023-09-04,Norwegian,produces,HAND,hånd,36,0.96
+2023-09-04,Slovak,produces,HAND,ruka,8,0
+2023-09-04,Slovak,produces,HAND,ruka,9,0
+2023-09-04,Slovak,produces,HAND,ruka,10,0.03
+2023-09-04,Slovak,produces,HAND,ruka,11,0.02
+2023-09-04,Slovak,produces,HAND,ruka,12,0.03
+2023-09-04,Slovak,produces,HAND,ruka,13,0.01
+2023-09-04,Slovak,produces,HAND,ruka,14,0.06
+2023-09-04,Slovak,produces,HAND,ruka,15,0.09
+2023-09-04,Slovak,produces,HAND,ruka,16,0.13
+2023-09-04,Slovak,produces,HAND,ruka,17,0.19
+2023-09-04,Slovak,produces,HAND,ruka,18,0.31
+2023-09-04,Slovak,produces,HAND,ruka,19,0.3
+2023-09-04,Slovak,produces,HAND,ruka,20,0.55
+2023-09-04,Slovak,produces,HAND,ruka,21,0.58
+2023-09-04,Slovak,produces,HAND,ruka,22,0.58
+2023-09-04,Slovak,produces,HAND,ruka,23,0.76
+2023-09-04,Slovak,produces,HAND,ruka,24,0.78
+2023-09-04,Slovak,produces,HAND,ruka,25,0.78
+2023-09-04,Slovak,produces,HAND,ruka,26,0.92
+2023-09-04,Slovak,produces,HAND,ruka,27,0.89
+2023-09-04,Slovak,produces,HAND,ruka,28,0.9
+2023-09-04,Slovak,produces,HAND,ruka,29,0.84
+2023-09-04,Slovak,produces,HAND,ruka,30,0.9
+2023-09-04,Slovak,produces,HAND,ruka,31,0.79
+2023-09-04,Slovak,produces,HAND,ruka,32,0.96
+2023-09-04,Slovak,produces,HAND,ruka,33,1
+2023-09-04,Slovak,produces,HAND,ruka,34,0.93
+2023-09-04,Slovak,produces,HAND,ruka,35,0.93
+2023-09-04,Slovak,produces,HAND,ruka,36,0.88
+2023-09-04,Spanish (Mexican),produces,HAND,manos (body_parts),8,0
+2023-09-04,Spanish (Mexican),produces,HAND,manos (body_parts),9,0.02
+2023-09-04,Spanish (Mexican),produces,HAND,manos (body_parts),10,0.01
+2023-09-04,Spanish (Mexican),produces,HAND,manos (body_parts),11,0
+2023-09-04,Spanish (Mexican),produces,HAND,manos (body_parts),12,0.02
+2023-09-04,Spanish (Mexican),produces,HAND,manos (body_parts),13,0.02
+2023-09-04,Spanish (Mexican),produces,HAND,manos (body_parts),14,0.04
+2023-09-04,Spanish (Mexican),produces,HAND,manos (body_parts),15,0.05
+2023-09-04,Spanish (Mexican),produces,HAND,"manos (body_parts), mano",16,0.26
+2023-09-04,Spanish (Mexican),produces,HAND,"manos (body_parts), mano",17,0.32
+2023-09-04,Spanish (Mexican),produces,HAND,"manos (body_parts), mano",18,0.37
+2023-09-04,Spanish (Mexican),produces,HAND,mano,19,0.6
+2023-09-04,Spanish (Mexican),produces,HAND,mano,20,0.64
+2023-09-04,Spanish (Mexican),produces,HAND,mano,21,0.54
+2023-09-04,Spanish (Mexican),produces,HAND,mano,22,0.75
+2023-09-04,Spanish (Mexican),produces,HAND,mano,23,0.75
+2023-09-04,Spanish (Mexican),produces,HAND,mano,24,0.8
+2023-09-04,Spanish (Mexican),produces,HAND,mano,25,0.86
+2023-09-04,Spanish (Mexican),produces,HAND,mano,26,0.84
+2023-09-04,Spanish (Mexican),produces,HAND,mano,27,0.94
+2023-09-04,Spanish (Mexican),produces,HAND,mano,28,0.88
+2023-09-04,Spanish (Mexican),produces,HAND,mano,29,0.91
+2023-09-04,Spanish (Mexican),produces,HAND,mano,30,0.89
+2023-09-04,Turkish,produces,HAND,El,8,0.01
+2023-09-04,Turkish,produces,HAND,El,9,0
+2023-09-04,Turkish,produces,HAND,El,10,0.01
+2023-09-04,Turkish,produces,HAND,El,11,0.02
+2023-09-04,Turkish,produces,HAND,El,12,0.01
+2023-09-04,Turkish,produces,HAND,El,13,0.04
+2023-09-04,Turkish,produces,HAND,El,14,0.02
+2023-09-04,Turkish,produces,HAND,El,15,0.06
+2023-09-04,Turkish,produces,HAND,El,16,0.27
+2023-09-04,Turkish,produces,HAND,El,17,0.27
+2023-09-04,Turkish,produces,HAND,El,18,0.34
+2023-09-04,Turkish,produces,HAND,El,19,0.43
+2023-09-04,Turkish,produces,HAND,El,20,0.55
+2023-09-04,Turkish,produces,HAND,El,21,0.61
+2023-09-04,Turkish,produces,HAND,El,22,0.59
+2023-09-04,Turkish,produces,HAND,El,23,0.74
+2023-09-04,Turkish,produces,HAND,El,24,0.76
+2023-09-04,Turkish,produces,HAND,El,25,0.79
+2023-09-04,Turkish,produces,HAND,El,26,0.8
+2023-09-04,Turkish,produces,HAND,El,27,0.81
+2023-09-04,Turkish,produces,HAND,El,28,0.86
+2023-09-04,Turkish,produces,HAND,El,29,0.91
+2023-09-04,Turkish,produces,HAND,El,30,0.92
+2023-09-04,Turkish,produces,HAND,El,31,0.89
+2023-09-04,Turkish,produces,HAND,El,32,0.94
+2023-09-04,Turkish,produces,HAND,El,33,0.93
+2023-09-04,Turkish,produces,HAND,El,34,0.97
+2023-09-04,Turkish,produces,HAND,El,35,0.96
+2023-09-04,Turkish,produces,HAND,El,36,1
+2023-09-04,English (British),produces,HAND,hand,12,0
+2023-09-04,English (British),produces,HAND,hand,13,0
+2023-09-04,English (British),produces,HAND,hand,14,0.05
+2023-09-04,English (British),produces,HAND,hand,15,0.02
+2023-09-04,English (British),produces,HAND,hand,16,0.05
+2023-09-04,English (British),produces,HAND,hand,17,0.11
+2023-09-04,English (British),produces,HAND,hand,18,0.12
+2023-09-04,English (British),produces,HAND,hand,19,0.23
+2023-09-04,English (British),produces,HAND,hand,20,0.37
+2023-09-04,English (British),produces,HAND,hand,21,0.51
+2023-09-04,English (British),produces,HAND,hand,22,0.66
+2023-09-04,English (British),produces,HAND,hand,23,0.66
+2023-09-04,English (British),produces,HAND,hand,24,0.7
+2023-09-04,English (British),produces,HAND,hand,25,0.74
+2023-09-04,English (British),produces,HAND,hand,26,0.78
+2023-09-04,English (British),produces,HAND,hand,27,0.82
+2023-09-04,English (British),produces,HAND,hand,28,0.85
+2023-09-04,English (British),produces,HAND,hand,29,0.82
+2023-09-04,English (British),produces,HAND,hand,30,1
+2023-09-04,English (British),produces,HAND,hand,31,0.94
+2023-09-04,English (British),produces,HAND,hand,32,0.85
+2023-09-04,English (British),produces,HAND,hand,33,0.93
+2023-09-04,English (British),produces,HAND,hand,34,0.7
+2023-09-04,English (British),produces,HAND,hand,35,0.7
+2023-09-04,Kigiriama,produces,HAND,Mukono,8,0.2
+2023-09-04,Kigiriama,produces,HAND,Mukono,9,0
+2023-09-04,Kigiriama,produces,HAND,Mukono,10,0
+2023-09-04,Kigiriama,produces,HAND,Mukono,11,0
+2023-09-04,Kigiriama,produces,HAND,Mukono,12,0
+2023-09-04,Kigiriama,produces,HAND,Mukono,13,0.06
+2023-09-04,Kigiriama,produces,HAND,Mukono,14,0.06
+2023-09-04,Kigiriama,produces,HAND,Mukono,15,0
+2023-09-04,Kigiriama,produces,HAND,Mukono,16,0
+2023-09-04,Kigiriama,produces,HAND,Mukono,17,0.17
+2023-09-04,Kigiriama,produces,HAND,Mukono,18,0.15
+2023-09-04,Kigiriama,produces,HAND,Mukono,19,0.25
+2023-09-04,Kigiriama,produces,HAND,Mukono,20,0.07
+2023-09-04,Kigiriama,produces,HAND,Mukono,21,0.17
+2023-09-04,Kigiriama,produces,HAND,Mukono,22,0.78
+2023-09-04,Kigiriama,produces,HAND,Mukono,23,0.25
+2023-09-04,Kigiriama,produces,HAND,Mukono,24,0.86
+2023-09-04,Kigiriama,produces,HAND,Mukono,25,1
+2023-09-04,Kigiriama,produces,HAND,Mukono,26,0.83
+2023-09-04,Kigiriama,produces,HAND,Mukono,27,1
+2023-09-04,Kigiriama,produces,HAND,Mukono,28,0
+2023-09-04,Kigiriama,produces,HAND,Mukono,29,0.6
+2023-09-04,Kigiriama,produces,HAND,Mukono,30,1
+2023-09-04,English (Australian),produces,HAND,hand,12,0
+2023-09-04,English (Australian),produces,HAND,hand,13,0.02
+2023-09-04,English (Australian),produces,HAND,hand,14,0.04
+2023-09-04,English (Australian),produces,HAND,hand,15,0.04
+2023-09-04,English (Australian),produces,HAND,hand,16,0.05
+2023-09-04,English (Australian),produces,HAND,hand,17,0.12
+2023-09-04,English (Australian),produces,HAND,hand,18,0.17
+2023-09-04,English (Australian),produces,HAND,hand,19,0.31
+2023-09-04,English (Australian),produces,HAND,hand,20,0.45
+2023-09-04,English (Australian),produces,HAND,hand,21,0.51
+2023-09-04,English (Australian),produces,HAND,hand,22,0.75
+2023-09-04,English (Australian),produces,HAND,hand,23,0.82
+2023-09-04,English (Australian),produces,HAND,hand,24,0.71
+2023-09-04,English (Australian),produces,HAND,hand,25,0.82
+2023-09-04,English (Australian),produces,HAND,hand,26,0.86
+2023-09-04,English (Australian),produces,HAND,hand,27,0.93
+2023-09-04,English (Australian),produces,HAND,hand,28,0.94
+2023-09-04,English (Australian),produces,HAND,hand,29,0.89
+2023-09-04,English (Australian),produces,HAND,hand,30,0.96
+2023-09-04,Korean,produces,HAND,손,8,0
+2023-09-04,Korean,produces,HAND,손,9,0
+2023-09-04,Korean,produces,HAND,손,10,0.02
+2023-09-04,Korean,produces,HAND,손,11,0.05
+2023-09-04,Korean,produces,HAND,손,12,0.08
+2023-09-04,Korean,produces,HAND,손,13,0.15
+2023-09-04,Korean,produces,HAND,손,14,0.19
+2023-09-04,Korean,produces,HAND,손,15,0.11
+2023-09-04,Korean,produces,HAND,손,16,0.2
+2023-09-04,Korean,produces,HAND,손,17,0.3
+2023-09-04,Korean,produces,HAND,손,18,0.4
+2023-09-04,Korean,produces,HAND,손,19,0.37
+2023-09-04,Korean,produces,HAND,손,20,0.49
+2023-09-04,Korean,produces,HAND,손,21,0.57
+2023-09-04,Korean,produces,HAND,손,22,0.64
+2023-09-04,Korean,produces,HAND,손,23,0.64
+2023-09-04,Korean,produces,HAND,손,24,0.77
+2023-09-04,Korean,produces,HAND,손,25,0.88
+2023-09-04,Korean,produces,HAND,손,26,0.86
+2023-09-04,Korean,produces,HAND,손,27,0.83
+2023-09-04,Korean,produces,HAND,손,28,0.87
+2023-09-04,Korean,produces,HAND,손,29,0.94
+2023-09-04,Korean,produces,HAND,손,30,0.87
+2023-09-04,Korean,produces,HAND,손,31,0.96
+2023-09-04,Korean,produces,HAND,손,32,0.94
+2023-09-04,Korean,produces,HAND,손,33,0.93
+2023-09-04,Korean,produces,HAND,손,34,0.99
+2023-09-04,Korean,produces,HAND,손,35,0.91
+2023-09-04,Korean,produces,HAND,손,36,0.99
+2023-09-04,French (French),produces,HAND,main,8,0
+2023-09-04,French (French),produces,HAND,main,9,0
+2023-09-04,French (French),produces,HAND,main,11,0
+2023-09-04,French (French),produces,HAND,main,12,0
+2023-09-04,French (French),produces,HAND,main,13,0.01
+2023-09-04,French (French),produces,HAND,main,14,0
+2023-09-04,French (French),produces,HAND,main,15,0
+2023-09-04,French (French),produces,HAND,main,16,0.11
+2023-09-04,French (French),produces,HAND,main,17,0.19
+2023-09-04,French (French),produces,HAND,main,18,0
+2023-09-04,French (French),produces,HAND,main,19,0.91
+2023-09-04,French (French),produces,HAND,main,20,0.45
+2023-09-04,French (French),produces,HAND,main,21,0.7
+2023-09-04,French (French),produces,HAND,main,22,0.73
+2023-09-04,French (French),produces,HAND,main,23,0.61
+2023-09-04,French (French),produces,HAND,main,24,0.77
+2023-09-04,French (French),produces,HAND,main,25,0.86
+2023-09-04,French (French),produces,HAND,main,26,0.81
+2023-09-04,French (French),produces,HAND,main,27,0.96
+2023-09-04,French (French),produces,HAND,main,28,0.91
+2023-09-04,French (French),produces,HAND,main,29,0.94
+2023-09-04,French (French),produces,HAND,main,30,0.97
+2023-09-04,Spanish (European),produces,HAND,mano/s,8,0
+2023-09-04,Spanish (European),produces,HAND,mano/s,9,0
+2023-09-04,Spanish (European),produces,HAND,mano/s,10,0
+2023-09-04,Spanish (European),produces,HAND,mano/s,11,0
+2023-09-04,Spanish (European),produces,HAND,mano/s,12,0
+2023-09-04,Spanish (European),produces,HAND,mano/s,13,0.02
+2023-09-04,Spanish (European),produces,HAND,mano/s,14,0.07
+2023-09-04,Spanish (European),produces,HAND,mano/s,15,0.11
+2023-09-04,Spanish (European),produces,HAND,mano/s,16,0.1
+2023-09-04,Spanish (European),produces,HAND,mano/s,17,0.13
+2023-09-04,Spanish (European),produces,HAND,mano/s,18,0.28
+2023-09-04,Spanish (European),produces,HAND,mano/s,19,0.3
+2023-09-04,Spanish (European),produces,HAND,mano/s,20,0.53
+2023-09-04,Spanish (European),produces,HAND,mano/s,21,0.61
+2023-09-04,Spanish (European),produces,HAND,mano/s,22,0.68
+2023-09-04,Spanish (European),produces,HAND,mano/s,23,0.8
+2023-09-04,Spanish (European),produces,HAND,mano/s,24,0.78
+2023-09-04,Spanish (European),produces,HAND,mano/s,25,0.74
+2023-09-04,Spanish (European),produces,HAND,mano/s,26,0.94
+2023-09-04,Spanish (European),produces,HAND,mano/s,27,0.91
+2023-09-04,Spanish (European),produces,HAND,mano/s,28,1
+2023-09-04,Spanish (European),produces,HAND,mano/s,29,0.98
+2023-09-04,Spanish (European),produces,HAND,mano/s,30,0.95
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),8,0.01
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),9,0
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),10,0
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),11,0
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),12,0.01
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),13,0.01
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),14,0.03
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),15,0.06
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),16,0.19
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),17,0.19
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),18,0.39
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),19,0.45
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),20,0.64
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),21,0.63
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),22,0.73
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),23,0.79
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),24,0.8
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),25,0.89
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),26,0.85
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),27,0.9
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),28,0.91
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),29,0.94
+2023-09-04,Portuguese (European),produces,HAND,Mão(s),30,0.88
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",8,0.01
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",9,0.01
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",10,0.01
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",11,0.06
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",12,0.04
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",13,0.1
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",14,0.19
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",15,0.26
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",16,0.18
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",17,0.2
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",18,0.3
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",19,0.4
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",20,0.45
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",21,0.53
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",22,0.61
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",23,0.68
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",24,0.72
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",25,0.77
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",26,0.79
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",27,0.82
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",28,0.9
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",29,0.94
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",30,0.93
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",31,0.92
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",32,0.89
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",33,0.96
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",34,0.92
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",35,0.98
+2023-09-04,Mandarin (Taiwanese),produces,HAND,"手, 牽(手)",36,0.97
+2023-09-04,Dutch,produces,HAND,hand,8,0
+2023-09-04,Dutch,produces,HAND,hand,9,0
+2023-09-04,Dutch,produces,HAND,hand,10,0
+2023-09-04,Dutch,produces,HAND,hand,11,0
+2023-09-04,Dutch,produces,HAND,hand,12,0
+2023-09-04,Dutch,produces,HAND,hand,13,0
+2023-09-04,Dutch,produces,HAND,hand,14,0
+2023-09-04,Dutch,produces,HAND,hand,15,0.04
+2023-09-04,Dutch,produces,HAND,hand,16,0.03
+2023-09-04,Dutch,produces,HAND,hand,17,0.11
+2023-09-04,Dutch,produces,HAND,hand,18,0.16
+2023-09-04,Dutch,produces,HAND,hand,19,0.35
+2023-09-04,Dutch,produces,HAND,hand,20,0.35
+2023-09-04,Dutch,produces,HAND,hand,21,0.29
+2023-09-04,Dutch,produces,HAND,hand,22,0.57
+2023-09-04,Dutch,produces,HAND,hand,23,0.71
+2023-09-04,Dutch,produces,HAND,hand,24,0.83
+2023-09-04,Dutch,produces,HAND,hand,25,0.95
+2023-09-04,Dutch,produces,HAND,hand,26,0.57
+2023-09-04,Dutch,produces,HAND,hand,27,1
+2023-09-04,Dutch,produces,HAND,hand,28,0.93
+2023-09-04,Dutch,produces,HAND,hand,29,0.96
+2023-09-04,Dutch,produces,HAND,hand,30,1
+2023-09-04,Dutch,produces,HAND,hand,31,1
+2023-09-04,Hungarian,produces,HAND,kéz,16,0.19
+2023-09-04,Hungarian,produces,HAND,kéz,17,0.22
+2023-09-04,Hungarian,produces,HAND,kéz,18,0.28
+2023-09-04,Hungarian,produces,HAND,kéz,19,0.46
+2023-09-04,Hungarian,produces,HAND,kéz,20,0.5
+2023-09-04,Hungarian,produces,HAND,kéz,21,0.72
+2023-09-04,Hungarian,produces,HAND,kéz,22,0.59
+2023-09-04,Hungarian,produces,HAND,kéz,23,0.56
+2023-09-04,Hungarian,produces,HAND,kéz,24,0.58
+2023-09-04,Hungarian,produces,HAND,kéz,25,0.86
+2023-09-04,Hungarian,produces,HAND,kéz,26,0.78
+2023-09-04,Hungarian,produces,HAND,kéz,27,0.73
+2023-09-04,Hungarian,produces,HAND,kéz,28,0.87
+2023-09-04,Hungarian,produces,HAND,kéz,29,0.83
+2023-09-04,Hungarian,produces,HAND,kéz,30,0.83
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,16,0.38
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,17,0.24
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,18,0.39
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,19,0.43
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,20,0.48
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,21,0.63
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,22,0.58
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,23,0.69
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,24,0.67
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,25,0.74
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,26,0.8
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,27,0.82
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,28,0.76
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,29,0.86
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,30,0.94
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,31,1
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,32,1
+2023-09-04,Spanish (Argentinian),produces,HAND,mano,33,1
+2023-09-04,Persian,produces,HAND,دست,8,0
+2023-09-04,Persian,produces,HAND,دست,9,0.05
+2023-09-04,Persian,produces,HAND,دست,10,0.19
+2023-09-04,Persian,produces,HAND,دست,11,0.08
+2023-09-04,Persian,produces,HAND,دست,12,0.18
+2023-09-04,Persian,produces,HAND,دست,13,0.07
+2023-09-04,Persian,produces,HAND,دست,14,0.27
+2023-09-04,Persian,produces,HAND,دست,15,0.08
+2023-09-04,Persian,produces,HAND,دست,16,0.25
+2023-09-04,Persian,produces,HAND,دست,17,1
+2023-09-04,Persian,produces,HAND,دست,18,0.8
+2023-09-04,Persian,produces,HAND,دست,20,0.67
+2023-09-04,Persian,produces,HAND,دست,21,0
+2023-09-04,Persian,produces,HAND,دست,22,1
+2023-09-04,Persian,produces,HAND,دست,23,1
+2023-09-04,Persian,produces,HAND,دست,24,0.9
+2023-09-04,Persian,produces,HAND,دست,25,1
+2023-09-04,Persian,produces,HAND,دست,26,1
+2023-09-04,Persian,produces,HAND,دست,27,1
+2023-09-04,Persian,produces,HAND,دست,28,1
+2023-09-04,Persian,produces,HAND,دست,29,1
+2023-09-04,Persian,produces,HAND,دست,30,1

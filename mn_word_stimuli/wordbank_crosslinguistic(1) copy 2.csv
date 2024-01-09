@@ -1,0 +1,645 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,TREE,樹,16,0.09
+2023-09-04,Cantonese,produces,TREE,樹,17,0.07
+2023-09-04,Cantonese,produces,TREE,樹,18,0.25
+2023-09-04,Cantonese,produces,TREE,樹,19,0.24
+2023-09-04,Cantonese,produces,TREE,樹,20,0.41
+2023-09-04,Cantonese,produces,TREE,樹,21,0.44
+2023-09-04,Cantonese,produces,TREE,樹,22,0.37
+2023-09-04,Cantonese,produces,TREE,樹,23,0.43
+2023-09-04,Cantonese,produces,TREE,樹,24,0.5
+2023-09-04,Cantonese,produces,TREE,樹,25,0.68
+2023-09-04,Cantonese,produces,TREE,樹,26,0.65
+2023-09-04,Cantonese,produces,TREE,樹,27,0.77
+2023-09-04,Cantonese,produces,TREE,樹,28,0.79
+2023-09-04,Cantonese,produces,TREE,樹,29,0.76
+2023-09-04,Cantonese,produces,TREE,樹,30,0.88
+2023-09-04,Croatian,produces,TREE,drvo,8,0
+2023-09-04,Croatian,produces,TREE,drvo,9,0
+2023-09-04,Croatian,produces,TREE,drvo,10,0
+2023-09-04,Croatian,produces,TREE,drvo,11,0
+2023-09-04,Croatian,produces,TREE,drvo,12,0
+2023-09-04,Croatian,produces,TREE,drvo,13,0
+2023-09-04,Croatian,produces,TREE,drvo,14,0.04
+2023-09-04,Croatian,produces,TREE,drvo,15,0
+2023-09-04,Croatian,produces,TREE,drvo,16,0.09
+2023-09-04,Croatian,produces,TREE,drvo,17,0.12
+2023-09-04,Croatian,produces,TREE,drvo,18,0.09
+2023-09-04,Croatian,produces,TREE,drvo,19,0.19
+2023-09-04,Croatian,produces,TREE,drvo,20,0.27
+2023-09-04,Croatian,produces,TREE,drvo,21,0.24
+2023-09-04,Croatian,produces,TREE,drvo,22,0.42
+2023-09-04,Croatian,produces,TREE,drvo,23,0.58
+2023-09-04,Croatian,produces,TREE,drvo,24,0.73
+2023-09-04,Croatian,produces,TREE,drvo,25,0.7
+2023-09-04,Croatian,produces,TREE,drvo,26,0.76
+2023-09-04,Croatian,produces,TREE,drvo,27,0.88
+2023-09-04,Croatian,produces,TREE,drvo,28,0.86
+2023-09-04,Croatian,produces,TREE,drvo,29,0.86
+2023-09-04,Croatian,produces,TREE,drvo,30,0.86
+2023-09-04,Danish,produces,TREE,træ,8,0
+2023-09-04,Danish,produces,TREE,træ,9,0
+2023-09-04,Danish,produces,TREE,træ,10,0
+2023-09-04,Danish,produces,TREE,træ,11,0
+2023-09-04,Danish,produces,TREE,træ,12,0.01
+2023-09-04,Danish,produces,TREE,træ,13,0
+2023-09-04,Danish,produces,TREE,træ,14,0
+2023-09-04,Danish,produces,TREE,træ,15,0
+2023-09-04,Danish,produces,TREE,træ,16,0.02
+2023-09-04,Danish,produces,TREE,træ,17,0.04
+2023-09-04,Danish,produces,TREE,træ,18,0.09
+2023-09-04,Danish,produces,TREE,træ,19,0.12
+2023-09-04,Danish,produces,TREE,træ,20,0.22
+2023-09-04,Danish,produces,TREE,træ,21,0.23
+2023-09-04,Danish,produces,TREE,træ,22,0.41
+2023-09-04,Danish,produces,TREE,træ,23,0.41
+2023-09-04,Danish,produces,TREE,træ,24,0.5
+2023-09-04,Danish,produces,TREE,træ,25,0.59
+2023-09-04,Danish,produces,TREE,træ,26,0.71
+2023-09-04,Danish,produces,TREE,træ,27,0.76
+2023-09-04,Danish,produces,TREE,træ,28,0.81
+2023-09-04,Danish,produces,TREE,træ,29,0.81
+2023-09-04,Danish,produces,TREE,træ,30,0.89
+2023-09-04,Danish,produces,TREE,træ,31,0.94
+2023-09-04,Danish,produces,TREE,træ,32,0.95
+2023-09-04,Danish,produces,TREE,træ,33,0.92
+2023-09-04,Danish,produces,TREE,træ,34,0.95
+2023-09-04,Danish,produces,TREE,træ,35,0.95
+2023-09-04,Danish,produces,TREE,træ,36,0.98
+2023-09-04,English (American),produces,TREE,tree,8,0
+2023-09-04,English (American),produces,TREE,tree,9,0.02
+2023-09-04,English (American),produces,TREE,tree,10,0.01
+2023-09-04,English (American),produces,TREE,tree,11,0.04
+2023-09-04,English (American),produces,TREE,tree,12,0.04
+2023-09-04,English (American),produces,TREE,tree,13,0.03
+2023-09-04,English (American),produces,TREE,tree,14,0.07
+2023-09-04,English (American),produces,TREE,tree,15,0.12
+2023-09-04,English (American),produces,TREE,tree,16,0.19
+2023-09-04,English (American),produces,TREE,tree,17,0.21
+2023-09-04,English (American),produces,TREE,tree,18,0.3
+2023-09-04,English (American),produces,TREE,tree,19,0.43
+2023-09-04,English (American),produces,TREE,tree,20,0.47
+2023-09-04,English (American),produces,TREE,tree,21,0.59
+2023-09-04,English (American),produces,TREE,tree,22,0.58
+2023-09-04,English (American),produces,TREE,tree,23,0.7
+2023-09-04,English (American),produces,TREE,tree,24,0.75
+2023-09-04,English (American),produces,TREE,tree,25,0.79
+2023-09-04,English (American),produces,TREE,tree,26,0.8
+2023-09-04,English (American),produces,TREE,tree,27,0.86
+2023-09-04,English (American),produces,TREE,tree,28,0.93
+2023-09-04,English (American),produces,TREE,tree,29,0.87
+2023-09-04,English (American),produces,TREE,tree,30,0.86
+2023-09-04,French (Quebecois),produces,TREE,arbre,8,0
+2023-09-04,French (Quebecois),produces,TREE,arbre,9,0.02
+2023-09-04,French (Quebecois),produces,TREE,arbre,10,0.02
+2023-09-04,French (Quebecois),produces,TREE,arbre,11,0
+2023-09-04,French (Quebecois),produces,TREE,arbre,12,0.01
+2023-09-04,French (Quebecois),produces,TREE,arbre,13,0
+2023-09-04,French (Quebecois),produces,TREE,arbre,14,0.02
+2023-09-04,French (Quebecois),produces,TREE,arbre,15,0.05
+2023-09-04,French (Quebecois),produces,TREE,arbre,16,0.04
+2023-09-04,French (Quebecois),produces,TREE,arbre,17,0.06
+2023-09-04,French (Quebecois),produces,TREE,arbre,18,0.15
+2023-09-04,French (Quebecois),produces,TREE,arbre,19,0.2
+2023-09-04,French (Quebecois),produces,TREE,arbre,20,0.34
+2023-09-04,French (Quebecois),produces,TREE,arbre,21,0.3
+2023-09-04,French (Quebecois),produces,TREE,arbre,22,0.41
+2023-09-04,French (Quebecois),produces,TREE,arbre,23,0.52
+2023-09-04,French (Quebecois),produces,TREE,arbre,24,0.51
+2023-09-04,French (Quebecois),produces,TREE,arbre,25,0.64
+2023-09-04,French (Quebecois),produces,TREE,arbre,26,0.71
+2023-09-04,French (Quebecois),produces,TREE,arbre,27,0.76
+2023-09-04,French (Quebecois),produces,TREE,arbre,28,0.83
+2023-09-04,French (Quebecois),produces,TREE,arbre,29,0.95
+2023-09-04,French (Quebecois),produces,TREE,arbre,30,0.84
+2023-09-04,German,produces,TREE,Baum,18,0.26
+2023-09-04,German,produces,TREE,Baum,19,0.46
+2023-09-04,German,produces,TREE,Baum,20,0.44
+2023-09-04,German,produces,TREE,Baum,21,0.55
+2023-09-04,German,produces,TREE,Baum,22,0.6
+2023-09-04,German,produces,TREE,Baum,23,0.81
+2023-09-04,German,produces,TREE,Baum,24,0.73
+2023-09-04,German,produces,TREE,Baum,25,0.81
+2023-09-04,German,produces,TREE,Baum,26,0.88
+2023-09-04,German,produces,TREE,Baum,27,0.8
+2023-09-04,German,produces,TREE,Baum,28,0.9
+2023-09-04,German,produces,TREE,Baum,29,0.92
+2023-09-04,German,produces,TREE,Baum,30,0.99
+2023-09-04,Hebrew,produces,TREE,עץ,11,0
+2023-09-04,Hebrew,produces,TREE,עץ,12,0
+2023-09-04,Hebrew,produces,TREE,עץ,13,0.25
+2023-09-04,Hebrew,produces,TREE,עץ,14,0
+2023-09-04,Hebrew,produces,TREE,עץ,15,0
+2023-09-04,Hebrew,produces,TREE,עץ,16,0.17
+2023-09-04,Hebrew,produces,TREE,עץ,17,0
+2023-09-04,Hebrew,produces,TREE,עץ,19,0.25
+2023-09-04,Hebrew,produces,TREE,עץ,20,0.44
+2023-09-04,Hebrew,produces,TREE,עץ,21,0.5
+2023-09-04,Hebrew,produces,TREE,עץ,22,0.33
+2023-09-04,Hebrew,produces,TREE,עץ,23,0.43
+2023-09-04,Hebrew,produces,TREE,עץ,24,0.73
+2023-09-04,Hebrew,produces,TREE,עץ,25,0.85
+2023-09-04,Hebrew,produces,TREE,עץ,26,0.81
+2023-09-04,Hebrew,produces,TREE,עץ,27,0.9
+2023-09-04,Hebrew,produces,TREE,עץ,28,0.91
+2023-09-04,Hebrew,produces,TREE,עץ,29,0.98
+2023-09-04,Hebrew,produces,TREE,עץ,30,0.89
+2023-09-04,Hebrew,produces,TREE,עץ,31,0.86
+2023-09-04,Hebrew,produces,TREE,עץ,32,0.94
+2023-09-04,Hebrew,produces,TREE,עץ,33,0.9
+2023-09-04,Hebrew,produces,TREE,עץ,34,0.89
+2023-09-04,Hebrew,produces,TREE,עץ,35,0.78
+2023-09-04,Hebrew,produces,TREE,עץ,36,0.8
+2023-09-04,Italian,produces,TREE,albero,7,0
+2023-09-04,Italian,produces,TREE,albero,8,0
+2023-09-04,Italian,produces,TREE,albero,9,0
+2023-09-04,Italian,produces,TREE,albero,10,0
+2023-09-04,Italian,produces,TREE,albero,11,0
+2023-09-04,Italian,produces,TREE,albero,12,0
+2023-09-04,Italian,produces,TREE,albero,13,0
+2023-09-04,Italian,produces,TREE,albero,14,0
+2023-09-04,Italian,produces,TREE,albero,15,0
+2023-09-04,Italian,produces,TREE,albero,16,0.02
+2023-09-04,Italian,produces,TREE,albero,17,0.1
+2023-09-04,Italian,produces,TREE,albero,18,0.09
+2023-09-04,Italian,produces,TREE,albero,19,0.12
+2023-09-04,Italian,produces,TREE,albero,20,0.19
+2023-09-04,Italian,produces,TREE,albero,21,0.36
+2023-09-04,Italian,produces,TREE,albero,22,0.39
+2023-09-04,Italian,produces,TREE,albero,23,0.5
+2023-09-04,Italian,produces,TREE,albero,24,0.6
+2023-09-04,Italian,produces,TREE,albero,25,0.74
+2023-09-04,Italian,produces,TREE,albero,26,0.71
+2023-09-04,Italian,produces,TREE,albero,27,0.72
+2023-09-04,Italian,produces,TREE,albero,28,0.82
+2023-09-04,Italian,produces,TREE,albero,29,0.89
+2023-09-04,Italian,produces,TREE,albero,30,0.87
+2023-09-04,Italian,produces,TREE,albero,31,0.95
+2023-09-04,Italian,produces,TREE,albero,32,0.96
+2023-09-04,Italian,produces,TREE,albero,33,1
+2023-09-04,Italian,produces,TREE,albero,34,1
+2023-09-04,Italian,produces,TREE,albero,35,0.93
+2023-09-04,Italian,produces,TREE,albero,36,0.9
+2023-09-04,Mandarin (Beijing),produces,TREE,树,12,0.02
+2023-09-04,Mandarin (Beijing),produces,TREE,树,13,0.04
+2023-09-04,Mandarin (Beijing),produces,TREE,树,14,0.08
+2023-09-04,Mandarin (Beijing),produces,TREE,树,15,0.13
+2023-09-04,Mandarin (Beijing),produces,TREE,树,16,0.19
+2023-09-04,Mandarin (Beijing),produces,TREE,树,17,0.46
+2023-09-04,Mandarin (Beijing),produces,TREE,树,18,0.43
+2023-09-04,Mandarin (Beijing),produces,TREE,树,19,0.58
+2023-09-04,Mandarin (Beijing),produces,TREE,树,20,0.66
+2023-09-04,Mandarin (Beijing),produces,TREE,树,21,0.76
+2023-09-04,Mandarin (Beijing),produces,TREE,树,22,0.81
+2023-09-04,Mandarin (Beijing),produces,TREE,树,23,0.88
+2023-09-04,Mandarin (Beijing),produces,TREE,树,24,0.84
+2023-09-04,Mandarin (Beijing),produces,TREE,树,25,0.89
+2023-09-04,Mandarin (Beijing),produces,TREE,树,26,0.92
+2023-09-04,Mandarin (Beijing),produces,TREE,树,27,0.93
+2023-09-04,Mandarin (Beijing),produces,TREE,树,28,0.96
+2023-09-04,Mandarin (Beijing),produces,TREE,树,29,0.97
+2023-09-04,Mandarin (Beijing),produces,TREE,树,30,0.96
+2023-09-04,Norwegian,produces,TREE,tre,8,0.03
+2023-09-04,Norwegian,produces,TREE,tre,9,0
+2023-09-04,Norwegian,produces,TREE,tre,10,0
+2023-09-04,Norwegian,produces,TREE,tre,11,0
+2023-09-04,Norwegian,produces,TREE,tre,12,0
+2023-09-04,Norwegian,produces,TREE,tre,13,0
+2023-09-04,Norwegian,produces,TREE,tre,14,0
+2023-09-04,Norwegian,produces,TREE,tre,15,0.03
+2023-09-04,Norwegian,produces,TREE,tre,16,0.03
+2023-09-04,Norwegian,produces,TREE,tre,17,0.05
+2023-09-04,Norwegian,produces,TREE,tre,18,0.1
+2023-09-04,Norwegian,produces,TREE,tre,19,0.13
+2023-09-04,Norwegian,produces,TREE,tre,20,0.22
+2023-09-04,Norwegian,produces,TREE,tre,21,0.25
+2023-09-04,Norwegian,produces,TREE,tre,22,0.33
+2023-09-04,Norwegian,produces,TREE,tre,23,0.46
+2023-09-04,Norwegian,produces,TREE,tre,24,0.5
+2023-09-04,Norwegian,produces,TREE,tre,25,0.6
+2023-09-04,Norwegian,produces,TREE,tre,26,0.7
+2023-09-04,Norwegian,produces,TREE,tre,27,0.74
+2023-09-04,Norwegian,produces,TREE,tre,28,0.77
+2023-09-04,Norwegian,produces,TREE,tre,29,0.83
+2023-09-04,Norwegian,produces,TREE,tre,30,0.84
+2023-09-04,Norwegian,produces,TREE,tre,31,0.9
+2023-09-04,Norwegian,produces,TREE,tre,32,0.9
+2023-09-04,Norwegian,produces,TREE,tre,33,0.93
+2023-09-04,Norwegian,produces,TREE,tre,34,0.93
+2023-09-04,Norwegian,produces,TREE,tre,35,0.96
+2023-09-04,Norwegian,produces,TREE,tre,36,0.95
+2023-09-04,Russian,produces,TREE,дерево,8,0
+2023-09-04,Russian,produces,TREE,дерево,9,0
+2023-09-04,Russian,produces,TREE,дерево,10,0.02
+2023-09-04,Russian,produces,TREE,дерево,11,0.01
+2023-09-04,Russian,produces,TREE,дерево,12,0.01
+2023-09-04,Russian,produces,TREE,дерево,13,0
+2023-09-04,Russian,produces,TREE,дерево,14,0.03
+2023-09-04,Russian,produces,TREE,дерево,15,0.02
+2023-09-04,Russian,produces,TREE,дерево,16,0.02
+2023-09-04,Russian,produces,TREE,дерево,17,0.09
+2023-09-04,Russian,produces,TREE,дерево,18,0.12
+2023-09-04,Russian,produces,TREE,дерево,19,0.17
+2023-09-04,Russian,produces,TREE,дерево,20,0.27
+2023-09-04,Russian,produces,TREE,дерево,21,0.49
+2023-09-04,Russian,produces,TREE,дерево,22,0.39
+2023-09-04,Russian,produces,TREE,дерево,23,0.5
+2023-09-04,Russian,produces,TREE,дерево,24,0.56
+2023-09-04,Russian,produces,TREE,дерево,25,0.64
+2023-09-04,Russian,produces,TREE,дерево,26,0.62
+2023-09-04,Russian,produces,TREE,дерево,27,0.6
+2023-09-04,Russian,produces,TREE,дерево,28,0.72
+2023-09-04,Russian,produces,TREE,дерево,29,0.86
+2023-09-04,Russian,produces,TREE,дерево,30,0.82
+2023-09-04,Russian,produces,TREE,дерево,31,0.89
+2023-09-04,Russian,produces,TREE,дерево,32,0.8
+2023-09-04,Russian,produces,TREE,дерево,33,0.96
+2023-09-04,Russian,produces,TREE,дерево,34,0.93
+2023-09-04,Russian,produces,TREE,дерево,35,0.91
+2023-09-04,Russian,produces,TREE,дерево,36,0.9
+2023-09-04,Slovak,produces,TREE,strom,8,0
+2023-09-04,Slovak,produces,TREE,strom,9,0
+2023-09-04,Slovak,produces,TREE,strom,10,0
+2023-09-04,Slovak,produces,TREE,strom,11,0.02
+2023-09-04,Slovak,produces,TREE,strom,12,0.01
+2023-09-04,Slovak,produces,TREE,strom,13,0.01
+2023-09-04,Slovak,produces,TREE,strom,14,0.05
+2023-09-04,Slovak,produces,TREE,strom,15,0.06
+2023-09-04,Slovak,produces,TREE,strom,16,0.09
+2023-09-04,Slovak,produces,TREE,strom,17,0.1
+2023-09-04,Slovak,produces,TREE,strom,18,0.22
+2023-09-04,Slovak,produces,TREE,strom,19,0.23
+2023-09-04,Slovak,produces,TREE,strom,20,0.32
+2023-09-04,Slovak,produces,TREE,strom,21,0.41
+2023-09-04,Slovak,produces,TREE,strom,22,0.42
+2023-09-04,Slovak,produces,TREE,strom,23,0.51
+2023-09-04,Slovak,produces,TREE,strom,24,0.63
+2023-09-04,Slovak,produces,TREE,strom,25,0.64
+2023-09-04,Slovak,produces,TREE,strom,26,0.79
+2023-09-04,Slovak,produces,TREE,strom,27,0.81
+2023-09-04,Slovak,produces,TREE,strom,28,0.7
+2023-09-04,Slovak,produces,TREE,strom,29,0.73
+2023-09-04,Slovak,produces,TREE,strom,30,0.73
+2023-09-04,Slovak,produces,TREE,strom,31,0.76
+2023-09-04,Slovak,produces,TREE,strom,32,0.92
+2023-09-04,Slovak,produces,TREE,strom,33,0.91
+2023-09-04,Slovak,produces,TREE,strom,34,0.85
+2023-09-04,Slovak,produces,TREE,strom,35,0.85
+2023-09-04,Slovak,produces,TREE,strom,36,0.88
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,8,0
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,9,0
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,10,0
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,11,0
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,12,0.01
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,13,0.06
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,14,0.03
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,15,0.03
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,16,0.14
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,17,0.2
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,18,0.21
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,19,0.35
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,20,0.41
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,21,0.4
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,22,0.43
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,23,0.38
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,24,0.52
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,25,0.59
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,26,0.64
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,27,0.82
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,28,0.7
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,29,0.76
+2023-09-04,Spanish (Mexican),produces,TREE,árbol,30,0.64
+2023-09-04,Turkish,produces,TREE,Ağaç,8,0
+2023-09-04,Turkish,produces,TREE,Ağaç,9,0
+2023-09-04,Turkish,produces,TREE,Ağaç,10,0.01
+2023-09-04,Turkish,produces,TREE,Ağaç,11,0.02
+2023-09-04,Turkish,produces,TREE,Ağaç,12,0
+2023-09-04,Turkish,produces,TREE,Ağaç,13,0
+2023-09-04,Turkish,produces,TREE,Ağaç,14,0.03
+2023-09-04,Turkish,produces,TREE,Ağaç,15,0.05
+2023-09-04,Turkish,produces,TREE,Ağaç,16,0.08
+2023-09-04,Turkish,produces,TREE,Ağaç,17,0.16
+2023-09-04,Turkish,produces,TREE,Ağaç,18,0.13
+2023-09-04,Turkish,produces,TREE,Ağaç,19,0.23
+2023-09-04,Turkish,produces,TREE,Ağaç,20,0.3
+2023-09-04,Turkish,produces,TREE,Ağaç,21,0.36
+2023-09-04,Turkish,produces,TREE,Ağaç,22,0.34
+2023-09-04,Turkish,produces,TREE,Ağaç,23,0.5
+2023-09-04,Turkish,produces,TREE,Ağaç,24,0.54
+2023-09-04,Turkish,produces,TREE,Ağaç,25,0.6
+2023-09-04,Turkish,produces,TREE,Ağaç,26,0.64
+2023-09-04,Turkish,produces,TREE,Ağaç,27,0.72
+2023-09-04,Turkish,produces,TREE,Ağaç,28,0.75
+2023-09-04,Turkish,produces,TREE,Ağaç,29,0.78
+2023-09-04,Turkish,produces,TREE,Ağaç,30,0.82
+2023-09-04,Turkish,produces,TREE,Ağaç,31,0.82
+2023-09-04,Turkish,produces,TREE,Ağaç,32,0.86
+2023-09-04,Turkish,produces,TREE,Ağaç,33,0.88
+2023-09-04,Turkish,produces,TREE,Ağaç,34,0.87
+2023-09-04,Turkish,produces,TREE,Ağaç,35,0.91
+2023-09-04,Turkish,produces,TREE,Ağaç,36,0.95
+2023-09-04,English (British),produces,TREE,tree,12,0
+2023-09-04,English (British),produces,TREE,tree,13,0
+2023-09-04,English (British),produces,TREE,tree,14,0.08
+2023-09-04,English (British),produces,TREE,tree,15,0.06
+2023-09-04,English (British),produces,TREE,tree,16,0.08
+2023-09-04,English (British),produces,TREE,tree,17,0.16
+2023-09-04,English (British),produces,TREE,tree,18,0.24
+2023-09-04,English (British),produces,TREE,tree,19,0.35
+2023-09-04,English (British),produces,TREE,tree,20,0.5
+2023-09-04,English (British),produces,TREE,tree,21,0.57
+2023-09-04,English (British),produces,TREE,tree,22,0.57
+2023-09-04,English (British),produces,TREE,tree,23,0.71
+2023-09-04,English (British),produces,TREE,tree,24,0.8
+2023-09-04,English (British),produces,TREE,tree,25,0.72
+2023-09-04,Kigiriama,produces,TREE,Muhi,8,0
+2023-09-04,Kigiriama,produces,TREE,Muhi,9,0
+2023-09-04,Kigiriama,produces,TREE,Muhi,10,0
+2023-09-04,Kigiriama,produces,TREE,Muhi,11,0
+2023-09-04,Kigiriama,produces,TREE,Muhi,12,0
+2023-09-04,Kigiriama,produces,TREE,Muhi,13,0.06
+2023-09-04,Kigiriama,produces,TREE,Muhi,14,0
+2023-09-04,Kigiriama,produces,TREE,Muhi,15,0
+2023-09-04,Kigiriama,produces,TREE,Muhi,16,0
+2023-09-04,Kigiriama,produces,TREE,Muhi,17,0
+2023-09-04,Kigiriama,produces,TREE,Muhi,18,0
+2023-09-04,Kigiriama,produces,TREE,Muhi,19,0.12
+2023-09-04,Kigiriama,produces,TREE,Muhi,20,0.14
+2023-09-04,Kigiriama,produces,TREE,Muhi,21,0.17
+2023-09-04,Kigiriama,produces,TREE,Muhi,22,0.33
+2023-09-04,Kigiriama,produces,TREE,Muhi,23,0.25
+2023-09-04,Kigiriama,produces,TREE,Muhi,24,0.71
+2023-09-04,Kigiriama,produces,TREE,Muhi,25,0.67
+2023-09-04,Kigiriama,produces,TREE,Muhi,26,0.5
+2023-09-04,Kigiriama,produces,TREE,Muhi,27,1
+2023-09-04,Kigiriama,produces,TREE,Muhi,28,0
+2023-09-04,Kigiriama,produces,TREE,Muhi,29,0.6
+2023-09-04,Kigiriama,produces,TREE,Muhi,30,1
+2023-09-04,Czech,produces,TREE,strom,16,0.03
+2023-09-04,Czech,produces,TREE,strom,17,0.1
+2023-09-04,Czech,produces,TREE,strom,18,0.04
+2023-09-04,Czech,produces,TREE,strom,19,0.04
+2023-09-04,Czech,produces,TREE,strom,20,0.27
+2023-09-04,Czech,produces,TREE,strom,21,0.26
+2023-09-04,Czech,produces,TREE,strom,22,0.36
+2023-09-04,Czech,produces,TREE,strom,23,0.48
+2023-09-04,Czech,produces,TREE,strom,24,0.6
+2023-09-04,Czech,produces,TREE,strom,25,0.63
+2023-09-04,Czech,produces,TREE,strom,26,0.73
+2023-09-04,Czech,produces,TREE,strom,27,0.7
+2023-09-04,Czech,produces,TREE,strom,28,0.85
+2023-09-04,Czech,produces,TREE,strom,29,0.67
+2023-09-04,Czech,produces,TREE,strom,30,0.85
+2023-09-04,English (Australian),produces,TREE,tree,12,0
+2023-09-04,English (Australian),produces,TREE,tree,13,0.02
+2023-09-04,English (Australian),produces,TREE,tree,14,0.05
+2023-09-04,English (Australian),produces,TREE,tree,15,0.06
+2023-09-04,English (Australian),produces,TREE,tree,16,0.12
+2023-09-04,English (Australian),produces,TREE,tree,17,0.19
+2023-09-04,English (Australian),produces,TREE,tree,18,0.31
+2023-09-04,English (Australian),produces,TREE,tree,19,0.38
+2023-09-04,English (Australian),produces,TREE,tree,20,0.51
+2023-09-04,English (Australian),produces,TREE,tree,21,0.4
+2023-09-04,English (Australian),produces,TREE,tree,22,0.71
+2023-09-04,English (Australian),produces,TREE,tree,23,0.7
+2023-09-04,English (Australian),produces,TREE,tree,24,0.71
+2023-09-04,English (Australian),produces,TREE,tree,25,0.79
+2023-09-04,English (Australian),produces,TREE,tree,26,0.79
+2023-09-04,English (Australian),produces,TREE,tree,27,0.9
+2023-09-04,English (Australian),produces,TREE,tree,28,0.93
+2023-09-04,English (Australian),produces,TREE,tree,29,0.92
+2023-09-04,English (Australian),produces,TREE,tree,30,0.92
+2023-09-04,Latvian,produces,TREE,koks,8,0
+2023-09-04,Latvian,produces,TREE,koks,9,0.06
+2023-09-04,Latvian,produces,TREE,koks,10,0
+2023-09-04,Latvian,produces,TREE,koks,11,0
+2023-09-04,Latvian,produces,TREE,koks,12,0.06
+2023-09-04,Latvian,produces,TREE,koks,13,0
+2023-09-04,Latvian,produces,TREE,koks,14,0.04
+2023-09-04,Latvian,produces,TREE,koks,15,0
+2023-09-04,Latvian,produces,TREE,koks,16,0.06
+2023-09-04,Latvian,produces,TREE,koks,17,0.19
+2023-09-04,Latvian,produces,TREE,koks,18,0.19
+2023-09-04,Latvian,produces,TREE,koks,19,0.21
+2023-09-04,Latvian,produces,TREE,koks,20,0.44
+2023-09-04,Latvian,produces,TREE,koks,21,0.5
+2023-09-04,Latvian,produces,TREE,koks,22,0.5
+2023-09-04,Latvian,produces,TREE,koks,23,0.64
+2023-09-04,Latvian,produces,TREE,koks,24,0.7
+2023-09-04,Latvian,produces,TREE,koks,25,0.66
+2023-09-04,Latvian,produces,TREE,koks,26,0.77
+2023-09-04,Latvian,produces,TREE,koks,27,0.78
+2023-09-04,Latvian,produces,TREE,koks,28,0.83
+2023-09-04,Latvian,produces,TREE,koks,29,0.83
+2023-09-04,Latvian,produces,TREE,koks,30,0.88
+2023-09-04,Latvian,produces,TREE,koks,31,0.89
+2023-09-04,Latvian,produces,TREE,koks,32,0.84
+2023-09-04,Latvian,produces,TREE,koks,33,0.97
+2023-09-04,Latvian,produces,TREE,koks,34,0.88
+2023-09-04,Latvian,produces,TREE,koks,35,0.9
+2023-09-04,Latvian,produces,TREE,koks,36,0.86
+2023-09-04,Korean,produces,TREE,나무,8,0
+2023-09-04,Korean,produces,TREE,나무,9,0
+2023-09-04,Korean,produces,TREE,나무,10,0.02
+2023-09-04,Korean,produces,TREE,나무,11,0.02
+2023-09-04,Korean,produces,TREE,나무,12,0.03
+2023-09-04,Korean,produces,TREE,나무,13,0.04
+2023-09-04,Korean,produces,TREE,나무,14,0.05
+2023-09-04,Korean,produces,TREE,나무,15,0.05
+2023-09-04,Korean,produces,TREE,나무,16,0.09
+2023-09-04,Korean,produces,TREE,나무,17,0.13
+2023-09-04,Korean,produces,TREE,나무,18,0.23
+2023-09-04,Korean,produces,TREE,나무,19,0.23
+2023-09-04,Korean,produces,TREE,나무,20,0.3
+2023-09-04,Korean,produces,TREE,나무,21,0.35
+2023-09-04,Korean,produces,TREE,나무,22,0.46
+2023-09-04,Korean,produces,TREE,나무,23,0.54
+2023-09-04,Korean,produces,TREE,나무,24,0.69
+2023-09-04,Korean,produces,TREE,나무,25,0.75
+2023-09-04,Korean,produces,TREE,나무,26,0.8
+2023-09-04,Korean,produces,TREE,나무,27,0.81
+2023-09-04,Korean,produces,TREE,나무,28,0.77
+2023-09-04,Korean,produces,TREE,나무,29,0.88
+2023-09-04,Korean,produces,TREE,나무,30,0.83
+2023-09-04,Korean,produces,TREE,나무,31,0.93
+2023-09-04,Korean,produces,TREE,나무,32,0.91
+2023-09-04,Korean,produces,TREE,나무,33,0.91
+2023-09-04,Korean,produces,TREE,나무,34,0.97
+2023-09-04,Korean,produces,TREE,나무,35,0.93
+2023-09-04,Korean,produces,TREE,나무,36,0.97
+2023-09-04,French (French),produces,TREE,arbre,8,0
+2023-09-04,French (French),produces,TREE,arbre,9,0
+2023-09-04,French (French),produces,TREE,arbre,11,0
+2023-09-04,French (French),produces,TREE,arbre,12,0
+2023-09-04,French (French),produces,TREE,arbre,13,0
+2023-09-04,French (French),produces,TREE,arbre,14,0
+2023-09-04,French (French),produces,TREE,arbre,15,0
+2023-09-04,French (French),produces,TREE,arbre,16,0.01
+2023-09-04,French (French),produces,TREE,arbre,17,0
+2023-09-04,French (French),produces,TREE,arbre,18,0
+2023-09-04,French (French),produces,TREE,arbre,19,0.27
+2023-09-04,French (French),produces,TREE,arbre,20,0.17
+2023-09-04,French (French),produces,TREE,arbre,21,0.16
+2023-09-04,French (French),produces,TREE,arbre,22,0.27
+2023-09-04,French (French),produces,TREE,arbre,23,0.34
+2023-09-04,French (French),produces,TREE,arbre,24,0.38
+2023-09-04,French (French),produces,TREE,arbre,25,0.57
+2023-09-04,French (French),produces,TREE,arbre,26,0.5
+2023-09-04,French (French),produces,TREE,arbre,27,0.58
+2023-09-04,French (French),produces,TREE,arbre,28,0.71
+2023-09-04,French (French),produces,TREE,arbre,29,0.83
+2023-09-04,French (French),produces,TREE,arbre,30,0.76
+2023-09-04,Spanish (European),produces,TREE,árbol,8,0
+2023-09-04,Spanish (European),produces,TREE,árbol,9,0
+2023-09-04,Spanish (European),produces,TREE,árbol,10,0
+2023-09-04,Spanish (European),produces,TREE,árbol,11,0
+2023-09-04,Spanish (European),produces,TREE,árbol,12,0
+2023-09-04,Spanish (European),produces,TREE,árbol,13,0.02
+2023-09-04,Spanish (European),produces,TREE,árbol,14,0.02
+2023-09-04,Spanish (European),produces,TREE,árbol,15,0.03
+2023-09-04,Spanish (European),produces,TREE,árbol,16,0.08
+2023-09-04,Spanish (European),produces,TREE,árbol,17,0.08
+2023-09-04,Spanish (European),produces,TREE,árbol,18,0.16
+2023-09-04,Spanish (European),produces,TREE,árbol,19,0.3
+2023-09-04,Spanish (European),produces,TREE,árbol,20,0.36
+2023-09-04,Spanish (European),produces,TREE,árbol,21,0.39
+2023-09-04,Spanish (European),produces,TREE,árbol,22,0.63
+2023-09-04,Spanish (European),produces,TREE,árbol,23,0.5
+2023-09-04,Spanish (European),produces,TREE,árbol,24,0.6
+2023-09-04,Spanish (European),produces,TREE,árbol,25,0.6
+2023-09-04,Spanish (European),produces,TREE,árbol,26,0.78
+2023-09-04,Spanish (European),produces,TREE,árbol,27,0.82
+2023-09-04,Spanish (European),produces,TREE,árbol,28,0.82
+2023-09-04,Spanish (European),produces,TREE,árbol,29,0.93
+2023-09-04,Spanish (European),produces,TREE,árbol,30,0.78
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),8,0
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),9,0
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),10,0
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),11,0
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),12,0
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),13,0
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),14,0.01
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),15,0.01
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),16,0.02
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),17,0.02
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),18,0.06
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),19,0.07
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),20,0.11
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),21,0.12
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),22,0.22
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),23,0.27
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),24,0.38
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),25,0.5
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),26,0.55
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),27,0.64
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),28,0.66
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),29,0.68
+2023-09-04,Portuguese (European),produces,TREE,Árvore(s),30,0.69
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,8,0
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,9,0
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,10,0
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,11,0.01
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,12,0
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,13,0.01
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,14,0.05
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,15,0.04
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,16,0.02
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,17,0.16
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,18,0.2
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,19,0.36
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,20,0.31
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,21,0.44
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,22,0.45
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,23,0.5
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,24,0.63
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,25,0.7
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,26,0.67
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,27,0.73
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,28,0.82
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,29,0.88
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,30,0.89
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,31,0.92
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,32,0.84
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,33,0.93
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,34,0.91
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,35,0.98
+2023-09-04,Mandarin (Taiwanese),produces,TREE,樹,36,0.94
+2023-09-04,Dutch,produces,TREE,boom,8,0
+2023-09-04,Dutch,produces,TREE,boom,9,0
+2023-09-04,Dutch,produces,TREE,boom,10,0.01
+2023-09-04,Dutch,produces,TREE,boom,11,0.03
+2023-09-04,Dutch,produces,TREE,boom,12,0
+2023-09-04,Dutch,produces,TREE,boom,13,0
+2023-09-04,Dutch,produces,TREE,boom,14,0.04
+2023-09-04,Dutch,produces,TREE,boom,15,0.2
+2023-09-04,Dutch,produces,TREE,boom,16,0.12
+2023-09-04,Dutch,produces,TREE,boom,17,0.25
+2023-09-04,Dutch,produces,TREE,boom,18,0.26
+2023-09-04,Dutch,produces,TREE,boom,19,0.24
+2023-09-04,Dutch,produces,TREE,boom,20,0.39
+2023-09-04,Dutch,produces,TREE,boom,21,0.77
+2023-09-04,Dutch,produces,TREE,boom,22,0.57
+2023-09-04,Dutch,produces,TREE,boom,23,0.8
+2023-09-04,Dutch,produces,TREE,boom,24,0.9
+2023-09-04,Dutch,produces,TREE,boom,25,0.83
+2023-09-04,Dutch,produces,TREE,boom,26,0.67
+2023-09-04,Dutch,produces,TREE,boom,27,0.8
+2023-09-04,Dutch,produces,TREE,boom,28,1
+2023-09-04,Dutch,produces,TREE,boom,29,0.96
+2023-09-04,Dutch,produces,TREE,boom,30,0.96
+2023-09-04,Dutch,produces,TREE,boom,31,1
+2023-09-04,Hungarian,produces,TREE,fa,16,0.24
+2023-09-04,Hungarian,produces,TREE,fa,17,0.22
+2023-09-04,Hungarian,produces,TREE,fa,18,0.39
+2023-09-04,Hungarian,produces,TREE,fa,19,0.46
+2023-09-04,Hungarian,produces,TREE,fa,20,0.44
+2023-09-04,Hungarian,produces,TREE,fa,21,0.67
+2023-09-04,Hungarian,produces,TREE,fa,22,0.59
+2023-09-04,Hungarian,produces,TREE,fa,23,0.83
+2023-09-04,Hungarian,produces,TREE,fa,24,0.74
+2023-09-04,Hungarian,produces,TREE,fa,25,0.84
+2023-09-04,Hungarian,produces,TREE,fa,26,0.83
+2023-09-04,Hungarian,produces,TREE,fa,27,0.85
+2023-09-04,Hungarian,produces,TREE,fa,28,0.83
+2023-09-04,Hungarian,produces,TREE,fa,29,0.83
+2023-09-04,Hungarian,produces,TREE,fa,30,0.83
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,16,0.21
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,17,0.24
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,18,0.16
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,19,0.23
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,20,0.35
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,21,0.37
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,22,0.39
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,23,0.51
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,24,0.53
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,25,0.63
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,26,0.6
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,27,0.57
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,28,0.57
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,29,0.75
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,30,0.77
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,31,0
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,32,1
+2023-09-04,Spanish (Argentinian),produces,TREE,árbol,33,0.5
+2023-09-04,Persian,produces,TREE,درخت,8,0
+2023-09-04,Persian,produces,TREE,درخت,9,0.05
+2023-09-04,Persian,produces,TREE,درخت,10,0
+2023-09-04,Persian,produces,TREE,درخت,11,0
+2023-09-04,Persian,produces,TREE,درخت,12,0
+2023-09-04,Persian,produces,TREE,درخت,13,0
+2023-09-04,Persian,produces,TREE,درخت,14,0
+2023-09-04,Persian,produces,TREE,درخت,15,0.17
+2023-09-04,Persian,produces,TREE,درخت,16,0
+2023-09-04,Persian,produces,TREE,درخت,17,0
+2023-09-04,Persian,produces,TREE,درخت,18,0.2
+2023-09-04,Persian,produces,TREE,درخت,20,0.33
+2023-09-04,Persian,produces,TREE,درخت,21,0
+2023-09-04,Persian,produces,TREE,درخت,22,0
+2023-09-04,Persian,produces,TREE,درخت,23,1
+2023-09-04,Persian,produces,TREE,درخت,24,0.7
+2023-09-04,Persian,produces,TREE,درخت,25,0.67
+2023-09-04,Persian,produces,TREE,درخت,26,1
+2023-09-04,Persian,produces,TREE,درخت,27,0.8
+2023-09-04,Persian,produces,TREE,درخت,28,0.89
+2023-09-04,Persian,produces,TREE,درخت,29,1
+2023-09-04,Persian,produces,TREE,درخت,30,1

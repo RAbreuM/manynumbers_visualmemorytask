@@ -1,0 +1,668 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,BIRD,雀,16,0.11
+2023-09-04,Cantonese,produces,BIRD,雀,17,0.3
+2023-09-04,Cantonese,produces,BIRD,雀,18,0.4
+2023-09-04,Cantonese,produces,BIRD,雀,19,0.35
+2023-09-04,Cantonese,produces,BIRD,雀,20,0.57
+2023-09-04,Cantonese,produces,BIRD,雀,21,0.68
+2023-09-04,Cantonese,produces,BIRD,雀,22,0.63
+2023-09-04,Cantonese,produces,BIRD,雀,23,0.66
+2023-09-04,Cantonese,produces,BIRD,雀,24,0.68
+2023-09-04,Cantonese,produces,BIRD,雀,25,0.83
+2023-09-04,Cantonese,produces,BIRD,雀,26,0.71
+2023-09-04,Cantonese,produces,BIRD,雀,27,0.87
+2023-09-04,Cantonese,produces,BIRD,雀,28,0.86
+2023-09-04,Cantonese,produces,BIRD,雀,29,0.89
+2023-09-04,Cantonese,produces,BIRD,雀,30,0.93
+2023-09-04,Croatian,produces,BIRD,ptica,8,0
+2023-09-04,Croatian,produces,BIRD,ptica,9,0
+2023-09-04,Croatian,produces,BIRD,ptica,10,0.09
+2023-09-04,Croatian,produces,BIRD,ptica,11,0
+2023-09-04,Croatian,produces,BIRD,ptica,12,0.03
+2023-09-04,Croatian,produces,BIRD,ptica,13,0.09
+2023-09-04,Croatian,produces,BIRD,ptica,14,0.21
+2023-09-04,Croatian,produces,BIRD,ptica,15,0.08
+2023-09-04,Croatian,produces,BIRD,ptica,16,0.34
+2023-09-04,Croatian,produces,BIRD,ptica,17,0.28
+2023-09-04,Croatian,produces,BIRD,ptica,18,0.5
+2023-09-04,Croatian,produces,BIRD,ptica,19,0.43
+2023-09-04,Croatian,produces,BIRD,ptica,20,0.77
+2023-09-04,Croatian,produces,BIRD,ptica,21,0.59
+2023-09-04,Croatian,produces,BIRD,ptica,22,0.75
+2023-09-04,Croatian,produces,BIRD,ptica,23,0.65
+2023-09-04,Croatian,produces,BIRD,ptica,24,0.93
+2023-09-04,Croatian,produces,BIRD,ptica,25,0.77
+2023-09-04,Croatian,produces,BIRD,ptica,26,0.9
+2023-09-04,Croatian,produces,BIRD,ptica,27,0.92
+2023-09-04,Croatian,produces,BIRD,ptica,28,1
+2023-09-04,Croatian,produces,BIRD,ptica,29,0.82
+2023-09-04,Croatian,produces,BIRD,ptica,30,0.96
+2023-09-04,Danish,produces,BIRD,fugl,8,0.01
+2023-09-04,Danish,produces,BIRD,fugl,9,0
+2023-09-04,Danish,produces,BIRD,fugl,10,0
+2023-09-04,Danish,produces,BIRD,fugl,11,0
+2023-09-04,Danish,produces,BIRD,fugl,12,0.02
+2023-09-04,Danish,produces,BIRD,fugl,13,0.04
+2023-09-04,Danish,produces,BIRD,fugl,14,0.03
+2023-09-04,Danish,produces,BIRD,fugl,15,0.08
+2023-09-04,Danish,produces,BIRD,fugl,16,0.16
+2023-09-04,Danish,produces,BIRD,fugl,17,0.22
+2023-09-04,Danish,produces,BIRD,fugl,18,0.3
+2023-09-04,Danish,produces,BIRD,fugl,19,0.39
+2023-09-04,Danish,produces,BIRD,fugl,20,0.5
+2023-09-04,Danish,produces,BIRD,fugl,21,0.63
+2023-09-04,Danish,produces,BIRD,fugl,22,0.7
+2023-09-04,Danish,produces,BIRD,fugl,23,0.74
+2023-09-04,Danish,produces,BIRD,fugl,24,0.82
+2023-09-04,Danish,produces,BIRD,fugl,25,0.87
+2023-09-04,Danish,produces,BIRD,fugl,26,0.9
+2023-09-04,Danish,produces,BIRD,fugl,27,0.93
+2023-09-04,Danish,produces,BIRD,fugl,28,0.95
+2023-09-04,Danish,produces,BIRD,fugl,29,0.92
+2023-09-04,Danish,produces,BIRD,fugl,30,0.98
+2023-09-04,Danish,produces,BIRD,fugl,31,0.98
+2023-09-04,Danish,produces,BIRD,fugl,32,0.99
+2023-09-04,Danish,produces,BIRD,fugl,33,0.97
+2023-09-04,Danish,produces,BIRD,fugl,34,0.99
+2023-09-04,Danish,produces,BIRD,fugl,35,0.99
+2023-09-04,Danish,produces,BIRD,fugl,36,1
+2023-09-04,English (American),produces,BIRD,bird,8,0.03
+2023-09-04,English (American),produces,BIRD,bird,9,0.01
+2023-09-04,English (American),produces,BIRD,bird,10,0.02
+2023-09-04,English (American),produces,BIRD,bird,11,0.05
+2023-09-04,English (American),produces,BIRD,bird,12,0.08
+2023-09-04,English (American),produces,BIRD,bird,13,0.12
+2023-09-04,English (American),produces,BIRD,bird,14,0.13
+2023-09-04,English (American),produces,BIRD,bird,15,0.27
+2023-09-04,English (American),produces,BIRD,bird,16,0.42
+2023-09-04,English (American),produces,BIRD,bird,17,0.39
+2023-09-04,English (American),produces,BIRD,bird,18,0.49
+2023-09-04,English (American),produces,BIRD,bird,19,0.62
+2023-09-04,English (American),produces,BIRD,bird,20,0.66
+2023-09-04,English (American),produces,BIRD,bird,21,0.7
+2023-09-04,English (American),produces,BIRD,bird,22,0.7
+2023-09-04,English (American),produces,BIRD,bird,23,0.77
+2023-09-04,English (American),produces,BIRD,bird,24,0.82
+2023-09-04,English (American),produces,BIRD,bird,25,0.89
+2023-09-04,English (American),produces,BIRD,bird,26,0.89
+2023-09-04,English (American),produces,BIRD,bird,27,0.89
+2023-09-04,English (American),produces,BIRD,bird,28,0.95
+2023-09-04,English (American),produces,BIRD,bird,29,0.9
+2023-09-04,English (American),produces,BIRD,bird,30,0.9
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,8,0
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,9,0
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,10,0.02
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,11,0
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,12,0.03
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,13,0.04
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,14,0.06
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,15,0.09
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,16,0.24
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,17,0.38
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,18,0.48
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,19,0.52
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,20,0.64
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,21,0.7
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,22,0.82
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,23,0.9
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,24,0.77
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,25,0.89
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,26,0.9
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,27,0.98
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,28,0.97
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,29,0.93
+2023-09-04,French (Quebecois),produces,BIRD,oiseau,30,0.93
+2023-09-04,German,produces,BIRD,Vogel,18,0.19
+2023-09-04,German,produces,BIRD,Vogel,19,0.2
+2023-09-04,German,produces,BIRD,Vogel,20,0.28
+2023-09-04,German,produces,BIRD,Vogel,21,0.38
+2023-09-04,German,produces,BIRD,Vogel,22,0.54
+2023-09-04,German,produces,BIRD,Vogel,23,0.66
+2023-09-04,German,produces,BIRD,Vogel,24,0.58
+2023-09-04,German,produces,BIRD,Vogel,25,0.75
+2023-09-04,German,produces,BIRD,Vogel,26,0.79
+2023-09-04,German,produces,BIRD,Vogel,27,0.75
+2023-09-04,German,produces,BIRD,Vogel,28,0.85
+2023-09-04,German,produces,BIRD,Vogel,29,0.87
+2023-09-04,German,produces,BIRD,Vogel,30,0.95
+2023-09-04,Hebrew,produces,BIRD,ציפור,11,0
+2023-09-04,Hebrew,produces,BIRD,ציפור,12,0
+2023-09-04,Hebrew,produces,BIRD,ציפור,13,0.25
+2023-09-04,Hebrew,produces,BIRD,ציפור,14,0
+2023-09-04,Hebrew,produces,BIRD,ציפור,15,0
+2023-09-04,Hebrew,produces,BIRD,ציפור,16,0.33
+2023-09-04,Hebrew,produces,BIRD,ציפור,17,0.33
+2023-09-04,Hebrew,produces,BIRD,ציפור,19,0.75
+2023-09-04,Hebrew,produces,BIRD,ציפור,20,0.56
+2023-09-04,Hebrew,produces,BIRD,ציפור,21,0.5
+2023-09-04,Hebrew,produces,BIRD,ציפור,22,0.67
+2023-09-04,Hebrew,produces,BIRD,ציפור,23,0.57
+2023-09-04,Hebrew,produces,BIRD,ציפור,24,0.82
+2023-09-04,Hebrew,produces,BIRD,ציפור,25,0.88
+2023-09-04,Hebrew,produces,BIRD,ציפור,26,0.9
+2023-09-04,Hebrew,produces,BIRD,ציפור,27,0.97
+2023-09-04,Hebrew,produces,BIRD,ציפור,28,0.95
+2023-09-04,Hebrew,produces,BIRD,ציפור,29,0.98
+2023-09-04,Hebrew,produces,BIRD,ציפור,30,0.93
+2023-09-04,Hebrew,produces,BIRD,ציפור,31,0.97
+2023-09-04,Hebrew,produces,BIRD,ציפור,32,0.92
+2023-09-04,Hebrew,produces,BIRD,ציפור,33,0.9
+2023-09-04,Hebrew,produces,BIRD,ציפור,34,0.85
+2023-09-04,Hebrew,produces,BIRD,ציפור,35,0.83
+2023-09-04,Hebrew,produces,BIRD,ציפור,36,0.8
+2023-09-04,Italian,produces,BIRD,uccellino,7,0
+2023-09-04,Italian,produces,BIRD,uccellino,8,0
+2023-09-04,Italian,produces,BIRD,uccellino,9,0
+2023-09-04,Italian,produces,BIRD,uccellino,10,0
+2023-09-04,Italian,produces,BIRD,uccellino,11,0
+2023-09-04,Italian,produces,BIRD,uccellino,12,0.01
+2023-09-04,Italian,produces,BIRD,uccellino,13,0
+2023-09-04,Italian,produces,BIRD,uccellino,14,0.03
+2023-09-04,Italian,produces,BIRD,uccellino,15,0.01
+2023-09-04,Italian,produces,BIRD,uccellino,16,0.07
+2023-09-04,Italian,produces,BIRD,uccellino,17,0.12
+2023-09-04,Italian,produces,BIRD,uccellino,18,0.16
+2023-09-04,Italian,produces,BIRD,uccellino,19,0.19
+2023-09-04,Italian,produces,BIRD,uccellino,20,0.17
+2023-09-04,Italian,produces,BIRD,uccellino,21,0.36
+2023-09-04,Italian,produces,BIRD,uccellino,22,0.36
+2023-09-04,Italian,produces,BIRD,uccellino,23,0.53
+2023-09-04,Italian,produces,BIRD,uccellino,24,0.59
+2023-09-04,Italian,produces,BIRD,uccellino,25,0.72
+2023-09-04,Italian,produces,BIRD,uccellino,26,0.76
+2023-09-04,Italian,produces,BIRD,uccellino,27,0.77
+2023-09-04,Italian,produces,BIRD,uccellino,28,0.75
+2023-09-04,Italian,produces,BIRD,uccellino,29,0.84
+2023-09-04,Italian,produces,BIRD,uccellino,30,0.88
+2023-09-04,Italian,produces,BIRD,uccellino,31,0.95
+2023-09-04,Italian,produces,BIRD,uccellino,32,0.91
+2023-09-04,Italian,produces,BIRD,uccellino,33,1
+2023-09-04,Italian,produces,BIRD,uccellino,34,1
+2023-09-04,Italian,produces,BIRD,uccellino,35,0.93
+2023-09-04,Italian,produces,BIRD,uccellino,36,0.95
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,12,0
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,13,0.1
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,14,0.04
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,15,0.17
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,16,0.31
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,17,0.46
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,18,0.49
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,19,0.62
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,20,0.69
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,21,0.81
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,22,0.8
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,23,0.88
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,24,0.88
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,25,0.96
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,26,0.91
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,27,0.96
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,28,0.93
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,29,0.94
+2023-09-04,Mandarin (Beijing),produces,BIRD,鸟,30,0.95
+2023-09-04,Norwegian,produces,BIRD,fugl,8,0.03
+2023-09-04,Norwegian,produces,BIRD,fugl,9,0.01
+2023-09-04,Norwegian,produces,BIRD,fugl,10,0
+2023-09-04,Norwegian,produces,BIRD,fugl,11,0.02
+2023-09-04,Norwegian,produces,BIRD,fugl,12,0.02
+2023-09-04,Norwegian,produces,BIRD,fugl,13,0.06
+2023-09-04,Norwegian,produces,BIRD,fugl,14,0.06
+2023-09-04,Norwegian,produces,BIRD,fugl,15,0.11
+2023-09-04,Norwegian,produces,BIRD,fugl,16,0.11
+2023-09-04,Norwegian,produces,BIRD,fugl,17,0.13
+2023-09-04,Norwegian,produces,BIRD,fugl,18,0.22
+2023-09-04,Norwegian,produces,BIRD,fugl,19,0.29
+2023-09-04,Norwegian,produces,BIRD,fugl,20,0.37
+2023-09-04,Norwegian,produces,BIRD,fugl,21,0.41
+2023-09-04,Norwegian,produces,BIRD,fugl,22,0.51
+2023-09-04,Norwegian,produces,BIRD,fugl,23,0.55
+2023-09-04,Norwegian,produces,BIRD,fugl,24,0.64
+2023-09-04,Norwegian,produces,BIRD,fugl,25,0.7
+2023-09-04,Norwegian,produces,BIRD,fugl,26,0.76
+2023-09-04,Norwegian,produces,BIRD,fugl,27,0.81
+2023-09-04,Norwegian,produces,BIRD,fugl,28,0.84
+2023-09-04,Norwegian,produces,BIRD,fugl,29,0.83
+2023-09-04,Norwegian,produces,BIRD,fugl,30,0.85
+2023-09-04,Norwegian,produces,BIRD,fugl,31,0.9
+2023-09-04,Norwegian,produces,BIRD,fugl,32,0.9
+2023-09-04,Norwegian,produces,BIRD,fugl,33,0.94
+2023-09-04,Norwegian,produces,BIRD,fugl,34,0.92
+2023-09-04,Norwegian,produces,BIRD,fugl,35,0.96
+2023-09-04,Norwegian,produces,BIRD,fugl,36,0.94
+2023-09-04,Russian,produces,BIRD,птичка,8,0
+2023-09-04,Russian,produces,BIRD,птичка,9,0
+2023-09-04,Russian,produces,BIRD,птичка,10,0
+2023-09-04,Russian,produces,BIRD,птичка,11,0.01
+2023-09-04,Russian,produces,BIRD,птичка,12,0.04
+2023-09-04,Russian,produces,BIRD,птичка,13,0.07
+2023-09-04,Russian,produces,BIRD,птичка,14,0.09
+2023-09-04,Russian,produces,BIRD,птичка,15,0.04
+2023-09-04,Russian,produces,BIRD,птичка,16,0.09
+2023-09-04,Russian,produces,BIRD,птичка,17,0.17
+2023-09-04,Russian,produces,BIRD,птичка,18,0.19
+2023-09-04,Russian,produces,BIRD,птичка,19,0.22
+2023-09-04,Russian,produces,BIRD,птичка,20,0.22
+2023-09-04,Russian,produces,BIRD,птичка,21,0.42
+2023-09-04,Russian,produces,BIRD,птичка,22,0.47
+2023-09-04,Russian,produces,BIRD,птичка,23,0.52
+2023-09-04,Russian,produces,BIRD,птичка,24,0.59
+2023-09-04,Russian,produces,BIRD,птичка,25,0.61
+2023-09-04,Russian,produces,BIRD,птичка,26,0.67
+2023-09-04,Russian,produces,BIRD,птичка,27,0.63
+2023-09-04,Russian,produces,BIRD,птичка,28,0.82
+2023-09-04,Russian,produces,BIRD,птичка,29,0.83
+2023-09-04,Russian,produces,BIRD,птичка,30,0.82
+2023-09-04,Russian,produces,BIRD,птичка,31,0.87
+2023-09-04,Russian,produces,BIRD,птичка,32,0.85
+2023-09-04,Russian,produces,BIRD,птичка,33,0.85
+2023-09-04,Russian,produces,BIRD,птичка,34,0.88
+2023-09-04,Russian,produces,BIRD,птичка,35,0.94
+2023-09-04,Russian,produces,BIRD,птичка,36,0.86
+2023-09-04,Slovak,produces,BIRD,vtáčik,8,0
+2023-09-04,Slovak,produces,BIRD,vtáčik,9,0.03
+2023-09-04,Slovak,produces,BIRD,vtáčik,10,0.03
+2023-09-04,Slovak,produces,BIRD,vtáčik,11,0.06
+2023-09-04,Slovak,produces,BIRD,vtáčik,12,0.06
+2023-09-04,Slovak,produces,BIRD,vtáčik,13,0.18
+2023-09-04,Slovak,produces,BIRD,vtáčik,14,0.24
+2023-09-04,Slovak,produces,BIRD,vtáčik,15,0.24
+2023-09-04,Slovak,produces,BIRD,vtáčik,16,0.34
+2023-09-04,Slovak,produces,BIRD,vtáčik,17,0.39
+2023-09-04,Slovak,produces,BIRD,vtáčik,18,0.54
+2023-09-04,Slovak,produces,BIRD,vtáčik,19,0.46
+2023-09-04,Slovak,produces,BIRD,vtáčik,20,0.63
+2023-09-04,Slovak,produces,BIRD,vtáčik,21,0.72
+2023-09-04,Slovak,produces,BIRD,vtáčik,22,0.66
+2023-09-04,Slovak,produces,BIRD,vtáčik,23,0.71
+2023-09-04,Slovak,produces,BIRD,vtáčik,24,0.85
+2023-09-04,Slovak,produces,BIRD,vtáčik,25,0.78
+2023-09-04,Slovak,produces,BIRD,vtáčik,26,0.85
+2023-09-04,Slovak,produces,BIRD,vtáčik,27,0.94
+2023-09-04,Slovak,produces,BIRD,vtáčik,28,0.87
+2023-09-04,Slovak,produces,BIRD,vtáčik,29,0.85
+2023-09-04,Slovak,produces,BIRD,vtáčik,30,0.84
+2023-09-04,Slovak,produces,BIRD,vtáčik,31,0.93
+2023-09-04,Slovak,produces,BIRD,vtáčik,32,0.96
+2023-09-04,Slovak,produces,BIRD,vtáčik,33,1
+2023-09-04,Slovak,produces,BIRD,vtáčik,34,0.96
+2023-09-04,Slovak,produces,BIRD,vtáčik,35,0.93
+2023-09-04,Slovak,produces,BIRD,vtáčik,36,0.88
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,8,0.03
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,9,0.02
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,10,0.01
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,11,0.04
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,12,0.03
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,13,0.1
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,14,0.07
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,15,0.11
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,16,0.22
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,17,0.31
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,18,0.24
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,19,0.42
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,20,0.49
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,21,0.38
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,22,0.45
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,23,0.45
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,24,0.6
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,25,0.59
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,26,0.63
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,27,0.75
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,28,0.64
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,29,0.71
+2023-09-04,Spanish (Mexican),produces,BIRD,pájaro,30,0.6
+2023-09-04,Swedish,produces,BIRD,fågel,8,0
+2023-09-04,Swedish,produces,BIRD,fågel,9,0
+2023-09-04,Swedish,produces,BIRD,fågel,10,0
+2023-09-04,Swedish,produces,BIRD,fågel,11,0
+2023-09-04,Swedish,produces,BIRD,fågel,12,0.01
+2023-09-04,Swedish,produces,BIRD,fågel,13,0
+2023-09-04,Swedish,produces,BIRD,fågel,14,0.07
+2023-09-04,Swedish,produces,BIRD,fågel,15,0.15
+2023-09-04,Swedish,produces,BIRD,"fågel, pippi",16,0.18
+2023-09-04,Swedish,produces,BIRD,"fågel, pippi",19,0.36
+2023-09-04,Swedish,produces,BIRD,"fågel, pippi",22,0.59
+2023-09-04,Swedish,produces,BIRD,"fågel, pippi",25,0.79
+2023-09-04,Swedish,produces,BIRD,"fågel, pippi",28,0.83
+2023-09-04,Turkish,produces,BIRD,Kuş,8,0.01
+2023-09-04,Turkish,produces,BIRD,Kuş,9,0
+2023-09-04,Turkish,produces,BIRD,Kuş,10,0.02
+2023-09-04,Turkish,produces,BIRD,Kuş,11,0.02
+2023-09-04,Turkish,produces,BIRD,Kuş,12,0.03
+2023-09-04,Turkish,produces,BIRD,Kuş,13,0.06
+2023-09-04,Turkish,produces,BIRD,Kuş,14,0.07
+2023-09-04,Turkish,produces,BIRD,Kuş,15,0.12
+2023-09-04,Turkish,produces,BIRD,Kuş,16,0.29
+2023-09-04,Turkish,produces,BIRD,Kuş,17,0.37
+2023-09-04,Turkish,produces,BIRD,Kuş,18,0.51
+2023-09-04,Turkish,produces,BIRD,Kuş,19,0.49
+2023-09-04,Turkish,produces,BIRD,Kuş,20,0.52
+2023-09-04,Turkish,produces,BIRD,Kuş,21,0.62
+2023-09-04,Turkish,produces,BIRD,Kuş,22,0.55
+2023-09-04,Turkish,produces,BIRD,Kuş,23,0.73
+2023-09-04,Turkish,produces,BIRD,Kuş,24,0.78
+2023-09-04,Turkish,produces,BIRD,Kuş,25,0.76
+2023-09-04,Turkish,produces,BIRD,Kuş,26,0.79
+2023-09-04,Turkish,produces,BIRD,Kuş,27,0.81
+2023-09-04,Turkish,produces,BIRD,Kuş,28,0.85
+2023-09-04,Turkish,produces,BIRD,Kuş,29,0.87
+2023-09-04,Turkish,produces,BIRD,Kuş,30,0.92
+2023-09-04,Turkish,produces,BIRD,Kuş,31,0.83
+2023-09-04,Turkish,produces,BIRD,Kuş,32,0.92
+2023-09-04,Turkish,produces,BIRD,Kuş,33,0.93
+2023-09-04,Turkish,produces,BIRD,Kuş,34,0.95
+2023-09-04,Turkish,produces,BIRD,Kuş,35,0.94
+2023-09-04,Turkish,produces,BIRD,Kuş,36,0.97
+2023-09-04,English (British),produces,BIRD,bird,12,0.04
+2023-09-04,English (British),produces,BIRD,bird,13,0
+2023-09-04,English (British),produces,BIRD,bird,14,0.12
+2023-09-04,English (British),produces,BIRD,bird,15,0.14
+2023-09-04,English (British),produces,BIRD,bird,16,0.24
+2023-09-04,English (British),produces,BIRD,bird,17,0.27
+2023-09-04,English (British),produces,BIRD,bird,18,0.29
+2023-09-04,English (British),produces,BIRD,bird,19,0.46
+2023-09-04,English (British),produces,BIRD,bird,20,0.63
+2023-09-04,English (British),produces,BIRD,bird,21,0.66
+2023-09-04,English (British),produces,BIRD,bird,22,0.75
+2023-09-04,English (British),produces,BIRD,bird,23,0.79
+2023-09-04,English (British),produces,BIRD,bird,24,0.8
+2023-09-04,English (British),produces,BIRD,bird,25,0.83
+2023-09-04,English (British),produces,BIRD,bird,26,0.86
+2023-09-04,English (British),produces,BIRD,bird,27,0.85
+2023-09-04,English (British),produces,BIRD,bird,28,0.86
+2023-09-04,English (British),produces,BIRD,bird,29,0.84
+2023-09-04,English (British),produces,BIRD,bird,30,0.98
+2023-09-04,English (British),produces,BIRD,bird,31,0.94
+2023-09-04,English (British),produces,BIRD,bird,32,0.93
+2023-09-04,English (British),produces,BIRD,bird,33,0.93
+2023-09-04,English (British),produces,BIRD,bird,34,0.8
+2023-09-04,English (British),produces,BIRD,bird,35,0.8
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachango",8,0
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachango",9,0
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachango",10,0
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachango",11,0
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachango",12,0.03
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachango",13,0
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachango",14,0
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachango",15,0.03
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",16,0
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",17,0
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",18,0
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",19,0.06
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",20,0.21
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",21,0.25
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",22,0.28
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",23,0
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",24,0.21
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",25,0.17
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",26,0.17
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",27,0.38
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",28,0
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",29,0.4
+2023-09-04,Kigiriama,produces,BIRD,"chri chri chri, Tsongo/Kachongo",30,1
+2023-09-04,Czech,produces,BIRD,pták,16,0
+2023-09-04,Czech,produces,BIRD,pták,17,0.07
+2023-09-04,Czech,produces,BIRD,pták,18,0.13
+2023-09-04,Czech,produces,BIRD,pták,19,0.04
+2023-09-04,Czech,produces,BIRD,pták,20,0.38
+2023-09-04,Czech,produces,BIRD,pták,21,0.35
+2023-09-04,Czech,produces,BIRD,pták,22,0.33
+2023-09-04,Czech,produces,BIRD,pták,23,0.37
+2023-09-04,Czech,produces,BIRD,pták,24,0.46
+2023-09-04,Czech,produces,BIRD,pták,25,0.54
+2023-09-04,Czech,produces,BIRD,pták,26,0.73
+2023-09-04,Czech,produces,BIRD,pták,27,0.62
+2023-09-04,Czech,produces,BIRD,pták,28,0.77
+2023-09-04,Czech,produces,BIRD,pták,29,0.72
+2023-09-04,Czech,produces,BIRD,pták,30,0.81
+2023-09-04,English (Australian),produces,BIRD,bird,12,0.11
+2023-09-04,English (Australian),produces,BIRD,bird,13,0.12
+2023-09-04,English (Australian),produces,BIRD,bird,14,0.25
+2023-09-04,English (Australian),produces,BIRD,bird,15,0.25
+2023-09-04,English (Australian),produces,BIRD,bird,16,0.35
+2023-09-04,English (Australian),produces,BIRD,bird,17,0.51
+2023-09-04,English (Australian),produces,BIRD,bird,18,0.58
+2023-09-04,English (Australian),produces,BIRD,bird,19,0.73
+2023-09-04,English (Australian),produces,BIRD,bird,20,0.82
+2023-09-04,English (Australian),produces,BIRD,bird,21,0.69
+2023-09-04,English (Australian),produces,BIRD,bird,22,0.89
+2023-09-04,English (Australian),produces,BIRD,bird,23,0.92
+2023-09-04,English (Australian),produces,BIRD,bird,24,0.84
+2023-09-04,English (Australian),produces,BIRD,bird,25,0.88
+2023-09-04,English (Australian),produces,BIRD,bird,26,0.92
+2023-09-04,English (Australian),produces,BIRD,bird,27,0.96
+2023-09-04,English (Australian),produces,BIRD,bird,28,0.94
+2023-09-04,English (Australian),produces,BIRD,bird,29,0.97
+2023-09-04,English (Australian),produces,BIRD,bird,30,0.98
+2023-09-04,Latvian,produces,BIRD,putns,8,0
+2023-09-04,Latvian,produces,BIRD,putns,9,0
+2023-09-04,Latvian,produces,BIRD,putns,10,0
+2023-09-04,Latvian,produces,BIRD,putns,11,0.07
+2023-09-04,Latvian,produces,BIRD,putns,12,0.12
+2023-09-04,Latvian,produces,BIRD,putns,13,0.05
+2023-09-04,Latvian,produces,BIRD,putns,14,0.12
+2023-09-04,Latvian,produces,BIRD,putns,15,0.17
+2023-09-04,Latvian,produces,BIRD,putns,16,0.12
+2023-09-04,Latvian,produces,BIRD,putns,17,0.19
+2023-09-04,Latvian,produces,BIRD,putns,18,0.29
+2023-09-04,Latvian,produces,BIRD,putns,19,0.29
+2023-09-04,Latvian,produces,BIRD,putns,20,0.38
+2023-09-04,Latvian,produces,BIRD,putns,21,0.69
+2023-09-04,Latvian,produces,BIRD,putns,22,0.47
+2023-09-04,Latvian,produces,BIRD,putns,23,0.68
+2023-09-04,Latvian,produces,BIRD,putns,24,0.77
+2023-09-04,Latvian,produces,BIRD,putns,25,0.79
+2023-09-04,Latvian,produces,BIRD,putns,26,0.82
+2023-09-04,Latvian,produces,BIRD,putns,27,0.72
+2023-09-04,Latvian,produces,BIRD,putns,28,0.78
+2023-09-04,Latvian,produces,BIRD,putns,29,0.83
+2023-09-04,Latvian,produces,BIRD,putns,30,0.81
+2023-09-04,Latvian,produces,BIRD,putns,31,0.84
+2023-09-04,Latvian,produces,BIRD,putns,32,0.68
+2023-09-04,Latvian,produces,BIRD,putns,33,0.84
+2023-09-04,Latvian,produces,BIRD,putns,34,0.88
+2023-09-04,Latvian,produces,BIRD,putns,35,0.81
+2023-09-04,Latvian,produces,BIRD,putns,36,0.86
+2023-09-04,Korean,produces,BIRD,새,8,0
+2023-09-04,Korean,produces,BIRD,새,9,0
+2023-09-04,Korean,produces,BIRD,새,10,0
+2023-09-04,Korean,produces,BIRD,새,11,0
+2023-09-04,Korean,produces,BIRD,새,12,0
+2023-09-04,Korean,produces,BIRD,새,13,0
+2023-09-04,Korean,produces,BIRD,새,14,0.06
+2023-09-04,Korean,produces,BIRD,새,15,0.03
+2023-09-04,Korean,produces,BIRD,새,16,0.11
+2023-09-04,Korean,produces,BIRD,새,17,0.16
+2023-09-04,Korean,produces,BIRD,새,18,0.28
+2023-09-04,Korean,produces,BIRD,새,19,0.28
+2023-09-04,Korean,produces,BIRD,새,20,0.25
+2023-09-04,Korean,produces,BIRD,새,21,0.48
+2023-09-04,Korean,produces,BIRD,새,22,0.44
+2023-09-04,Korean,produces,BIRD,새,23,0.5
+2023-09-04,Korean,produces,BIRD,새,24,0.72
+2023-09-04,Korean,produces,BIRD,새,25,0.77
+2023-09-04,Korean,produces,BIRD,새,26,0.74
+2023-09-04,Korean,produces,BIRD,새,27,0.81
+2023-09-04,Korean,produces,BIRD,새,28,0.78
+2023-09-04,Korean,produces,BIRD,새,29,0.86
+2023-09-04,Korean,produces,BIRD,새,30,0.87
+2023-09-04,Korean,produces,BIRD,새,31,0.97
+2023-09-04,Korean,produces,BIRD,새,32,0.9
+2023-09-04,Korean,produces,BIRD,새,33,0.91
+2023-09-04,Korean,produces,BIRD,새,34,0.92
+2023-09-04,Korean,produces,BIRD,새,35,0.91
+2023-09-04,Korean,produces,BIRD,새,36,0.96
+2023-09-04,French (French),produces,BIRD,oiseau,8,0
+2023-09-04,French (French),produces,BIRD,oiseau,9,0
+2023-09-04,French (French),produces,BIRD,oiseau,11,0
+2023-09-04,French (French),produces,BIRD,oiseau,12,0
+2023-09-04,French (French),produces,BIRD,oiseau,13,0.01
+2023-09-04,French (French),produces,BIRD,oiseau,14,0.04
+2023-09-04,French (French),produces,BIRD,oiseau,15,0
+2023-09-04,French (French),produces,BIRD,oiseau,16,0.06
+2023-09-04,French (French),produces,BIRD,oiseau,17,0.19
+2023-09-04,French (French),produces,BIRD,oiseau,18,0
+2023-09-04,French (French),produces,BIRD,oiseau,19,0.73
+2023-09-04,French (French),produces,BIRD,oiseau,20,0.5
+2023-09-04,French (French),produces,BIRD,oiseau,21,0.55
+2023-09-04,French (French),produces,BIRD,oiseau,22,0.66
+2023-09-04,French (French),produces,BIRD,oiseau,23,0.59
+2023-09-04,French (French),produces,BIRD,oiseau,24,0.78
+2023-09-04,French (French),produces,BIRD,oiseau,25,0.9
+2023-09-04,French (French),produces,BIRD,oiseau,26,0.75
+2023-09-04,French (French),produces,BIRD,oiseau,27,0.81
+2023-09-04,French (French),produces,BIRD,oiseau,28,0.85
+2023-09-04,French (French),produces,BIRD,oiseau,29,1
+2023-09-04,French (French),produces,BIRD,oiseau,30,0.93
+2023-09-04,Spanish (European),produces,BIRD,pájaro,8,0
+2023-09-04,Spanish (European),produces,BIRD,pájaro,9,0
+2023-09-04,Spanish (European),produces,BIRD,pájaro,10,0
+2023-09-04,Spanish (European),produces,BIRD,pájaro,11,0
+2023-09-04,Spanish (European),produces,BIRD,pájaro,12,0
+2023-09-04,Spanish (European),produces,BIRD,pájaro,13,0.02
+2023-09-04,Spanish (European),produces,BIRD,pájaro,14,0.05
+2023-09-04,Spanish (European),produces,BIRD,pájaro,15,0.14
+2023-09-04,Spanish (European),produces,BIRD,pájaro,16,0.1
+2023-09-04,Spanish (European),produces,BIRD,pájaro,17,0.05
+2023-09-04,Spanish (European),produces,BIRD,pájaro,18,0.26
+2023-09-04,Spanish (European),produces,BIRD,pájaro,19,0.3
+2023-09-04,Spanish (European),produces,BIRD,pájaro,20,0.31
+2023-09-04,Spanish (European),produces,BIRD,pájaro,21,0.44
+2023-09-04,Spanish (European),produces,BIRD,pájaro,22,0.45
+2023-09-04,Spanish (European),produces,BIRD,pájaro,23,0.67
+2023-09-04,Spanish (European),produces,BIRD,pájaro,24,0.53
+2023-09-04,Spanish (European),produces,BIRD,pájaro,25,0.51
+2023-09-04,Spanish (European),produces,BIRD,pájaro,26,0.69
+2023-09-04,Spanish (European),produces,BIRD,pájaro,27,0.82
+2023-09-04,Spanish (European),produces,BIRD,pájaro,28,0.82
+2023-09-04,Spanish (European),produces,BIRD,pájaro,29,0.9
+2023-09-04,Spanish (European),produces,BIRD,pájaro,30,0.88
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,8,0
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,9,0
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,10,0.01
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,11,0.01
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,12,0
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,13,0.01
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,14,0.04
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,15,0.05
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,16,0.03
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,17,0.09
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,18,0.11
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,19,0.19
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,20,0.22
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,21,0.25
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,22,0.31
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,23,0.36
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,24,0.42
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,25,0.53
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,26,0.53
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,27,0.57
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,28,0.65
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,29,0.66
+2023-09-04,Portuguese (European),produces,BIRD,Pássaro,30,0.67
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,8,0
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,9,0
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,10,0
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,11,0
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,12,0.01
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,13,0.04
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,14,0.12
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,15,0.13
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,16,0.15
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,17,0.36
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,18,0.49
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,19,0.55
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,20,0.57
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,21,0.74
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,22,0.72
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,23,0.81
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,24,0.87
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,25,0.85
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,26,0.92
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,27,0.88
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,28,0.96
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,29,0.95
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,30,0.96
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,31,0.97
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,32,0.95
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,33,0.99
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,34,0.94
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,35,0.99
+2023-09-04,Mandarin (Taiwanese),produces,BIRD,小鳥,36,0.98
+2023-09-04,Dutch,produces,BIRD,vogel,8,0
+2023-09-04,Dutch,produces,BIRD,vogel,9,0
+2023-09-04,Dutch,produces,BIRD,vogel,10,0
+2023-09-04,Dutch,produces,BIRD,vogel,11,0
+2023-09-04,Dutch,produces,BIRD,vogel,12,0
+2023-09-04,Dutch,produces,BIRD,vogel,13,0
+2023-09-04,Dutch,produces,BIRD,vogel,14,0
+2023-09-04,Dutch,produces,BIRD,vogel,15,0
+2023-09-04,Dutch,produces,BIRD,vogel,16,0.08
+2023-09-04,Dutch,produces,BIRD,vogel,17,0.22
+2023-09-04,Dutch,produces,BIRD,vogel,18,0.23
+2023-09-04,Dutch,produces,BIRD,vogel,19,0.31
+2023-09-04,Dutch,produces,BIRD,vogel,20,0.39
+2023-09-04,Dutch,produces,BIRD,vogel,21,0.62
+2023-09-04,Dutch,produces,BIRD,vogel,22,0.71
+2023-09-04,Dutch,produces,BIRD,vogel,23,0.88
+2023-09-04,Dutch,produces,BIRD,vogel,24,0.94
+2023-09-04,Dutch,produces,BIRD,vogel,25,1
+2023-09-04,Dutch,produces,BIRD,vogel,26,0.67
+2023-09-04,Dutch,produces,BIRD,vogel,27,0.8
+2023-09-04,Dutch,produces,BIRD,vogel,28,1
+2023-09-04,Dutch,produces,BIRD,vogel,29,1
+2023-09-04,Dutch,produces,BIRD,vogel,30,1
+2023-09-04,Dutch,produces,BIRD,vogel,31,1
+2023-09-04,Hungarian,produces,BIRD,madár,16,0.14
+2023-09-04,Hungarian,produces,BIRD,madár,17,0.22
+2023-09-04,Hungarian,produces,BIRD,madár,18,0.06
+2023-09-04,Hungarian,produces,BIRD,madár,19,0.42
+2023-09-04,Hungarian,produces,BIRD,madár,20,0.39
+2023-09-04,Hungarian,produces,BIRD,madár,21,0.53
+2023-09-04,Hungarian,produces,BIRD,madár,22,0.48
+2023-09-04,Hungarian,produces,BIRD,madár,23,0.5
+2023-09-04,Hungarian,produces,BIRD,madár,24,0.58
+2023-09-04,Hungarian,produces,BIRD,madár,25,0.72
+2023-09-04,Hungarian,produces,BIRD,madár,26,0.61
+2023-09-04,Hungarian,produces,BIRD,madár,27,0.77
+2023-09-04,Hungarian,produces,BIRD,madár,28,0.7
+2023-09-04,Hungarian,produces,BIRD,madár,29,0.67
+2023-09-04,Hungarian,produces,BIRD,madár,30,0.61
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,16,0.15
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,17,0.22
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,18,0.21
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,19,0.18
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,20,0.17
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,21,0.24
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,22,0.21
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,23,0.39
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,24,0.33
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,25,0.56
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,26,0.44
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,27,0.59
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,28,0.45
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,29,0.57
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,30,0.65
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,31,0
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,32,1
+2023-09-04,Spanish (Argentinian),produces,BIRD,pájaro,33,0.5
+2023-09-04,Persian,produces,BIRD,پرنده/ توتو,8,0
+2023-09-04,Persian,produces,BIRD,پرنده/ توتو,9,0
+2023-09-04,Persian,produces,BIRD,پرنده/ توتو,10,0.12
+2023-09-04,Persian,produces,BIRD,پرنده/ توتو,11,0.08
+2023-09-04,Persian,produces,BIRD,پرنده/ توتو,12,0.27
+2023-09-04,Persian,produces,BIRD,پرنده/ توتو,13,0.07
+2023-09-04,Persian,produces,BIRD,پرنده/ توتو,14,0.4
+2023-09-04,Persian,produces,BIRD,پرنده/ توتو,15,0.33
+2023-09-04,Persian,produces,BIRD,پرنده/ توتو,16,0.5
+2023-09-04,Persian,produces,BIRD,پرنده,17,0
+2023-09-04,Persian,produces,BIRD,پرنده,18,0
+2023-09-04,Persian,produces,BIRD,پرنده,20,0
+2023-09-04,Persian,produces,BIRD,پرنده,21,0
+2023-09-04,Persian,produces,BIRD,پرنده,22,0
+2023-09-04,Persian,produces,BIRD,پرنده,23,0.67
+2023-09-04,Persian,produces,BIRD,پرنده,24,0.4
+2023-09-04,Persian,produces,BIRD,پرنده,25,0
+2023-09-04,Persian,produces,BIRD,پرنده,26,0.5
+2023-09-04,Persian,produces,BIRD,پرنده,27,0.4
+2023-09-04,Persian,produces,BIRD,پرنده,28,0.56
+2023-09-04,Persian,produces,BIRD,پرنده,29,1
+2023-09-04,Persian,produces,BIRD,پرنده,30,0.5

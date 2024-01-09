@@ -1,0 +1,10 @@
+﻿list,item,objects,target_pos,positions,probe_obj,probe_p1,test_p2,test_p3,test_p1,test_p4,test_p5,test_p6,test_p7,test_p8,test_p9,clicks,corr_p1,corr_p2,corr_p3,corr_p4,corr_p5,corr_p6,corr_p7,corr_p8,corr_p9
+1,item01,2,test_p2,"2,3",object1,colored PNG/PICTURE_78.png,colored PNG/PICTURE_353.png,colored PNG/PICTURE_78.png,,,,,,,,1,0,0,1,0,0,0,0,0,0
+2,item02,2,test_p3,"2,3",object4,colored PNG/PICTURE_423.png,colored PNG/PICTURE_423.png,colored PNG/PICTURE_695.png,,,,,,,,1,0,1,0,0,0,0,0,0,0
+3,item03,2,test_p2,"2,3",object3,colored PNG/PICTURE_264.png,colored PNG/PICTURE_285.png,colored PNG/PICTURE_264.png,,,,,,,,1,0,0,1,0,0,0,0,0,0
+4,item04,3,test_p4,"1,4,5",object4,colored PNG/PICTURE_423.png,,,colored PNG/PICTURE_78.png,colored PNG/PICTURE_423.png,colored PNG/PICTURE_353.png,,,,,1,0,0,0,1,0,0,0,0,0
+5,item05,3,test_p5,"1,4,5",object2,colored PNG/PICTURE_695.png,,,colored PNG/PICTURE_285.png,colored PNG/PICTURE_78.png,colored PNG/PICTURE_695.png,,,,,1,0,0,0,0,1,0,0,0,0
+6,item06,3,test_p1,"1,4,5",object6,colored PNG/PICTURE_353.png,,,colored PNG/PICTURE_264.png,colored PNG/PICTURE_353.png,colored PNG/PICTURE_423.png,,,,,1,0,0,0,1,0,0,0,0,0
+7,item07,4,test_p3,"2,3,6,7",object5,colored PNG/PICTURE_285.png,colored PNG/PICTURE_264.png,colored PNG/PICTURE_285.png,,,,colored PNG/PICTURE_353.png,colored PNG/PICTURE_695.png,,,1,0,0,1,0,0,0,0,0,0
+8,item08,4,test_p2,"2,3,6,7",object1,colored PNG/PICTURE_78.png,colored PNG/PICTURE_78.png,colored PNG/PICTURE_264.png,,,,colored PNG/PICTURE_695.png,colored PNG/PICTURE_423.png,,,1,0,1,0,0,0,0,0,0,0
+9,item09,5,test_p9,"1,4,5,8,9",object5,colored PNG/PICTURE_285.png,,,colored PNG/PICTURE_78.png,colored PNG/PICTURE_695.png,colored PNG/PICTURE_264.png,,,colored PNG/PICTURE_353.png,colored PNG/PICTURE_285.png,1,0,0,0,0,0,0,0,0,1

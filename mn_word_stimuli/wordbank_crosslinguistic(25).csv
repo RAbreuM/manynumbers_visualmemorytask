@@ -1,0 +1,147 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Italian,produces,WALL,muro,18,0.06
+2023-09-04,Italian,produces,WALL,muro,19,0.21
+2023-09-04,Italian,produces,WALL,muro,20,0.19
+2023-09-04,Italian,produces,WALL,muro,21,0.29
+2023-09-04,Italian,produces,WALL,muro,22,0.4
+2023-09-04,Italian,produces,WALL,muro,23,0.4
+2023-09-04,Italian,produces,WALL,muro,24,0.41
+2023-09-04,Italian,produces,WALL,muro,25,0.56
+2023-09-04,Italian,produces,WALL,muro,26,0.66
+2023-09-04,Italian,produces,WALL,muro,27,0.65
+2023-09-04,Italian,produces,WALL,muro,28,0.7
+2023-09-04,Italian,produces,WALL,muro,29,0.65
+2023-09-04,Italian,produces,WALL,muro,30,0.75
+2023-09-04,Italian,produces,WALL,muro,31,0.68
+2023-09-04,Italian,produces,WALL,muro,32,0.7
+2023-09-04,Italian,produces,WALL,muro,33,0.88
+2023-09-04,Italian,produces,WALL,muro,34,0.89
+2023-09-04,Italian,produces,WALL,muro,35,0.87
+2023-09-04,Italian,produces,WALL,muro,36,0.76
+2023-09-04,Slovak,produces,WALL,stena,17,0.06
+2023-09-04,Slovak,produces,WALL,stena,18,0.09
+2023-09-04,Slovak,produces,WALL,stena,19,0.12
+2023-09-04,Slovak,produces,WALL,stena,20,0.19
+2023-09-04,Slovak,produces,WALL,stena,21,0.23
+2023-09-04,Slovak,produces,WALL,stena,22,0.26
+2023-09-04,Slovak,produces,WALL,stena,23,0.36
+2023-09-04,Slovak,produces,WALL,stena,24,0.53
+2023-09-04,Slovak,produces,WALL,stena,25,0.51
+2023-09-04,Slovak,produces,WALL,stena,26,0.69
+2023-09-04,Slovak,produces,WALL,stena,27,0.69
+2023-09-04,Slovak,produces,WALL,stena,28,0.59
+2023-09-04,Slovak,produces,WALL,stena,29,0.69
+2023-09-04,Slovak,produces,WALL,stena,30,0.69
+2023-09-04,Slovak,produces,WALL,stena,31,0.69
+2023-09-04,Slovak,produces,WALL,stena,32,0.84
+2023-09-04,Slovak,produces,WALL,stena,33,0.86
+2023-09-04,Slovak,produces,WALL,stena,34,0.81
+2023-09-04,Slovak,produces,WALL,stena,35,0.78
+2023-09-04,Slovak,produces,WALL,stena,36,0.88
+2023-09-04,Turkish,produces,WALL,Duvar,8,0
+2023-09-04,Turkish,produces,WALL,Duvar,9,0
+2023-09-04,Turkish,produces,WALL,Duvar,10,0.01
+2023-09-04,Turkish,produces,WALL,Duvar,11,0
+2023-09-04,Turkish,produces,WALL,Duvar,12,0
+2023-09-04,Turkish,produces,WALL,Duvar,13,0
+2023-09-04,Turkish,produces,WALL,Duvar,14,0.01
+2023-09-04,Turkish,produces,WALL,Duvar,15,0.02
+2023-09-04,Turkish,produces,WALL,Duvar,16,0.02
+2023-09-04,Turkish,produces,WALL,Duvar,17,0.04
+2023-09-04,Turkish,produces,WALL,Duvar,18,0.05
+2023-09-04,Turkish,produces,WALL,Duvar,19,0.08
+2023-09-04,Turkish,produces,WALL,Duvar,20,0.09
+2023-09-04,Turkish,produces,WALL,Duvar,21,0.18
+2023-09-04,Turkish,produces,WALL,Duvar,22,0.2
+2023-09-04,Turkish,produces,WALL,Duvar,23,0.27
+2023-09-04,Turkish,produces,WALL,Duvar,24,0.34
+2023-09-04,Turkish,produces,WALL,Duvar,25,0.41
+2023-09-04,Turkish,produces,WALL,Duvar,26,0.5
+2023-09-04,Turkish,produces,WALL,Duvar,27,0.47
+2023-09-04,Turkish,produces,WALL,Duvar,28,0.53
+2023-09-04,Turkish,produces,WALL,Duvar,29,0.6
+2023-09-04,Turkish,produces,WALL,Duvar,30,0.68
+2023-09-04,Turkish,produces,WALL,Duvar,31,0.7
+2023-09-04,Turkish,produces,WALL,Duvar,32,0.73
+2023-09-04,Turkish,produces,WALL,Duvar,33,0.8
+2023-09-04,Turkish,produces,WALL,Duvar,34,0.83
+2023-09-04,Turkish,produces,WALL,Duvar,35,0.83
+2023-09-04,Turkish,produces,WALL,Duvar,36,0.88
+2023-09-04,English (British),produces,WALL,wall,12,0
+2023-09-04,English (British),produces,WALL,wall,13,0
+2023-09-04,English (British),produces,WALL,wall,14,0.02
+2023-09-04,English (British),produces,WALL,wall,15,0
+2023-09-04,English (British),produces,WALL,wall,16,0
+2023-09-04,English (British),produces,WALL,wall,17,0.03
+2023-09-04,English (British),produces,WALL,wall,18,0.05
+2023-09-04,English (British),produces,WALL,wall,19,0.12
+2023-09-04,English (British),produces,WALL,wall,20,0.18
+2023-09-04,English (British),produces,WALL,wall,21,0.21
+2023-09-04,English (British),produces,WALL,wall,22,0.32
+2023-09-04,English (British),produces,WALL,wall,23,0.31
+2023-09-04,English (British),produces,WALL,wall,24,0.39
+2023-09-04,English (British),produces,WALL,wall,25,0.56
+2023-09-04,English (Australian),produces,WALL,wall,12,0
+2023-09-04,English (Australian),produces,WALL,wall,13,0
+2023-09-04,English (Australian),produces,WALL,wall,14,0.01
+2023-09-04,English (Australian),produces,WALL,wall,15,0.03
+2023-09-04,English (Australian),produces,WALL,wall,16,0.02
+2023-09-04,English (Australian),produces,WALL,wall,17,0.04
+2023-09-04,English (Australian),produces,WALL,wall,18,0.04
+2023-09-04,English (Australian),produces,WALL,wall,19,0.06
+2023-09-04,English (Australian),produces,WALL,wall,20,0.15
+2023-09-04,English (Australian),produces,WALL,wall,21,0.13
+2023-09-04,English (Australian),produces,WALL,wall,22,0.15
+2023-09-04,English (Australian),produces,WALL,wall,23,0.32
+2023-09-04,English (Australian),produces,WALL,wall,24,0.29
+2023-09-04,English (Australian),produces,WALL,wall,25,0.36
+2023-09-04,English (Australian),produces,WALL,wall,26,0.42
+2023-09-04,English (Australian),produces,WALL,wall,27,0.6
+2023-09-04,English (Australian),produces,WALL,wall,28,0.49
+2023-09-04,English (Australian),produces,WALL,wall,29,0.6
+2023-09-04,English (Australian),produces,WALL,wall,30,0.66
+2023-09-04,Portuguese (European),produces,WALL,Parade,8,0.01
+2023-09-04,Portuguese (European),produces,WALL,Parade,9,0
+2023-09-04,Portuguese (European),produces,WALL,Parade,10,0
+2023-09-04,Portuguese (European),produces,WALL,Parade,11,0
+2023-09-04,Portuguese (European),produces,WALL,Parade,12,0
+2023-09-04,Portuguese (European),produces,WALL,Parade,13,0
+2023-09-04,Portuguese (European),produces,WALL,Parade,14,0.01
+2023-09-04,Portuguese (European),produces,WALL,Parade,15,0
+2023-09-04,Portuguese (European),produces,WALL,Parade,16,0
+2023-09-04,Portuguese (European),produces,WALL,Parade,17,0.01
+2023-09-04,Portuguese (European),produces,WALL,Parade,18,0.03
+2023-09-04,Portuguese (European),produces,WALL,Parade,19,0.02
+2023-09-04,Portuguese (European),produces,WALL,Parade,20,0.03
+2023-09-04,Portuguese (European),produces,WALL,Parade,21,0.06
+2023-09-04,Portuguese (European),produces,WALL,Parade,22,0.06
+2023-09-04,Portuguese (European),produces,WALL,Parade,23,0.16
+2023-09-04,Portuguese (European),produces,WALL,Parade,24,0.2
+2023-09-04,Portuguese (European),produces,WALL,Parade,25,0.29
+2023-09-04,Portuguese (European),produces,WALL,Parade,26,0.38
+2023-09-04,Portuguese (European),produces,WALL,Parade,27,0.43
+2023-09-04,Portuguese (European),produces,WALL,Parade,28,0.44
+2023-09-04,Portuguese (European),produces,WALL,Parade,29,0.51
+2023-09-04,Portuguese (European),produces,WALL,Parade,30,0.55
+2023-09-04,Persian,produces,WALL,دیوار,8,0
+2023-09-04,Persian,produces,WALL,دیوار,9,0
+2023-09-04,Persian,produces,WALL,دیوار,10,0.06
+2023-09-04,Persian,produces,WALL,دیوار,11,0
+2023-09-04,Persian,produces,WALL,دیوار,12,0
+2023-09-04,Persian,produces,WALL,دیوار,13,0
+2023-09-04,Persian,produces,WALL,دیوار,14,0
+2023-09-04,Persian,produces,WALL,دیوار,15,0
+2023-09-04,Persian,produces,WALL,دیوار,16,0
+2023-09-04,Persian,produces,WALL,دیوار,17,0
+2023-09-04,Persian,produces,WALL,دیوار,18,0
+2023-09-04,Persian,produces,WALL,دیوار,20,0
+2023-09-04,Persian,produces,WALL,دیوار,21,0
+2023-09-04,Persian,produces,WALL,دیوار,22,0
+2023-09-04,Persian,produces,WALL,دیوار,23,1
+2023-09-04,Persian,produces,WALL,دیوار,24,0.8
+2023-09-04,Persian,produces,WALL,دیوار,25,0.33
+2023-09-04,Persian,produces,WALL,دیوار,26,0.83
+2023-09-04,Persian,produces,WALL,دیوار,27,0.6
+2023-09-04,Persian,produces,WALL,دیوار,28,0.67
+2023-09-04,Persian,produces,WALL,دیوار,29,1
+2023-09-04,Persian,produces,WALL,دیوار,30,1

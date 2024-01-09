@@ -1,0 +1,373 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Croatian,produces,CROCODILE,krokodil,16,0
+2023-09-04,Croatian,produces,CROCODILE,krokodil,17,0.08
+2023-09-04,Croatian,produces,CROCODILE,krokodil,18,0
+2023-09-04,Croatian,produces,CROCODILE,krokodil,19,0.1
+2023-09-04,Croatian,produces,CROCODILE,krokodil,20,0.12
+2023-09-04,Croatian,produces,CROCODILE,krokodil,21,0.07
+2023-09-04,Croatian,produces,CROCODILE,krokodil,22,0.29
+2023-09-04,Croatian,produces,CROCODILE,krokodil,23,0.38
+2023-09-04,Croatian,produces,CROCODILE,krokodil,24,0.23
+2023-09-04,Croatian,produces,CROCODILE,krokodil,25,0.33
+2023-09-04,Croatian,produces,CROCODILE,krokodil,26,0.38
+2023-09-04,Croatian,produces,CROCODILE,krokodil,27,0.6
+2023-09-04,Croatian,produces,CROCODILE,krokodil,28,0.76
+2023-09-04,Croatian,produces,CROCODILE,krokodil,29,0.57
+2023-09-04,Croatian,produces,CROCODILE,krokodil,30,0.57
+2023-09-04,Danish,produces,CROCODILE,krokodille,16,0.01
+2023-09-04,Danish,produces,CROCODILE,krokodille,17,0.01
+2023-09-04,Danish,produces,CROCODILE,krokodille,18,0.04
+2023-09-04,Danish,produces,CROCODILE,krokodille,19,0.07
+2023-09-04,Danish,produces,CROCODILE,krokodille,20,0.15
+2023-09-04,Danish,produces,CROCODILE,krokodille,21,0.15
+2023-09-04,Danish,produces,CROCODILE,krokodille,22,0.28
+2023-09-04,Danish,produces,CROCODILE,krokodille,23,0.34
+2023-09-04,Danish,produces,CROCODILE,krokodille,24,0.44
+2023-09-04,Danish,produces,CROCODILE,krokodille,25,0.58
+2023-09-04,Danish,produces,CROCODILE,krokodille,26,0.6
+2023-09-04,Danish,produces,CROCODILE,krokodille,27,0.64
+2023-09-04,Danish,produces,CROCODILE,krokodille,28,0.69
+2023-09-04,Danish,produces,CROCODILE,krokodille,29,0.79
+2023-09-04,Danish,produces,CROCODILE,krokodille,30,0.84
+2023-09-04,Danish,produces,CROCODILE,krokodille,31,0.86
+2023-09-04,Danish,produces,CROCODILE,krokodille,32,0.9
+2023-09-04,Danish,produces,CROCODILE,krokodille,33,0.89
+2023-09-04,Danish,produces,CROCODILE,krokodille,34,0.88
+2023-09-04,Danish,produces,CROCODILE,krokodille,35,0.95
+2023-09-04,Danish,produces,CROCODILE,krokodille,36,0.93
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,16,0.02
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,17,0.04
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,18,0.07
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,19,0.11
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,20,0.22
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,21,0.34
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,22,0.33
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,23,0.51
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,24,0.48
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,25,0.44
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,26,0.57
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,27,0.59
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,28,0.78
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,29,0.85
+2023-09-04,French (Quebecois),produces,CROCODILE,alligator/crocodile,30,0.76
+2023-09-04,German,produces,CROCODILE,Krokodil,18,0.11
+2023-09-04,German,produces,CROCODILE,Krokodil,19,0.15
+2023-09-04,German,produces,CROCODILE,Krokodil,20,0.17
+2023-09-04,German,produces,CROCODILE,Krokodil,21,0.23
+2023-09-04,German,produces,CROCODILE,Krokodil,22,0.34
+2023-09-04,German,produces,CROCODILE,Krokodil,23,0.37
+2023-09-04,German,produces,CROCODILE,Krokodil,24,0.43
+2023-09-04,German,produces,CROCODILE,Krokodil,25,0.59
+2023-09-04,German,produces,CROCODILE,Krokodil,26,0.65
+2023-09-04,German,produces,CROCODILE,Krokodil,27,0.61
+2023-09-04,German,produces,CROCODILE,Krokodil,28,0.7
+2023-09-04,German,produces,CROCODILE,Krokodil,29,0.76
+2023-09-04,German,produces,CROCODILE,Krokodil,30,0.8
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,7,0
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,8,0
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,9,0
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,10,0
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,11,0
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,12,0
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,13,0.02
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,14,0
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,15,0.01
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,16,0.04
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,17,0.1
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,18,0.07
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,19,0.09
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,20,0.14
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,21,0.27
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,22,0.31
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,23,0.43
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,24,0.49
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,25,0.54
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,26,0.63
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,27,0.63
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,28,0.73
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,29,0.65
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,30,0.78
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,31,0.84
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,32,0.87
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,33,0.94
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,34,0.95
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,35,0.93
+2023-09-04,Italian,produces,CROCODILE,coccodrillo,36,0.95
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,16,0.02
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,17,0.03
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,18,0.05
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,19,0.1
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,20,0.18
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,21,0.24
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,22,0.33
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,23,0.43
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,24,0.49
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,25,0.58
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,26,0.67
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,27,0.71
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,28,0.76
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,29,0.79
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,30,0.84
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,31,0.87
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,32,0.89
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,33,0.91
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,34,0.91
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,35,0.94
+2023-09-04,Norwegian,produces,CROCODILE,krokodille,36,0.94
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,8,0
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,9,0
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,10,0
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,11,0.02
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,12,0
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,13,0.01
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,14,0.01
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,15,0.01
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,16,0.07
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,17,0.1
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,18,0.2
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,19,0.21
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,20,0.35
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,21,0.27
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,22,0.36
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,23,0.34
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,24,0.59
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,25,0.45
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,26,0.67
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,27,0.73
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,28,0.49
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,29,0.63
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,30,0.73
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,31,0.69
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,32,0.68
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,33,0.95
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,34,0.56
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,35,0.78
+2023-09-04,Slovak,produces,CROCODILE,krokodíl,36,0.62
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,16,0.04
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,17,0.02
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,18,0.05
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,19,0.15
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,20,0.15
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,21,0.07
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,22,0.14
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,23,0.13
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,24,0.24
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,25,0.28
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,26,0.33
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,27,0.26
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,28,0.37
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,29,0.37
+2023-09-04,Spanish (Mexican),produces,CROCODILE,cocodrilo,30,0.45
+2023-09-04,Turkish,produces,CROCODILE,Timsah,16,0
+2023-09-04,Turkish,produces,CROCODILE,Timsah,17,0.03
+2023-09-04,Turkish,produces,CROCODILE,Timsah,18,0.02
+2023-09-04,Turkish,produces,CROCODILE,Timsah,19,0.03
+2023-09-04,Turkish,produces,CROCODILE,Timsah,20,0.08
+2023-09-04,Turkish,produces,CROCODILE,Timsah,21,0.08
+2023-09-04,Turkish,produces,CROCODILE,Timsah,22,0.11
+2023-09-04,Turkish,produces,CROCODILE,Timsah,23,0.1
+2023-09-04,Turkish,produces,CROCODILE,Timsah,24,0.14
+2023-09-04,Turkish,produces,CROCODILE,Timsah,25,0.19
+2023-09-04,Turkish,produces,CROCODILE,Timsah,26,0.24
+2023-09-04,Turkish,produces,CROCODILE,Timsah,27,0.25
+2023-09-04,Turkish,produces,CROCODILE,Timsah,28,0.32
+2023-09-04,Turkish,produces,CROCODILE,Timsah,29,0.42
+2023-09-04,Turkish,produces,CROCODILE,Timsah,30,0.47
+2023-09-04,Turkish,produces,CROCODILE,Timsah,31,0.4
+2023-09-04,Turkish,produces,CROCODILE,Timsah,32,0.51
+2023-09-04,Turkish,produces,CROCODILE,Timsah,33,0.54
+2023-09-04,Turkish,produces,CROCODILE,Timsah,34,0.54
+2023-09-04,Turkish,produces,CROCODILE,Timsah,35,0.57
+2023-09-04,Turkish,produces,CROCODILE,Timsah,36,0.66
+2023-09-04,Czech,produces,CROCODILE,krokodýl,16,0
+2023-09-04,Czech,produces,CROCODILE,krokodýl,17,0.03
+2023-09-04,Czech,produces,CROCODILE,krokodýl,18,0.04
+2023-09-04,Czech,produces,CROCODILE,krokodýl,19,0.11
+2023-09-04,Czech,produces,CROCODILE,krokodýl,20,0.23
+2023-09-04,Czech,produces,CROCODILE,krokodýl,21,0.15
+2023-09-04,Czech,produces,CROCODILE,krokodýl,22,0.19
+2023-09-04,Czech,produces,CROCODILE,krokodýl,23,0.35
+2023-09-04,Czech,produces,CROCODILE,krokodýl,24,0.29
+2023-09-04,Czech,produces,CROCODILE,krokodýl,25,0.29
+2023-09-04,Czech,produces,CROCODILE,krokodýl,26,0.55
+2023-09-04,Czech,produces,CROCODILE,krokodýl,27,0.38
+2023-09-04,Czech,produces,CROCODILE,krokodýl,28,0.62
+2023-09-04,Czech,produces,CROCODILE,krokodýl,29,0.44
+2023-09-04,Czech,produces,CROCODILE,krokodýl,30,0.67
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,12,0
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,13,0
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,14,0.03
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,15,0.04
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,16,0.03
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,17,0.07
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,18,0.11
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,19,0.17
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,20,0.19
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,21,0.25
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,22,0.49
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,23,0.51
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,24,0.57
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,25,0.55
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,26,0.61
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,27,0.82
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,28,0.73
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,29,0.75
+2023-09-04,English (Australian),produces,CROCODILE,crocodile,30,0.83
+2023-09-04,Latvian,produces,CROCODILE,krokodils,17,0.04
+2023-09-04,Latvian,produces,CROCODILE,krokodils,18,0
+2023-09-04,Latvian,produces,CROCODILE,krokodils,19,0.14
+2023-09-04,Latvian,produces,CROCODILE,krokodils,20,0.18
+2023-09-04,Latvian,produces,CROCODILE,krokodils,21,0.15
+2023-09-04,Latvian,produces,CROCODILE,krokodils,22,0.25
+2023-09-04,Latvian,produces,CROCODILE,krokodils,23,0.28
+2023-09-04,Latvian,produces,CROCODILE,krokodils,24,0.47
+2023-09-04,Latvian,produces,CROCODILE,krokodils,25,0.45
+2023-09-04,Latvian,produces,CROCODILE,krokodils,26,0.41
+2023-09-04,Latvian,produces,CROCODILE,krokodils,27,0.5
+2023-09-04,Latvian,produces,CROCODILE,krokodils,28,0.48
+2023-09-04,Latvian,produces,CROCODILE,krokodils,29,0.46
+2023-09-04,Latvian,produces,CROCODILE,krokodils,30,0.62
+2023-09-04,Latvian,produces,CROCODILE,krokodils,31,0.74
+2023-09-04,Latvian,produces,CROCODILE,krokodils,32,0.4
+2023-09-04,Latvian,produces,CROCODILE,krokodils,33,0.71
+2023-09-04,Latvian,produces,CROCODILE,krokodils,34,0.76
+2023-09-04,Latvian,produces,CROCODILE,krokodils,35,0.71
+2023-09-04,Latvian,produces,CROCODILE,krokodils,36,0.55
+2023-09-04,Korean,produces,CROCODILE,악어,8,0
+2023-09-04,Korean,produces,CROCODILE,악어,9,0
+2023-09-04,Korean,produces,CROCODILE,악어,10,0
+2023-09-04,Korean,produces,CROCODILE,악어,11,0
+2023-09-04,Korean,produces,CROCODILE,악어,12,0
+2023-09-04,Korean,produces,CROCODILE,악어,13,0
+2023-09-04,Korean,produces,CROCODILE,악어,14,0.02
+2023-09-04,Korean,produces,CROCODILE,악어,15,0.05
+2023-09-04,Korean,produces,CROCODILE,악어,16,0.06
+2023-09-04,Korean,produces,CROCODILE,악어,17,0.11
+2023-09-04,Korean,produces,CROCODILE,악어,18,0.18
+2023-09-04,Korean,produces,CROCODILE,악어,19,0.08
+2023-09-04,Korean,produces,CROCODILE,악어,20,0.22
+2023-09-04,Korean,produces,CROCODILE,악어,21,0.32
+2023-09-04,Korean,produces,CROCODILE,악어,22,0.46
+2023-09-04,Korean,produces,CROCODILE,악어,23,0.47
+2023-09-04,Korean,produces,CROCODILE,악어,24,0.59
+2023-09-04,Korean,produces,CROCODILE,악어,25,0.7
+2023-09-04,Korean,produces,CROCODILE,악어,26,0.59
+2023-09-04,Korean,produces,CROCODILE,악어,27,0.75
+2023-09-04,Korean,produces,CROCODILE,악어,28,0.74
+2023-09-04,Korean,produces,CROCODILE,악어,29,0.82
+2023-09-04,Korean,produces,CROCODILE,악어,30,0.83
+2023-09-04,Korean,produces,CROCODILE,악어,31,0.92
+2023-09-04,Korean,produces,CROCODILE,악어,32,0.81
+2023-09-04,Korean,produces,CROCODILE,악어,33,0.85
+2023-09-04,Korean,produces,CROCODILE,악어,34,0.84
+2023-09-04,Korean,produces,CROCODILE,악어,35,0.91
+2023-09-04,Korean,produces,CROCODILE,악어,36,0.96
+2023-09-04,French (French),produces,CROCODILE,crocodile,8,0
+2023-09-04,French (French),produces,CROCODILE,crocodile,9,0
+2023-09-04,French (French),produces,CROCODILE,crocodile,11,0
+2023-09-04,French (French),produces,CROCODILE,crocodile,12,0
+2023-09-04,French (French),produces,CROCODILE,crocodile,13,0.02
+2023-09-04,French (French),produces,CROCODILE,crocodile,14,0
+2023-09-04,French (French),produces,CROCODILE,crocodile,15,0
+2023-09-04,French (French),produces,CROCODILE,crocodile,16,0.03
+2023-09-04,French (French),produces,CROCODILE,crocodile,17,0
+2023-09-04,French (French),produces,CROCODILE,crocodile,18,0
+2023-09-04,French (French),produces,CROCODILE,crocodile,19,0.18
+2023-09-04,French (French),produces,CROCODILE,crocodile,20,0.17
+2023-09-04,French (French),produces,CROCODILE,crocodile,21,0.23
+2023-09-04,French (French),produces,CROCODILE,crocodile,22,0.37
+2023-09-04,French (French),produces,CROCODILE,crocodile,23,0.25
+2023-09-04,French (French),produces,CROCODILE,crocodile,24,0.37
+2023-09-04,French (French),produces,CROCODILE,crocodile,25,0.45
+2023-09-04,French (French),produces,CROCODILE,crocodile,26,0.62
+2023-09-04,French (French),produces,CROCODILE,crocodile,27,0.54
+2023-09-04,French (French),produces,CROCODILE,crocodile,28,0.68
+2023-09-04,French (French),produces,CROCODILE,crocodile,29,0.8
+2023-09-04,French (French),produces,CROCODILE,crocodile,30,0.62
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,16,0.08
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,17,0.03
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,18,0.1
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,19,0.15
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,20,0.14
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,21,0.2
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,22,0.32
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,23,0.43
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,24,0.42
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,25,0.4
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,26,0.43
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,27,0.62
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,28,0.58
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,29,0.68
+2023-09-04,Spanish (European),produces,CROCODILE,cocodrilo,30,0.66
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,16,0
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,17,0.02
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,18,0.03
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,19,0.03
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,20,0.06
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,21,0.11
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,22,0.13
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,23,0.18
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,24,0.18
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,25,0.26
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,26,0.3
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,27,0.37
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,28,0.38
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,29,0.5
+2023-09-04,Portuguese (European),produces,CROCODILE,Crocodilo,30,0.44
+2023-09-04,Dutch,produces,CROCODILE,krokodil,8,0
+2023-09-04,Dutch,produces,CROCODILE,krokodil,9,0
+2023-09-04,Dutch,produces,CROCODILE,krokodil,10,0.01
+2023-09-04,Dutch,produces,CROCODILE,krokodil,11,0
+2023-09-04,Dutch,produces,CROCODILE,krokodil,12,0
+2023-09-04,Dutch,produces,CROCODILE,krokodil,13,0
+2023-09-04,Dutch,produces,CROCODILE,krokodil,14,0
+2023-09-04,Dutch,produces,CROCODILE,krokodil,15,0
+2023-09-04,Dutch,produces,CROCODILE,krokodil,16,0.08
+2023-09-04,Dutch,produces,CROCODILE,krokodil,17,0.07
+2023-09-04,Dutch,produces,CROCODILE,krokodil,18,0.06
+2023-09-04,Dutch,produces,CROCODILE,krokodil,19,0.05
+2023-09-04,Dutch,produces,CROCODILE,krokodil,20,0.09
+2023-09-04,Dutch,produces,CROCODILE,krokodil,21,0.38
+2023-09-04,Dutch,produces,CROCODILE,krokodil,22,0.57
+2023-09-04,Dutch,produces,CROCODILE,krokodil,23,0.61
+2023-09-04,Dutch,produces,CROCODILE,krokodil,24,0.68
+2023-09-04,Dutch,produces,CROCODILE,krokodil,25,1
+2023-09-04,Dutch,produces,CROCODILE,krokodil,26,0.5
+2023-09-04,Dutch,produces,CROCODILE,krokodil,27,0.8
+2023-09-04,Dutch,produces,CROCODILE,krokodil,28,1
+2023-09-04,Dutch,produces,CROCODILE,krokodil,29,1
+2023-09-04,Dutch,produces,CROCODILE,krokodil,30,1
+2023-09-04,Dutch,produces,CROCODILE,krokodil,31,1
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,16,0
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,17,0.17
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,18,0
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,19,0.19
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,20,0.22
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,21,0.25
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,22,0.33
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,23,0.39
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,24,0.39
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,25,0.58
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,26,0.52
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,27,0.5
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,28,0.6
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,29,0.5
+2023-09-04,Hungarian,produces,CROCODILE,krokodil,30,0.56
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,16,0
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,17,0.08
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,18,0.08
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,19,0.02
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,20,0.09
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,21,0.12
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,22,0.18
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,23,0.39
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,24,0.29
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,25,0.44
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,26,0.2
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,27,0.48
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,28,0.4
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,29,0.57
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,30,0.64
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,31,0
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,32,1
+2023-09-04,Spanish (Argentinian),produces,CROCODILE,cocodrilo,33,0

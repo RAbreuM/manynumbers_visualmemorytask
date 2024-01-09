@@ -1,0 +1,525 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,BEE,蜜蜂,16,0
+2023-09-04,Cantonese,produces,BEE,蜜蜂,17,0.02
+2023-09-04,Cantonese,produces,BEE,蜜蜂,18,0.01
+2023-09-04,Cantonese,produces,BEE,蜜蜂,19,0.02
+2023-09-04,Cantonese,produces,BEE,蜜蜂,20,0.16
+2023-09-04,Cantonese,produces,BEE,蜜蜂,21,0.13
+2023-09-04,Cantonese,produces,BEE,蜜蜂,22,0.16
+2023-09-04,Cantonese,produces,BEE,蜜蜂,23,0.15
+2023-09-04,Cantonese,produces,BEE,蜜蜂,24,0.19
+2023-09-04,Cantonese,produces,BEE,蜜蜂,25,0.31
+2023-09-04,Cantonese,produces,BEE,蜜蜂,26,0.18
+2023-09-04,Cantonese,produces,BEE,蜜蜂,27,0.39
+2023-09-04,Cantonese,produces,BEE,蜜蜂,28,0.35
+2023-09-04,Cantonese,produces,BEE,蜜蜂,29,0.47
+2023-09-04,Cantonese,produces,BEE,蜜蜂,30,0.63
+2023-09-04,Croatian,produces,BEE,pčela,8,0
+2023-09-04,Croatian,produces,BEE,pčela,9,0
+2023-09-04,Croatian,produces,BEE,pčela,10,0
+2023-09-04,Croatian,produces,BEE,pčela,11,0
+2023-09-04,Croatian,produces,BEE,pčela,12,0
+2023-09-04,Croatian,produces,BEE,pčela,13,0
+2023-09-04,Croatian,produces,BEE,pčela,14,0.07
+2023-09-04,Croatian,produces,BEE,pčela,15,0.04
+2023-09-04,Croatian,produces,BEE,pčela,16,0.02
+2023-09-04,Croatian,produces,BEE,pčela,17,0
+2023-09-04,Croatian,produces,BEE,pčela,18,0.05
+2023-09-04,Croatian,produces,BEE,pčela,19,0.1
+2023-09-04,Croatian,produces,BEE,pčela,20,0.08
+2023-09-04,Croatian,produces,BEE,pčela,21,0.07
+2023-09-04,Croatian,produces,BEE,pčela,22,0.25
+2023-09-04,Croatian,produces,BEE,pčela,23,0.23
+2023-09-04,Croatian,produces,BEE,pčela,24,0.3
+2023-09-04,Croatian,produces,BEE,pčela,25,0.3
+2023-09-04,Croatian,produces,BEE,pčela,26,0.41
+2023-09-04,Croatian,produces,BEE,pčela,27,0.36
+2023-09-04,Croatian,produces,BEE,pčela,28,0.48
+2023-09-04,Croatian,produces,BEE,pčela,29,0.5
+2023-09-04,Croatian,produces,BEE,pčela,30,0.61
+2023-09-04,Danish,produces,BEE,bi,8,0
+2023-09-04,Danish,produces,BEE,bi,9,0
+2023-09-04,Danish,produces,BEE,bi,10,0
+2023-09-04,Danish,produces,BEE,bi,11,0
+2023-09-04,Danish,produces,BEE,bi,12,0.01
+2023-09-04,Danish,produces,BEE,bi,13,0.01
+2023-09-04,Danish,produces,BEE,bi,14,0.01
+2023-09-04,Danish,produces,BEE,bi,15,0.01
+2023-09-04,Danish,produces,BEE,bi,16,0.03
+2023-09-04,Danish,produces,BEE,bi,17,0.09
+2023-09-04,Danish,produces,BEE,bi,18,0.13
+2023-09-04,Danish,produces,BEE,bi,19,0.22
+2023-09-04,Danish,produces,BEE,bi,20,0.25
+2023-09-04,Danish,produces,BEE,bi,21,0.36
+2023-09-04,Danish,produces,BEE,bi,22,0.47
+2023-09-04,Danish,produces,BEE,bi,23,0.46
+2023-09-04,Danish,produces,BEE,bi,24,0.66
+2023-09-04,Danish,produces,BEE,bi,25,0.66
+2023-09-04,Danish,produces,BEE,bi,26,0.72
+2023-09-04,Danish,produces,BEE,bi,27,0.74
+2023-09-04,Danish,produces,BEE,bi,28,0.71
+2023-09-04,Danish,produces,BEE,bi,29,0.75
+2023-09-04,Danish,produces,BEE,bi,30,0.82
+2023-09-04,Danish,produces,BEE,bi,31,0.85
+2023-09-04,Danish,produces,BEE,bi,32,0.85
+2023-09-04,Danish,produces,BEE,bi,33,0.9
+2023-09-04,Danish,produces,BEE,bi,34,0.87
+2023-09-04,Danish,produces,BEE,bi,35,0.95
+2023-09-04,Danish,produces,BEE,bi,36,0.96
+2023-09-04,English (American),produces,BEE,bee,8,0.01
+2023-09-04,English (American),produces,BEE,bee,9,0.01
+2023-09-04,English (American),produces,BEE,bee,10,0.02
+2023-09-04,English (American),produces,BEE,bee,11,0.03
+2023-09-04,English (American),produces,BEE,bee,12,0.03
+2023-09-04,English (American),produces,BEE,bee,13,0.05
+2023-09-04,English (American),produces,BEE,bee,14,0.05
+2023-09-04,English (American),produces,BEE,bee,15,0.08
+2023-09-04,English (American),produces,BEE,bee,16,0.15
+2023-09-04,English (American),produces,BEE,bee,17,0.23
+2023-09-04,English (American),produces,BEE,bee,18,0.29
+2023-09-04,English (American),produces,BEE,bee,19,0.4
+2023-09-04,English (American),produces,BEE,bee,20,0.44
+2023-09-04,English (American),produces,BEE,bee,21,0.5
+2023-09-04,English (American),produces,BEE,bee,22,0.5
+2023-09-04,English (American),produces,BEE,bee,23,0.64
+2023-09-04,English (American),produces,BEE,bee,24,0.68
+2023-09-04,English (American),produces,BEE,bee,25,0.72
+2023-09-04,English (American),produces,BEE,bee,26,0.71
+2023-09-04,English (American),produces,BEE,bee,27,0.74
+2023-09-04,English (American),produces,BEE,bee,28,0.89
+2023-09-04,English (American),produces,BEE,bee,29,0.82
+2023-09-04,English (American),produces,BEE,bee,30,0.83
+2023-09-04,French (Quebecois),produces,BEE,abeille,8,0
+2023-09-04,French (Quebecois),produces,BEE,abeille,9,0
+2023-09-04,French (Quebecois),produces,BEE,abeille,10,0
+2023-09-04,French (Quebecois),produces,BEE,abeille,11,0
+2023-09-04,French (Quebecois),produces,BEE,abeille,12,0
+2023-09-04,French (Quebecois),produces,BEE,abeille,13,0
+2023-09-04,French (Quebecois),produces,BEE,abeille,14,0.02
+2023-09-04,French (Quebecois),produces,BEE,abeille,15,0
+2023-09-04,French (Quebecois),produces,BEE,abeille,16,0.05
+2023-09-04,French (Quebecois),produces,BEE,abeille,17,0.13
+2023-09-04,French (Quebecois),produces,BEE,abeille,18,0.09
+2023-09-04,French (Quebecois),produces,BEE,abeille,19,0.19
+2023-09-04,French (Quebecois),produces,BEE,abeille,20,0.23
+2023-09-04,French (Quebecois),produces,BEE,abeille,21,0.33
+2023-09-04,French (Quebecois),produces,BEE,abeille,22,0.42
+2023-09-04,French (Quebecois),produces,BEE,abeille,23,0.45
+2023-09-04,French (Quebecois),produces,BEE,abeille,24,0.43
+2023-09-04,French (Quebecois),produces,BEE,abeille,25,0.46
+2023-09-04,French (Quebecois),produces,BEE,abeille,26,0.55
+2023-09-04,French (Quebecois),produces,BEE,abeille,27,0.63
+2023-09-04,French (Quebecois),produces,BEE,abeille,28,0.69
+2023-09-04,French (Quebecois),produces,BEE,abeille,29,0.86
+2023-09-04,French (Quebecois),produces,BEE,abeille,30,0.79
+2023-09-04,German,produces,BEE,Biene,18,0.13
+2023-09-04,German,produces,BEE,Biene,19,0.22
+2023-09-04,German,produces,BEE,Biene,20,0.21
+2023-09-04,German,produces,BEE,Biene,21,0.36
+2023-09-04,German,produces,BEE,Biene,22,0.45
+2023-09-04,German,produces,BEE,Biene,23,0.47
+2023-09-04,German,produces,BEE,Biene,24,0.55
+2023-09-04,German,produces,BEE,Biene,25,0.65
+2023-09-04,German,produces,BEE,Biene,26,0.77
+2023-09-04,German,produces,BEE,Biene,27,0.67
+2023-09-04,German,produces,BEE,Biene,28,0.81
+2023-09-04,German,produces,BEE,Biene,29,0.84
+2023-09-04,German,produces,BEE,Biene,30,0.85
+2023-09-04,Hebrew,produces,BEE,דבורה,11,0
+2023-09-04,Hebrew,produces,BEE,דבורה,12,0
+2023-09-04,Hebrew,produces,BEE,דבורה,13,0
+2023-09-04,Hebrew,produces,BEE,דבורה,14,0
+2023-09-04,Hebrew,produces,BEE,דבורה,15,0
+2023-09-04,Hebrew,produces,BEE,דבורה,16,0
+2023-09-04,Hebrew,produces,BEE,דבורה,17,0
+2023-09-04,Hebrew,produces,BEE,דבורה,19,0.25
+2023-09-04,Hebrew,produces,BEE,דבורה,20,0.22
+2023-09-04,Hebrew,produces,BEE,דבורה,21,0.25
+2023-09-04,Hebrew,produces,BEE,דבורה,22,0
+2023-09-04,Hebrew,produces,BEE,דבורה,23,0.14
+2023-09-04,Hebrew,produces,BEE,דבורה,24,0.36
+2023-09-04,Hebrew,produces,BEE,דבורה,25,0.62
+2023-09-04,Hebrew,produces,BEE,דבורה,26,0.66
+2023-09-04,Hebrew,produces,BEE,דבורה,27,0.71
+2023-09-04,Hebrew,produces,BEE,דבורה,28,0.79
+2023-09-04,Hebrew,produces,BEE,דבורה,29,0.74
+2023-09-04,Hebrew,produces,BEE,דבורה,30,0.75
+2023-09-04,Hebrew,produces,BEE,דבורה,31,0.8
+2023-09-04,Hebrew,produces,BEE,דבורה,32,0.81
+2023-09-04,Hebrew,produces,BEE,דבורה,33,0.9
+2023-09-04,Hebrew,produces,BEE,דבורה,34,0.85
+2023-09-04,Hebrew,produces,BEE,דבורה,35,0.78
+2023-09-04,Hebrew,produces,BEE,דבורה,36,0.4
+2023-09-04,Italian,produces,BEE,ape,18,0.19
+2023-09-04,Italian,produces,BEE,ape,19,0.21
+2023-09-04,Italian,produces,BEE,ape,20,0.2
+2023-09-04,Italian,produces,BEE,ape,21,0.33
+2023-09-04,Italian,produces,BEE,ape,22,0.33
+2023-09-04,Italian,produces,BEE,ape,23,0.4
+2023-09-04,Italian,produces,BEE,ape,24,0.54
+2023-09-04,Italian,produces,BEE,ape,25,0.67
+2023-09-04,Italian,produces,BEE,ape,26,0.63
+2023-09-04,Italian,produces,BEE,ape,27,0.6
+2023-09-04,Italian,produces,BEE,ape,28,0.75
+2023-09-04,Italian,produces,BEE,ape,29,0.73
+2023-09-04,Italian,produces,BEE,ape,30,0.75
+2023-09-04,Italian,produces,BEE,ape,31,0.74
+2023-09-04,Italian,produces,BEE,ape,32,0.87
+2023-09-04,Italian,produces,BEE,ape,33,0.81
+2023-09-04,Italian,produces,BEE,ape,34,1
+2023-09-04,Italian,produces,BEE,ape,35,0.8
+2023-09-04,Italian,produces,BEE,ape,36,0.81
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,17,0.05
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,18,0.1
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,19,0.1
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,20,0.18
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,21,0.27
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,22,0.22
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,23,0.48
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,24,0.42
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,25,0.49
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,26,0.53
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,27,0.68
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,28,0.61
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,29,0.65
+2023-09-04,Mandarin (Beijing),produces,BEE,蜜蜂,30,0.8
+2023-09-04,Slovak,produces,BEE,včela,8,0.01
+2023-09-04,Slovak,produces,BEE,včela,9,0
+2023-09-04,Slovak,produces,BEE,včela,10,0
+2023-09-04,Slovak,produces,BEE,včela,11,0.03
+2023-09-04,Slovak,produces,BEE,včela,12,0.05
+2023-09-04,Slovak,produces,BEE,včela,13,0.07
+2023-09-04,Slovak,produces,BEE,včela,14,0.09
+2023-09-04,Slovak,produces,BEE,včela,15,0.09
+2023-09-04,Slovak,produces,BEE,včela,16,0.15
+2023-09-04,Slovak,produces,BEE,včela,17,0.2
+2023-09-04,Slovak,produces,BEE,včela,18,0.25
+2023-09-04,Slovak,produces,BEE,včela,19,0.27
+2023-09-04,Slovak,produces,BEE,včela,20,0.4
+2023-09-04,Slovak,produces,BEE,včela,21,0.35
+2023-09-04,Slovak,produces,BEE,včela,22,0.42
+2023-09-04,Slovak,produces,BEE,včela,23,0.53
+2023-09-04,Slovak,produces,BEE,včela,24,0.69
+2023-09-04,Slovak,produces,BEE,včela,25,0.62
+2023-09-04,Slovak,produces,BEE,včela,26,0.79
+2023-09-04,Slovak,produces,BEE,včela,27,0.73
+2023-09-04,Slovak,produces,BEE,včela,28,0.75
+2023-09-04,Slovak,produces,BEE,včela,29,0.8
+2023-09-04,Slovak,produces,BEE,včela,30,0.82
+2023-09-04,Slovak,produces,BEE,včela,31,0.69
+2023-09-04,Slovak,produces,BEE,včela,32,0.96
+2023-09-04,Slovak,produces,BEE,včela,33,1
+2023-09-04,Slovak,produces,BEE,včela,34,0.7
+2023-09-04,Slovak,produces,BEE,včela,35,0.78
+2023-09-04,Slovak,produces,BEE,včela,36,0.88
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,8,0.03
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,9,0
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,10,0
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,11,0.01
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,12,0
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,13,0.01
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,14,0
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,15,0.02
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,16,0.12
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,17,0.1
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,18,0.13
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,19,0.18
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,20,0.21
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,21,0.19
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,22,0.23
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,23,0.2
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,24,0.26
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,25,0.35
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,26,0.34
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,27,0.32
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,28,0.36
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,29,0.46
+2023-09-04,Spanish (Mexican),produces,BEE,abeja,30,0.33
+2023-09-04,Turkish,produces,BEE,Arı,8,0
+2023-09-04,Turkish,produces,BEE,Arı,9,0
+2023-09-04,Turkish,produces,BEE,Arı,10,0.01
+2023-09-04,Turkish,produces,BEE,Arı,11,0
+2023-09-04,Turkish,produces,BEE,Arı,12,0
+2023-09-04,Turkish,produces,BEE,Arı,13,0.02
+2023-09-04,Turkish,produces,BEE,Arı,14,0.03
+2023-09-04,Turkish,produces,BEE,Arı,15,0.05
+2023-09-04,Turkish,produces,BEE,Arı,16,0.1
+2023-09-04,Turkish,produces,BEE,Arı,17,0.16
+2023-09-04,Turkish,produces,BEE,Arı,18,0.16
+2023-09-04,Turkish,produces,BEE,Arı,19,0.17
+2023-09-04,Turkish,produces,BEE,Arı,20,0.24
+2023-09-04,Turkish,produces,BEE,Arı,21,0.31
+2023-09-04,Turkish,produces,BEE,Arı,22,0.33
+2023-09-04,Turkish,produces,BEE,Arı,23,0.4
+2023-09-04,Turkish,produces,BEE,Arı,24,0.4
+2023-09-04,Turkish,produces,BEE,Arı,25,0.47
+2023-09-04,Turkish,produces,BEE,Arı,26,0.5
+2023-09-04,Turkish,produces,BEE,Arı,27,0.52
+2023-09-04,Turkish,produces,BEE,Arı,28,0.64
+2023-09-04,Turkish,produces,BEE,Arı,29,0.71
+2023-09-04,Turkish,produces,BEE,Arı,30,0.72
+2023-09-04,Turkish,produces,BEE,Arı,31,0.68
+2023-09-04,Turkish,produces,BEE,Arı,32,0.75
+2023-09-04,Turkish,produces,BEE,Arı,33,0.82
+2023-09-04,Turkish,produces,BEE,Arı,34,0.78
+2023-09-04,Turkish,produces,BEE,Arı,35,0.83
+2023-09-04,Turkish,produces,BEE,Arı,36,0.91
+2023-09-04,English (British),produces,BEE,bee,12,0
+2023-09-04,English (British),produces,BEE,bee,13,0
+2023-09-04,English (British),produces,BEE,bee,14,0.06
+2023-09-04,English (British),produces,BEE,bee,15,0.05
+2023-09-04,English (British),produces,BEE,bee,16,0.17
+2023-09-04,English (British),produces,BEE,bee,17,0.21
+2023-09-04,English (British),produces,BEE,bee,18,0.25
+2023-09-04,English (British),produces,BEE,bee,19,0.39
+2023-09-04,English (British),produces,BEE,bee,20,0.54
+2023-09-04,English (British),produces,BEE,bee,21,0.56
+2023-09-04,English (British),produces,BEE,bee,22,0.71
+2023-09-04,English (British),produces,BEE,bee,23,0.72
+2023-09-04,English (British),produces,BEE,bee,24,0.78
+2023-09-04,English (British),produces,BEE,bee,25,0.78
+2023-09-04,Czech,produces,BEE,včela,16,0
+2023-09-04,Czech,produces,BEE,včela,17,0.03
+2023-09-04,Czech,produces,BEE,včela,18,0.02
+2023-09-04,Czech,produces,BEE,včela,19,0.04
+2023-09-04,Czech,produces,BEE,včela,20,0.15
+2023-09-04,Czech,produces,BEE,včela,21,0.15
+2023-09-04,Czech,produces,BEE,včela,22,0.22
+2023-09-04,Czech,produces,BEE,včela,23,0.35
+2023-09-04,Czech,produces,BEE,včela,24,0.23
+2023-09-04,Czech,produces,BEE,včela,25,0.4
+2023-09-04,Czech,produces,BEE,včela,26,0.55
+2023-09-04,Czech,produces,BEE,včela,27,0.49
+2023-09-04,Czech,produces,BEE,včela,28,0.69
+2023-09-04,Czech,produces,BEE,včela,29,0.54
+2023-09-04,Czech,produces,BEE,včela,30,0.7
+2023-09-04,English (Australian),produces,BEE,bee,12,0
+2023-09-04,English (Australian),produces,BEE,bee,13,0.02
+2023-09-04,English (Australian),produces,BEE,bee,14,0.05
+2023-09-04,English (Australian),produces,BEE,bee,15,0.07
+2023-09-04,English (Australian),produces,BEE,bee,16,0.23
+2023-09-04,English (Australian),produces,BEE,bee,17,0.2
+2023-09-04,English (Australian),produces,BEE,bee,18,0.3
+2023-09-04,English (Australian),produces,BEE,bee,19,0.39
+2023-09-04,English (Australian),produces,BEE,bee,20,0.49
+2023-09-04,English (Australian),produces,BEE,bee,21,0.46
+2023-09-04,English (Australian),produces,BEE,bee,22,0.7
+2023-09-04,English (Australian),produces,BEE,bee,23,0.66
+2023-09-04,English (Australian),produces,BEE,bee,24,0.68
+2023-09-04,English (Australian),produces,BEE,bee,25,0.75
+2023-09-04,English (Australian),produces,BEE,bee,26,0.74
+2023-09-04,English (Australian),produces,BEE,bee,27,0.88
+2023-09-04,English (Australian),produces,BEE,bee,28,0.88
+2023-09-04,English (Australian),produces,BEE,bee,29,0.85
+2023-09-04,English (Australian),produces,BEE,bee,30,0.94
+2023-09-04,Latvian,produces,BEE,bite,8,0
+2023-09-04,Latvian,produces,BEE,bite,9,0
+2023-09-04,Latvian,produces,BEE,bite,10,0
+2023-09-04,Latvian,produces,BEE,bite,11,0
+2023-09-04,Latvian,produces,BEE,bite,12,0
+2023-09-04,Latvian,produces,BEE,bite,13,0
+2023-09-04,Latvian,produces,BEE,bite,14,0.04
+2023-09-04,Latvian,produces,BEE,bite,15,0.03
+2023-09-04,Latvian,produces,BEE,bite,16,0.06
+2023-09-04,Latvian,produces,BEE,bite,17,0.04
+2023-09-04,Latvian,produces,BEE,bite,18,0.19
+2023-09-04,Latvian,produces,BEE,bite,19,0.21
+2023-09-04,Latvian,produces,BEE,bite,20,0.26
+2023-09-04,Latvian,produces,BEE,bite,21,0.38
+2023-09-04,Latvian,produces,BEE,bite,22,0.47
+2023-09-04,Latvian,produces,BEE,bite,23,0.36
+2023-09-04,Latvian,produces,BEE,bite,24,0.67
+2023-09-04,Latvian,produces,BEE,bite,25,0.66
+2023-09-04,Latvian,produces,BEE,bite,26,0.68
+2023-09-04,Latvian,produces,BEE,bite,27,0.67
+2023-09-04,Latvian,produces,BEE,bite,28,0.57
+2023-09-04,Latvian,produces,BEE,bite,29,0.83
+2023-09-04,Latvian,produces,BEE,bite,30,0.73
+2023-09-04,Latvian,produces,BEE,bite,31,0.89
+2023-09-04,Latvian,produces,BEE,bite,32,0.8
+2023-09-04,Latvian,produces,BEE,bite,33,0.94
+2023-09-04,Latvian,produces,BEE,bite,34,0.82
+2023-09-04,Latvian,produces,BEE,bite,35,0.76
+2023-09-04,Latvian,produces,BEE,bite,36,0.82
+2023-09-04,Korean,produces,BEE,벌,8,0
+2023-09-04,Korean,produces,BEE,벌,9,0
+2023-09-04,Korean,produces,BEE,벌,10,0
+2023-09-04,Korean,produces,BEE,벌,11,0
+2023-09-04,Korean,produces,BEE,벌,12,0
+2023-09-04,Korean,produces,BEE,벌,13,0
+2023-09-04,Korean,produces,BEE,벌,14,0.02
+2023-09-04,Korean,produces,BEE,벌,15,0
+2023-09-04,Korean,produces,BEE,벌,16,0.05
+2023-09-04,Korean,produces,BEE,벌,17,0.06
+2023-09-04,Korean,produces,BEE,벌,18,0.08
+2023-09-04,Korean,produces,BEE,벌,19,0.08
+2023-09-04,Korean,produces,BEE,벌,20,0.1
+2023-09-04,Korean,produces,BEE,벌,21,0.14
+2023-09-04,Korean,produces,BEE,벌,22,0.24
+2023-09-04,Korean,produces,BEE,벌,23,0.23
+2023-09-04,Korean,produces,BEE,벌,24,0.33
+2023-09-04,Korean,produces,BEE,벌,25,0.48
+2023-09-04,Korean,produces,BEE,벌,26,0.49
+2023-09-04,Korean,produces,BEE,벌,27,0.56
+2023-09-04,Korean,produces,BEE,벌,28,0.54
+2023-09-04,Korean,produces,BEE,벌,29,0.65
+2023-09-04,Korean,produces,BEE,벌,30,0.6
+2023-09-04,Korean,produces,BEE,벌,31,0.63
+2023-09-04,Korean,produces,BEE,벌,32,0.57
+2023-09-04,Korean,produces,BEE,벌,33,0.68
+2023-09-04,Korean,produces,BEE,벌,34,0.72
+2023-09-04,Korean,produces,BEE,벌,35,0.64
+2023-09-04,Korean,produces,BEE,벌,36,0.82
+2023-09-04,French (French),produces,BEE,abeille,8,0.02
+2023-09-04,French (French),produces,BEE,abeille,9,0
+2023-09-04,French (French),produces,BEE,abeille,11,0
+2023-09-04,French (French),produces,BEE,abeille,12,0
+2023-09-04,French (French),produces,BEE,abeille,13,0.01
+2023-09-04,French (French),produces,BEE,abeille,14,0
+2023-09-04,French (French),produces,BEE,abeille,15,0
+2023-09-04,French (French),produces,BEE,abeille,16,0.03
+2023-09-04,French (French),produces,BEE,abeille,17,0
+2023-09-04,French (French),produces,BEE,abeille,18,0
+2023-09-04,French (French),produces,BEE,abeille,19,0.18
+2023-09-04,French (French),produces,BEE,abeille,20,0.07
+2023-09-04,French (French),produces,BEE,abeille,21,0.16
+2023-09-04,French (French),produces,BEE,abeille,22,0.2
+2023-09-04,French (French),produces,BEE,abeille,23,0.27
+2023-09-04,French (French),produces,BEE,abeille,24,0.33
+2023-09-04,French (French),produces,BEE,abeille,25,0.38
+2023-09-04,French (French),produces,BEE,abeille,26,0.38
+2023-09-04,French (French),produces,BEE,abeille,27,0.27
+2023-09-04,French (French),produces,BEE,abeille,28,0.5
+2023-09-04,French (French),produces,BEE,abeille,29,0.69
+2023-09-04,French (French),produces,BEE,abeille,30,0.45
+2023-09-04,Spanish (European),produces,BEE,abeja,16,0.08
+2023-09-04,Spanish (European),produces,BEE,abeja,17,0
+2023-09-04,Spanish (European),produces,BEE,abeja,18,0.04
+2023-09-04,Spanish (European),produces,BEE,abeja,19,0.07
+2023-09-04,Spanish (European),produces,BEE,abeja,20,0.11
+2023-09-04,Spanish (European),produces,BEE,abeja,21,0.07
+2023-09-04,Spanish (European),produces,BEE,abeja,22,0.08
+2023-09-04,Spanish (European),produces,BEE,abeja,23,0.2
+2023-09-04,Spanish (European),produces,BEE,abeja,24,0.18
+2023-09-04,Spanish (European),produces,BEE,abeja,25,0.29
+2023-09-04,Spanish (European),produces,BEE,abeja,26,0.24
+2023-09-04,Spanish (European),produces,BEE,abeja,27,0.35
+2023-09-04,Spanish (European),produces,BEE,abeja,28,0.39
+2023-09-04,Spanish (European),produces,BEE,abeja,29,0.49
+2023-09-04,Spanish (European),produces,BEE,abeja,30,0.51
+2023-09-04,Portuguese (European),produces,BEE,Abelha,8,0
+2023-09-04,Portuguese (European),produces,BEE,Abelha,9,0
+2023-09-04,Portuguese (European),produces,BEE,Abelha,10,0.01
+2023-09-04,Portuguese (European),produces,BEE,Abelha,11,0
+2023-09-04,Portuguese (European),produces,BEE,Abelha,12,0
+2023-09-04,Portuguese (European),produces,BEE,Abelha,13,0
+2023-09-04,Portuguese (European),produces,BEE,Abelha,14,0
+2023-09-04,Portuguese (European),produces,BEE,Abelha,15,0.01
+2023-09-04,Portuguese (European),produces,BEE,Abelha,16,0.01
+2023-09-04,Portuguese (European),produces,BEE,Abelha,17,0.03
+2023-09-04,Portuguese (European),produces,BEE,Abelha,18,0.04
+2023-09-04,Portuguese (European),produces,BEE,Abelha,19,0.08
+2023-09-04,Portuguese (European),produces,BEE,Abelha,20,0.12
+2023-09-04,Portuguese (European),produces,BEE,Abelha,21,0.15
+2023-09-04,Portuguese (European),produces,BEE,Abelha,22,0.21
+2023-09-04,Portuguese (European),produces,BEE,Abelha,23,0.23
+2023-09-04,Portuguese (European),produces,BEE,Abelha,24,0.27
+2023-09-04,Portuguese (European),produces,BEE,Abelha,25,0.38
+2023-09-04,Portuguese (European),produces,BEE,Abelha,26,0.39
+2023-09-04,Portuguese (European),produces,BEE,Abelha,27,0.5
+2023-09-04,Portuguese (European),produces,BEE,Abelha,28,0.43
+2023-09-04,Portuguese (European),produces,BEE,Abelha,29,0.52
+2023-09-04,Portuguese (European),produces,BEE,Abelha,30,0.57
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),8,0
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),9,0
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),10,0
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),11,0
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),12,0.01
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),13,0.01
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),14,0.02
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),15,0.04
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),16,0.04
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),17,0.09
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),18,0.15
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),19,0.17
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),20,0.18
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),21,0.19
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),22,0.29
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),23,0.35
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),24,0.41
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),25,0.41
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),26,0.45
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),27,0.5
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),28,0.61
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),29,0.62
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),30,0.59
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),31,0.7
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),32,0.7
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),33,0.82
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),34,0.69
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),35,0.8
+2023-09-04,Mandarin (Taiwanese),produces,BEE,蜜蜂(ㄨㄥㄨㄥ),36,0.79
+2023-09-04,Dutch,produces,BEE,bij(dier),8,0
+2023-09-04,Dutch,produces,BEE,bij(dier),9,0
+2023-09-04,Dutch,produces,BEE,bij(dier),10,0.01
+2023-09-04,Dutch,produces,BEE,bij(dier),11,0
+2023-09-04,Dutch,produces,BEE,bij(dier),12,0
+2023-09-04,Dutch,produces,BEE,bij(dier),13,0.06
+2023-09-04,Dutch,produces,BEE,bij(dier),14,0.01
+2023-09-04,Dutch,produces,BEE,bij(dier),15,0.08
+2023-09-04,Dutch,produces,BEE,bij(dier),16,0.07
+2023-09-04,Dutch,produces,BEE,bij(dier),17,0.1
+2023-09-04,Dutch,produces,BEE,bij(dier),18,0.13
+2023-09-04,Dutch,produces,BEE,bij(dier),19,0.43
+2023-09-04,Dutch,produces,BEE,bij(dier),20,0.71
+2023-09-04,Dutch,produces,BEE,bij(dier),21,0.57
+2023-09-04,Dutch,produces,BEE,bij(dier),22,0.57
+2023-09-04,Dutch,produces,BEE,bij(dier),23,0.59
+2023-09-04,Dutch,produces,BEE,bij(dier),24,0.68
+2023-09-04,Dutch,produces,BEE,bij(dier),25,1
+2023-09-04,Dutch,produces,BEE,bij(dier),26,0.67
+2023-09-04,Dutch,produces,BEE,bij(dier),27,1
+2023-09-04,Dutch,produces,BEE,bij(dier),28,1
+2023-09-04,Dutch,produces,BEE,bij(dier),29,0.87
+2023-09-04,Dutch,produces,BEE,bij(dier),30,0.88
+2023-09-04,Dutch,produces,BEE,bij(dier),31,1
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,16,0
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,17,0.12
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,18,0.11
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,19,0.05
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,20,0.04
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,21,0.07
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,22,0.16
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,23,0.2
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,24,0.17
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,25,0.42
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,26,0.13
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,27,0.27
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,28,0.38
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,29,0.32
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,30,0.55
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,31,0
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,32,1
+2023-09-04,Spanish (Argentinian),produces,BEE,abeja,33,0.5
+2023-09-04,Persian,produces,BEE,زنبور,8,0
+2023-09-04,Persian,produces,BEE,زنبور,9,0
+2023-09-04,Persian,produces,BEE,زنبور,10,0
+2023-09-04,Persian,produces,BEE,زنبور,11,0
+2023-09-04,Persian,produces,BEE,زنبور,12,0
+2023-09-04,Persian,produces,BEE,زنبور,13,0
+2023-09-04,Persian,produces,BEE,زنبور,14,0.13
+2023-09-04,Persian,produces,BEE,زنبور,15,0.17
+2023-09-04,Persian,produces,BEE,زنبور,16,0
+2023-09-04,Persian,produces,BEE,زنبور,17,0
+2023-09-04,Persian,produces,BEE,زنبور,18,0
+2023-09-04,Persian,produces,BEE,زنبور,20,0.33
+2023-09-04,Persian,produces,BEE,زنبور,21,0
+2023-09-04,Persian,produces,BEE,زنبور,22,0
+2023-09-04,Persian,produces,BEE,زنبور,23,0.67
+2023-09-04,Persian,produces,BEE,زنبور,24,0.5
+2023-09-04,Persian,produces,BEE,زنبور,25,0.33
+2023-09-04,Persian,produces,BEE,زنبور,26,0.67
+2023-09-04,Persian,produces,BEE,زنبور,27,0.4
+2023-09-04,Persian,produces,BEE,زنبور,28,0.56
+2023-09-04,Persian,produces,BEE,زنبور,29,1
+2023-09-04,Persian,produces,BEE,زنبور,30,1

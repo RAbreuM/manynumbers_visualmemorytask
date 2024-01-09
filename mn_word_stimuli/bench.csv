@@ -1,0 +1,296 @@
+downloaded,language,measure,uni_lemma,words,age,prop
+2023-09-04,Cantonese,produces,BELT,皮帶,16,0
+2023-09-04,Cantonese,produces,BELT,皮帶,17,0.02
+2023-09-04,Cantonese,produces,BELT,皮帶,18,0.03
+2023-09-04,Cantonese,produces,BELT,皮帶,19,0.02
+2023-09-04,Cantonese,produces,BELT,皮帶,20,0.03
+2023-09-04,Cantonese,produces,BELT,皮帶,21,0.03
+2023-09-04,Cantonese,produces,BELT,皮帶,22,0.1
+2023-09-04,Cantonese,produces,BELT,皮帶,23,0.14
+2023-09-04,Cantonese,produces,BELT,皮帶,24,0.12
+2023-09-04,Cantonese,produces,BELT,皮帶,25,0.28
+2023-09-04,Cantonese,produces,BELT,皮帶,26,0.19
+2023-09-04,Cantonese,produces,BELT,皮帶,27,0.34
+2023-09-04,Cantonese,produces,BELT,皮帶,28,0.44
+2023-09-04,Cantonese,produces,BELT,皮帶,29,0.44
+2023-09-04,Cantonese,produces,BELT,皮帶,30,0.34
+2023-09-04,Croatian,produces,BELT,pojas,16,0
+2023-09-04,Croatian,produces,BELT,pojas,17,0
+2023-09-04,Croatian,produces,BELT,pojas,18,0.05
+2023-09-04,Croatian,produces,BELT,pojas,19,0.05
+2023-09-04,Croatian,produces,BELT,pojas,20,0.04
+2023-09-04,Croatian,produces,BELT,pojas,21,0.07
+2023-09-04,Croatian,produces,BELT,pojas,22,0
+2023-09-04,Croatian,produces,BELT,pojas,23,0.04
+2023-09-04,Croatian,produces,BELT,pojas,24,0.07
+2023-09-04,Croatian,produces,BELT,pojas,25,0.13
+2023-09-04,Croatian,produces,BELT,pojas,26,0.21
+2023-09-04,Croatian,produces,BELT,pojas,27,0.24
+2023-09-04,Croatian,produces,BELT,pojas,28,0.33
+2023-09-04,Croatian,produces,BELT,pojas,29,0.32
+2023-09-04,Croatian,produces,BELT,pojas,30,0.39
+2023-09-04,Danish,produces,BELT,bælte,16,0
+2023-09-04,Danish,produces,BELT,bælte,17,0.01
+2023-09-04,Danish,produces,BELT,bælte,18,0.01
+2023-09-04,Danish,produces,BELT,bælte,19,0.02
+2023-09-04,Danish,produces,BELT,bælte,20,0.07
+2023-09-04,Danish,produces,BELT,bælte,21,0.06
+2023-09-04,Danish,produces,BELT,bælte,22,0.06
+2023-09-04,Danish,produces,BELT,bælte,23,0.12
+2023-09-04,Danish,produces,BELT,bælte,24,0.17
+2023-09-04,Danish,produces,BELT,bælte,25,0.19
+2023-09-04,Danish,produces,BELT,bælte,26,0.21
+2023-09-04,Danish,produces,BELT,bælte,27,0.28
+2023-09-04,Danish,produces,BELT,bælte,28,0.27
+2023-09-04,Danish,produces,BELT,bælte,29,0.4
+2023-09-04,Danish,produces,BELT,bælte,30,0.39
+2023-09-04,Danish,produces,BELT,bælte,31,0.43
+2023-09-04,Danish,produces,BELT,bælte,32,0.55
+2023-09-04,Danish,produces,BELT,bælte,33,0.56
+2023-09-04,Danish,produces,BELT,bælte,34,0.61
+2023-09-04,Danish,produces,BELT,bælte,35,0.72
+2023-09-04,Danish,produces,BELT,bælte,36,0.67
+2023-09-04,English (American),produces,BELT,belt,16,0.02
+2023-09-04,English (American),produces,BELT,belt,17,0.05
+2023-09-04,English (American),produces,BELT,belt,18,0.08
+2023-09-04,English (American),produces,BELT,belt,19,0.14
+2023-09-04,English (American),produces,BELT,belt,20,0.15
+2023-09-04,English (American),produces,BELT,belt,21,0.17
+2023-09-04,English (American),produces,BELT,belt,22,0.23
+2023-09-04,English (American),produces,BELT,belt,23,0.24
+2023-09-04,English (American),produces,BELT,belt,24,0.28
+2023-09-04,English (American),produces,BELT,belt,25,0.37
+2023-09-04,English (American),produces,BELT,belt,26,0.37
+2023-09-04,English (American),produces,BELT,belt,27,0.42
+2023-09-04,English (American),produces,BELT,belt,28,0.64
+2023-09-04,English (American),produces,BELT,belt,29,0.49
+2023-09-04,English (American),produces,BELT,belt,30,0.5
+2023-09-04,French (Quebecois),produces,BELT,ceinture,16,0
+2023-09-04,French (Quebecois),produces,BELT,ceinture,17,0.06
+2023-09-04,French (Quebecois),produces,BELT,ceinture,18,0.04
+2023-09-04,French (Quebecois),produces,BELT,ceinture,19,0.09
+2023-09-04,French (Quebecois),produces,BELT,ceinture,20,0.06
+2023-09-04,French (Quebecois),produces,BELT,ceinture,21,0.14
+2023-09-04,French (Quebecois),produces,BELT,ceinture,22,0.15
+2023-09-04,French (Quebecois),produces,BELT,ceinture,23,0.21
+2023-09-04,French (Quebecois),produces,BELT,ceinture,24,0.13
+2023-09-04,French (Quebecois),produces,BELT,ceinture,25,0.36
+2023-09-04,French (Quebecois),produces,BELT,ceinture,26,0.34
+2023-09-04,French (Quebecois),produces,BELT,ceinture,27,0.37
+2023-09-04,French (Quebecois),produces,BELT,ceinture,28,0.46
+2023-09-04,French (Quebecois),produces,BELT,ceinture,29,0.66
+2023-09-04,French (Quebecois),produces,BELT,ceinture,30,0.57
+2023-09-04,Hebrew,produces,BELT,חגורה,25,0.35
+2023-09-04,Hebrew,produces,BELT,חגורה,26,0.44
+2023-09-04,Hebrew,produces,BELT,חגורה,27,0.46
+2023-09-04,Hebrew,produces,BELT,חגורה,28,0.61
+2023-09-04,Hebrew,produces,BELT,חגורה,29,0.55
+2023-09-04,Hebrew,produces,BELT,חגורה,30,0.61
+2023-09-04,Hebrew,produces,BELT,חגורה,31,0.69
+2023-09-04,Hebrew,produces,BELT,חגורה,32,0.72
+2023-09-04,Hebrew,produces,BELT,חגורה,33,0.62
+2023-09-04,Hebrew,produces,BELT,חגורה,34,0.67
+2023-09-04,Hebrew,produces,BELT,חגורה,35,0.56
+2023-09-04,Hebrew,produces,BELT,חגורה,36,0.4
+2023-09-04,Italian,produces,BELT,cinta,18,0.03
+2023-09-04,Italian,produces,BELT,cinta,19,0.05
+2023-09-04,Italian,produces,BELT,cinta,20,0.03
+2023-09-04,Italian,produces,BELT,cinta,21,0.07
+2023-09-04,Italian,produces,BELT,cinta,22,0.18
+2023-09-04,Italian,produces,BELT,cinta,23,0.21
+2023-09-04,Italian,produces,BELT,cinta,24,0.32
+2023-09-04,Italian,produces,BELT,cinta,25,0.21
+2023-09-04,Italian,produces,BELT,cinta,26,0.51
+2023-09-04,Italian,produces,BELT,cinta,27,0.37
+2023-09-04,Italian,produces,BELT,cinta,28,0.5
+2023-09-04,Italian,produces,BELT,cinta,29,0.51
+2023-09-04,Italian,produces,BELT,cinta,30,0.61
+2023-09-04,Italian,produces,BELT,cinta,31,0.68
+2023-09-04,Italian,produces,BELT,cinta,32,0.7
+2023-09-04,Italian,produces,BELT,cinta,33,0.81
+2023-09-04,Italian,produces,BELT,cinta,34,0.79
+2023-09-04,Italian,produces,BELT,cinta,35,0.8
+2023-09-04,Italian,produces,BELT,cinta,36,0.67
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,16,0.01
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,17,0.04
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,18,0.07
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,19,0.13
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,20,0.15
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,21,0.25
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,22,0.34
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,23,0.5
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,24,0.4
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,25,0.55
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,26,0.5
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,27,0.58
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,28,0.6
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,29,0.73
+2023-09-04,Mandarin (Beijing),produces,BELT,皮带,30,0.8
+2023-09-04,Norwegian,produces,BELT,belte,16,0.01
+2023-09-04,Norwegian,produces,BELT,belte,17,0
+2023-09-04,Norwegian,produces,BELT,belte,18,0.05
+2023-09-04,Norwegian,produces,BELT,belte,19,0.05
+2023-09-04,Norwegian,produces,BELT,belte,20,0.08
+2023-09-04,Norwegian,produces,BELT,belte,21,0.11
+2023-09-04,Norwegian,produces,BELT,belte,22,0.15
+2023-09-04,Norwegian,produces,BELT,belte,23,0.21
+2023-09-04,Norwegian,produces,BELT,belte,24,0.28
+2023-09-04,Norwegian,produces,BELT,belte,25,0.33
+2023-09-04,Norwegian,produces,BELT,belte,26,0.42
+2023-09-04,Norwegian,produces,BELT,belte,27,0.49
+2023-09-04,Norwegian,produces,BELT,belte,28,0.49
+2023-09-04,Norwegian,produces,BELT,belte,29,0.52
+2023-09-04,Norwegian,produces,BELT,belte,30,0.61
+2023-09-04,Norwegian,produces,BELT,belte,31,0.62
+2023-09-04,Norwegian,produces,BELT,belte,32,0.65
+2023-09-04,Norwegian,produces,BELT,belte,33,0.73
+2023-09-04,Norwegian,produces,BELT,belte,34,0.71
+2023-09-04,Norwegian,produces,BELT,belte,35,0.79
+2023-09-04,Norwegian,produces,BELT,belte,36,0.81
+2023-09-04,Turkish,produces,BELT,Kemer,16,0.02
+2023-09-04,Turkish,produces,BELT,Kemer,17,0.03
+2023-09-04,Turkish,produces,BELT,Kemer,18,0.03
+2023-09-04,Turkish,produces,BELT,Kemer,19,0.08
+2023-09-04,Turkish,produces,BELT,Kemer,20,0.1
+2023-09-04,Turkish,produces,BELT,Kemer,21,0.09
+2023-09-04,Turkish,produces,BELT,Kemer,22,0.14
+2023-09-04,Turkish,produces,BELT,Kemer,23,0.15
+2023-09-04,Turkish,produces,BELT,Kemer,24,0.26
+2023-09-04,Turkish,produces,BELT,Kemer,25,0.37
+2023-09-04,Turkish,produces,BELT,Kemer,26,0.34
+2023-09-04,Turkish,produces,BELT,Kemer,27,0.41
+2023-09-04,Turkish,produces,BELT,Kemer,28,0.47
+2023-09-04,Turkish,produces,BELT,Kemer,29,0.55
+2023-09-04,Turkish,produces,BELT,Kemer,30,0.64
+2023-09-04,Turkish,produces,BELT,Kemer,31,0.56
+2023-09-04,Turkish,produces,BELT,Kemer,32,0.67
+2023-09-04,Turkish,produces,BELT,Kemer,33,0.73
+2023-09-04,Turkish,produces,BELT,Kemer,34,0.7
+2023-09-04,Turkish,produces,BELT,Kemer,35,0.74
+2023-09-04,Turkish,produces,BELT,Kemer,36,0.87
+2023-09-04,English (Australian),produces,BELT,belt,12,0
+2023-09-04,English (Australian),produces,BELT,belt,13,0
+2023-09-04,English (Australian),produces,BELT,belt,14,0.02
+2023-09-04,English (Australian),produces,BELT,belt,15,0.01
+2023-09-04,English (Australian),produces,BELT,belt,16,0.02
+2023-09-04,English (Australian),produces,BELT,belt,17,0.05
+2023-09-04,English (Australian),produces,BELT,belt,18,0.01
+2023-09-04,English (Australian),produces,BELT,belt,19,0.04
+2023-09-04,English (Australian),produces,BELT,belt,20,0.13
+2023-09-04,English (Australian),produces,BELT,belt,21,0.16
+2023-09-04,English (Australian),produces,BELT,belt,22,0.25
+2023-09-04,English (Australian),produces,BELT,belt,23,0.27
+2023-09-04,English (Australian),produces,BELT,belt,24,0.3
+2023-09-04,English (Australian),produces,BELT,belt,25,0.32
+2023-09-04,English (Australian),produces,BELT,belt,26,0.4
+2023-09-04,English (Australian),produces,BELT,belt,27,0.56
+2023-09-04,English (Australian),produces,BELT,belt,28,0.39
+2023-09-04,English (Australian),produces,BELT,belt,29,0.62
+2023-09-04,English (Australian),produces,BELT,belt,30,0.53
+2023-09-04,Korean,produces,BELT,허리띠,18,0
+2023-09-04,Korean,produces,BELT,허리띠,19,0.02
+2023-09-04,Korean,produces,BELT,허리띠,20,0.03
+2023-09-04,Korean,produces,BELT,허리띠,21,0.02
+2023-09-04,Korean,produces,BELT,허리띠,22,0.1
+2023-09-04,Korean,produces,BELT,허리띠,23,0.03
+2023-09-04,Korean,produces,BELT,허리띠,24,0.19
+2023-09-04,Korean,produces,BELT,허리띠,25,0.18
+2023-09-04,Korean,produces,BELT,허리띠,26,0.2
+2023-09-04,Korean,produces,BELT,허리띠,27,0.22
+2023-09-04,Korean,produces,BELT,허리띠,28,0.31
+2023-09-04,Korean,produces,BELT,허리띠,29,0.31
+2023-09-04,Korean,produces,BELT,허리띠,30,0.29
+2023-09-04,Korean,produces,BELT,허리띠,31,0.44
+2023-09-04,Korean,produces,BELT,허리띠,32,0.42
+2023-09-04,Korean,produces,BELT,허리띠,33,0.43
+2023-09-04,Korean,produces,BELT,허리띠,34,0.5
+2023-09-04,Korean,produces,BELT,허리띠,35,0.49
+2023-09-04,Korean,produces,BELT,허리띠,36,0.49
+2023-09-04,French (French),produces,BELT,ceinture,8,0
+2023-09-04,French (French),produces,BELT,ceinture,9,0
+2023-09-04,French (French),produces,BELT,ceinture,11,0
+2023-09-04,French (French),produces,BELT,ceinture,12,0
+2023-09-04,French (French),produces,BELT,ceinture,13,0
+2023-09-04,French (French),produces,BELT,ceinture,14,0
+2023-09-04,French (French),produces,BELT,ceinture,15,0
+2023-09-04,French (French),produces,BELT,ceinture,16,0.03
+2023-09-04,French (French),produces,BELT,ceinture,17,0
+2023-09-04,French (French),produces,BELT,ceinture,18,0
+2023-09-04,French (French),produces,BELT,ceinture,19,0
+2023-09-04,French (French),produces,BELT,ceinture,20,0.05
+2023-09-04,French (French),produces,BELT,ceinture,21,0.05
+2023-09-04,French (French),produces,BELT,ceinture,22,0.12
+2023-09-04,French (French),produces,BELT,ceinture,23,0.25
+2023-09-04,French (French),produces,BELT,ceinture,24,0.2
+2023-09-04,French (French),produces,BELT,ceinture,25,0.33
+2023-09-04,French (French),produces,BELT,ceinture,26,0.12
+2023-09-04,French (French),produces,BELT,ceinture,27,0.15
+2023-09-04,French (French),produces,BELT,ceinture,28,0.32
+2023-09-04,French (French),produces,BELT,ceinture,29,0.46
+2023-09-04,French (French),produces,BELT,ceinture,30,0.38
+2023-09-04,Spanish (European),produces,BELT,cinturón,16,0.03
+2023-09-04,Spanish (European),produces,BELT,cinturón,17,0
+2023-09-04,Spanish (European),produces,BELT,cinturón,18,0.04
+2023-09-04,Spanish (European),produces,BELT,cinturón,19,0.04
+2023-09-04,Spanish (European),produces,BELT,cinturón,20,0.03
+2023-09-04,Spanish (European),produces,BELT,cinturón,21,0.07
+2023-09-04,Spanish (European),produces,BELT,cinturón,22,0.08
+2023-09-04,Spanish (European),produces,BELT,cinturón,23,0.07
+2023-09-04,Spanish (European),produces,BELT,cinturón,24,0.2
+2023-09-04,Spanish (European),produces,BELT,cinturón,25,0.11
+2023-09-04,Spanish (European),produces,BELT,cinturón,26,0.35
+2023-09-04,Spanish (European),produces,BELT,cinturón,27,0.41
+2023-09-04,Spanish (European),produces,BELT,cinturón,28,0.39
+2023-09-04,Spanish (European),produces,BELT,cinturón,29,0.51
+2023-09-04,Spanish (European),produces,BELT,cinturón,30,0.51
+2023-09-04,Portuguese (European),produces,BELT,Cinto,16,0
+2023-09-04,Portuguese (European),produces,BELT,Cinto,17,0.02
+2023-09-04,Portuguese (European),produces,BELT,Cinto,18,0.03
+2023-09-04,Portuguese (European),produces,BELT,Cinto,19,0.02
+2023-09-04,Portuguese (European),produces,BELT,Cinto,20,0.06
+2023-09-04,Portuguese (European),produces,BELT,Cinto,21,0.08
+2023-09-04,Portuguese (European),produces,BELT,Cinto,22,0.08
+2023-09-04,Portuguese (European),produces,BELT,Cinto,23,0.12
+2023-09-04,Portuguese (European),produces,BELT,Cinto,24,0.2
+2023-09-04,Portuguese (European),produces,BELT,Cinto,25,0.28
+2023-09-04,Portuguese (European),produces,BELT,Cinto,26,0.26
+2023-09-04,Portuguese (European),produces,BELT,Cinto,27,0.35
+2023-09-04,Portuguese (European),produces,BELT,Cinto,28,0.39
+2023-09-04,Portuguese (European),produces,BELT,Cinto,29,0.37
+2023-09-04,Portuguese (European),produces,BELT,Cinto,30,0.4
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,16,0
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,17,0.01
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,18,0
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,19,0.06
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,20,0.05
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,21,0.05
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,22,0.06
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,23,0.13
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,24,0.1
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,25,0.14
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,26,0.22
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,27,0.24
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,28,0.3
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,29,0.35
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,30,0.34
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,31,0.42
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,32,0.35
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,33,0.58
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,34,0.45
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,35,0.56
+2023-09-04,Mandarin (Taiwanese),produces,BELT,皮帶,36,0.58
+2023-09-04,Hungarian,produces,BELT,öv,16,0
+2023-09-04,Hungarian,produces,BELT,öv,17,0.06
+2023-09-04,Hungarian,produces,BELT,öv,18,0
+2023-09-04,Hungarian,produces,BELT,öv,19,0.08
+2023-09-04,Hungarian,produces,BELT,öv,20,0.17
+2023-09-04,Hungarian,produces,BELT,öv,21,0.22
+2023-09-04,Hungarian,produces,BELT,öv,22,0.19
+2023-09-04,Hungarian,produces,BELT,öv,23,0.17
+2023-09-04,Hungarian,produces,BELT,öv,24,0.32
+2023-09-04,Hungarian,produces,BELT,öv,25,0.37
+2023-09-04,Hungarian,produces,BELT,öv,26,0.43
+2023-09-04,Hungarian,produces,BELT,öv,27,0.35
+2023-09-04,Hungarian,produces,BELT,öv,28,0.43
+2023-09-04,Hungarian,produces,BELT,öv,29,0.58
+2023-09-04,Hungarian,produces,BELT,öv,30,0.44
